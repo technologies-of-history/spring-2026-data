@@ -50,6 +50,6 @@ with open('filename.csv', 'w', newline='', encoding='utf-8') as f:
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Successfully converted womentomen.json to womentomen.csv")
+print(f"Successfully converted json to csv")
 print(f"Total entries: {len(rows)}")
 print(f"Fields: {', '.join(fieldnames)}")
