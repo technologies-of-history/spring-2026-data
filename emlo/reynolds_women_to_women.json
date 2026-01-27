@@ -1,0 +1,3472 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Montagu, Mary Wortley",
+        37, "D'Alembert, Jean-Baptiste le Rond",
+        2, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0, "Arias Montano, Benito",
+        0],
+      "destination_sort": [
+        "Dover Street, London, Greater London, England",
+        14, "Madrid, Spain",
+        9, "Temple Bar, Westminster, London, England",
+        4, "Paris, Île-de-France, France",
+        1, "Venice, Veneto, Italy",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+        37, "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+        2, "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+        1, "http://localhost/person/46f5bc8c-6267-4bdc-8902-9070847a3817",
+        1, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0, "http://localhost/person/00086f8c-d6b0-4807-b6a0-e5c10137ae1d",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254",
+        14, "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035",
+        11, "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e",
+        6, "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3",
+        5, "http://localhost/person/32b8ac74-a9c5-449a-af02-06a284288d7c",
+        1, "http://localhost/person/3ff9731b-06aa-4743-a972-f444abbf7905",
+        1, "http://localhost/person/47c4be4b-fd41-4281-b37d-4242a4df8f8a",
+        1, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0, "http://localhost/person/001f0d96-5aac-4de4-a2ec-ec0c97824640",
+        0, "http://localhost/person/001fc99e-9ea5-4de6-aa02-fb04be137877",
+        0],
+      "origin_sort": [
+        "Avignon, Provence-Alpes-Côte d'Azur, France",
+        28, "Louvre, Paris, Île-de-France, France",
+        6, "Chambéry, Auvergne-Rhône-Alpes, France",
+        2, "Paris, Île-de-France, France",
+        2, "Lyon, Auvergne-Rhône-Alpes, France",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0],
+      "ox_started-ox_year": [
+        "1744",
+        12, "1742",
+        6, "1746",
+        5, "1743",
+        4, "1754",
+        4, "1745",
+        3, "1755",
+        2, "1741",
+        1, "1760",
+        1, "1773",
+        1]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_033998d8-6317-4e33-8288-15dde59aa12b": {
+
+    },
+    "uuid_11e8edd3-86c0-4919-a07a-f251362e1087": {
+
+    },
+    "uuid_17247baa-8f46-4f43-88d3-3bca1a82e17e": {
+
+    },
+    "uuid_1a2befb2-6947-4a59-a3ed-ed28288c9e1e": {
+
+    },
+    "uuid_1c8cc047-ce38-4d5d-8a1b-33f33b1f3149": {
+
+    },
+    "uuid_1d11413d-d17d-4ee6-b529-061827f235b0": {
+
+    },
+    "uuid_1fac6979-f18a-4f4a-bb9b-b6a82568ecea": {
+
+    },
+    "uuid_2046493c-42eb-49dd-bfb9-dfc09cbc32d9": {
+
+    },
+    "uuid_20531aca-dfdb-41f9-938e-63945500cb06": {
+
+    },
+    "uuid_2237f697-b5c1-4ba4-8147-ad788f6fe929": {
+
+    },
+    "uuid_24f674e3-15a4-4317-af47-5467b82af47a": {
+
+    },
+    "uuid_27949e8e-739e-4dc2-bf26-c40fb6a1edb4": {
+
+    },
+    "uuid_297aa430-40d8-4903-9ad5-efd91f74fb95": {
+
+    },
+    "uuid_2f22617a-c9fe-493c-b875-1b73d4064b4d": {
+
+    },
+    "uuid_2f3f82d9-89d3-486b-b7d3-4f8208cf8f3c": {
+
+    },
+    "uuid_2fad86e7-8e54-4ecf-b864-e4da0aabadd2": {
+
+    },
+    "uuid_320a3512-cffb-4178-a283-cb2f50794679": {
+
+    },
+    "uuid_3aa46a89-696a-444b-852e-bd8ad3d53ee8": {
+
+    },
+    "uuid_3eba2932-5f48-43b4-a09a-f9883c3be794": {
+
+    },
+    "uuid_3ee69d5a-d57c-4155-b563-6eac0ff1c3b2": {
+
+    },
+    "uuid_46e2ddab-2f5f-4a90-91ac-de846a1d4ebf": {
+
+    },
+    "uuid_56c5e6d4-954d-4159-9984-48ea7d060a98": {
+
+    },
+    "uuid_5b46cb0a-8611-4dc2-9bf6-7ca1523e4c7b": {
+
+    },
+    "uuid_5eae46df-a145-4792-88dc-945d80590dcd": {
+
+    },
+    "uuid_6a9b3e4e-b873-401a-b997-9d95d24ecadc": {
+
+    },
+    "uuid_703c7b23-9c3e-4a5d-942b-622700a9a891": {
+
+    },
+    "uuid_7c8e8c19-a842-4c20-93cd-f02f774beaff": {
+
+    },
+    "uuid_8483dd4c-ebd0-4dc0-bc6a-2ddea311ce6e": {
+
+    },
+    "uuid_929e409d-56b5-474a-945a-b67b266632dc": {
+
+    },
+    "uuid_95721af1-9448-424b-9614-8782fd8d0621": {
+
+    },
+    "uuid_9d896b9d-20b5-4042-9c55-b3b56e860b47": {
+
+    },
+    "uuid_9e925649-f705-4ef1-ae5f-d9a0b9fc412a": {
+
+    },
+    "uuid_9f593530-6651-488a-a113-a430c5040361": {
+
+    },
+    "uuid_af01aea7-4deb-4410-a522-8112fdf5e480": {
+
+    },
+    "uuid_b47a3bed-c9e8-46b8-a357-61252d965b3c": {
+
+    },
+    "uuid_d5df25a7-2efc-4964-a91a-be5d8899f61a": {
+
+    },
+    "uuid_d68624e1-e7c0-40d1-9ba5-d56be494151b": {
+
+    },
+    "uuid_dd2c6a53-db4c-493a-bb7b-0012d8f60c87": {
+
+    },
+    "uuid_e7a5f062-5a94-4aba-8703-f8ff143241da": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8546419519717376e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/6b65bca3-d7ec-4d8a-a00c-5cfe84f628d4"
+        ],
+        "dcterms_description": "3 Dec 1741: Montagu, Mary Wortley (Lady), 1689-1762 (Chambéry, Auvergne-Rhône-Alpes, France) to Fermor, Henrietta Louisa, 1698-1761",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991471",
+        "dcterms_identifier-editi_": "editi_991471",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9f593530-6651-488a-a113-a430c5040361",
+        "dcterms_identifier-uuid_": "uuid_9f593530-6651-488a-a113-a430c5040361",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/32d3d869-a816-4768-a10d-3e3537928c1d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_9f593530-6651-488a-a113-a430c5040361",
+        "locations": [
+          "http://localhost/location/7a2b1b52-a744-4042-9003-c58389228673"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/7a2b1b52-a744-4042-9003-c58389228673"
+        ],
+        "mail_origin-rdf_value": "Chambery",
+        "mail_recipient-person": [
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/32d3d869-a816-4768-a10d-3e3537928c1d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Chambéry, Auvergne-Rhône-Alpes, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/6b65bca3-d7ec-4d8a-a00c-5cfe84f628d4"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "December 3, N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:37Z",
+        "ox_internalModified": "2019-04-04T18:08:37Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1741,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e8ed9d46-2179-4d2b-992f-374ab1bde13f"
+        ],
+        "recipient_sort": "Fermor, Henrietta Louisa, 1698-1761",
+        "resources": [
+          "http://localhost/resource/e8ed9d46-2179-4d2b-992f-374ab1bde13f"
+        ],
+        "started_date_gregorian_sort": "1741-12-03T00:00:00Z",
+        "started_date_sort": "1741-12-03T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9f593530-6651-488a-a113-a430c5040361",
+        "uuid": "9f593530-6651-488a-a113-a430c5040361",
+        "uuid_related": [
+          "32d3d869-a816-4768-a10d-3e3537928c1d",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "2be4f9ff-fedd-4f58-8031-4c12054830f3",
+          "7a2b1b52-a744-4042-9003-c58389228673",
+          "6b65bca3-d7ec-4d8a-a00c-5cfe84f628d4",
+          "e8ed9d46-2179-4d2b-992f-374ab1bde13f"
+        ]
+      },
+      {
+        "_version_": 1.8546419519738348e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/013dc844-b94b-4330-9108-4b6932f1036f"
+        ],
+        "dcterms_description": "4 Mar 1742: Montagu, Mary Wortley (Lady), 1689-1762 (Chambéry, Auvergne-Rhône-Alpes, France) to Fermor, Henrietta Louisa, 1698-1761",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991477",
+        "dcterms_identifier-editi_": "editi_991477",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/5eae46df-a145-4792-88dc-945d80590dcd",
+        "dcterms_identifier-uuid_": "uuid_5eae46df-a145-4792-88dc-945d80590dcd",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0d61d88c-53fb-486f-af9a-3432e20c5dc4"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_5eae46df-a145-4792-88dc-945d80590dcd",
+        "locations": [
+          "http://localhost/location/7a2b1b52-a744-4042-9003-c58389228673"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/7a2b1b52-a744-4042-9003-c58389228673"
+        ],
+        "mail_origin-rdf_value": "Chambery",
+        "mail_recipient-person": [
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0d61d88c-53fb-486f-af9a-3432e20c5dc4"
+        ],
+        "object_type": "work",
+        "origin_sort": "Chambéry, Auvergne-Rhône-Alpes, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/013dc844-b94b-4330-9108-4b6932f1036f"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "March 4, N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:40Z",
+        "ox_internalModified": "2019-04-04T18:08:40Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1742,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9ffc5735-3317-4070-b1dd-32c26a961db7"
+        ],
+        "recipient_sort": "Fermor, Henrietta Louisa, 1698-1761",
+        "resources": [
+          "http://localhost/resource/9ffc5735-3317-4070-b1dd-32c26a961db7"
+        ],
+        "started_date_gregorian_sort": "1742-03-04T00:00:00Z",
+        "started_date_sort": "1742-03-04T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/5eae46df-a145-4792-88dc-945d80590dcd",
+        "uuid": "5eae46df-a145-4792-88dc-945d80590dcd",
+        "uuid_related": [
+          "0d61d88c-53fb-486f-af9a-3432e20c5dc4",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "2be4f9ff-fedd-4f58-8031-4c12054830f3",
+          "7a2b1b52-a744-4042-9003-c58389228673",
+          "013dc844-b94b-4330-9108-4b6932f1036f",
+          "9ffc5735-3317-4070-b1dd-32c26a961db7"
+        ]
+      },
+      {
+        "_version_": 1.8546419521898414e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/98b30c82-1421-4beb-8281-0b98512e5fbb"
+        ],
+        "dcterms_description": "20 May 1742: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991488",
+        "dcterms_identifier-editi_": "editi_991488",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2237f697-b5c1-4ba4-8147-ad788f6fe929",
+        "dcterms_identifier-uuid_": "uuid_2237f697-b5c1-4ba4-8147-ad788f6fe929",
+        "dcterms_language": "French",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3f3fbab1-21c5-4845-ace7-276f34267724"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_2237f697-b5c1-4ba4-8147-ad788f6fe929",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Madame Madame l'Ambassadrice de la S. Republique de venise a la Cour de S. M. Catholique",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-rdf_value": "Madrid",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3f3fbab1-21c5-4845-ace7-276f34267724"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/98b30c82-1421-4beb-8281-0b98512e5fbb"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Mai 20.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:45Z",
+        "ox_internalModified": "2019-04-04T18:08:45Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1742,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/581cb741-79e8-4f93-aa00-d919977e47d0"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/581cb741-79e8-4f93-aa00-d919977e47d0"
+        ],
+        "started_date_gregorian_sort": "1742-05-20T00:00:00Z",
+        "started_date_sort": "1742-05-20T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2237f697-b5c1-4ba4-8147-ad788f6fe929",
+        "uuid": "2237f697-b5c1-4ba4-8147-ad788f6fe929",
+        "uuid_related": [
+          "3f3fbab1-21c5-4845-ace7-276f34267724",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "98b30c82-1421-4beb-8281-0b98512e5fbb",
+          "581cb741-79e8-4f93-aa00-d919977e47d0"
+        ]
+      },
+      {
+        "_version_": 1.8546419521919386e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/29b0f2b6-648f-47bd-86a6-145f88b0a298"
+        ],
+        "dcterms_description": "1 Jun 1742: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Fermor, Henrietta Louisa, 1698-1761",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991492",
+        "dcterms_identifier-editi_": "editi_991492",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8483dd4c-ebd0-4dc0-bc6a-2ddea311ce6e",
+        "dcterms_identifier-uuid_": "uuid_8483dd4c-ebd0-4dc0-bc6a-2ddea311ce6e",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/59a7a480-e937-4941-b43e-67e37a2e2ffd"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_8483dd4c-ebd0-4dc0-bc6a-2ddea311ce6e",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/59a7a480-e937-4941-b43e-67e37a2e2ffd"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/29b0f2b6-648f-47bd-86a6-145f88b0a298"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "June 1, N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:46Z",
+        "ox_internalModified": "2019-04-04T18:08:46Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1742,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/344ea24b-0c1b-4695-92ec-f9cfb10764a3"
+        ],
+        "recipient_sort": "Fermor, Henrietta Louisa, 1698-1761",
+        "resources": [
+          "http://localhost/resource/344ea24b-0c1b-4695-92ec-f9cfb10764a3"
+        ],
+        "started_date_gregorian_sort": "1742-06-01T00:00:00Z",
+        "started_date_sort": "1742-06-01T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8483dd4c-ebd0-4dc0-bc6a-2ddea311ce6e",
+        "uuid": "8483dd4c-ebd0-4dc0-bc6a-2ddea311ce6e",
+        "uuid_related": [
+          "59a7a480-e937-4941-b43e-67e37a2e2ffd",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "2be4f9ff-fedd-4f58-8031-4c12054830f3",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "29b0f2b6-648f-47bd-86a6-145f88b0a298",
+          "344ea24b-0c1b-4695-92ec-f9cfb10764a3"
+        ]
+      },
+      {
+        "_version_": 1.8546419521961329e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/6c096a05-fdb2-4311-ab50-bb69e8eafaf5"
+        ],
+        "dcterms_description": "1 Sep 1742: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991499",
+        "dcterms_identifier-editi_": "editi_991499",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3eba2932-5f48-43b4-a09a-f9883c3be794",
+        "dcterms_identifier-uuid_": "uuid_3eba2932-5f48-43b4-a09a-f9883c3be794",
+        "dcterms_language": "French",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/37afb546-ae7a-43c0-89e9-ad66536da95a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_3eba2932-5f48-43b4-a09a-f9883c3be794",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A S. Excellence Madame Madame l'Ambassadrice de la S. R. de Venise",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-rdf_value": "a la Cour de Madrid",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/37afb546-ae7a-43c0-89e9-ad66536da95a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/6c096a05-fdb2-4311-ab50-bb69e8eafaf5"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Sept. 1",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:49Z",
+        "ox_internalModified": "2019-04-04T18:08:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1742,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/26b521df-a6ea-4729-80a7-826f98bc1a0f"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/26b521df-a6ea-4729-80a7-826f98bc1a0f"
+        ],
+        "started_date_gregorian_sort": "1742-09-01T00:00:00Z",
+        "started_date_sort": "1742-09-01T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3eba2932-5f48-43b4-a09a-f9883c3be794",
+        "uuid": "3eba2932-5f48-43b4-a09a-f9883c3be794",
+        "uuid_related": [
+          "37afb546-ae7a-43c0-89e9-ad66536da95a",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "6c096a05-fdb2-4311-ab50-bb69e8eafaf5",
+          "26b521df-a6ea-4729-80a7-826f98bc1a0f"
+        ]
+      },
+      {
+        "_version_": 1.8546419521971814e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/225e21c2-1e97-47a1-91a5-2e3a781d45e1"
+        ],
+        "dcterms_description": "15 Oct 1742: Montagu, Mary Wortley (Lady), 1689-1762 (Lyon, Auvergne-Rhône-Alpes, France) to Michiel, Chiara, d.1780",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991502",
+        "dcterms_identifier-editi_": "editi_991502",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/af01aea7-4deb-4410-a522-8112fdf5e480",
+        "dcterms_identifier-uuid_": "uuid_af01aea7-4deb-4410-a522-8112fdf5e480",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/2d4e7420-16ce-4c50-8784-b1a03b41ecbc"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_af01aea7-4deb-4410-a522-8112fdf5e480",
+        "locations": [
+          "http://localhost/location/7c517c9c-2bc3-4704-8068-ee739897fd00"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/7c517c9c-2bc3-4704-8068-ee739897fd00"
+        ],
+        "mail_origin-rdf_value": "Lyons",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/2d4e7420-16ce-4c50-8784-b1a03b41ecbc"
+        ],
+        "object_type": "work",
+        "origin_sort": "Lyon, Auvergne-Rhône-Alpes, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/225e21c2-1e97-47a1-91a5-2e3a781d45e1"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Oct're 15",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:50Z",
+        "ox_internalModified": "2019-04-04T18:08:50Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1742,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/160cdf26-368c-4f00-93b3-41d815234a5e"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/160cdf26-368c-4f00-93b3-41d815234a5e"
+        ],
+        "started_date_gregorian_sort": "1742-10-15T00:00:00Z",
+        "started_date_sort": "1742-10-15T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/af01aea7-4deb-4410-a522-8112fdf5e480",
+        "uuid": "af01aea7-4deb-4410-a522-8112fdf5e480",
+        "uuid_related": [
+          "2d4e7420-16ce-4c50-8784-b1a03b41ecbc",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "7c517c9c-2bc3-4704-8068-ee739897fd00",
+          "225e21c2-1e97-47a1-91a5-2e3a781d45e1",
+          "160cdf26-368c-4f00-93b3-41d815234a5e"
+        ]
+      },
+      {
+        "_version_": 1.85464195219823e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/49d1b025-97bf-4cd3-9d4e-36014850d2a6"
+        ],
+        "dcterms_description": "4 Nov 1742: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Fermor, Henrietta Louisa, 1698-1761",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991503",
+        "dcterms_identifier-editi_": "editi_991503",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/27949e8e-739e-4dc2-bf26-c40fb6a1edb4",
+        "dcterms_identifier-uuid_": "uuid_27949e8e-739e-4dc2-bf26-c40fb6a1edb4",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6ed230e8-80d0-44c7-8c15-11352691bbea"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_27949e8e-739e-4dc2-bf26-c40fb6a1edb4",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6ed230e8-80d0-44c7-8c15-11352691bbea"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/49d1b025-97bf-4cd3-9d4e-36014850d2a6"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Nov. 4, N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:51Z",
+        "ox_internalModified": "2019-04-04T18:08:51Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1742,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c3391331-d412-4b8e-9f5c-6895eeb81b1c"
+        ],
+        "recipient_sort": "Fermor, Henrietta Louisa, 1698-1761",
+        "resources": [
+          "http://localhost/resource/c3391331-d412-4b8e-9f5c-6895eeb81b1c"
+        ],
+        "started_date_gregorian_sort": "1742-11-04T00:00:00Z",
+        "started_date_sort": "1742-11-04T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/27949e8e-739e-4dc2-bf26-c40fb6a1edb4",
+        "uuid": "27949e8e-739e-4dc2-bf26-c40fb6a1edb4",
+        "uuid_related": [
+          "6ed230e8-80d0-44c7-8c15-11352691bbea",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "2be4f9ff-fedd-4f58-8031-4c12054830f3",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "49d1b025-97bf-4cd3-9d4e-36014850d2a6",
+          "c3391331-d412-4b8e-9f5c-6895eeb81b1c"
+        ]
+      },
+      {
+        "_version_": 1.8546419522003272e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/82e02649-8a1f-4265-b5ac-4040b9ac41f6"
+        ],
+        "dcterms_description": "20 Jan 1743: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991509",
+        "dcterms_identifier-editi_": "editi_991509",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e7a5f062-5a94-4aba-8703-f8ff143241da",
+        "dcterms_identifier-uuid_": "uuid_e7a5f062-5a94-4aba-8703-f8ff143241da",
+        "dcterms_language": "English",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f8f7dfe1-f2f9-486c-a550-4cc87c0c7199"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_e7a5f062-5a94-4aba-8703-f8ff143241da",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Madame Madame l'Ambassadrice de la S. Republique de Venise a S M Catholique",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-rdf_value": "Madrid",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f8f7dfe1-f2f9-486c-a550-4cc87c0c7199"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/82e02649-8a1f-4265-b5ac-4040b9ac41f6"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Jan. 20.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:54Z",
+        "ox_internalModified": "2019-04-04T18:08:54Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1743,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/be4991d0-e96d-4220-8962-e87fe7e7d693"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/be4991d0-e96d-4220-8962-e87fe7e7d693"
+        ],
+        "started_date_gregorian_sort": "1743-01-20T00:00:00Z",
+        "started_date_sort": "1743-01-20T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e7a5f062-5a94-4aba-8703-f8ff143241da",
+        "uuid": "e7a5f062-5a94-4aba-8703-f8ff143241da",
+        "uuid_related": [
+          "f8f7dfe1-f2f9-486c-a550-4cc87c0c7199",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "82e02649-8a1f-4265-b5ac-4040b9ac41f6",
+          "be4991d0-e96d-4220-8962-e87fe7e7d693"
+        ]
+      },
+      {
+        "_version_": 1.854641952203473e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/52f51b97-73ad-4e8c-b114-8dd0b0af8edb"
+        ],
+        "dcterms_description": "4 May 1743: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991515",
+        "dcterms_identifier-editi_": "editi_991515",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/24f674e3-15a4-4317-af47-5467b82af47a",
+        "dcterms_identifier-uuid_": "uuid_24f674e3-15a4-4317-af47-5467b82af47a",
+        "dcterms_language": "English",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/2d89d725-4463-4f92-b46b-1b390079dcc2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_24f674e3-15a4-4317-af47-5467b82af47a",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Madame Madame Chiara Michielli Ambassadrice de la S. Republique de Venise",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-rdf_value": "Madrid",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/2d89d725-4463-4f92-b46b-1b390079dcc2"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/52f51b97-73ad-4e8c-b114-8dd0b0af8edb"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "ce 4 de mai",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:56Z",
+        "ox_internalModified": "2019-04-04T18:08:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1743,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/df91c25c-da2c-4a0f-aa5a-9c10e3cf8e9c"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/df91c25c-da2c-4a0f-aa5a-9c10e3cf8e9c"
+        ],
+        "started_date_gregorian_sort": "1743-05-04T00:00:00Z",
+        "started_date_sort": "1743-05-04T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/24f674e3-15a4-4317-af47-5467b82af47a",
+        "uuid": "24f674e3-15a4-4317-af47-5467b82af47a",
+        "uuid_related": [
+          "2d89d725-4463-4f92-b46b-1b390079dcc2",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "52f51b97-73ad-4e8c-b114-8dd0b0af8edb",
+          "df91c25c-da2c-4a0f-aa5a-9c10e3cf8e9c"
+        ]
+      },
+      {
+        "_version_": 1.8546419522076672e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/0ff20eec-3ac1-4032-8da2-f05a7f7a68d7"
+        ],
+        "dcterms_description": "29 Aug 1743: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991523",
+        "dcterms_identifier-editi_": "editi_991523",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9d896b9d-20b5-4042-9c55-b3b56e860b47",
+        "dcterms_identifier-uuid_": "uuid_9d896b9d-20b5-4042-9c55-b3b56e860b47",
+        "dcterms_language": "French",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/82ff9f9f-ccd1-4bf6-9393-325f99d0c3f4"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_9d896b9d-20b5-4042-9c55-b3b56e860b47",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Madame Madame l'Ambassadrice de la S. Republique de Venise",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-rdf_value": "la Cour de Madrid",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/82ff9f9f-ccd1-4bf6-9393-325f99d0c3f4"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/0ff20eec-3ac1-4032-8da2-f05a7f7a68d7"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Août 29me",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:08:58Z",
+        "ox_internalModified": "2019-04-04T18:08:58Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1743,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/ea51809b-b407-4fb5-838d-d74f849c3689"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/ea51809b-b407-4fb5-838d-d74f849c3689"
+        ],
+        "started_date_gregorian_sort": "1743-08-29T00:00:00Z",
+        "started_date_sort": "1743-08-29T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9d896b9d-20b5-4042-9c55-b3b56e860b47",
+        "uuid": "9d896b9d-20b5-4042-9c55-b3b56e860b47",
+        "uuid_related": [
+          "82ff9f9f-ccd1-4bf6-9393-325f99d0c3f4",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "0ff20eec-3ac1-4032-8da2-f05a7f7a68d7",
+          "ea51809b-b407-4fb5-838d-d74f849c3689"
+        ]
+      },
+      {
+        "_version_": 1.8546419522097644e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/215e3b3d-1e71-4ac9-adea-b70667c9aabf"
+        ],
+        "dcterms_description": "7 Nov 1743: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991528",
+        "dcterms_identifier-editi_": "editi_991528",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/929e409d-56b5-474a-945a-b67b266632dc",
+        "dcterms_identifier-uuid_": "uuid_929e409d-56b5-474a-945a-b67b266632dc",
+        "dcterms_language": "French",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b4404205-7be4-44f2-ada1-5b936fb74a37"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_929e409d-56b5-474a-945a-b67b266632dc",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Madame Madame Michielli Ambassadrice de la S. Republique de Venise",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-rdf_value": "la Cour de Madrid.",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b4404205-7be4-44f2-ada1-5b936fb74a37"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/215e3b3d-1e71-4ac9-adea-b70667c9aabf"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Nov. 7.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:00Z",
+        "ox_internalModified": "2019-04-04T18:09:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1743,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f21376d7-20cf-42cd-b340-f59fc4d34fde"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/f21376d7-20cf-42cd-b340-f59fc4d34fde"
+        ],
+        "started_date_gregorian_sort": "1743-11-07T00:00:00Z",
+        "started_date_sort": "1743-11-07T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/929e409d-56b5-474a-945a-b67b266632dc",
+        "uuid": "929e409d-56b5-474a-945a-b67b266632dc",
+        "uuid_related": [
+          "b4404205-7be4-44f2-ada1-5b936fb74a37",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "215e3b3d-1e71-4ac9-adea-b70667c9aabf",
+          "f21376d7-20cf-42cd-b340-f59fc4d34fde"
+        ]
+      },
+      {
+        "_version_": 1.8546419522118615e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/cfc22f81-1aa1-435e-9903-1627e6d2c60c"
+        ],
+        "dcterms_description": "15 Jan 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991532",
+        "dcterms_identifier-editi_": "editi_991532",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/dd2c6a53-db4c-493a-bb7b-0012d8f60c87",
+        "dcterms_identifier-uuid_": "uuid_dd2c6a53-db4c-493a-bb7b-0012d8f60c87",
+        "dcterms_language": "French",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/57c563fd-b5db-426d-8a32-6b68424d216c"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_dd2c6a53-db4c-493a-bb7b-0012d8f60c87",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Madame Madame de Michielli Ambassadrice de la S. Republique de Venise",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-rdf_value": "a la Cour de Madrid",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/57c563fd-b5db-426d-8a32-6b68424d216c"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/cfc22f81-1aa1-435e-9903-1627e6d2c60c"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Jan. 15.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:01Z",
+        "ox_internalModified": "2019-04-04T18:09:01Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/eecc37ac-7ea3-456e-8bda-19228f937d2f"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/eecc37ac-7ea3-456e-8bda-19228f937d2f"
+        ],
+        "started_date_gregorian_sort": "1744-01-15T00:00:00Z",
+        "started_date_sort": "1744-01-15T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/dd2c6a53-db4c-493a-bb7b-0012d8f60c87",
+        "uuid": "dd2c6a53-db4c-493a-bb7b-0012d8f60c87",
+        "uuid_related": [
+          "57c563fd-b5db-426d-8a32-6b68424d216c",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "cfc22f81-1aa1-435e-9903-1627e6d2c60c",
+          "eecc37ac-7ea3-456e-8bda-19228f937d2f"
+        ]
+      },
+      {
+        "_version_": 1.8546419522139587e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/20447381-0a3f-44bc-932f-1d5c0865ec67"
+        ],
+        "dcterms_description": "13 Apr 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991537",
+        "dcterms_identifier-editi_": "editi_991537",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7c8e8c19-a842-4c20-93cd-f02f774beaff",
+        "dcterms_identifier-uuid_": "uuid_7c8e8c19-a842-4c20-93cd-f02f774beaff",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/477d8303-d552-4830-a53d-fa68bc08a672"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_7c8e8c19-a842-4c20-93cd-f02f774beaff",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James's London",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/477d8303-d552-4830-a53d-fa68bc08a672"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/20447381-0a3f-44bc-932f-1d5c0865ec67"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "April 13 N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:03Z",
+        "ox_internalModified": "2019-04-04T18:09:03Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/17ed2a15-a0c5-4068-b012-f34e46771efb"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/17ed2a15-a0c5-4068-b012-f34e46771efb"
+        ],
+        "started_date_gregorian_sort": "1744-04-13T00:00:00Z",
+        "started_date_sort": "1744-04-13T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7c8e8c19-a842-4c20-93cd-f02f774beaff",
+        "uuid": "7c8e8c19-a842-4c20-93cd-f02f774beaff",
+        "uuid_related": [
+          "477d8303-d552-4830-a53d-fa68bc08a672",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "20447381-0a3f-44bc-932f-1d5c0865ec67",
+          "17ed2a15-a0c5-4068-b012-f34e46771efb"
+        ]
+      },
+      {
+        "_version_": 1.8546419522139587e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/4c22458e-bd09-4def-9fca-e74f3dbe556b"
+        ],
+        "dcterms_description": "14 Apr 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Erskine, Frances, 1690-1761",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991538",
+        "dcterms_identifier-editi_": "editi_991538",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3aa46a89-696a-444b-852e-bd8ad3d53ee8",
+        "dcterms_identifier-uuid_": "uuid_3aa46a89-696a-444b-852e-bd8ad3d53ee8",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/937bd4af-6f9b-401f-965d-86e3fccc9b70"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_3aa46a89-696a-444b-852e-bd8ad3d53ee8",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/3ff9731b-06aa-4743-a972-f444abbf7905"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/937bd4af-6f9b-401f-965d-86e3fccc9b70"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/4c22458e-bd09-4def-9fca-e74f3dbe556b"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Ap. 14 N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:03Z",
+        "ox_internalModified": "2019-04-04T18:09:03Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/3ff9731b-06aa-4743-a972-f444abbf7905"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/ade01d90-f6d5-4d65-b6fb-5fcc9c384818"
+        ],
+        "recipient_sort": "Erskine, Frances, 1690-1761",
+        "resources": [
+          "http://localhost/resource/ade01d90-f6d5-4d65-b6fb-5fcc9c384818"
+        ],
+        "started_date_gregorian_sort": "1744-04-14T00:00:00Z",
+        "started_date_sort": "1744-04-14T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3aa46a89-696a-444b-852e-bd8ad3d53ee8",
+        "uuid": "3aa46a89-696a-444b-852e-bd8ad3d53ee8",
+        "uuid_related": [
+          "937bd4af-6f9b-401f-965d-86e3fccc9b70",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "3ff9731b-06aa-4743-a972-f444abbf7905",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "4c22458e-bd09-4def-9fca-e74f3dbe556b",
+          "ade01d90-f6d5-4d65-b6fb-5fcc9c384818"
+        ]
+      },
+      {
+        "_version_": 1.8546419522171044e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/473daaae-8bfb-46a5-a52f-8ae151d4c225"
+        ],
+        "dcterms_description": "2 Jul 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991543",
+        "dcterms_identifier-editi_": "editi_991543",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/5b46cb0a-8611-4dc2-9bf6-7ca1523e4c7b",
+        "dcterms_identifier-uuid_": "uuid_5b46cb0a-8611-4dc2-9bf6-7ca1523e4c7b",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c2ab7c8a-7062-47c5-a7bc-69cd18524105"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_5b46cb0a-8611-4dc2-9bf6-7ca1523e4c7b",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James's London Angleterre par Paris",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c2ab7c8a-7062-47c5-a7bc-69cd18524105"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/473daaae-8bfb-46a5-a52f-8ae151d4c225"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 2 N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:06Z",
+        "ox_internalModified": "2019-04-04T18:09:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2ea67707-d578-48d2-9d6c-ca4ee4459a40"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/2ea67707-d578-48d2-9d6c-ca4ee4459a40"
+        ],
+        "started_date_gregorian_sort": "1744-07-02T00:00:00Z",
+        "started_date_sort": "1744-07-02T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/5b46cb0a-8611-4dc2-9bf6-7ca1523e4c7b",
+        "uuid": "5b46cb0a-8611-4dc2-9bf6-7ca1523e4c7b",
+        "uuid_related": [
+          "c2ab7c8a-7062-47c5-a7bc-69cd18524105",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "473daaae-8bfb-46a5-a52f-8ae151d4c225",
+          "2ea67707-d578-48d2-9d6c-ca4ee4459a40"
+        ]
+      },
+      {
+        "_version_": 1.8546419522171044e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/bac7ca6e-80ac-4cad-a50f-da6213f8c300"
+        ],
+        "dcterms_description": "3 Jul 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991544",
+        "dcterms_identifier-editi_": "editi_991544",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/46e2ddab-2f5f-4a90-91ac-de846a1d4ebf",
+        "dcterms_identifier-uuid_": "uuid_46e2ddab-2f5f-4a90-91ac-de846a1d4ebf",
+        "dcterms_language": "French",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f04ed4ce-d137-4e1d-b983-d9919dcd0f11"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_46e2ddab-2f5f-4a90-91ac-de846a1d4ebf",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A S. E. La Signora Chiara Michielli Ambassadrice de la Serenissima Republique de Venice",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-rdf_value": "la Cour de S. M. Catholique Madrid.",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f04ed4ce-d137-4e1d-b983-d9919dcd0f11"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/bac7ca6e-80ac-4cad-a50f-da6213f8c300"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "ce 3 de Juillet",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:07Z",
+        "ox_internalModified": "2019-04-04T18:09:07Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4fe5ad19-4835-469f-a2c8-1f6192cbc7af"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/4fe5ad19-4835-469f-a2c8-1f6192cbc7af"
+        ],
+        "started_date_gregorian_sort": "1744-07-03T00:00:00Z",
+        "started_date_sort": "1744-07-03T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/46e2ddab-2f5f-4a90-91ac-de846a1d4ebf",
+        "uuid": "46e2ddab-2f5f-4a90-91ac-de846a1d4ebf",
+        "uuid_related": [
+          "f04ed4ce-d137-4e1d-b983-d9919dcd0f11",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "bac7ca6e-80ac-4cad-a50f-da6213f8c300",
+          "4fe5ad19-4835-469f-a2c8-1f6192cbc7af"
+        ]
+      },
+      {
+        "_version_": 1.8546419522171044e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/d0a65aff-8ba2-4c7e-bdaf-b2b999741815"
+        ],
+        "dcterms_description": "12 Jul 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991545",
+        "dcterms_identifier-editi_": "editi_991545",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/95721af1-9448-424b-9614-8782fd8d0621",
+        "dcterms_identifier-uuid_": "uuid_95721af1-9448-424b-9614-8782fd8d0621",
+        "dcterms_language": "French",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/cab7b19b-6f62-4174-901c-7788c2b87f57"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_95721af1-9448-424b-9614-8782fd8d0621",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Madame Madame l'Ambassadrice de la S. R. de Venis",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-rdf_value": "la Cour de Madrid",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/cab7b19b-6f62-4174-901c-7788c2b87f57"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/d0a65aff-8ba2-4c7e-bdaf-b2b999741815"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "ce 12 de Juillet.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:07Z",
+        "ox_internalModified": "2019-04-04T18:09:07Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4ca1b253-68a5-4f0d-b5c3-6d94020aa02b"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/4ca1b253-68a5-4f0d-b5c3-6d94020aa02b"
+        ],
+        "started_date_gregorian_sort": "1744-07-12T00:00:00Z",
+        "started_date_sort": "1744-07-12T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/95721af1-9448-424b-9614-8782fd8d0621",
+        "uuid": "95721af1-9448-424b-9614-8782fd8d0621",
+        "uuid_related": [
+          "cab7b19b-6f62-4174-901c-7788c2b87f57",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "d0a65aff-8ba2-4c7e-bdaf-b2b999741815",
+          "4ca1b253-68a5-4f0d-b5c3-6d94020aa02b"
+        ]
+      },
+      {
+        "_version_": 1.854641952218153e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/15c59ee4-729f-465c-b563-6244faab771e"
+        ],
+        "dcterms_description": "12 Jul 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Fermor, Henrietta Louisa, 1698-1761",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991546",
+        "dcterms_identifier-editi_": "editi_991546",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6a9b3e4e-b873-401a-b997-9d95d24ecadc",
+        "dcterms_identifier-uuid_": "uuid_6a9b3e4e-b873-401a-b997-9d95d24ecadc",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/1017edb2-fb87-408a-9394-8917ec30324e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_6a9b3e4e-b873-401a-b997-9d95d24ecadc",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/1017edb2-fb87-408a-9394-8917ec30324e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/15c59ee4-729f-465c-b563-6244faab771e"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 12, N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:08Z",
+        "ox_internalModified": "2019-04-04T18:09:08Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/2be4f9ff-fedd-4f58-8031-4c12054830f3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/818aae5e-ab9c-4b83-807b-c1f3ada3ff8a"
+        ],
+        "recipient_sort": "Fermor, Henrietta Louisa, 1698-1761",
+        "resources": [
+          "http://localhost/resource/818aae5e-ab9c-4b83-807b-c1f3ada3ff8a"
+        ],
+        "started_date_gregorian_sort": "1744-07-12T00:00:00Z",
+        "started_date_sort": "1744-07-12T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6a9b3e4e-b873-401a-b997-9d95d24ecadc",
+        "uuid": "6a9b3e4e-b873-401a-b997-9d95d24ecadc",
+        "uuid_related": [
+          "1017edb2-fb87-408a-9394-8917ec30324e",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "2be4f9ff-fedd-4f58-8031-4c12054830f3",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "15c59ee4-729f-465c-b563-6244faab771e",
+          "818aae5e-ab9c-4b83-807b-c1f3ada3ff8a"
+        ]
+      },
+      {
+        "_version_": 1.8546419522192015e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/228bbfda-c7b2-44da-93ce-bd0e8703dbbb"
+        ],
+        "dcterms_description": "10 Aug 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991548",
+        "dcterms_identifier-editi_": "editi_991548",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/033998d8-6317-4e33-8288-15dde59aa12b",
+        "dcterms_identifier-uuid_": "uuid_033998d8-6317-4e33-8288-15dde59aa12b",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c561f44a-cb37-449b-8ddf-8a7dd8045f5d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_033998d8-6317-4e33-8288-15dde59aa12b",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James London Angleterre par Paris",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c561f44a-cb37-449b-8ddf-8a7dd8045f5d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/228bbfda-c7b2-44da-93ce-bd0e8703dbbb"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Aug't 10. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:08Z",
+        "ox_internalModified": "2019-04-04T18:09:08Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2ed0909b-8fd9-45b2-9a77-72f667d3bf18"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/2ed0909b-8fd9-45b2-9a77-72f667d3bf18"
+        ],
+        "started_date_gregorian_sort": "1744-08-10T00:00:00Z",
+        "started_date_sort": "1744-08-10T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/033998d8-6317-4e33-8288-15dde59aa12b",
+        "uuid": "033998d8-6317-4e33-8288-15dde59aa12b",
+        "uuid_related": [
+          "c561f44a-cb37-449b-8ddf-8a7dd8045f5d",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "228bbfda-c7b2-44da-93ce-bd0e8703dbbb",
+          "2ed0909b-8fd9-45b2-9a77-72f667d3bf18"
+        ]
+      },
+      {
+        "_version_": 1.85464195222025e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/c63ab9bc-90cf-4ba2-beca-4e8da3f47f2b"
+        ],
+        "dcterms_description": "20 Aug 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Michiel, Chiara, d.1780 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991550",
+        "dcterms_identifier-editi_": "editi_991550",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/320a3512-cffb-4178-a283-cb2f50794679",
+        "dcterms_identifier-uuid_": "uuid_320a3512-cffb-4178-a283-cb2f50794679",
+        "dcterms_language": "French",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/bec52c77-b679-4250-9081-a4ce275f5788"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_320a3512-cffb-4178-a283-cb2f50794679",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Madame La Signora La Signora Chiara Michielli Bragadini",
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-rdf_value": "Venezia Italia",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/bec52c77-b679-4250-9081-a4ce275f5788"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/c63ab9bc-90cf-4ba2-beca-4e8da3f47f2b"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "ce 20 d'Août",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:08Z",
+        "ox_internalModified": "2019-04-04T18:09:08Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3c7263ce-1877-4f7f-bbd3-4d96dc09b36f"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/3c7263ce-1877-4f7f-bbd3-4d96dc09b36f"
+        ],
+        "started_date_gregorian_sort": "1744-08-20T00:00:00Z",
+        "started_date_sort": "1744-08-20T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/320a3512-cffb-4178-a283-cb2f50794679",
+        "uuid": "320a3512-cffb-4178-a283-cb2f50794679",
+        "uuid_related": [
+          "bec52c77-b679-4250-9081-a4ce275f5788",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "c63ab9bc-90cf-4ba2-beca-4e8da3f47f2b",
+          "3c7263ce-1877-4f7f-bbd3-4d96dc09b36f"
+        ]
+      },
+      {
+        "_version_": 1.85464195222025e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/6a01ff54-483b-4549-81cc-d24fe5eadf3d"
+        ],
+        "dcterms_description": "14 Sep 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991551",
+        "dcterms_identifier-editi_": "editi_991551",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/17247baa-8f46-4f43-88d3-3bca1a82e17e",
+        "dcterms_identifier-uuid_": "uuid_17247baa-8f46-4f43-88d3-3bca1a82e17e",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f28a564e-1049-4d72-8e46-bc328f67da22"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_17247baa-8f46-4f43-88d3-3bca1a82e17e",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James's London Angleterre par Paris",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f28a564e-1049-4d72-8e46-bc328f67da22"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/6a01ff54-483b-4549-81cc-d24fe5eadf3d"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Sept. 14. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:09Z",
+        "ox_internalModified": "2019-04-04T18:09:09Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/559863ef-ce2f-4893-8161-3630397cd934"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/559863ef-ce2f-4893-8161-3630397cd934"
+        ],
+        "started_date_gregorian_sort": "1744-09-14T00:00:00Z",
+        "started_date_sort": "1744-09-14T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/17247baa-8f46-4f43-88d3-3bca1a82e17e",
+        "uuid": "17247baa-8f46-4f43-88d3-3bca1a82e17e",
+        "uuid_related": [
+          "f28a564e-1049-4d72-8e46-bc328f67da22",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "6a01ff54-483b-4549-81cc-d24fe5eadf3d",
+          "559863ef-ce2f-4893-8161-3630397cd934"
+        ]
+      },
+      {
+        "_version_": 1.8546419522212987e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/351654e6-4a93-448c-849a-8678de589fe9"
+        ],
+        "dcterms_description": "15 Oct 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991553",
+        "dcterms_identifier-editi_": "editi_991553",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3ee69d5a-d57c-4155-b563-6eac0ff1c3b2",
+        "dcterms_identifier-uuid_": "uuid_3ee69d5a-d57c-4155-b563-6eac0ff1c3b2",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f70ab446-8bc5-4315-bc07-c7a3044bbbdd"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_3ee69d5a-d57c-4155-b563-6eac0ff1c3b2",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St. James's London Angleterre",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f70ab446-8bc5-4315-bc07-c7a3044bbbdd"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/351654e6-4a93-448c-849a-8678de589fe9"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Oct. 15 N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:09Z",
+        "ox_internalModified": "2019-04-04T18:09:09Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/1bb7ce4f-433c-418b-9449-6df3113e9a36"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/1bb7ce4f-433c-418b-9449-6df3113e9a36"
+        ],
+        "started_date_gregorian_sort": "1744-10-15T00:00:00Z",
+        "started_date_sort": "1744-10-15T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3ee69d5a-d57c-4155-b563-6eac0ff1c3b2",
+        "uuid": "3ee69d5a-d57c-4155-b563-6eac0ff1c3b2",
+        "uuid_related": [
+          "f70ab446-8bc5-4315-bc07-c7a3044bbbdd",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "351654e6-4a93-448c-849a-8678de589fe9",
+          "1bb7ce4f-433c-418b-9449-6df3113e9a36"
+        ]
+      },
+      {
+        "_version_": 1.8546419522233958e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/0df12a87-3fdc-4b9c-99db-7875f223820e"
+        ],
+        "dcterms_description": "29 Oct 1744: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991556",
+        "dcterms_identifier-editi_": "editi_991556",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d5df25a7-2efc-4964-a91a-be5d8899f61a",
+        "dcterms_identifier-uuid_": "uuid_d5df25a7-2efc-4964-a91a-be5d8899f61a",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/be5e04be-77b8-44e6-acfc-0abc7296311b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_d5df25a7-2efc-4964-a91a-be5d8899f61a",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James's London",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/be5e04be-77b8-44e6-acfc-0abc7296311b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/0df12a87-3fdc-4b9c-99db-7875f223820e"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Oct. 29.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:10Z",
+        "ox_internalModified": "2019-04-04T18:09:10Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1744,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d9e2f532-f2df-4001-8c07-81702b8e9242"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/d9e2f532-f2df-4001-8c07-81702b8e9242"
+        ],
+        "started_date_gregorian_sort": "1744-10-29T00:00:00Z",
+        "started_date_sort": "1744-10-29T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d5df25a7-2efc-4964-a91a-be5d8899f61a",
+        "uuid": "d5df25a7-2efc-4964-a91a-be5d8899f61a",
+        "uuid_related": [
+          "be5e04be-77b8-44e6-acfc-0abc7296311b",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "0df12a87-3fdc-4b9c-99db-7875f223820e",
+          "d9e2f532-f2df-4001-8c07-81702b8e9242"
+        ]
+      },
+      {
+        "_version_": 1.854641952225493e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/a6c02b57-e27f-41c1-a27d-474e56bdb681"
+        ],
+        "dcterms_description": "3 Apr 1745: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991562",
+        "dcterms_identifier-editi_": "editi_991562",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2f3f82d9-89d3-486b-b7d3-4f8208cf8f3c",
+        "dcterms_identifier-uuid_": "uuid_2f3f82d9-89d3-486b-b7d3-4f8208cf8f3c",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a1013edb-1f24-469f-8856-bd6987ce8ab4"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_2f3f82d9-89d3-486b-b7d3-4f8208cf8f3c",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St. James's London Angleterre par Hollande",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a1013edb-1f24-469f-8856-bd6987ce8ab4"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/a6c02b57-e27f-41c1-a27d-474e56bdb681"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:12Z",
+        "ox_internalModified": "2019-04-04T18:09:12Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1745,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f637d826-35b2-4ec4-bfc5-72004a126055"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/f637d826-35b2-4ec4-bfc5-72004a126055"
+        ],
+        "started_date_gregorian_sort": "1745-04-03T00:00:00Z",
+        "started_date_sort": "1745-04-03T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2f3f82d9-89d3-486b-b7d3-4f8208cf8f3c",
+        "uuid": "2f3f82d9-89d3-486b-b7d3-4f8208cf8f3c",
+        "uuid_related": [
+          "a1013edb-1f24-469f-8856-bd6987ce8ab4",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "a6c02b57-e27f-41c1-a27d-474e56bdb681",
+          "f637d826-35b2-4ec4-bfc5-72004a126055"
+        ]
+      },
+      {
+        "_version_": 1.8546419522265416e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/b8198e62-c8a4-44ad-90ff-335ae08202e5"
+        ],
+        "dcterms_description": "1 Jun 1745: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991564",
+        "dcterms_identifier-editi_": "editi_991564",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/20531aca-dfdb-41f9-938e-63945500cb06",
+        "dcterms_identifier-uuid_": "uuid_20531aca-dfdb-41f9-938e-63945500cb06",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/01c27992-a57f-4f76-ab2b-24e519bb6d87"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_20531aca-dfdb-41f9-938e-63945500cb06",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James London Angleterre",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/01c27992-a57f-4f76-ab2b-24e519bb6d87"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/b8198e62-c8a4-44ad-90ff-335ae08202e5"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "June 1.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:14Z",
+        "ox_internalModified": "2019-04-04T18:09:14Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1745,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/88aca302-c4d6-4488-acf9-98d3ee15c4b6"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/88aca302-c4d6-4488-acf9-98d3ee15c4b6"
+        ],
+        "started_date_gregorian_sort": "1745-06-01T00:00:00Z",
+        "started_date_sort": "1745-06-01T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/20531aca-dfdb-41f9-938e-63945500cb06",
+        "uuid": "20531aca-dfdb-41f9-938e-63945500cb06",
+        "uuid_related": [
+          "01c27992-a57f-4f76-ab2b-24e519bb6d87",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "b8198e62-c8a4-44ad-90ff-335ae08202e5",
+          "88aca302-c4d6-4488-acf9-98d3ee15c4b6"
+        ]
+      },
+      {
+        "_version_": 1.8546419522296873e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/d7f41c89-35ae-440f-a179-7c0d257b001c"
+        ],
+        "dcterms_description": "21 Jul 1745: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991570",
+        "dcterms_identifier-editi_": "editi_991570",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1c8cc047-ce38-4d5d-8a1b-33f33b1f3149",
+        "dcterms_identifier-uuid_": "uuid_1c8cc047-ce38-4d5d-8a1b-33f33b1f3149",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/5e748074-bf55-45d7-892b-8d21a18f9a30"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_1c8cc047-ce38-4d5d-8a1b-33f33b1f3149",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James's London Angleterre",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/5e748074-bf55-45d7-892b-8d21a18f9a30"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/d7f41c89-35ae-440f-a179-7c0d257b001c"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 21. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:17Z",
+        "ox_internalModified": "2019-04-04T18:09:17Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1745,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/5cef62a8-48e4-4989-acad-81e1018229ef"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/5cef62a8-48e4-4989-acad-81e1018229ef"
+        ],
+        "started_date_gregorian_sort": "1745-07-21T00:00:00Z",
+        "started_date_sort": "1745-07-21T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1c8cc047-ce38-4d5d-8a1b-33f33b1f3149",
+        "uuid": "1c8cc047-ce38-4d5d-8a1b-33f33b1f3149",
+        "uuid_related": [
+          "5e748074-bf55-45d7-892b-8d21a18f9a30",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "d7f41c89-35ae-440f-a179-7c0d257b001c",
+          "5cef62a8-48e4-4989-acad-81e1018229ef"
+        ]
+      },
+      {
+        "_version_": 1.854641952230736e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/221800ba-7bb6-46a5-b12d-c1a313a253ae"
+        ],
+        "dcterms_description": "21 Jan 1746: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991573",
+        "dcterms_identifier-editi_": "editi_991573",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/297aa430-40d8-4903-9ad5-efd91f74fb95",
+        "dcterms_identifier-uuid_": "uuid_297aa430-40d8-4903-9ad5-efd91f74fb95",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/32782632-7857-4cd0-a502-6a8afe7c6a0e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_297aa430-40d8-4903-9ad5-efd91f74fb95",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James's London Angleterre",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/32782632-7857-4cd0-a502-6a8afe7c6a0e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/221800ba-7bb6-46a5-b12d-c1a313a253ae"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Jan. 21. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:18Z",
+        "ox_internalModified": "2019-04-04T18:09:18Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1746,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/33cfe39c-e14d-4638-ba81-e24951fa0d62"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/33cfe39c-e14d-4638-ba81-e24951fa0d62"
+        ],
+        "started_date_gregorian_sort": "1746-01-21T00:00:00Z",
+        "started_date_sort": "1746-01-21T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/297aa430-40d8-4903-9ad5-efd91f74fb95",
+        "uuid": "297aa430-40d8-4903-9ad5-efd91f74fb95",
+        "uuid_related": [
+          "32782632-7857-4cd0-a502-6a8afe7c6a0e",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "221800ba-7bb6-46a5-b12d-c1a313a253ae",
+          "33cfe39c-e14d-4638-ba81-e24951fa0d62"
+        ]
+      },
+      {
+        "_version_": 1.8546419522317844e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/9107b742-0929-4abb-afa5-527cee917b66"
+        ],
+        "dcterms_description": "15 Feb 1746: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991576",
+        "dcterms_identifier-editi_": "editi_991576",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2f22617a-c9fe-493c-b875-1b73d4064b4d",
+        "dcterms_identifier-uuid_": "uuid_2f22617a-c9fe-493c-b875-1b73d4064b4d",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ac312491-ed46-4503-876b-e6e15bf77833"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_2f22617a-c9fe-493c-b875-1b73d4064b4d",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St. James's London",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ac312491-ed46-4503-876b-e6e15bf77833"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/9107b742-0929-4abb-afa5-527cee917b66"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Feb. 15 N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:20Z",
+        "ox_internalModified": "2019-04-04T18:09:20Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1746,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/642f1464-483e-4f17-8c58-8303d104bbf2"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/642f1464-483e-4f17-8c58-8303d104bbf2"
+        ],
+        "started_date_gregorian_sort": "1746-02-15T00:00:00Z",
+        "started_date_sort": "1746-02-15T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2f22617a-c9fe-493c-b875-1b73d4064b4d",
+        "uuid": "2f22617a-c9fe-493c-b875-1b73d4064b4d",
+        "uuid_related": [
+          "ac312491-ed46-4503-876b-e6e15bf77833",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "9107b742-0929-4abb-afa5-527cee917b66",
+          "642f1464-483e-4f17-8c58-8303d104bbf2"
+        ]
+      },
+      {
+        "_version_": 1.854641952232833e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/f5a28ac4-464e-4822-a050-556573946ec7"
+        ],
+        "dcterms_description": "3 Mar 1746: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Stuart, Mary, 1718-1794",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991577",
+        "dcterms_identifier-editi_": "editi_991577",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2fad86e7-8e54-4ecf-b864-e4da0aabadd2",
+        "dcterms_identifier-uuid_": "uuid_2fad86e7-8e54-4ecf-b864-e4da0aabadd2",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4e71fc66-985c-4f08-8816-c0a70405b713"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_2fad86e7-8e54-4ecf-b864-e4da0aabadd2",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4e71fc66-985c-4f08-8816-c0a70405b713"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/f5a28ac4-464e-4822-a050-556573946ec7"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "March 3. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:20Z",
+        "ox_internalModified": "2019-04-04T18:09:20Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1746,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/15ce4026-f881-4767-87c8-043f84a14e9b"
+        ],
+        "recipient_sort": "Stuart, Mary, 1718-1794",
+        "resources": [
+          "http://localhost/resource/15ce4026-f881-4767-87c8-043f84a14e9b"
+        ],
+        "started_date_gregorian_sort": "1746-03-03T00:00:00Z",
+        "started_date_sort": "1746-03-03T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2fad86e7-8e54-4ecf-b864-e4da0aabadd2",
+        "uuid": "2fad86e7-8e54-4ecf-b864-e4da0aabadd2",
+        "uuid_related": [
+          "4e71fc66-985c-4f08-8816-c0a70405b713",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "24203a6b-872f-4ea1-b4c8-0c9d5210763e",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "f5a28ac4-464e-4822-a050-556573946ec7",
+          "15ce4026-f881-4767-87c8-043f84a14e9b"
+        ]
+      },
+      {
+        "_version_": 1.854641952232833e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/aae4dac2-d158-4945-b179-6fe92148824b"
+        ],
+        "dcterms_description": "10 Mar 1746: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991578",
+        "dcterms_identifier-editi_": "editi_991578",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/11e8edd3-86c0-4919-a07a-f251362e1087",
+        "dcterms_identifier-uuid_": "uuid_11e8edd3-86c0-4919-a07a-f251362e1087",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/662baba6-85fc-45f7-823b-b44c49ac4e91"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_11e8edd3-86c0-4919-a07a-f251362e1087",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "To The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St. James's London",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/662baba6-85fc-45f7-823b-b44c49ac4e91"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/aae4dac2-d158-4945-b179-6fe92148824b"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "March 10. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:21Z",
+        "ox_internalModified": "2019-04-04T18:09:21Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1746,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/5a06fa9c-0b44-4adf-b049-4ce40db19705"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/5a06fa9c-0b44-4adf-b049-4ce40db19705"
+        ],
+        "started_date_gregorian_sort": "1746-03-10T00:00:00Z",
+        "started_date_sort": "1746-03-10T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/11e8edd3-86c0-4919-a07a-f251362e1087",
+        "uuid": "11e8edd3-86c0-4919-a07a-f251362e1087",
+        "uuid_related": [
+          "662baba6-85fc-45f7-823b-b44c49ac4e91",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "aae4dac2-d158-4945-b179-6fe92148824b",
+          "5a06fa9c-0b44-4adf-b049-4ce40db19705"
+        ]
+      },
+      {
+        "_version_": 1.8546419524509368e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/bab45087-f16a-49f0-913c-22e0bdd1b4cb"
+        ],
+        "dcterms_description": "20 Jul 1746: Montagu, Mary Wortley (Lady), 1689-1762 (Avignon, Provence-Alpes-Côte d'Azur, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991584",
+        "dcterms_identifier-editi_": "editi_991584",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9e925649-f705-4ef1-ae5f-d9a0b9fc412a",
+        "dcterms_identifier-uuid_": "uuid_9e925649-f705-4ef1-ae5f-d9a0b9fc412a",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/95d3aa2c-9c4a-4e50-b945-ad403e65a7cf"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_9e925649-f705-4ef1-ae5f-d9a0b9fc412a",
+        "locations": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James's London Angleterre",
+        "mail_origin-location": [
+          "http://localhost/location/6c1a7b22-586e-4e93-be67-1117a0495817"
+        ],
+        "mail_origin-rdf_value": "Avignon",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/95d3aa2c-9c4a-4e50-b945-ad403e65a7cf"
+        ],
+        "object_type": "work",
+        "origin_sort": "Avignon, Provence-Alpes-Côte d'Azur, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/bab45087-f16a-49f0-913c-22e0bdd1b4cb"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 20. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-04T18:09:22Z",
+        "ox_internalModified": "2019-04-04T18:09:22Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1746,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/6266a379-4757-42fe-8595-bf1897c43b44"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/6266a379-4757-42fe-8595-bf1897c43b44"
+        ],
+        "started_date_gregorian_sort": "1746-07-20T00:00:00Z",
+        "started_date_sort": "1746-07-20T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9e925649-f705-4ef1-ae5f-d9a0b9fc412a",
+        "uuid": "9e925649-f705-4ef1-ae5f-d9a0b9fc412a",
+        "uuid_related": [
+          "95d3aa2c-9c4a-4e50-b945-ad403e65a7cf",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "6c1a7b22-586e-4e93-be67-1117a0495817",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "bab45087-f16a-49f0-913c-22e0bdd1b4cb",
+          "6266a379-4757-42fe-8595-bf1897c43b44"
+        ]
+      },
+      {
+        "_version_": 1.8546419527330038e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/17976e76-32ae-46e2-a4fe-071b960d8418"
+        ],
+        "dcterms_description": "23 Jun 1754: Montagu, Mary Wortley (Lady), 1689-1762 (Louvre, Paris, Île-de-France, France) to Stuart, Mary, 1718-1794 (Temple Bar, Westminster, London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991712",
+        "dcterms_identifier-editi_": "editi_991712",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1d11413d-d17d-4ee6-b529-061827f235b0",
+        "dcterms_identifier-uuid_": "uuid_1d11413d-d17d-4ee6-b529-061827f235b0",
+        "dcterms_language": "English",
+        "destination_sort": "Temple Bar, Westminster, London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/022c9e23-3b2c-4622-89bf-345d71419e3c"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_1d11413d-d17d-4ee6-b529-061827f235b0",
+        "locations": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "http://localhost/location/c16dfe32-0712-4fce-a31c-c975a1692945"
+        ],
+        "mail_addressees-rdf_value": "The Rt Honble the Countess of Bute",
+        "mail_destination-location": [
+          "http://localhost/location/c16dfe32-0712-4fce-a31c-c975a1692945"
+        ],
+        "mail_destination-rdf_value": "recommended to Sam: Child Esqr near Temple Bar London Angleterre",
+        "mail_origin-location": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a"
+        ],
+        "mail_origin-rdf_value": "Louvere",
+        "mail_recipient-person": [
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/022c9e23-3b2c-4622-89bf-345d71419e3c"
+        ],
+        "object_type": "work",
+        "origin_sort": "Louvre, Paris, Île-de-France, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/17976e76-32ae-46e2-a4fe-071b960d8418"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "June 23. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-05T21:30:17Z",
+        "ox_internalModified": "2019-04-05T21:30:17Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 23,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1754,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/bacdc3dd-08a8-4b95-b5d7-93f00366910d"
+        ],
+        "recipient_sort": "Stuart, Mary, 1718-1794",
+        "resources": [
+          "http://localhost/resource/bacdc3dd-08a8-4b95-b5d7-93f00366910d"
+        ],
+        "started_date_gregorian_sort": "1754-06-23T00:00:00Z",
+        "started_date_sort": "1754-06-23T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1d11413d-d17d-4ee6-b529-061827f235b0",
+        "uuid": "1d11413d-d17d-4ee6-b529-061827f235b0",
+        "uuid_related": [
+          "022c9e23-3b2c-4622-89bf-345d71419e3c",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "24203a6b-872f-4ea1-b4c8-0c9d5210763e",
+          "ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "c16dfe32-0712-4fce-a31c-c975a1692945",
+          "17976e76-32ae-46e2-a4fe-071b960d8418",
+          "bacdc3dd-08a8-4b95-b5d7-93f00366910d"
+        ]
+      },
+      {
+        "_version_": 1.8546419527340524e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/acef5edd-dc7a-416f-9e63-655a08b131d5"
+        ],
+        "dcterms_description": "10 Jul 1754: Montagu, Mary Wortley (Lady), 1689-1762 (Louvre, Paris, Île-de-France, France) to Harley, Henrietta, 1694-1755 (Dover Street, London, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991713",
+        "dcterms_identifier-editi_": "editi_991713",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b47a3bed-c9e8-46b8-a357-61252d965b3c",
+        "dcterms_identifier-uuid_": "uuid_b47a3bed-c9e8-46b8-a357-61252d965b3c",
+        "dcterms_language": "English",
+        "destination_sort": "Dover Street, London, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c1e74644-bc79-477c-a3d1-19db52b4f046"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_b47a3bed-c9e8-46b8-a357-61252d965b3c",
+        "locations": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_addressees-rdf_value": "The Rt Honble the Lady Henrietta Countess of Oxford",
+        "mail_destination-location": [
+          "http://localhost/location/748f9f0a-d127-4dda-9048-e9330cf3dedf"
+        ],
+        "mail_destination-rdf_value": "Dover Street near St James's London AngleterreM",
+        "mail_origin-location": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a"
+        ],
+        "mail_origin-rdf_value": "Louvere",
+        "mail_recipient-person": [
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c1e74644-bc79-477c-a3d1-19db52b4f046"
+        ],
+        "object_type": "work",
+        "origin_sort": "Louvre, Paris, Île-de-France, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/acef5edd-dc7a-416f-9e63-655a08b131d5"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 10 N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-05T21:30:17Z",
+        "ox_internalModified": "2019-04-05T21:30:17Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1754,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/4d49924e-6436-4892-870a-d656e6a9e254"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/fbce4981-36fe-424e-ba73-e82731581994"
+        ],
+        "recipient_sort": "Harley, Henrietta, 1694-1755",
+        "resources": [
+          "http://localhost/resource/fbce4981-36fe-424e-ba73-e82731581994"
+        ],
+        "started_date_gregorian_sort": "1754-07-10T00:00:00Z",
+        "started_date_sort": "1754-07-10T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b47a3bed-c9e8-46b8-a357-61252d965b3c",
+        "uuid": "b47a3bed-c9e8-46b8-a357-61252d965b3c",
+        "uuid_related": [
+          "c1e74644-bc79-477c-a3d1-19db52b4f046",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "4d49924e-6436-4892-870a-d656e6a9e254",
+          "ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "748f9f0a-d127-4dda-9048-e9330cf3dedf",
+          "acef5edd-dc7a-416f-9e63-655a08b131d5",
+          "fbce4981-36fe-424e-ba73-e82731581994"
+        ]
+      },
+      {
+        "_version_": 1.8546419527340524e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/fab03c71-4944-4961-8f9c-ea50ef1a2ce3"
+        ],
+        "dcterms_description": "23 Jul 1754: Montagu, Mary Wortley (Lady), 1689-1762 (Louvre, Paris, Île-de-France, France) to Stuart, Mary, 1718-1794 (Temple Bar, Westminster, London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991715",
+        "dcterms_identifier-editi_": "editi_991715",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1fac6979-f18a-4f4a-bb9b-b6a82568ecea",
+        "dcterms_identifier-uuid_": "uuid_1fac6979-f18a-4f4a-bb9b-b6a82568ecea",
+        "dcterms_language": "English",
+        "destination_sort": "Temple Bar, Westminster, London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e3ff5bc0-819e-4e21-874b-48a3b3d08125"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_1fac6979-f18a-4f4a-bb9b-b6a82568ecea",
+        "locations": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "http://localhost/location/c16dfe32-0712-4fce-a31c-c975a1692945"
+        ],
+        "mail_addressees-rdf_value": "The Rt Honble the Countess of Bute",
+        "mail_destination-location": [
+          "http://localhost/location/c16dfe32-0712-4fce-a31c-c975a1692945"
+        ],
+        "mail_destination-rdf_value": "recommended to Samuel Child Esqr near Temple Bar London Angleterre",
+        "mail_origin-location": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a"
+        ],
+        "mail_origin-rdf_value": "Louvere",
+        "mail_recipient-person": [
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e3ff5bc0-819e-4e21-874b-48a3b3d08125"
+        ],
+        "object_type": "work",
+        "origin_sort": "Louvre, Paris, Île-de-France, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/fab03c71-4944-4961-8f9c-ea50ef1a2ce3"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 23.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-05T21:30:19Z",
+        "ox_internalModified": "2019-04-05T21:30:19Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 23,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1754,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/6175f509-a113-4209-9904-19ff954d275f"
+        ],
+        "recipient_sort": "Stuart, Mary, 1718-1794",
+        "resources": [
+          "http://localhost/resource/6175f509-a113-4209-9904-19ff954d275f"
+        ],
+        "started_date_gregorian_sort": "1754-07-23T00:00:00Z",
+        "started_date_sort": "1754-07-23T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1fac6979-f18a-4f4a-bb9b-b6a82568ecea",
+        "uuid": "1fac6979-f18a-4f4a-bb9b-b6a82568ecea",
+        "uuid_related": [
+          "e3ff5bc0-819e-4e21-874b-48a3b3d08125",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "24203a6b-872f-4ea1-b4c8-0c9d5210763e",
+          "ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "c16dfe32-0712-4fce-a31c-c975a1692945",
+          "fab03c71-4944-4961-8f9c-ea50ef1a2ce3",
+          "6175f509-a113-4209-9904-19ff954d275f"
+        ]
+      },
+      {
+        "_version_": 1.854641952735101e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/9db70f6b-4492-4efb-9a4f-73251e902456"
+        ],
+        "dcterms_description": "8 Dec 1754: Montagu, Mary Wortley (Lady), 1689-1762 (Louvre, Paris, Île-de-France, France) to Stuart, Mary, 1718-1794 (Temple Bar, Westminster, London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991717",
+        "dcterms_identifier-editi_": "editi_991717",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d68624e1-e7c0-40d1-9ba5-d56be494151b",
+        "dcterms_identifier-uuid_": "uuid_d68624e1-e7c0-40d1-9ba5-d56be494151b",
+        "dcterms_language": "English",
+        "destination_sort": "Temple Bar, Westminster, London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/8fa81bfc-c4db-49c0-a5cf-5804ecb68144"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_d68624e1-e7c0-40d1-9ba5-d56be494151b",
+        "locations": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "http://localhost/location/c16dfe32-0712-4fce-a31c-c975a1692945"
+        ],
+        "mail_addressees-rdf_value": "The Rt Honble the Countess of Bute",
+        "mail_destination-location": [
+          "http://localhost/location/c16dfe32-0712-4fce-a31c-c975a1692945"
+        ],
+        "mail_destination-rdf_value": "recommended to Sam: Child Esqr near Temple Bar London Angleterre",
+        "mail_origin-location": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a"
+        ],
+        "mail_origin-rdf_value": "Louvere",
+        "mail_recipient-person": [
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/8fa81bfc-c4db-49c0-a5cf-5804ecb68144"
+        ],
+        "object_type": "work",
+        "origin_sort": "Louvre, Paris, Île-de-France, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/9db70f6b-4492-4efb-9a4f-73251e902456"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Dec. 8. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-05T21:30:20Z",
+        "ox_internalModified": "2019-04-05T21:30:20Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1754,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/acdf513d-1a59-4e20-8586-e7a5be3d343d"
+        ],
+        "recipient_sort": "Stuart, Mary, 1718-1794",
+        "resources": [
+          "http://localhost/resource/acdf513d-1a59-4e20-8586-e7a5be3d343d"
+        ],
+        "started_date_gregorian_sort": "1754-12-08T00:00:00Z",
+        "started_date_sort": "1754-12-08T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d68624e1-e7c0-40d1-9ba5-d56be494151b",
+        "uuid": "d68624e1-e7c0-40d1-9ba5-d56be494151b",
+        "uuid_related": [
+          "8fa81bfc-c4db-49c0-a5cf-5804ecb68144",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "24203a6b-872f-4ea1-b4c8-0c9d5210763e",
+          "ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "c16dfe32-0712-4fce-a31c-c975a1692945",
+          "9db70f6b-4492-4efb-9a4f-73251e902456",
+          "acdf513d-1a59-4e20-8586-e7a5be3d343d"
+        ]
+      },
+      {
+        "_version_": 1.8546419527361495e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "1 Jan 1755: Montagu, Mary Wortley (Lady), 1689-1762 (Louvre, Paris, Île-de-France, France) to Stuart, Mary, 1718-1794 (Temple Bar, Westminster, London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991719",
+        "dcterms_identifier-editi_": "editi_991719",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/56c5e6d4-954d-4159-9984-48ea7d060a98",
+        "dcterms_identifier-uuid_": "uuid_56c5e6d4-954d-4159-9984-48ea7d060a98",
+        "dcterms_language": "English",
+        "destination_sort": "Temple Bar, Westminster, London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e2c3e95e-02d8-4d4a-ab75-41e1cf6587a3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_56c5e6d4-954d-4159-9984-48ea7d060a98",
+        "locations": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "http://localhost/location/c16dfe32-0712-4fce-a31c-c975a1692945"
+        ],
+        "mail_addressees-rdf_value": "The Rt Honble the Countess of Bute",
+        "mail_destination-location": [
+          "http://localhost/location/c16dfe32-0712-4fce-a31c-c975a1692945"
+        ],
+        "mail_destination-rdf_value": "recommended to Sam: Child Esqr near Temple Bar London Angleterre",
+        "mail_origin-location": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a"
+        ],
+        "mail_origin-rdf_value": "Louvere",
+        "mail_recipient-person": [
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e2c3e95e-02d8-4d4a-ab75-41e1cf6587a3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Louvre, Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Jan. 1. 1755. N.S.",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-05T21:30:21Z",
+        "ox_internalModified": "2019-04-05T21:30:21Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1755,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/5edfea17-ddd0-46b5-8fb8-15043a736d90"
+        ],
+        "recipient_sort": "Stuart, Mary, 1718-1794",
+        "resources": [
+          "http://localhost/resource/5edfea17-ddd0-46b5-8fb8-15043a736d90"
+        ],
+        "started_date_gregorian_sort": "1755-01-01T00:00:00Z",
+        "started_date_sort": "1755-01-01T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/56c5e6d4-954d-4159-9984-48ea7d060a98",
+        "uuid": "56c5e6d4-954d-4159-9984-48ea7d060a98",
+        "uuid_related": [
+          "e2c3e95e-02d8-4d4a-ab75-41e1cf6587a3",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "24203a6b-872f-4ea1-b4c8-0c9d5210763e",
+          "ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "c16dfe32-0712-4fce-a31c-c975a1692945",
+          "5edfea17-ddd0-46b5-8fb8-15043a736d90"
+        ]
+      },
+      {
+        "_version_": 1.8546419527382467e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/b4962608-e40a-4943-8f65-8a1773bdf880"
+        ],
+        "dcterms_description": "22 Sep 1755: Montagu, Mary Wortley (Lady), 1689-1762 (Louvre, Paris, Île-de-France, France) to Stuart, Mary, 1718-1794",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991723",
+        "dcterms_identifier-editi_": "editi_991723",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1a2befb2-6947-4a59-a3ed-ed28288c9e1e",
+        "dcterms_identifier-uuid_": "uuid_1a2befb2-6947-4a59-a3ed-ed28288c9e1e",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3fe901d6-ec8b-4e2d-8e9b-5ee88c8d5525"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_1a2befb2-6947-4a59-a3ed-ed28288c9e1e",
+        "locations": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ea1a6ff6-629c-4c1d-a5d0-2742c742570a"
+        ],
+        "mail_origin-rdf_value": "Louvere",
+        "mail_recipient-person": [
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3fe901d6-ec8b-4e2d-8e9b-5ee88c8d5525"
+        ],
+        "object_type": "work",
+        "origin_sort": "Louvre, Paris, Île-de-France, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/b4962608-e40a-4943-8f65-8a1773bdf880"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Sept. 22",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2019-04-05T21:30:23Z",
+        "ox_internalModified": "2019-04-05T21:30:23Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1755,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/24203a6b-872f-4ea1-b4c8-0c9d5210763e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/fbab8b38-7a96-49f8-ab75-906415710d30"
+        ],
+        "recipient_sort": "Stuart, Mary, 1718-1794",
+        "resources": [
+          "http://localhost/resource/fbab8b38-7a96-49f8-ab75-906415710d30"
+        ],
+        "started_date_gregorian_sort": "1755-09-22T00:00:00Z",
+        "started_date_sort": "1755-09-22T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:02:42.004Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1a2befb2-6947-4a59-a3ed-ed28288c9e1e",
+        "uuid": "1a2befb2-6947-4a59-a3ed-ed28288c9e1e",
+        "uuid_related": [
+          "3fe901d6-ec8b-4e2d-8e9b-5ee88c8d5525",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "24203a6b-872f-4ea1-b4c8-0c9d5210763e",
+          "ea1a6ff6-629c-4c1d-a5d0-2742c742570a",
+          "b4962608-e40a-4943-8f65-8a1773bdf880",
+          "fbab8b38-7a96-49f8-ab75-906415710d30"
+        ]
+      },
+      {
+        "_version_": 1.854642204400681e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Leris, Clair Josèphe Hippolyte, 1723-1803",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/e5a945ee-95c5-4062-8fb7-0cd0aa9bfbbf"
+        ],
+        "dcterms_abstract": "Minute de lettre de reproches écrite pour Mlle Clairon, vexée que la princesse de Robecq lui ait demandé un exemplaire de la Vision [le pamphlet de Morellet] suite à la réception d’une l. anonyme.",
+        "dcterms_description": "1760: D'Alembert, Jean-Baptiste le Rond, 1717-1783 ~ Leris, Clair Josèphe Hippolyte, 1723-1803 (Paris, Île-de-France, France) to Montmorency-Luxembourg, Anne de, 1728-1760",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001066254",
+        "dcterms_identifier-editi_": "editi_1066254",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2046493c-42eb-49dd-bfb9-dfc09cbc32d9",
+        "dcterms_identifier-uuid_": "uuid_2046493c-42eb-49dd-bfb9-dfc09cbc32d9",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4a72538c-ac51-4ca2-a95e-25ac4f47b4b4"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/46f5bc8c-6267-4bdc-8902-9070847a3817"
+        ],
+        "id": "uuid_2046493c-42eb-49dd-bfb9-dfc09cbc32d9",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_authors-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47c4be4b-fd41-4281-b37d-4242a4df8f8a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4a72538c-ac51-4ca2-a95e-25ac4f47b4b4"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/e5a945ee-95c5-4062-8fb7-0cd0aa9bfbbf"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2025-04-04T17:59:37Z",
+        "ox_internalModified": "2025-04-04T17:59:37Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_year": 1760,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/46f5bc8c-6267-4bdc-8902-9070847a3817",
+          "http://localhost/person/47c4be4b-fd41-4281-b37d-4242a4df8f8a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d73e1957-4002-4b68-804b-fd9dd447d486",
+          "http://localhost/resource/fff9b786-cded-431e-b1a1-fc716fa9b083"
+        ],
+        "recipient_sort": "Montmorency-Luxembourg, Anne de, 1728-1760",
+        "resources": [
+          "http://localhost/resource/d73e1957-4002-4b68-804b-fd9dd447d486",
+          "http://localhost/resource/fff9b786-cded-431e-b1a1-fc716fa9b083"
+        ],
+        "started_date_gregorian_sort": "1760-12-31T00:00:00Z",
+        "started_date_sort": "1760-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:04:33.192Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2046493c-42eb-49dd-bfb9-dfc09cbc32d9",
+        "uuid": "2046493c-42eb-49dd-bfb9-dfc09cbc32d9",
+        "uuid_related": [
+          "4a72538c-ac51-4ca2-a95e-25ac4f47b4b4",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "46f5bc8c-6267-4bdc-8902-9070847a3817",
+          "47c4be4b-fd41-4281-b37d-4242a4df8f8a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "e5a945ee-95c5-4062-8fb7-0cd0aa9bfbbf",
+          "d73e1957-4002-4b68-804b-fd9dd447d486",
+          "fff9b786-cded-431e-b1a1-fc716fa9b083"
+        ]
+      },
+      {
+        "_version_": 1.854642199580377e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Mlle de Lespinasse n’a pas besoin du carrosse de Mme Necker car elle ira avec l’ambassadeur de Naples. La santé de D’Al. ne lui permet pas de dîner, mais il ira la voir de bonne heure.",
+        "dcterms_description": "1773: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Necker, Suzanne Curchod, 1739-1794 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065414",
+        "dcterms_identifier-editi_": "editi_1065414",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "dcterms_identifier-uuid_": "uuid_703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c732bd70-0016-4062-a0cb-7eb992f28c7b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/32b8ac74-a9c5-449a-af02-06a284288d7c"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c732bd70-0016-4062-a0cb-7eb992f28c7b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Mlle de Lespinasse aura l’honneur d’aller diner demain vendredi chez Madame Necker, elle lui rend mille graces…",
+        "ox_internalAdded": "2026-01-18T07:58:59Z",
+        "ox_internalCreated": "2025-04-04T17:52:45Z",
+        "ox_internalModified": "2025-04-04T17:52:45Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_year": 1773,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/32b8ac74-a9c5-449a-af02-06a284288d7c"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/bfadfe07-1f10-40a4-ba1a-1cee2d8d26fd",
+          "http://localhost/resource/6bd0d734-556b-4501-8349-0a3db072db82"
+        ],
+        "recipient_sort": "Necker, Suzanne Curchod, 1739-1794",
+        "resources": [
+          "http://localhost/resource/bfadfe07-1f10-40a4-ba1a-1cee2d8d26fd",
+          "http://localhost/resource/6bd0d734-556b-4501-8349-0a3db072db82"
+        ],
+        "started_date_gregorian_sort": "1773-12-31T00:00:00Z",
+        "started_date_sort": "1773-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-01-18T08:04:32.587Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "uuid": "703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "uuid_related": [
+          "c732bd70-0016-4062-a0cb-7eb992f28c7b",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "32b8ac74-a9c5-449a-af02-06a284288d7c",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "bfadfe07-1f10-40a4-ba1a-1cee2d8d26fd",
+          "6bd0d734-556b-4501-8349-0a3db072db82"
+        ]
+      }
+    ],
+    "numFound": 39,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 1,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1739-01-01T00:00:00Z TO 1789-12-31T23:59:59Z] AND person-author-gender:(female) AND person-recipient-gender:(female) AND location-origin:(Paris, Île-de-France, France)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
