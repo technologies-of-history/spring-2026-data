@@ -1,0 +1,81 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/F008078.manifest.json",
+  "@type": "sc:Manifest",
+  "attribution": "Heidelberger Akademie der Wissenschaften / Epigraphische Datenbank Heidelberg",
+  "description": "Image(s) taken from the Epigraphic Database Heidelberg",
+  "label": "EDH Image F008078",
+  "license": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz",
+  "metadata": [
+    {
+      "label": "Provinz / Italische Region",
+      "value": "Iudaea"
+    },
+    {
+      "label": "Land",
+      "value": "Isreal"
+    },
+    {
+      "label": "Fundort antik",
+      "value": "Caesarea Maritima"
+    },
+    {
+      "label": "Fundort modern",
+      "value": "Har Qesari"
+    },
+    {
+      "label": "Aufbewahrung",
+      "value": "Jerusalem, Israel Mus."
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F008078",
+          "@type": "sc:Canvas",
+          "height": 1988,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F008078",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/f008078",
+              "resource": {
+                "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/resource/F008078",
+                "@type": "dctypes:Image",
+                "format": "image/png",
+                "height": 1988,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1419904%3A768207",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1637
+              }
+            }
+          ],
+          "label": "F008078",
+          "metadata": [
+            {
+              "label": "Foto ID",
+              "value": "https://edh.ub.uni-heidelberg.de/edh/foto/F008078"
+            },
+            {
+              "label": "Photo credits",
+              "value": "© G. Alföldy"
+            },
+            {
+              "label": "Date of photograph",
+              "value": "1994"
+            }
+          ],
+          "width": 1637
+        }
+      ],
+      "label": "EDH Sequence"
+    }
+  ]
+}
