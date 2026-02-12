@@ -42,7 +42,7 @@
               "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F020581",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/f020581",
+              "on": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F020581",
               "resource": {
                 "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/resource/F020581",
                 "@type": "dctypes:Image",
