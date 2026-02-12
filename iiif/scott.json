@@ -1,0 +1,81 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/F020581.manifest.json",
+  "@type": "sc:Manifest",
+  "attribution": "Heidelberger Akademie der Wissenschaften / Epigraphische Datenbank Heidelberg",
+  "description": "Image(s) taken from the Epigraphic Database Heidelberg",
+  "label": "EDH Image F020581",
+  "license": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz",
+  "metadata": [
+    {
+      "label": "Provinz / Italische Region",
+      "value": "Cilicia"
+    },
+    {
+      "label": "Land",
+      "value": "Turkey"
+    },
+    {
+      "label": "Fundort antik",
+      "value": "Anazarbus, bei"
+    },
+    {
+      "label": "Fundort modern",
+      "value": "Dilekkaya, bei"
+    },
+    {
+      "label": "Aufbewahrung",
+      "value": "Dilekkaya, Museum"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F020581",
+          "@type": "sc:Canvas",
+          "height": 2000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F020581",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/f020581",
+              "resource": {
+                "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/resource/F020581",
+                "@type": "dctypes:Image",
+                "format": "image/png",
+                "height": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1432556%3A780654",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1748
+              }
+            }
+          ],
+          "label": "F020581",
+          "metadata": [
+            {
+              "label": "Foto ID",
+              "value": "https://edh.ub.uni-heidelberg.de/edh/foto/F020581"
+            },
+            {
+              "label": "Photo credits",
+              "value": "© C. Witschel"
+            },
+            {
+              "label": "Date of photograph",
+              "value": "2009"
+            }
+          ],
+          "width": 1748
+        }
+      ],
+      "label": "EDH Sequence"
+    }
+  ]
+}
