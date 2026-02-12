@@ -42,7 +42,7 @@
               "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F008078",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/f008078",
+              "on": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F008078",
               "resource": {
                 "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/resource/F008078",
                 "@type": "dctypes:Image",
