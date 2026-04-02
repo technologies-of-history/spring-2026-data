@@ -1,0 +1,1927 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Schurman, Anna Maria van",
+        22, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0, "Arias Montano, Benito",
+        0, "Artists' Letters. Rome and Europe 1750–1850",
+        0],
+      "destination_sort": [
+        "Zierikzee, Zeeland , Netherlands",
+        3, "Breda, North Brabant, Netherlands",
+        1, "Cologne, North Rhine-Westphalia, Germany",
+        1, "Franeker, Friesland, Netherlands",
+        1, "Herford, North Rhine-Westphalia, Germany",
+        1, "The Hague, South Holland, Netherlands",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+        22, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0, "http://localhost/person/00086f8c-d6b0-4807-b6a0-e5c10137ae1d",
+        0, "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+        0, "http://localhost/person/000e0be1-7955-4cb3-a8c5-b2955f734f70",
+        0, "http://localhost/person/000e9fda-37e1-4fe4-8dfb-0c200a22ae4c",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/64290487-c11c-4316-a12e-569ba40ad6f8",
+        4, "http://localhost/person/e0f98987-8d24-4877-9830-65c9244c4a3d",
+        4, "http://localhost/person/7120beee-44ad-4da0-bde9-e16eb84f7094",
+        2, "http://localhost/person/7f096a88-7f21-4a45-8b7b-5463577fb4c6",
+        2, "http://localhost/person/9b000a96-d682-4867-af8b-70a7f5183c4a",
+        2, "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+        2, "http://localhost/person/10e71728-33b1-45c3-a27f-4c956020c61b",
+        1, "http://localhost/person/63a1b281-e5ff-440e-ac5f-83d3aea1eb32",
+        1, "http://localhost/person/69f6ba09-e3f8-4cec-959f-3326bd507934",
+        1, "http://localhost/person/ae7a3cdd-3a4c-4e2c-b066-e8b05fcfd9c5",
+        1],
+      "origin_sort": [
+        "Utrecht, Utrecht, Netherlands",
+        19, "Amsterdam, North Holland, (United Provinces) Netherlands",
+        1, "Cologne, North Rhine-Westphalia, Germany",
+        1, "Lexmond, South Holland, Netherlands",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0],
+      "ox_started-ox_year": [
+        "1640",
+        3, "1639",
+        2, "1643",
+        2, "1645",
+        2, "1646",
+        2, "1627",
+        1, "1641",
+        1, "1642",
+        1, "1644",
+        1, "1648",
+        1]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_017a1fa7-bc51-48c8-a005-22a8c2a834e4": {
+
+    },
+    "uuid_0fb8eac1-c6d9-4ebd-a6da-dfc0e2d7305d": {
+
+    },
+    "uuid_1a758ade-058f-4670-84e4-fddedd10ac16": {
+
+    },
+    "uuid_271ead17-eb27-479e-96cf-dc4604dc9051": {
+
+    },
+    "uuid_3f759ab2-dc96-4d8f-8b45-71aea9275406": {
+
+    },
+    "uuid_48f8b803-b083-4a2e-a389-d134c8eb44d1": {
+
+    },
+    "uuid_49601c80-00e3-4e23-87c2-4eb1c8cad9bf": {
+
+    },
+    "uuid_58339e16-4223-42b3-918f-837471d2658c": {
+
+    },
+    "uuid_7a025f2d-ecdf-4392-896d-ce098fbe0cec": {
+
+    },
+    "uuid_806dac8d-9a62-4e6c-9b1f-d9c2bb0dc6b0": {
+
+    },
+    "uuid_85e47ce5-3f1c-4277-baeb-0c14112e91a9": {
+
+    },
+    "uuid_8e6f22b1-ca68-4be5-878b-2c622adc116e": {
+
+    },
+    "uuid_956a307a-5546-408a-8597-bdf5baca9ede": {
+
+    },
+    "uuid_9d2ec915-bb12-46cc-8edf-1c2a00dd2bd5": {
+
+    },
+    "uuid_a05d0a21-9b71-4e27-84bc-015ad51a8598": {
+
+    },
+    "uuid_a9fc179d-c6a1-4a9d-80f5-192d3183002c": {
+
+    },
+    "uuid_b20fc150-336e-4bd1-b37f-b48ec1d2866b": {
+
+    },
+    "uuid_b4e5332f-bfcd-4a80-8d7b-c562fe48f08b": {
+
+    },
+    "uuid_c8654e13-1058-41a3-b985-ec01183512ab": {
+
+    },
+    "uuid_d6008f1c-9f7e-46d4-b688-8bc754e564b8": {
+
+    },
+    "uuid_d8518b36-7e6b-4e3a-a148-c359e66b2f3f": {
+
+    },
+    "uuid_d99d83c1-02b8-4eaa-9dad-7ddaed422df5": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.860979665769857e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "7 Mar 1627: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Ostheim, Gelle de, fl. 1627 (Franeker, Friesland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970488",
+        "dcterms_identifier-editi_": "editi_970488",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1a758ade-058f-4670-84e4-fddedd10ac16",
+        "dcterms_identifier-uuid_": "uuid_1a758ade-058f-4670-84e4-fddedd10ac16",
+        "dcterms_language": "French",
+        "destination_sort": "Franeker, Friesland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/525450fe-1d27-4274-ab2b-b9c82ebdc409"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_1a758ade-058f-4670-84e4-fddedd10ac16",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "http://localhost/location/99d705f5-16ec-4c99-a92c-26323b9b0d91"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/99d705f5-16ec-4c99-a92c-26323b9b0d91"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/63a1b281-e5ff-440e-ac5f-83d3aea1eb32"
+        ],
+        "manifestation-institution-place": [
+          "Tresoar",
+          "Fries Historisch en Letterkundig Centrum\nFrysk Histoarysk en Letterkundich Sintrum\nProvinciale Bibliotheek Friesland\nProvincial Libary, Leeuwarden\nTresoar, Frysk Histoarysk en Letterkundich Sintrum",
+          "Leeuwarden",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/525450fe-1d27-4274-ab2b-b9c82ebdc409"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Pour n'estre reputé pas trop ingrate, si je passerais sous silence l'infinité d'obligations que je vous ay",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:33Z",
+        "ox_internalModified": "2022-10-03T21:53:15Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1627,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/63a1b281-e5ff-440e-ac5f-83d3aea1eb32"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ostheim, Gelle de, fl. 1627",
+        "started_date_gregorian_sort": "1627-03-07T00:00:00Z",
+        "started_date_sort": "1627-03-07T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1a758ade-058f-4670-84e4-fddedd10ac16",
+        "uuid": "1a758ade-058f-4670-84e4-fddedd10ac16",
+        "uuid_related": [
+          "525450fe-1d27-4274-ab2b-b9c82ebdc409",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "63a1b281-e5ff-440e-ac5f-83d3aea1eb32",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "99d705f5-16ec-4c99-a92c-26323b9b0d91"
+        ]
+      },
+      {
+        "_version_": 1.8609796657593713e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "7 Sep 1639: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Elisabeth of the Palatinate (Princess), 1618-1680",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970468",
+        "dcterms_identifier-editi_": "editi_970468",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9d2ec915-bb12-46cc-8edf-1c2a00dd2bd5",
+        "dcterms_identifier-uuid_": "uuid_9d2ec915-bb12-46cc-8edf-1c2a00dd2bd5",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c67650f5-e736-4998-bc2c-67ef7b11b8a4",
+          "http://localhost/manifestation/4c8bde68-a4c2-45c7-8d5b-87889993920e",
+          "http://localhost/manifestation/95ff73b3-3665-4120-8076-c861cc7a1996"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_9d2ec915-bb12-46cc-8edf-1c2a00dd2bd5",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7120beee-44ad-4da0-bde9-e16eb84f7094"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c67650f5-e736-4998-bc2c-67ef7b11b8a4",
+          "http://localhost/manifestation/4c8bde68-a4c2-45c7-8d5b-87889993920e",
+          "http://localhost/manifestation/95ff73b3-3665-4120-8076-c861cc7a1996"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Madame, je ne puis exprimer l'excez de joye & de contentement que j'ay reçeu en lisant la lettre que Vostre Altesse m'a fait la grace de m'escrire:",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:04Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1639,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/7120beee-44ad-4da0-bde9-e16eb84f7094"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/8651e2ce-e0d6-4578-8fbd-da400b9d1278",
+          "http://localhost/resource/09c182cf-889f-458f-8d08-6ba41c7868fb"
+        ],
+        "recipient_sort": "Elisabeth of the Palatinate (Princess), 1618-1680",
+        "resources": [
+          "http://localhost/resource/8651e2ce-e0d6-4578-8fbd-da400b9d1278",
+          "http://localhost/resource/09c182cf-889f-458f-8d08-6ba41c7868fb"
+        ],
+        "started_date_gregorian_sort": "1639-09-07T00:00:00Z",
+        "started_date_sort": "1639-09-07T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9d2ec915-bb12-46cc-8edf-1c2a00dd2bd5",
+        "uuid": "9d2ec915-bb12-46cc-8edf-1c2a00dd2bd5",
+        "uuid_related": [
+          "c67650f5-e736-4998-bc2c-67ef7b11b8a4",
+          "4c8bde68-a4c2-45c7-8d5b-87889993920e",
+          "95ff73b3-3665-4120-8076-c861cc7a1996",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "7120beee-44ad-4da0-bde9-e16eb84f7094",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "8651e2ce-e0d6-4578-8fbd-da400b9d1278",
+          "09c182cf-889f-458f-8d08-6ba41c7868fb"
+        ]
+      },
+      {
+        "_version_": 1.860979665755177e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "25 Dec 1639: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Coutel (Mrs), d.1639",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970462",
+        "dcterms_identifier-editi_": "editi_970462",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a05d0a21-9b71-4e27-84bc-015ad51a8598",
+        "dcterms_identifier-uuid_": "uuid_a05d0a21-9b71-4e27-84bc-015ad51a8598",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6c59ceb4-ddcc-40d3-a414-ec68ae35b53e",
+          "http://localhost/manifestation/cc49c63c-fd9b-432e-810a-176e15cc116d",
+          "http://localhost/manifestation/0c344483-211a-4068-826d-39f2fdd4c23a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_a05d0a21-9b71-4e27-84bc-015ad51a8598",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69f6ba09-e3f8-4cec-959f-3326bd507934"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6c59ceb4-ddcc-40d3-a414-ec68ae35b53e",
+          "http://localhost/manifestation/cc49c63c-fd9b-432e-810a-176e15cc116d",
+          "http://localhost/manifestation/0c344483-211a-4068-826d-39f2fdd4c23a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Vous verrez dans ce petit tableau, que je vous envoye en recognoissance de vostre tres precieux present, que mon amitié",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:01Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1639,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/69f6ba09-e3f8-4cec-959f-3326bd507934"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/7f466fb2-c85a-4b5e-8d21-960577cf9955",
+          "http://localhost/resource/51f55777-5021-4b06-99a7-1b0604f8cd03"
+        ],
+        "recipient_sort": "Coutel (Mrs), d.1639",
+        "resources": [
+          "http://localhost/resource/7f466fb2-c85a-4b5e-8d21-960577cf9955",
+          "http://localhost/resource/51f55777-5021-4b06-99a7-1b0604f8cd03"
+        ],
+        "started_date_gregorian_sort": "1639-12-25T00:00:00Z",
+        "started_date_sort": "1639-12-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a05d0a21-9b71-4e27-84bc-015ad51a8598",
+        "uuid": "a05d0a21-9b71-4e27-84bc-015ad51a8598",
+        "uuid_related": [
+          "6c59ceb4-ddcc-40d3-a414-ec68ae35b53e",
+          "cc49c63c-fd9b-432e-810a-176e15cc116d",
+          "0c344483-211a-4068-826d-39f2fdd4c23a",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "69f6ba09-e3f8-4cec-959f-3326bd507934",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "7f466fb2-c85a-4b5e-8d21-960577cf9955",
+          "51f55777-5021-4b06-99a7-1b0604f8cd03"
+        ]
+      },
+      {
+        "_version_": 1.8609796657709056e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "comments": [
+          "http://localhost/comment/b5b7c4de-5d71-4522-a56d-dfbf3620c082"
+        ],
+        "dcterms_description": "13 May 1640: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Makin, Bathsua, 1600-1675 or after",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970490",
+        "dcterms_identifier-editi_": "editi_970490",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/271ead17-eb27-479e-96cf-dc4604dc9051",
+        "dcterms_identifier-uuid_": "uuid_271ead17-eb27-479e-96cf-dc4604dc9051",
+        "dcterms_language": "Ancient Greek",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f4af4b2c-ef04-4a01-b242-a92db0c978a2",
+          "http://localhost/manifestation/8ebd560c-8e97-4185-96c4-7864852f8429"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_271ead17-eb27-479e-96cf-dc4604dc9051",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7f096a88-7f21-4a45-8b7b-5463577fb4c6"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f4af4b2c-ef04-4a01-b242-a92db0c978a2",
+          "http://localhost/manifestation/8ebd560c-8e97-4185-96c4-7864852f8429"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/b5b7c4de-5d71-4522-a56d-dfbf3620c082"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "Επεστειλα σοι ου προ πολλου, γυναικων τιμιωτατη, ποτερον λαβης αν εμα τα γραμματα",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:34Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1640,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/7f096a88-7f21-4a45-8b7b-5463577fb4c6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3e34b661-771c-4424-822d-5b5639aa1d1e",
+          "http://localhost/resource/ba02760f-33e4-4697-8a4f-e138c95bc71f"
+        ],
+        "recipient_sort": "Makin, Bathsua, 1600-1675 or after",
+        "resources": [
+          "http://localhost/resource/3e34b661-771c-4424-822d-5b5639aa1d1e",
+          "http://localhost/resource/ba02760f-33e4-4697-8a4f-e138c95bc71f"
+        ],
+        "started_date_gregorian_sort": "1640-05-13T00:00:00Z",
+        "started_date_sort": "1640-05-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/271ead17-eb27-479e-96cf-dc4604dc9051",
+        "uuid": "271ead17-eb27-479e-96cf-dc4604dc9051",
+        "uuid_related": [
+          "f4af4b2c-ef04-4a01-b242-a92db0c978a2",
+          "8ebd560c-8e97-4185-96c4-7864852f8429",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "7f096a88-7f21-4a45-8b7b-5463577fb4c6",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "b5b7c4de-5d71-4522-a56d-dfbf3620c082",
+          "3e34b661-771c-4424-822d-5b5639aa1d1e",
+          "ba02760f-33e4-4697-8a4f-e138c95bc71f"
+        ]
+      },
+      {
+        "_version_": 1.8609796657751e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "comments": [
+          "http://localhost/comment/e99ec80e-4c2c-459a-adfe-284ed792e867"
+        ],
+        "dcterms_description": "8 Aug 1640: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Dury, Dorothy Moore (née King), 1612-1664",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970497",
+        "dcterms_identifier-editi_": "editi_970497",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d6008f1c-9f7e-46d4-b688-8bc754e564b8",
+        "dcterms_identifier-uuid_": "uuid_d6008f1c-9f7e-46d4-b688-8bc754e564b8",
+        "dcterms_language": "Hebrew",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/52d61a54-fbbf-4309-9e5f-0ff83e331326",
+          "http://localhost/manifestation/ef9c9ed7-9bab-4578-bf2c-b7dd4856fa31"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_d6008f1c-9f7e-46d4-b688-8bc754e564b8",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/52d61a54-fbbf-4309-9e5f-0ff83e331326",
+          "http://localhost/manifestation/ef9c9ed7-9bab-4578-bf2c-b7dd4856fa31"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/e99ec80e-4c2c-459a-adfe-284ed792e867"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:37Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1640,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/fd3468ff-bbb3-49be-ac7a-0a67acd17707",
+          "http://localhost/resource/512b9375-9c19-4e8f-9249-d896e8090bf0"
+        ],
+        "recipient_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "resources": [
+          "http://localhost/resource/fd3468ff-bbb3-49be-ac7a-0a67acd17707",
+          "http://localhost/resource/512b9375-9c19-4e8f-9249-d896e8090bf0"
+        ],
+        "started_date_gregorian_sort": "1640-08-08T00:00:00Z",
+        "started_date_sort": "1640-08-08T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d6008f1c-9f7e-46d4-b688-8bc754e564b8",
+        "uuid": "d6008f1c-9f7e-46d4-b688-8bc754e564b8",
+        "uuid_related": [
+          "52d61a54-fbbf-4309-9e5f-0ff83e331326",
+          "ef9c9ed7-9bab-4578-bf2c-b7dd4856fa31",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "e99ec80e-4c2c-459a-adfe-284ed792e867",
+          "fd3468ff-bbb3-49be-ac7a-0a67acd17707",
+          "512b9375-9c19-4e8f-9249-d896e8090bf0"
+        ]
+      },
+      {
+        "_version_": 1.8609796657751e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "1 Apr 1641: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Dury, Dorothy Moore (née King), 1612-1664",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970498",
+        "dcterms_identifier-editi_": "editi_970498",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/85e47ce5-3f1c-4277-baeb-0c14112e91a9",
+        "dcterms_identifier-uuid_": "uuid_85e47ce5-3f1c-4277-baeb-0c14112e91a9",
+        "dcterms_language": "Latin",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/eac15758-6f70-43cf-a0c9-8ae771d65c51",
+          "http://localhost/manifestation/e1e72747-c762-420a-a01d-9e93e661b90f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_85e47ce5-3f1c-4277-baeb-0c14112e91a9",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/eac15758-6f70-43cf-a0c9-8ae771d65c51",
+          "http://localhost/manifestation/e1e72747-c762-420a-a01d-9e93e661b90f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Nectare dulciores mihi visae sunt tuae literae,",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:38Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1641,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/493f0b8d-1b1f-42dc-8f4c-3366d0cb4862",
+          "http://localhost/resource/50369238-8250-43ba-b10f-281ef91c89d6"
+        ],
+        "recipient_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "resources": [
+          "http://localhost/resource/493f0b8d-1b1f-42dc-8f4c-3366d0cb4862",
+          "http://localhost/resource/50369238-8250-43ba-b10f-281ef91c89d6"
+        ],
+        "started_date_gregorian_sort": "1641-04-01T00:00:00Z",
+        "started_date_sort": "1641-04-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/85e47ce5-3f1c-4277-baeb-0c14112e91a9",
+        "uuid": "85e47ce5-3f1c-4277-baeb-0c14112e91a9",
+        "uuid_related": [
+          "eac15758-6f70-43cf-a0c9-8ae771d65c51",
+          "e1e72747-c762-420a-a01d-9e93e661b90f",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "493f0b8d-1b1f-42dc-8f4c-3366d0cb4862",
+          "50369238-8250-43ba-b10f-281ef91c89d6"
+        ]
+      },
+      {
+        "_version_": 1.8609796657730028e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "13 Aug 1642: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Merveil, Anne de, fl. 1642",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970493",
+        "dcterms_identifier-editi_": "editi_970493",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/58339e16-4223-42b3-918f-837471d2658c",
+        "dcterms_identifier-uuid_": "uuid_58339e16-4223-42b3-918f-837471d2658c",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ed405d73-fe4c-43a7-a694-d6deff4d79ce",
+          "http://localhost/manifestation/5d88756e-a487-4bf3-8ed6-35e7c4c08a3a",
+          "http://localhost/manifestation/651a6aab-872d-46f4-bfd8-9ed6261fb44a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_58339e16-4223-42b3-918f-837471d2658c",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bf292503-d8c0-4024-a31b-4f26fb1aa199"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ed405d73-fe4c-43a7-a694-d6deff4d79ce",
+          "http://localhost/manifestation/5d88756e-a487-4bf3-8ed6-35e7c4c08a3a",
+          "http://localhost/manifestation/651a6aab-872d-46f4-bfd8-9ed6261fb44a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je ne sçay si je dois avoir plus de compassion de vostre adversité, ou plus de joye de vostre victoire.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:35Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1642,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/bf292503-d8c0-4024-a31b-4f26fb1aa199"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/59155416-b7ed-4c3d-8619-e3af5d330508",
+          "http://localhost/resource/33ff1474-56f3-4d48-a017-869493c50f23"
+        ],
+        "recipient_sort": "Merveil, Anne de, fl. 1642",
+        "resources": [
+          "http://localhost/resource/59155416-b7ed-4c3d-8619-e3af5d330508",
+          "http://localhost/resource/33ff1474-56f3-4d48-a017-869493c50f23"
+        ],
+        "started_date_gregorian_sort": "1642-08-13T00:00:00Z",
+        "started_date_sort": "1642-08-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/58339e16-4223-42b3-918f-837471d2658c",
+        "uuid": "58339e16-4223-42b3-918f-837471d2658c",
+        "uuid_related": [
+          "ed405d73-fe4c-43a7-a694-d6deff4d79ce",
+          "5d88756e-a487-4bf3-8ed6-35e7c4c08a3a",
+          "651a6aab-872d-46f4-bfd8-9ed6261fb44a",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "bf292503-d8c0-4024-a31b-4f26fb1aa199",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "59155416-b7ed-4c3d-8619-e3af5d330508",
+          "33ff1474-56f3-4d48-a017-869493c50f23"
+        ]
+      },
+      {
+        "_version_": 1.8609796661326643e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "19 Aug 1643: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Rohan, Anne de, 1584-1646",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970564",
+        "dcterms_identifier-editi_": "editi_970564",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/806dac8d-9a62-4e6c-9b1f-d9c2bb0dc6b0",
+        "dcterms_identifier-uuid_": "uuid_806dac8d-9a62-4e6c-9b1f-d9c2bb0dc6b0",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/11aa86b8-3f86-459f-9a5f-8c9448c06b1d",
+          "http://localhost/manifestation/062b3089-a476-47e6-a8c8-2dc2aa0f9598",
+          "http://localhost/manifestation/04856a94-994a-4003-be5c-3d605327db07"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_806dac8d-9a62-4e6c-9b1f-d9c2bb0dc6b0",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/9b000a96-d682-4867-af8b-70a7f5183c4a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/11aa86b8-3f86-459f-9a5f-8c9448c06b1d",
+          "http://localhost/manifestation/062b3089-a476-47e6-a8c8-2dc2aa0f9598",
+          "http://localhost/manifestation/04856a94-994a-4003-be5c-3d605327db07"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "J'ay esté d'avis cy devant que, pour estimer & reverer dignement vos tres-eminentes vertus, il les falloit plustot couvrir du voile d'un sacré silence, que de rabattre de leur pris, par la bassesse de mon style",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:46:07Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 19,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1643,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/9b000a96-d682-4867-af8b-70a7f5183c4a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/720a6c74-22b6-446a-b877-588313804183",
+          "http://localhost/resource/bc3a3cd9-a210-44d9-b78e-6507888829d3"
+        ],
+        "recipient_sort": "Rohan, Anne de, 1584-1646",
+        "resources": [
+          "http://localhost/resource/720a6c74-22b6-446a-b877-588313804183",
+          "http://localhost/resource/bc3a3cd9-a210-44d9-b78e-6507888829d3"
+        ],
+        "started_date_gregorian_sort": "1643-08-19T00:00:00Z",
+        "started_date_sort": "1643-08-19T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/806dac8d-9a62-4e6c-9b1f-d9c2bb0dc6b0",
+        "uuid": "806dac8d-9a62-4e6c-9b1f-d9c2bb0dc6b0",
+        "uuid_related": [
+          "11aa86b8-3f86-459f-9a5f-8c9448c06b1d",
+          "062b3089-a476-47e6-a8c8-2dc2aa0f9598",
+          "04856a94-994a-4003-be5c-3d605327db07",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "9b000a96-d682-4867-af8b-70a7f5183c4a",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "720a6c74-22b6-446a-b877-588313804183",
+          "bc3a3cd9-a210-44d9-b78e-6507888829d3"
+        ]
+      },
+      {
+        "_version_": 1.8609796661316157e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "13 Nov 1643: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Rohan, Anne de, 1584-1646",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970563",
+        "dcterms_identifier-editi_": "editi_970563",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c8654e13-1058-41a3-b985-ec01183512ab",
+        "dcterms_identifier-uuid_": "uuid_c8654e13-1058-41a3-b985-ec01183512ab",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/10285173-4934-4111-9dec-5463ed26c99e",
+          "http://localhost/manifestation/a254d945-3e9a-47e3-a4d4-dc3c753a610a",
+          "http://localhost/manifestation/31bd23da-4974-476d-a9d8-40470bcef6ab"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_c8654e13-1058-41a3-b985-ec01183512ab",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/9b000a96-d682-4867-af8b-70a7f5183c4a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/10285173-4934-4111-9dec-5463ed26c99e",
+          "http://localhost/manifestation/a254d945-3e9a-47e3-a4d4-dc3c753a610a",
+          "http://localhost/manifestation/31bd23da-4974-476d-a9d8-40470bcef6ab"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Ce seroit une grande presomption de vouloir attribuër à mon merite, & non pas à vostre pure bonte, qu'il vous a plú de recevoir si gracieusement les offres de mon stres-humble service,",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:46:06Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1643,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/9b000a96-d682-4867-af8b-70a7f5183c4a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/adb66925-61cc-4088-a487-0e24c3095a95",
+          "http://localhost/resource/b1fb708a-9fd7-4e26-abd7-d9dff6f12e12"
+        ],
+        "recipient_sort": "Rohan, Anne de, 1584-1646",
+        "resources": [
+          "http://localhost/resource/adb66925-61cc-4088-a487-0e24c3095a95",
+          "http://localhost/resource/b1fb708a-9fd7-4e26-abd7-d9dff6f12e12"
+        ],
+        "started_date_gregorian_sort": "1643-11-13T00:00:00Z",
+        "started_date_sort": "1643-11-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c8654e13-1058-41a3-b985-ec01183512ab",
+        "uuid": "c8654e13-1058-41a3-b985-ec01183512ab",
+        "uuid_related": [
+          "10285173-4934-4111-9dec-5463ed26c99e",
+          "a254d945-3e9a-47e3-a4d4-dc3c753a610a",
+          "31bd23da-4974-476d-a9d8-40470bcef6ab",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "9b000a96-d682-4867-af8b-70a7f5183c4a",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "adb66925-61cc-4088-a487-0e24c3095a95",
+          "b1fb708a-9fd7-4e26-abd7-d9dff6f12e12"
+        ]
+      },
+      {
+        "_version_": 1.8609796657583227e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "26 Jan 1644: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Elisabeth of the Palatinate (Princess), 1618-1680",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970467",
+        "dcterms_identifier-editi_": "editi_970467",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/017a1fa7-bc51-48c8-a005-22a8c2a834e4",
+        "dcterms_identifier-uuid_": "uuid_017a1fa7-bc51-48c8-a005-22a8c2a834e4",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/1184b825-e1cc-41df-a6fc-bd2f624ca00d",
+          "http://localhost/manifestation/7e56479f-3926-4d2b-8c4a-c2aac34ca123",
+          "http://localhost/manifestation/e44d5f6a-6706-4975-a6c9-abb35edc10d3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_017a1fa7-bc51-48c8-a005-22a8c2a834e4",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7120beee-44ad-4da0-bde9-e16eb84f7094"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/1184b825-e1cc-41df-a6fc-bd2f624ca00d",
+          "http://localhost/manifestation/7e56479f-3926-4d2b-8c4a-c2aac34ca123",
+          "http://localhost/manifestation/e44d5f6a-6706-4975-a6c9-abb35edc10d3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Ce seroit ignorer la grandeur de Vostre Altesse, & la petitesse de ma condition que d'attribuër à mon merite plustost, qu'à vostre pure grace, qu'il vous a plû m'honnorer dernierement d'une lettre de vostre main,",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:03Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1644,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/7120beee-44ad-4da0-bde9-e16eb84f7094"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b3a428e1-8a59-4ef5-ad20-9403959e22b8",
+          "http://localhost/resource/e7f74aad-1676-41f4-af41-6175225cb942"
+        ],
+        "recipient_sort": "Elisabeth of the Palatinate (Princess), 1618-1680",
+        "resources": [
+          "http://localhost/resource/b3a428e1-8a59-4ef5-ad20-9403959e22b8",
+          "http://localhost/resource/e7f74aad-1676-41f4-af41-6175225cb942"
+        ],
+        "started_date_gregorian_sort": "1644-01-26T00:00:00Z",
+        "started_date_sort": "1644-01-26T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/017a1fa7-bc51-48c8-a005-22a8c2a834e4",
+        "uuid": "017a1fa7-bc51-48c8-a005-22a8c2a834e4",
+        "uuid_related": [
+          "1184b825-e1cc-41df-a6fc-bd2f624ca00d",
+          "7e56479f-3926-4d2b-8c4a-c2aac34ca123",
+          "e44d5f6a-6706-4975-a6c9-abb35edc10d3",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "7120beee-44ad-4da0-bde9-e16eb84f7094",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "b3a428e1-8a59-4ef5-ad20-9403959e22b8",
+          "e7f74aad-1676-41f4-af41-6175225cb942"
+        ]
+      },
+      {
+        "_version_": 1.860979666403197e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "3 Feb 1645: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Soulekercken, van, fl. 1645-1660 (Cologne, North Rhine-Westphalia, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970649",
+        "dcterms_identifier-editi_": "editi_970649",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b20fc150-336e-4bd1-b37f-b48ec1d2866b",
+        "dcterms_identifier-uuid_": "uuid_b20fc150-336e-4bd1-b37f-b48ec1d2866b",
+        "dcterms_language": "Dutch",
+        "destination_sort": "Cologne, North Rhine-Westphalia, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/55dfbd58-c7e0-4811-b52e-c2421d170558",
+          "http://localhost/manifestation/4b2d65ca-6e08-46eb-9866-4f874f6f4f90"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_b20fc150-336e-4bd1-b37f-b48ec1d2866b",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "http://localhost/location/d9b29744-9a05-49d8-babd-7837aa09f998"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/d9b29744-9a05-49d8-babd-7837aa09f998"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/64290487-c11c-4316-a12e-569ba40ad6f8"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/55dfbd58-c7e0-4811-b52e-c2421d170558",
+          "http://localhost/manifestation/4b2d65ca-6e08-46eb-9866-4f874f6f4f90"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Gelijk de gedachtenisse van Ued. soete tegenwoordicheit my seer dickwijls geeft een soet onderhout",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:47:15Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1645,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/64290487-c11c-4316-a12e-569ba40ad6f8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Soulekercken, van, fl. 1645-1660",
+        "started_date_gregorian_sort": "1645-02-03T00:00:00Z",
+        "started_date_sort": "1645-02-03T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b20fc150-336e-4bd1-b37f-b48ec1d2866b",
+        "uuid": "b20fc150-336e-4bd1-b37f-b48ec1d2866b",
+        "uuid_related": [
+          "55dfbd58-c7e0-4811-b52e-c2421d170558",
+          "4b2d65ca-6e08-46eb-9866-4f874f6f4f90",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "64290487-c11c-4316-a12e-569ba40ad6f8",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "d9b29744-9a05-49d8-babd-7837aa09f998"
+        ]
+      },
+      {
+        "_version_": 1.8609796657709056e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "comments": [
+          "http://localhost/comment/0942381e-4648-4bf4-83f6-f7eb29ac9baa"
+        ],
+        "dcterms_description": "20 Oct 1645: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Makin, Bathsua, 1600-1675 or after",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970489",
+        "dcterms_identifier-editi_": "editi_970489",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0fb8eac1-c6d9-4ebd-a6da-dfc0e2d7305d",
+        "dcterms_identifier-uuid_": "uuid_0fb8eac1-c6d9-4ebd-a6da-dfc0e2d7305d",
+        "dcterms_language": "Ancient Greek",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/dea18f65-d948-49a8-961f-ee7111116d56",
+          "http://localhost/manifestation/c8bac15c-6486-4de3-a2f0-119e6be8e551"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_0fb8eac1-c6d9-4ebd-a6da-dfc0e2d7305d",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7f096a88-7f21-4a45-8b7b-5463577fb4c6"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/dea18f65-d948-49a8-961f-ee7111116d56",
+          "http://localhost/manifestation/c8bac15c-6486-4de3-a2f0-119e6be8e551"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/0942381e-4648-4bf4-83f6-f7eb29ac9baa"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "Ει και ενδεεστεραν εγωγε της προδοκιας της σης συγγραψω επιστολην",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:34Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1645,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/7f096a88-7f21-4a45-8b7b-5463577fb4c6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/8e46ebda-24e5-4146-82ac-c490fe96564e",
+          "http://localhost/resource/59e23da7-2bd6-4449-aad6-759fbbd1f402"
+        ],
+        "recipient_sort": "Makin, Bathsua, 1600-1675 or after",
+        "resources": [
+          "http://localhost/resource/8e46ebda-24e5-4146-82ac-c490fe96564e",
+          "http://localhost/resource/59e23da7-2bd6-4449-aad6-759fbbd1f402"
+        ],
+        "started_date_gregorian_sort": "1645-10-20T00:00:00Z",
+        "started_date_sort": "1645-10-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0fb8eac1-c6d9-4ebd-a6da-dfc0e2d7305d",
+        "uuid": "0fb8eac1-c6d9-4ebd-a6da-dfc0e2d7305d",
+        "uuid_related": [
+          "dea18f65-d948-49a8-961f-ee7111116d56",
+          "c8bac15c-6486-4de3-a2f0-119e6be8e551",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "7f096a88-7f21-4a45-8b7b-5463577fb4c6",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "0942381e-4648-4bf4-83f6-f7eb29ac9baa",
+          "8e46ebda-24e5-4146-82ac-c490fe96564e",
+          "59e23da7-2bd6-4449-aad6-759fbbd1f402"
+        ]
+      },
+      {
+        "_version_": 1.8609796657761485e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "27 Sep 1646: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Moulin, Marie du, 1613-1699 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970499",
+        "dcterms_identifier-editi_": "editi_970499",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d8518b36-7e6b-4e3a-a148-c359e66b2f3f",
+        "dcterms_identifier-uuid_": "uuid_d8518b36-7e6b-4e3a-a148-c359e66b2f3f",
+        "dcterms_language": "French",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/494e7d7e-eea1-4554-8062-6272b2a795de",
+          "http://localhost/manifestation/7009fd88-f78a-40f1-bc04-b530917d1c1c"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_d8518b36-7e6b-4e3a-a148-c359e66b2f3f",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e0f98987-8d24-4877-9830-65c9244c4a3d"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/494e7d7e-eea1-4554-8062-6272b2a795de",
+          "http://localhost/manifestation/7009fd88-f78a-40f1-bc04-b530917d1c1c"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je ne puis vous representer le grand desplaisir que j'ay receu de ces nouvelles, qui nous menacent",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:38Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 27,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1646,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/e0f98987-8d24-4877-9830-65c9244c4a3d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Moulin, Marie du, 1613-1699",
+        "started_date_gregorian_sort": "1646-09-27T00:00:00Z",
+        "started_date_sort": "1646-09-27T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d8518b36-7e6b-4e3a-a148-c359e66b2f3f",
+        "uuid": "d8518b36-7e6b-4e3a-a148-c359e66b2f3f",
+        "uuid_related": [
+          "494e7d7e-eea1-4554-8062-6272b2a795de",
+          "7009fd88-f78a-40f1-bc04-b530917d1c1c",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "e0f98987-8d24-4877-9830-65c9244c4a3d",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "a9b1947a-a619-46cb-a619-59009d0952f3"
+        ]
+      },
+      {
+        "_version_": 1.860979665777197e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "8 Dec 1646: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Moulin, Marie du, 1613-1699",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970502",
+        "dcterms_identifier-editi_": "editi_970502",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3f759ab2-dc96-4d8f-8b45-71aea9275406",
+        "dcterms_identifier-uuid_": "uuid_3f759ab2-dc96-4d8f-8b45-71aea9275406",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3d384ae5-36a7-4708-a5fa-d5a9a60d5e93",
+          "http://localhost/manifestation/b123ea0c-9988-4ef5-b864-8e5ff0e4518d",
+          "http://localhost/manifestation/e9b09aa4-2436-4d88-9f07-30f5c254175e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_3f759ab2-dc96-4d8f-8b45-71aea9275406",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e0f98987-8d24-4877-9830-65c9244c4a3d"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3d384ae5-36a7-4708-a5fa-d5a9a60d5e93",
+          "http://localhost/manifestation/b123ea0c-9988-4ef5-b864-8e5ff0e4518d",
+          "http://localhost/manifestation/e9b09aa4-2436-4d88-9f07-30f5c254175e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Ma tres-chere soeur, puis que nous avons les mesmes interests de joye & de tristesse, nous avons esté fort rejouis de voir en vostre lettre les vrayes marques d'un visage serain;",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:39Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1646,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/e0f98987-8d24-4877-9830-65c9244c4a3d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/28336ffc-d4ce-4517-a3ab-f2aae9b58df4",
+          "http://localhost/resource/17d2d3fa-99b7-469d-b8fe-5c627c38e8cf"
+        ],
+        "recipient_sort": "Moulin, Marie du, 1613-1699",
+        "resources": [
+          "http://localhost/resource/28336ffc-d4ce-4517-a3ab-f2aae9b58df4",
+          "http://localhost/resource/17d2d3fa-99b7-469d-b8fe-5c627c38e8cf"
+        ],
+        "started_date_gregorian_sort": "1646-12-08T00:00:00Z",
+        "started_date_sort": "1646-12-08T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3f759ab2-dc96-4d8f-8b45-71aea9275406",
+        "uuid": "3f759ab2-dc96-4d8f-8b45-71aea9275406",
+        "uuid_related": [
+          "3d384ae5-36a7-4708-a5fa-d5a9a60d5e93",
+          "b123ea0c-9988-4ef5-b864-8e5ff0e4518d",
+          "e9b09aa4-2436-4d88-9f07-30f5c254175e",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "e0f98987-8d24-4877-9830-65c9244c4a3d",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "28336ffc-d4ce-4517-a3ab-f2aae9b58df4",
+          "17d2d3fa-99b7-469d-b8fe-5c627c38e8cf"
+        ]
+      },
+      {
+        "_version_": 1.8609796657604198e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "comments": [
+          "http://localhost/comment/ffa879fc-988b-444a-9a8b-e006c6178c8b"
+        ],
+        "dcterms_description": "26 Jan 1640 to 26 Jan 1647: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Gournay, Marie de, 1565-1645",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970472",
+        "dcterms_identifier-editi_": "editi_970472",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/956a307a-5546-408a-8597-bdf5baca9ede",
+        "dcterms_identifier-uuid_": "uuid_956a307a-5546-408a-8597-bdf5baca9ede",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/73da6354-6742-48fb-b199-9d08ddb5725e",
+          "http://localhost/manifestation/1812737e-48db-44df-9509-84fcbcb23979",
+          "http://localhost/manifestation/cfd77dac-b646-4dd3-82c2-6658c5a31cf7",
+          "http://localhost/manifestation/d2d0c054-5a20-4434-9e4b-666a6ae68dc7",
+          "http://localhost/manifestation/a79a074a-4a17-4c0a-b1b8-9673a8f347aa"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_956a307a-5546-408a-8597-bdf5baca9ede",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/d8696127-f011-4874-9454-3e4e3dcb615e"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/73da6354-6742-48fb-b199-9d08ddb5725e",
+          "http://localhost/manifestation/1812737e-48db-44df-9509-84fcbcb23979",
+          "http://localhost/manifestation/cfd77dac-b646-4dd3-82c2-6658c5a31cf7",
+          "http://localhost/manifestation/d2d0c054-5a20-4434-9e4b-666a6ae68dc7",
+          "http://localhost/manifestation/a79a074a-4a17-4c0a-b1b8-9673a8f347aa"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_completed-ox_day": 26,
+        "ox_completed-ox_month": 1,
+        "ox_completed-ox_year": 1647,
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/ffa879fc-988b-444a-9a8b-e006c6178c8b"
+        ],
+        "ox_dateIsRange": true,
+        "ox_incipit": "Si j'ay tesmoigné resentiment que j'ay des advantages, que vos heroiques vertus ont procuré à nostre sexe, ce n'a esté que pour me decharger d'un devoir que la justice m'avoit rendu necessaire.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:07Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-indef_uncertain": true,
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1640,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/d8696127-f011-4874-9454-3e4e3dcb615e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f85ba434-f100-4458-9852-830a95bf3257",
+          "http://localhost/resource/32458698-8a30-4c22-b5cc-92be3df1bf91"
+        ],
+        "recipient_sort": "Gournay, Marie de, 1565-1645",
+        "resources": [
+          "http://localhost/resource/f85ba434-f100-4458-9852-830a95bf3257",
+          "http://localhost/resource/32458698-8a30-4c22-b5cc-92be3df1bf91"
+        ],
+        "started_date_gregorian_sort": "1647-01-26T00:00:00Z",
+        "started_date_sort": "1647-01-26T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/956a307a-5546-408a-8597-bdf5baca9ede",
+        "uuid": "956a307a-5546-408a-8597-bdf5baca9ede",
+        "uuid_related": [
+          "73da6354-6742-48fb-b199-9d08ddb5725e",
+          "1812737e-48db-44df-9509-84fcbcb23979",
+          "cfd77dac-b646-4dd3-82c2-6658c5a31cf7",
+          "d2d0c054-5a20-4434-9e4b-666a6ae68dc7",
+          "a79a074a-4a17-4c0a-b1b8-9673a8f347aa",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "d8696127-f011-4874-9454-3e4e3dcb615e",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "ffa879fc-988b-444a-9a8b-e006c6178c8b",
+          "f85ba434-f100-4458-9852-830a95bf3257",
+          "32458698-8a30-4c22-b5cc-92be3df1bf91"
+        ]
+      },
+      {
+        "_version_": 1.8609796657719542e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "18 Mar 1648: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Mercier, Anne de, fl. 1623-1654",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970492",
+        "dcterms_identifier-editi_": "editi_970492",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d99d83c1-02b8-4eaa-9dad-7ddaed422df5",
+        "dcterms_identifier-uuid_": "uuid_d99d83c1-02b8-4eaa-9dad-7ddaed422df5",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/61fbe7b2-ef4f-44c2-ba2d-25608f050d7b",
+          "http://localhost/manifestation/64ebbe40-0c7b-4c04-9e50-274d465ba533",
+          "http://localhost/manifestation/66d41967-e1c2-4f03-9206-e986903fa531"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_d99d83c1-02b8-4eaa-9dad-7ddaed422df5",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/10e71728-33b1-45c3-a27f-4c956020c61b"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/61fbe7b2-ef4f-44c2-ba2d-25608f050d7b",
+          "http://localhost/manifestation/64ebbe40-0c7b-4c04-9e50-274d465ba533",
+          "http://localhost/manifestation/66d41967-e1c2-4f03-9206-e986903fa531"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "La lettre que j'ay eu l'honneur de recevoir de vostre main, porte des caracteres si illustres de cette bonté & courtoisie extraordinaire, dont il vous a pleu nous recevoir dernierement chez vous, que je la garde",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:35Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1648,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/10e71728-33b1-45c3-a27f-4c956020c61b"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c9d5351a-6df2-4fc6-9430-70d714aeccb6",
+          "http://localhost/resource/6bacca2b-6210-4d72-bff2-e8a80bdd490e"
+        ],
+        "recipient_sort": "Mercier, Anne de, fl. 1623-1654",
+        "resources": [
+          "http://localhost/resource/c9d5351a-6df2-4fc6-9430-70d714aeccb6",
+          "http://localhost/resource/6bacca2b-6210-4d72-bff2-e8a80bdd490e"
+        ],
+        "started_date_gregorian_sort": "1648-03-18T00:00:00Z",
+        "started_date_sort": "1648-03-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d99d83c1-02b8-4eaa-9dad-7ddaed422df5",
+        "uuid": "d99d83c1-02b8-4eaa-9dad-7ddaed422df5",
+        "uuid_related": [
+          "61fbe7b2-ef4f-44c2-ba2d-25608f050d7b",
+          "64ebbe40-0c7b-4c04-9e50-274d465ba533",
+          "66d41967-e1c2-4f03-9206-e986903fa531",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "10e71728-33b1-45c3-a27f-4c956020c61b",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "c9d5351a-6df2-4fc6-9430-70d714aeccb6",
+          "6bacca2b-6210-4d72-bff2-e8a80bdd490e"
+        ]
+      },
+      {
+        "_version_": 1.8609796657761485e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "3 Apr 1649: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Moulin, Marie du, 1613-1699 (Breda, North Brabant, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970500",
+        "dcterms_identifier-editi_": "editi_970500",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8e6f22b1-ca68-4be5-878b-2c622adc116e",
+        "dcterms_identifier-uuid_": "uuid_8e6f22b1-ca68-4be5-878b-2c622adc116e",
+        "dcterms_language": "French",
+        "destination_sort": "Breda, North Brabant, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/5c3f818f-1a8c-4c5d-90e9-505e149be344",
+          "http://localhost/manifestation/6cc639f1-bf1b-451a-9842-b187d7cc2c2d",
+          "http://localhost/manifestation/9e925654-186b-49cb-b7e8-e9b8342b76a7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_8e6f22b1-ca68-4be5-878b-2c622adc116e",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e0f98987-8d24-4877-9830-65c9244c4a3d"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/5c3f818f-1a8c-4c5d-90e9-505e149be344",
+          "http://localhost/manifestation/6cc639f1-bf1b-451a-9842-b187d7cc2c2d",
+          "http://localhost/manifestation/9e925654-186b-49cb-b7e8-e9b8342b76a7"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je veux croire que mes lettres m'auront point besoin pour le present d'excuses pource qu'elles",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:38Z",
+        "ox_internalModified": "2023-05-09T11:43:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1649,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/e0f98987-8d24-4877-9830-65c9244c4a3d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/623781f9-53b2-46e4-a3e2-e6ccb44be99f"
+        ],
+        "recipient_sort": "Moulin, Marie du, 1613-1699",
+        "resources": [
+          "http://localhost/resource/623781f9-53b2-46e4-a3e2-e6ccb44be99f"
+        ],
+        "started_date_gregorian_sort": "1649-04-03T00:00:00Z",
+        "started_date_sort": "1649-04-03T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8e6f22b1-ca68-4be5-878b-2c622adc116e",
+        "uuid": "8e6f22b1-ca68-4be5-878b-2c622adc116e",
+        "uuid_related": [
+          "5c3f818f-1a8c-4c5d-90e9-505e149be344",
+          "6cc639f1-bf1b-451a-9842-b187d7cc2c2d",
+          "9e925654-186b-49cb-b7e8-e9b8342b76a7",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "e0f98987-8d24-4877-9830-65c9244c4a3d",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "ebf72787-7564-4bf1-9620-539c0e81842f",
+          "623781f9-53b2-46e4-a3e2-e6ccb44be99f"
+        ]
+      },
+      {
+        "_version_": 1.860979665777197e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "13 Mar 1652: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Moulin, Marie du, 1613-1699",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970501",
+        "dcterms_identifier-editi_": "editi_970501",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/48f8b803-b083-4a2e-a389-d134c8eb44d1",
+        "dcterms_identifier-uuid_": "uuid_48f8b803-b083-4a2e-a389-d134c8eb44d1",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/5c0f7653-7d37-466e-bc08-701e2e33d82d",
+          "http://localhost/manifestation/c22de0f0-602e-4b75-8613-d66cc64db5b3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_48f8b803-b083-4a2e-a389-d134c8eb44d1",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e0f98987-8d24-4877-9830-65c9244c4a3d"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/5c0f7653-7d37-466e-bc08-701e2e33d82d",
+          "http://localhost/manifestation/c22de0f0-602e-4b75-8613-d66cc64db5b3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Mon voyage de Delft, que j'ay fait principalement pour voir une tres-chere soeur de Maisonneure, m'a retardé quelques jours a vous remercier de ceste tres-excellente piece,",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:45:39Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1652,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/e0f98987-8d24-4877-9830-65c9244c4a3d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Moulin, Marie du, 1613-1699",
+        "started_date_gregorian_sort": "1652-03-13T00:00:00Z",
+        "started_date_sort": "1652-03-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/48f8b803-b083-4a2e-a389-d134c8eb44d1",
+        "uuid": "48f8b803-b083-4a2e-a389-d134c8eb44d1",
+        "uuid_related": [
+          "5c0f7653-7d37-466e-bc08-701e2e33d82d",
+          "c22de0f0-602e-4b75-8613-d66cc64db5b3",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "e0f98987-8d24-4877-9830-65c9244c4a3d",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ]
+      },
+      {
+        "_version_": 1.8609796664021484e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "3 Feb 1654: Schurman, Anna Maria van, 1607-1678 (Cologne, North Rhine-Westphalia, Germany) to Soulekercken, van, fl. 1645-1660 (Zierikzee, Zeeland , Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970648",
+        "dcterms_identifier-editi_": "editi_970648",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a9fc179d-c6a1-4a9d-80f5-192d3183002c",
+        "dcterms_identifier-uuid_": "uuid_a9fc179d-c6a1-4a9d-80f5-192d3183002c",
+        "dcterms_language": "Dutch",
+        "destination_sort": "Zierikzee, Zeeland , Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fc833bbc-8857-4286-b4a5-26b3a9b634de"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_a9fc179d-c6a1-4a9d-80f5-192d3183002c",
+        "locations": [
+          "http://localhost/location/d9b29744-9a05-49d8-babd-7837aa09f998",
+          "http://localhost/location/9cfbb930-cb48-405d-bd58-d40121654825"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/9cfbb930-cb48-405d-bd58-d40121654825"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-indef_uncertain": true,
+        "mail_origin-location": [
+          "http://localhost/location/d9b29744-9a05-49d8-babd-7837aa09f998"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/64290487-c11c-4316-a12e-569ba40ad6f8"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fc833bbc-8857-4286-b4a5-26b3a9b634de"
+        ],
+        "object_type": "work",
+        "origin_sort": "Cologne, North Rhine-Westphalia, Germany",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Aengaende de voorgevallen disputen, waer van U.Ed. de particulariteiten wenst te vernemen, syn tot noch toe van geen groote consideratie geweest.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:47:14Z",
+        "ox_internalModified": "2018-04-26T17:47:14Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1654,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/64290487-c11c-4316-a12e-569ba40ad6f8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Soulekercken, van, fl. 1645-1660",
+        "started_date_gregorian_sort": "1654-02-03T00:00:00Z",
+        "started_date_sort": "1654-02-03T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a9fc179d-c6a1-4a9d-80f5-192d3183002c",
+        "uuid": "a9fc179d-c6a1-4a9d-80f5-192d3183002c",
+        "uuid_related": [
+          "fc833bbc-8857-4286-b4a5-26b3a9b634de",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "64290487-c11c-4316-a12e-569ba40ad6f8",
+          "d9b29744-9a05-49d8-babd-7837aa09f998",
+          "9cfbb930-cb48-405d-bd58-d40121654825"
+        ]
+      },
+      {
+        "_version_": 1.860979666403197e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "2 Jun 1660: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Soulekercken, van, fl. 1645-1660 (Zierikzee, Zeeland , Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970650",
+        "dcterms_identifier-editi_": "editi_970650",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7a025f2d-ecdf-4392-896d-ce098fbe0cec",
+        "dcterms_identifier-uuid_": "uuid_7a025f2d-ecdf-4392-896d-ce098fbe0cec",
+        "dcterms_language": "Dutch",
+        "destination_sort": "Zierikzee, Zeeland , Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/066195f1-f89d-4d12-8f6d-c3beacbf1b8c",
+          "http://localhost/manifestation/de1d2647-f18f-4f77-be23-1ffcd75bb08c"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_7a025f2d-ecdf-4392-896d-ce098fbe0cec",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "http://localhost/location/9cfbb930-cb48-405d-bd58-d40121654825"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/9cfbb930-cb48-405d-bd58-d40121654825"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/64290487-c11c-4316-a12e-569ba40ad6f8"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/066195f1-f89d-4d12-8f6d-c3beacbf1b8c",
+          "http://localhost/manifestation/de1d2647-f18f-4f77-be23-1ffcd75bb08c"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Ik en kan niet onderlaten bij dese gelegentheit, alhoewel geensins nae behooren, U.Ed. aengenaeme",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:47:15Z",
+        "ox_internalModified": "2020-11-04T07:48:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1660,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/64290487-c11c-4316-a12e-569ba40ad6f8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Soulekercken, van, fl. 1645-1660",
+        "started_date_gregorian_sort": "1660-06-02T00:00:00Z",
+        "started_date_sort": "1660-06-02T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7a025f2d-ecdf-4392-896d-ce098fbe0cec",
+        "uuid": "7a025f2d-ecdf-4392-896d-ce098fbe0cec",
+        "uuid_related": [
+          "066195f1-f89d-4d12-8f6d-c3beacbf1b8c",
+          "de1d2647-f18f-4f77-be23-1ffcd75bb08c",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "64290487-c11c-4316-a12e-569ba40ad6f8",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "9cfbb930-cb48-405d-bd58-d40121654825"
+        ]
+      },
+      {
+        "_version_": 1.860979665747837e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "comments": [
+          "http://localhost/comment/dd50842d-8bdb-4e1f-a983-f16f58e6e815"
+        ],
+        "dcterms_description": "4 Jul 1662: Schurman, Anna Maria van, 1607-1678 (Lexmond, South Holland, Netherlands) to Soulekercken, van, fl. 1645-1660 (Zierikzee, Zeeland , Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970446",
+        "dcterms_identifier-editi_": "editi_970446",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/49601c80-00e3-4e23-87c2-4eb1c8cad9bf",
+        "dcterms_identifier-uuid_": "uuid_49601c80-00e3-4e23-87c2-4eb1c8cad9bf",
+        "dcterms_language": "Dutch",
+        "destination_sort": "Zierikzee, Zeeland , Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d011b974-c961-488d-8070-a9ee4c44a4b7",
+          "http://localhost/manifestation/5d7cc02f-10e3-4abc-847a-3938d9dab55f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_49601c80-00e3-4e23-87c2-4eb1c8cad9bf",
+        "locations": [
+          "http://localhost/location/a44feefb-0d77-404e-b0c3-ae1e640f616f",
+          "http://localhost/location/9cfbb930-cb48-405d-bd58-d40121654825"
+        ],
+        "mail_addressees-indef_inferred": true,
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/9cfbb930-cb48-405d-bd58-d40121654825"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a44feefb-0d77-404e-b0c3-ae1e640f616f"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/64290487-c11c-4316-a12e-569ba40ad6f8"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d011b974-c961-488d-8070-a9ee4c44a4b7",
+          "http://localhost/manifestation/5d7cc02f-10e3-4abc-847a-3938d9dab55f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Lexmond, South Holland, Netherlands",
+        "ox_addresseeAnnotate-comment": [
+          "http://localhost/comment/dd50842d-8bdb-4e1f-a983-f16f58e6e815"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "Ick hebbe met een bysondere vreughde uyt U.h. Ed. Schrijven verstaen de geluckige wederkomste van U. h. Ed. In onse Stadt, ende goede sorge,",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:44:53Z",
+        "ox_internalModified": "2018-04-26T17:44:53Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1662,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/64290487-c11c-4316-a12e-569ba40ad6f8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Soulekercken, van, fl. 1645-1660",
+        "started_date_gregorian_sort": "1662-07-04T00:00:00Z",
+        "started_date_sort": "1662-07-04T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/49601c80-00e3-4e23-87c2-4eb1c8cad9bf",
+        "uuid": "49601c80-00e3-4e23-87c2-4eb1c8cad9bf",
+        "uuid_related": [
+          "d011b974-c961-488d-8070-a9ee4c44a4b7",
+          "5d7cc02f-10e3-4abc-847a-3938d9dab55f",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "64290487-c11c-4316-a12e-569ba40ad6f8",
+          "a44feefb-0d77-404e-b0c3-ae1e640f616f",
+          "9cfbb930-cb48-405d-bd58-d40121654825",
+          "dd50842d-8bdb-4e1f-a983-f16f58e6e815"
+        ]
+      },
+      {
+        "_version_": 1.8609796664021484e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "16 Nov 1670: Schurman, Anna Maria van, 1607-1678 (Amsterdam, North Holland, (United Provinces) Netherlands) to Sophia, Electress of Hanover, 1630-1714 (Herford, North Rhine-Westphalia, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970647",
+        "dcterms_identifier-editi_": "editi_970647",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b4e5332f-bfcd-4a80-8d7b-c562fe48f08b",
+        "dcterms_identifier-uuid_": "uuid_b4e5332f-bfcd-4a80-8d7b-c562fe48f08b",
+        "destination_sort": "Herford, North Rhine-Westphalia, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ae380aab-1d4b-471b-90de-d57eb84b09b2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_b4e5332f-bfcd-4a80-8d7b-c562fe48f08b",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/a52d6483-6d78-4bcb-9242-43572d76b0f9"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/a52d6483-6d78-4bcb-9242-43572d76b0f9"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/ae7a3cdd-3a4c-4e2c-b066-e8b05fcfd9c5"
+        ],
+        "manifestation-institution-place": [
+          "British Library, Manuscript Collections",
+          "BL\nBritish Museum\nB.M.\nThe British Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ae380aab-1d4b-471b-90de-d57eb84b09b2"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2018-04-26T17:47:13Z",
+        "ox_internalModified": "2018-04-26T18:47:22Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 16,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1670,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/ae7a3cdd-3a4c-4e2c-b066-e8b05fcfd9c5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sophia, Electress of Hanover, 1630-1714",
+        "started_date_gregorian_sort": "1670-11-16T00:00:00Z",
+        "started_date_sort": "1670-11-16T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:34.630Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b4e5332f-bfcd-4a80-8d7b-c562fe48f08b",
+        "uuid": "b4e5332f-bfcd-4a80-8d7b-c562fe48f08b",
+        "uuid_related": [
+          "ae380aab-1d4b-471b-90de-d57eb84b09b2",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "ae7a3cdd-3a4c-4e2c-b066-e8b05fcfd9c5",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "a52d6483-6d78-4bcb-9242-43572d76b0f9"
+        ]
+      }
+    ],
+    "numFound": 22,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 1,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "{!q.op=AND} person-author:(Schurman, Anna Maria van, 1607-1678) AND person-author-gender:(female) AND person-recipient-gender:(female)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
