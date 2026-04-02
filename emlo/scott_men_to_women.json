@@ -1,0 +1,1103 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Huygens, Constantijn",
+        5, "D'Alembert, Jean-Baptiste le Rond",
+        3, "Evelyn, John",
+        1, "Huygens, Christiaan",
+        1, "Vossius, Isaac",
+        1, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0],
+      "destination_sort": [
+        "Paris, Île-de-France, France",
+        11, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0, "Abergavenny, Monmouthshire, Wales",
+        0, "Abingdon Street, Westminster, London, England, United Kingdom",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+        5, "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+        3, "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+        1, "http://localhost/person/516e7186-2f2d-4f05-bc6c-2825b7a75d02",
+        1, "http://localhost/person/e0b46100-d5cd-44d0-b02f-4a64e277241e",
+        1, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/30734b10-916f-4555-b496-cbc9eda45af6",
+        2, "http://localhost/person/5dd7411b-8154-4c13-b887-3dd988fef8c6",
+        2, "http://localhost/person/263b8f0a-f177-4c84-8e02-1866a16cabe1",
+        1, "http://localhost/person/35c7cfba-e920-44ca-a663-afac809dda6a",
+        1, "http://localhost/person/5aaca764-2cf9-4760-9746-9e61cc8eb994",
+        1, "http://localhost/person/830b1fb3-5693-497e-a629-ef57e644ec19",
+        1, "http://localhost/person/f1eac306-a0d9-46b7-a14c-c43819009f3d",
+        1, "http://localhost/person/f9dd4e9d-66b5-470b-b651-b67041321696",
+        1, "http://localhost/person/fff60388-616b-45d6-b801-345eb719f7fa",
+        1, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0],
+      "origin_sort": [
+        "Paris, Île-de-France, France",
+        4, "London, England, United Kingdom",
+        3, "The Hague, South Holland, Netherlands",
+        3, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Aalter, Flanders, Belgium",
+        0],
+      "ox_started-ox_year": [
+        "1651",
+        2, "1663",
+        2, "1746",
+        2, "1654",
+        1, "1661",
+        1, "1671",
+        1, "1676",
+        1, "1749",
+        1, "1475",
+        0, "1484",
+        0]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_137defa2-17b0-4358-8a41-fcc30b28c9c5": {
+
+    },
+    "uuid_1c91a090-8f47-489d-9d69-58ce633558d3": {
+
+    },
+    "uuid_26ef5ec1-bb65-4513-a35e-692ba98dadd0": {
+
+    },
+    "uuid_2ef3be4f-32ae-44ba-b901-4bee15429b99": {
+
+    },
+    "uuid_30dc0e5e-ccd3-411a-8b92-02877d28baed": {
+
+    },
+    "uuid_82877e66-9c89-4d64-800b-3d59038c38f5": {
+
+    },
+    "uuid_8b7ff473-ef0e-4070-a396-7927289b8f6e": {
+
+    },
+    "uuid_8e800096-e040-4f79-8977-059fd7bb43d0": {
+
+    },
+    "uuid_b2c705b2-1629-4c24-ac2d-c5d6bd014a42": {
+
+    },
+    "uuid_e490108c-86b3-4742-b369-e0024bc2ba06": {
+
+    },
+    "uuid_f80ff466-1f85-49bb-91f9-a19ac9466425": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609795456911278e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "8 Feb 1651: Huygens, Constantijn, 1596-1687 (The Hague, South Holland, Netherlands) to Henrietta Maria, Queen consort of Charles I, 1609-1669 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000924408",
+        "dcterms_identifier-editi_": "editi_924408",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/82877e66-9c89-4d64-800b-3d59038c38f5",
+        "dcterms_identifier-uuid_": "uuid_82877e66-9c89-4d64-800b-3d59038c38f5",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0bdacf99-d814-41f8-9c3a-13c8560a2568",
+          "http://localhost/manifestation/d8616b5f-5d15-416d-a1cc-a835d9573592"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_82877e66-9c89-4d64-800b-3d59038c38f5",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/30734b10-916f-4555-b496-cbc9eda45af6"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0bdacf99-d814-41f8-9c3a-13c8560a2568",
+          "http://localhost/manifestation/d8616b5f-5d15-416d-a1cc-a835d9573592"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-13T14:34:21Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 12 November 2014",
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/5095"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/30734b10-916f-4555-b496-cbc9eda45af6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d55fc31b-ed44-40a3-a655-2f370674ceb7",
+          "http://localhost/resource/7d54c62c-74d1-4498-9093-fbd40eb633ec"
+        ],
+        "recipient_sort": "Henrietta Maria, Queen consort of Charles I, 1609-1669",
+        "resources": [
+          "http://localhost/resource/d55fc31b-ed44-40a3-a655-2f370674ceb7",
+          "http://localhost/resource/7d54c62c-74d1-4498-9093-fbd40eb633ec"
+        ],
+        "started_date_gregorian_sort": "1651-02-08T00:00:00Z",
+        "started_date_sort": "1651-02-08T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:35.413Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/82877e66-9c89-4d64-800b-3d59038c38f5",
+        "uuid": "82877e66-9c89-4d64-800b-3d59038c38f5",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "30734b10-916f-4555-b496-cbc9eda45af6",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "d55fc31b-ed44-40a3-a655-2f370674ceb7",
+          "7d54c62c-74d1-4498-9093-fbd40eb633ec",
+          "0bdacf99-d814-41f8-9c3a-13c8560a2568",
+          "d8616b5f-5d15-416d-a1cc-a835d9573592"
+        ]
+      },
+      {
+        "_version_": 1.8609795456984678e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "1 Mar 1651: Huygens, Constantijn, 1596-1687 (The Hague, South Holland, Netherlands) to Henrietta Maria, Queen consort of Charles I, 1609-1669 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000924422",
+        "dcterms_identifier-editi_": "editi_924422",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f80ff466-1f85-49bb-91f9-a19ac9466425",
+        "dcterms_identifier-uuid_": "uuid_f80ff466-1f85-49bb-91f9-a19ac9466425",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b5be99d5-f7b0-48a7-8faf-858a6955c1ce",
+          "http://localhost/manifestation/791d8888-46e7-4c32-8714-de07c7c77ff3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_f80ff466-1f85-49bb-91f9-a19ac9466425",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/30734b10-916f-4555-b496-cbc9eda45af6"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b5be99d5-f7b0-48a7-8faf-858a6955c1ce",
+          "http://localhost/manifestation/791d8888-46e7-4c32-8714-de07c7c77ff3"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-13T14:34:55Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 12 November 2014",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1651,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/5109"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/30734b10-916f-4555-b496-cbc9eda45af6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/6c78e7a0-1250-4572-877f-b77bd916b5c9",
+          "http://localhost/resource/03e8b6e9-eded-4d6b-95b7-bb78d38a9413"
+        ],
+        "recipient_sort": "Henrietta Maria, Queen consort of Charles I, 1609-1669",
+        "resources": [
+          "http://localhost/resource/6c78e7a0-1250-4572-877f-b77bd916b5c9",
+          "http://localhost/resource/03e8b6e9-eded-4d6b-95b7-bb78d38a9413"
+        ],
+        "started_date_gregorian_sort": "1651-03-01T00:00:00Z",
+        "started_date_sort": "1651-03-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:35.413Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f80ff466-1f85-49bb-91f9-a19ac9466425",
+        "uuid": "f80ff466-1f85-49bb-91f9-a19ac9466425",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "30734b10-916f-4555-b496-cbc9eda45af6",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "6c78e7a0-1250-4572-877f-b77bd916b5c9",
+          "03e8b6e9-eded-4d6b-95b7-bb78d38a9413",
+          "b5be99d5-f7b0-48a7-8faf-858a6955c1ce",
+          "791d8888-46e7-4c32-8714-de07c7c77ff3"
+        ]
+      },
+      {
+        "_version_": 1.8609795854583726e+18,
+        "author_sort": "Vossius, Isaac, 1618-1689",
+        "cito_Catalog": "Vossius, Isaac",
+        "dcterms_description": "1654: Vossius, Isaac, 1618-1689 to Unidentified female correspondent of Isaac Vossius, fl. 1654 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000940306",
+        "dcterms_identifier-editi_": "editi_940306",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/30dc0e5e-ccd3-411a-8b92-02877d28baed",
+        "dcterms_identifier-uuid_": "uuid_30dc0e5e-ccd3-411a-8b92-02877d28baed",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/878ab825-4bff-4f6a-89c0-c66324b7bdbd"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "id": "uuid_30dc0e5e-ccd3-411a-8b92-02877d28baed",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_addressees-rdf_value": "Madame",
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/263b8f0a-f177-4c84-8e02-1866a16cabe1"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/878ab825-4bff-4f6a-89c0-c66324b7bdbd"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Vous me faicte tort, si vous croyes",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-09-17T18:15:35Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Robin Buning, 17 September 2015",
+        "ox_started-ox_year": 1654,
+        "people": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "http://localhost/person/263b8f0a-f177-4c84-8e02-1866a16cabe1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Unidentified female correspondent of Isaac Vossius, fl. 1654",
+        "started_date_gregorian_sort": "1654-12-31T00:00:00Z",
+        "started_date_sort": "1654-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:54.900Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/30dc0e5e-ccd3-411a-8b92-02877d28baed",
+        "uuid": "30dc0e5e-ccd3-411a-8b92-02877d28baed",
+        "uuid_related": [
+          "878ab825-4bff-4f6a-89c0-c66324b7bdbd",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "263b8f0a-f177-4c84-8e02-1866a16cabe1",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ]
+      },
+      {
+        "_version_": 1.8609795097480397e+18,
+        "author_sort": "Huygens, Christiaan, 1629-1695",
+        "cito_Catalog": "Huygens, Christiaan",
+        "dcterms_description": "21 Jul 1661: Huygens, Christiaan, 1629-1695 (The Hague, South Holland, Netherlands) to Petit, Marianne, fl. 1661 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000909262",
+        "dcterms_identifier-editi_": "editi_909262",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1c91a090-8f47-489d-9d69-58ce633558d3",
+        "dcterms_identifier-uuid_": "uuid_1c91a090-8f47-489d-9d69-58ce633558d3",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/e0b46100-d5cd-44d0-b02f-4a64e277241e"
+        ],
+        "id": "uuid_1c91a090-8f47-489d-9d69-58ce633558d3",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/35c7cfba-e920-44ca-a663-afac809dda6a"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-05T13:52:21Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 5 November 2014",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1661,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg003/0878"
+        ],
+        "people": [
+          "http://localhost/person/e0b46100-d5cd-44d0-b02f-4a64e277241e",
+          "http://localhost/person/35c7cfba-e920-44ca-a663-afac809dda6a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b43b558a-8cc7-4e9d-988e-6f15e41407e2"
+        ],
+        "recipient_sort": "Petit, Marianne, fl. 1661",
+        "resources": [
+          "http://localhost/resource/b43b558a-8cc7-4e9d-988e-6f15e41407e2"
+        ],
+        "started_date_gregorian_sort": "1661-07-21T00:00:00Z",
+        "started_date_sort": "1661-07-21T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:14.598Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1c91a090-8f47-489d-9d69-58ce633558d3",
+        "uuid": "1c91a090-8f47-489d-9d69-58ce633558d3",
+        "uuid_related": [
+          "e0b46100-d5cd-44d0-b02f-4a64e277241e",
+          "35c7cfba-e920-44ca-a663-afac809dda6a",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "b43b558a-8cc7-4e9d-988e-6f15e41407e2"
+        ]
+      },
+      {
+        "_version_": 1.8609795486030234e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "14 Jun 1663: Huygens, Constantijn, 1596-1687 (London, England, United Kingdom) to Bergerotti, Anna, fl. 1665-1668 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000925403",
+        "dcterms_identifier-editi_": "editi_925403",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/137defa2-17b0-4358-8a41-fcc30b28c9c5",
+        "dcterms_identifier-uuid_": "uuid_137defa2-17b0-4358-8a41-fcc30b28c9c5",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/35e2405c-d07b-4071-83cc-1624415ff6c7",
+          "http://localhost/manifestation/07c0ee53-7521-41d5-950b-7088efd6ebcc",
+          "http://localhost/manifestation/9dfb0147-896e-4308-b0c8-592b1e93c754",
+          "http://localhost/manifestation/bae07651-4c96-41f9-91f9-06071f8ba893"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_137defa2-17b0-4358-8a41-fcc30b28c9c5",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/f9dd4e9d-66b5-470b-b651-b67041321696"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/35e2405c-d07b-4071-83cc-1624415ff6c7",
+          "http://localhost/manifestation/07c0ee53-7521-41d5-950b-7088efd6ebcc",
+          "http://localhost/manifestation/9dfb0147-896e-4308-b0c8-592b1e93c754",
+          "http://localhost/manifestation/bae07651-4c96-41f9-91f9-06071f8ba893"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-13T15:33:49Z",
+        "ox_internalModified": "2021-12-14T13:53:18Z",
+        "ox_internalModifiedByUser": "CofK Digital Fellow",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 12 November 2014",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1663,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/6111"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/f9dd4e9d-66b5-470b-b651-b67041321696"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/06e87039-3b74-4568-81e3-10a5d7c7e280",
+          "http://localhost/resource/22a99a8c-7bb1-4c6a-8ba8-31af0195fcfb"
+        ],
+        "recipient_sort": "Bergerotti, Anna, fl. 1665-1668",
+        "resources": [
+          "http://localhost/resource/06e87039-3b74-4568-81e3-10a5d7c7e280",
+          "http://localhost/resource/22a99a8c-7bb1-4c6a-8ba8-31af0195fcfb"
+        ],
+        "started_date_gregorian_sort": "1663-06-14T00:00:00Z",
+        "started_date_sort": "1663-06-14T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:35.899Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/137defa2-17b0-4358-8a41-fcc30b28c9c5",
+        "uuid": "137defa2-17b0-4358-8a41-fcc30b28c9c5",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "f9dd4e9d-66b5-470b-b651-b67041321696",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "06e87039-3b74-4568-81e3-10a5d7c7e280",
+          "22a99a8c-7bb1-4c6a-8ba8-31af0195fcfb",
+          "35e2405c-d07b-4071-83cc-1624415ff6c7",
+          "07c0ee53-7521-41d5-950b-7088efd6ebcc",
+          "9dfb0147-896e-4308-b0c8-592b1e93c754",
+          "bae07651-4c96-41f9-91f9-06071f8ba893"
+        ]
+      },
+      {
+        "_version_": 1.8609795488567788e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "8 Nov 1663: Huygens, Constantijn, 1596-1687 (Paris, Île-de-France, France) to Pioche de La Vergne, Marie Madeleine, 1634-1693 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000925470",
+        "dcterms_identifier-editi_": "editi_925470",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/26ef5ec1-bb65-4513-a35e-692ba98dadd0",
+        "dcterms_identifier-uuid_": "uuid_26ef5ec1-bb65-4513-a35e-692ba98dadd0",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c754f82a-e8b8-468e-b598-41629c0b4111",
+          "http://localhost/manifestation/d5e2541f-b5d9-484d-b51e-265b878c624f",
+          "http://localhost/manifestation/d7120411-27a5-49c0-85d6-f76d798e3a76"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_26ef5ec1-bb65-4513-a35e-692ba98dadd0",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/fff60388-616b-45d6-b801-345eb719f7fa"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c754f82a-e8b8-468e-b598-41629c0b4111",
+          "http://localhost/manifestation/d5e2541f-b5d9-484d-b51e-265b878c624f",
+          "http://localhost/manifestation/d7120411-27a5-49c0-85d6-f76d798e3a76"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-14T11:07:15Z",
+        "ox_internalModified": "2014-11-14T11:07:15Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 14 November 2014",
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1663,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/6179"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/fff60388-616b-45d6-b801-345eb719f7fa"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9c0cf38c-58c3-4588-9b45-1bc87030c387",
+          "http://localhost/resource/50654c56-78f2-4bfd-af68-bc95765db83d"
+        ],
+        "recipient_sort": "Pioche de La Vergne, Marie Madeleine, 1634-1693",
+        "resources": [
+          "http://localhost/resource/9c0cf38c-58c3-4588-9b45-1bc87030c387",
+          "http://localhost/resource/50654c56-78f2-4bfd-af68-bc95765db83d"
+        ],
+        "started_date_gregorian_sort": "1663-11-08T00:00:00Z",
+        "started_date_sort": "1663-11-08T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:35.899Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/26ef5ec1-bb65-4513-a35e-692ba98dadd0",
+        "uuid": "26ef5ec1-bb65-4513-a35e-692ba98dadd0",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "fff60388-616b-45d6-b801-345eb719f7fa",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "9c0cf38c-58c3-4588-9b45-1bc87030c387",
+          "50654c56-78f2-4bfd-af68-bc95765db83d",
+          "c754f82a-e8b8-468e-b598-41629c0b4111",
+          "d5e2541f-b5d9-484d-b51e-265b878c624f",
+          "d7120411-27a5-49c0-85d6-f76d798e3a76"
+        ]
+      },
+      {
+        "_version_": 1.8609795503782625e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "14 May 1671: Huygens, Constantijn, 1596-1687 (London, England, United Kingdom) to Enclos, Anne de l', 1620-1705 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000926066",
+        "dcterms_identifier-editi_": "editi_926066",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2ef3be4f-32ae-44ba-b901-4bee15429b99",
+        "dcterms_identifier-uuid_": "uuid_2ef3be4f-32ae-44ba-b901-4bee15429b99",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ff58f842-9a55-4e74-8e8f-ddc163939dce",
+          "http://localhost/manifestation/81a346f0-d49c-471d-87f5-61ed14422b32",
+          "http://localhost/manifestation/5989fb3e-b54b-4e79-bedf-b2a0688bfefc",
+          "http://localhost/manifestation/be6983d8-67cf-4466-9e7f-d20d0cba3881",
+          "http://localhost/manifestation/036968ad-8999-4b60-9b5f-8f4a939775e4"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_2ef3be4f-32ae-44ba-b901-4bee15429b99",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/830b1fb3-5693-497e-a629-ef57e644ec19"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ff58f842-9a55-4e74-8e8f-ddc163939dce",
+          "http://localhost/manifestation/81a346f0-d49c-471d-87f5-61ed14422b32",
+          "http://localhost/manifestation/5989fb3e-b54b-4e79-bedf-b2a0688bfefc",
+          "http://localhost/manifestation/be6983d8-67cf-4466-9e7f-d20d0cba3881",
+          "http://localhost/manifestation/036968ad-8999-4b60-9b5f-8f4a939775e4"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-14T11:38:24Z",
+        "ox_internalModified": "2021-12-15T15:58:35Z",
+        "ox_internalModifiedByUser": "CofK Digital Fellow",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 14 November 2014",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1671,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/6796"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/830b1fb3-5693-497e-a629-ef57e644ec19"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d38be5f8-f00c-4147-b23c-4aac78d9c432",
+          "http://localhost/resource/9a16832b-4346-45c8-9cb0-dd71d25d5bc8"
+        ],
+        "recipient_sort": "Enclos, Anne de l', 1620-1705",
+        "resources": [
+          "http://localhost/resource/d38be5f8-f00c-4147-b23c-4aac78d9c432",
+          "http://localhost/resource/9a16832b-4346-45c8-9cb0-dd71d25d5bc8"
+        ],
+        "started_date_gregorian_sort": "1671-05-14T00:00:00Z",
+        "started_date_sort": "1671-05-14T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:36.363Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2ef3be4f-32ae-44ba-b901-4bee15429b99",
+        "uuid": "2ef3be4f-32ae-44ba-b901-4bee15429b99",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "830b1fb3-5693-497e-a629-ef57e644ec19",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "d38be5f8-f00c-4147-b23c-4aac78d9c432",
+          "9a16832b-4346-45c8-9cb0-dd71d25d5bc8",
+          "ff58f842-9a55-4e74-8e8f-ddc163939dce",
+          "81a346f0-d49c-471d-87f5-61ed14422b32",
+          "5989fb3e-b54b-4e79-bedf-b2a0688bfefc",
+          "be6983d8-67cf-4466-9e7f-d20d0cba3881",
+          "036968ad-8999-4b60-9b5f-8f4a939775e4"
+        ]
+      },
+      {
+        "_version_": 1.8609798616396595e+18,
+        "author_sort": "Evelyn, John, 1620-1706",
+        "cito_Catalog": "Evelyn, John",
+        "comments": [
+          "http://localhost/comment/9fb5e8b0-0283-4555-b3f6-23cb3805bf75"
+        ],
+        "dcterms_description": "13 Apr 1676: Evelyn, John, 1620-1706 (London, England, United Kingdom) to Berkeley, Christian, 1639-1698 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001038270",
+        "dcterms_identifier-editi_": "editi_1038270",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8e800096-e040-4f79-8977-059fd7bb43d0",
+        "dcterms_identifier-uuid_": "uuid_8e800096-e040-4f79-8977-059fd7bb43d0",
+        "dcterms_language": "English (main language), French (words)",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a4225c83-83d4-49dc-ac81-20ae55333521",
+          "http://localhost/manifestation/f081e5e4-763c-49f6-aa15-503fc7909269"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/516e7186-2f2d-4f05-bc6c-2825b7a75d02"
+        ],
+        "id": "uuid_8e800096-e040-4f79-8977-059fd7bb43d0",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/5aaca764-2cf9-4760-9746-9e61cc8eb994"
+        ],
+        "manifestation-institution-place": [
+          "British Library, Manuscript Collections",
+          "BL\nBritish Museum\nB.M.\nThe British Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a4225c83-83d4-49dc-ac81-20ae55333521",
+          "http://localhost/manifestation/f081e5e4-763c-49f6-aa15-503fc7909269"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/9fb5e8b0-0283-4555-b3f6-23cb3805bf75"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "13 Aprill 1675",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2023-04-03T10:38:37Z",
+        "ox_internalModified": "2023-04-03T12:39:07Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from Douglas D. C. Chambers and David Galbraith, eds, 'The Letterbooks of John Evelyn', 2 vols (Toronto: University of Toronto Press, 2014), 4 April 2023",
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1676,
+        "people": [
+          "http://localhost/person/516e7186-2f2d-4f05-bc6c-2825b7a75d02",
+          "http://localhost/person/5aaca764-2cf9-4760-9746-9e61cc8eb994"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/04d55575-9989-455f-9946-dd5cd54580fc"
+        ],
+        "recipient_sort": "Berkeley, Christian, 1639-1698",
+        "resources": [
+          "http://localhost/resource/04d55575-9989-455f-9946-dd5cd54580fc"
+        ],
+        "started_date_gregorian_sort": "1676-04-13T00:00:00Z",
+        "started_date_sort": "1676-04-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:04.273Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8e800096-e040-4f79-8977-059fd7bb43d0",
+        "uuid": "8e800096-e040-4f79-8977-059fd7bb43d0",
+        "uuid_related": [
+          "a4225c83-83d4-49dc-ac81-20ae55333521",
+          "f081e5e4-763c-49f6-aa15-503fc7909269",
+          "516e7186-2f2d-4f05-bc6c-2825b7a75d02",
+          "5aaca764-2cf9-4760-9746-9e61cc8eb994",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "9fb5e8b0-0283-4555-b3f6-23cb3805bf75",
+          "04d55575-9989-455f-9946-dd5cd54580fc"
+        ]
+      },
+      {
+        "_version_": 1.8609799427753247e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Remerciements pour les félicitations que Mme de Créquy lui a adressé [prix de l'Acad. de Berlin]. Mmes de Lemery.",
+        "dcterms_description": "8 Jun 1746: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Froullay, Renée-Caroline de, 1714-1803 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064057",
+        "dcterms_identifier-editi_": "editi_1064057",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b2c705b2-1629-4c24-ac2d-c5d6bd014a42",
+        "dcterms_identifier-uuid_": "uuid_b2c705b2-1629-4c24-ac2d-c5d6bd014a42",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4a34e805-3750-4e86-bdf0-9b54e948ff7e",
+          "http://localhost/manifestation/540856f5-4201-418a-a55d-c82c3c00cea3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_b2c705b2-1629-4c24-ac2d-c5d6bd014a42",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/5dd7411b-8154-4c13-b887-3dd988fef8c6"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4a34e805-3750-4e86-bdf0-9b54e948ff7e",
+          "http://localhost/manifestation/540856f5-4201-418a-a55d-c82c3c00cea3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "On ne peut etre, Madame, plus sensible que je le suis à la lettre dont vous m’honorés au sujet du prix que je viens de remporter",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:43:47Z",
+        "ox_internalModified": "2025-04-04T17:43:47Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1746,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/5dd7411b-8154-4c13-b887-3dd988fef8c6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/910e35b8-b465-4dd2-b341-eab7ee4e7690",
+          "http://localhost/resource/bbb66c44-cabe-4fa8-a74f-53b6ea36ae94"
+        ],
+        "recipient_sort": "Froullay, Renée-Caroline de, 1714-1803",
+        "resources": [
+          "http://localhost/resource/910e35b8-b465-4dd2-b341-eab7ee4e7690",
+          "http://localhost/resource/bbb66c44-cabe-4fa8-a74f-53b6ea36ae94"
+        ],
+        "started_date_gregorian_sort": "1746-06-08T00:00:00Z",
+        "started_date_sort": "1746-06-08T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b2c705b2-1629-4c24-ac2d-c5d6bd014a42",
+        "uuid": "b2c705b2-1629-4c24-ac2d-c5d6bd014a42",
+        "uuid_related": [
+          "4a34e805-3750-4e86-bdf0-9b54e948ff7e",
+          "540856f5-4201-418a-a55d-c82c3c00cea3",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "5dd7411b-8154-4c13-b887-3dd988fef8c6",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "910e35b8-b465-4dd2-b341-eab7ee4e7690",
+          "bbb66c44-cabe-4fa8-a74f-53b6ea36ae94"
+        ]
+      },
+      {
+        "_version_": 1.8609799427826647e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Mot galant : 'je vous suivrais non seulement dans les enfers, mais dans tous les mondes dont M. de Fontenelle fait mention'.",
+        "dcterms_description": "1746: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Lémery, Madeleine-Catherine, b.1707 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064070",
+        "dcterms_identifier-editi_": "editi_1064070",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e490108c-86b3-4742-b369-e0024bc2ba06",
+        "dcterms_identifier-uuid_": "uuid_e490108c-86b3-4742-b369-e0024bc2ba06",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/99f59947-d8cb-4c28-869a-d331acdab4df",
+          "http://localhost/manifestation/e38f4428-ecbc-4249-87a4-c76bc9be1f3e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_e490108c-86b3-4742-b369-e0024bc2ba06",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/f1eac306-a0d9-46b7-a14c-c43819009f3d"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/99f59947-d8cb-4c28-869a-d331acdab4df",
+          "http://localhost/manifestation/e38f4428-ecbc-4249-87a4-c76bc9be1f3e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je suis fleuve, madame, pour tout autre que vous, …",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:43:50Z",
+        "ox_internalModified": "2025-04-04T17:43:50Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_year": 1746,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/f1eac306-a0d9-46b7-a14c-c43819009f3d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/071c4769-effe-4de0-beae-f467e41a8338",
+          "http://localhost/resource/a3be0184-2ef5-4fb9-ac8c-6857fda9a4d8"
+        ],
+        "recipient_sort": "Lémery, Madeleine-Catherine, b.1707",
+        "resources": [
+          "http://localhost/resource/071c4769-effe-4de0-beae-f467e41a8338",
+          "http://localhost/resource/a3be0184-2ef5-4fb9-ac8c-6857fda9a4d8"
+        ],
+        "started_date_gregorian_sort": "1746-12-31T00:00:00Z",
+        "started_date_sort": "1746-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e490108c-86b3-4742-b369-e0024bc2ba06",
+        "uuid": "e490108c-86b3-4742-b369-e0024bc2ba06",
+        "uuid_related": [
+          "99f59947-d8cb-4c28-869a-d331acdab4df",
+          "e38f4428-ecbc-4249-87a4-c76bc9be1f3e",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "f1eac306-a0d9-46b7-a14c-c43819009f3d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "071c4769-effe-4de0-beae-f467e41a8338",
+          "a3be0184-2ef5-4fb9-ac8c-6857fda9a4d8"
+        ]
+      },
+      {
+        "_version_": 1.8609799428004905e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_description": "11 Jul 1749: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Froullay, Renée-Caroline de, 1714-1803 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064099",
+        "dcterms_identifier-editi_": "editi_1064099",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8b7ff473-ef0e-4070-a396-7927289b8f6e",
+        "dcterms_identifier-uuid_": "uuid_8b7ff473-ef0e-4070-a396-7927289b8f6e",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/853215d0-7e27-46bd-af81-0a800febc664",
+          "http://localhost/manifestation/32db8069-2b93-4507-8c46-980a2740ed12"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_8b7ff473-ef0e-4070-a396-7927289b8f6e",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/5dd7411b-8154-4c13-b887-3dd988fef8c6"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/853215d0-7e27-46bd-af81-0a800febc664",
+          "http://localhost/manifestation/32db8069-2b93-4507-8c46-980a2740ed12"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:43:56Z",
+        "ox_internalModified": "2025-04-04T17:43:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1749,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/5dd7411b-8154-4c13-b887-3dd988fef8c6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/14454cb6-3e18-426b-bd66-6bb9ccf19248",
+          "http://localhost/resource/8e4397f9-44e8-4c81-8604-cabd1c421c8b"
+        ],
+        "recipient_sort": "Froullay, Renée-Caroline de, 1714-1803",
+        "resources": [
+          "http://localhost/resource/14454cb6-3e18-426b-bd66-6bb9ccf19248",
+          "http://localhost/resource/8e4397f9-44e8-4c81-8604-cabd1c421c8b"
+        ],
+        "started_date_gregorian_sort": "1749-07-11T00:00:00Z",
+        "started_date_sort": "1749-07-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8b7ff473-ef0e-4070-a396-7927289b8f6e",
+        "uuid": "8b7ff473-ef0e-4070-a396-7927289b8f6e",
+        "uuid_related": [
+          "853215d0-7e27-46bd-af81-0a800febc664",
+          "32db8069-2b93-4507-8c46-980a2740ed12",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "5dd7411b-8154-4c13-b887-3dd988fef8c6",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "14454cb6-3e18-426b-bd66-6bb9ccf19248",
+          "8e4397f9-44e8-4c81-8604-cabd1c421c8b"
+        ]
+      }
+    ],
+    "numFound": 11,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 1,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1650-01-01T00:00:00Z TO 1750-12-31T23:59:59Z] AND person-author-gender:(male) AND person-recipient-gender:(female) AND location-destination:(paris)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
