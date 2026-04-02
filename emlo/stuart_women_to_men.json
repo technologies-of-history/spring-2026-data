@@ -1,0 +1,1763 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "D'Alembert, Jean-Baptiste le Rond",
+        17, "Jacquier, François",
+        1, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0, "Arias Montano, Benito",
+        0],
+      "destination_sort": [
+        "Paris, Île-de-France, France",
+        17, "Rome, Latium, Italy",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0, "Abergavenny, Monmouthshire, Wales",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+        11, "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+        10, "http://localhost/person/7ca182f1-4353-4e39-9712-1ff4f8de779c",
+        2, "http://localhost/person/0acf32d2-7792-426c-97b2-288c2e478181",
+        1, "http://localhost/person/8ad5c41a-3d25-4698-9db7-8648edd812c7",
+        1, "http://localhost/person/9855a482-699e-4071-be8c-afd11b28e329",
+        1, "http://localhost/person/cdd48ef0-115e-4cc8-8fd1-35d5d03c01ae",
+        1, "http://localhost/person/eb1974cd-fd15-4f79-82f5-8d7768796656",
+        1, "http://localhost/person/ef6a88c8-b4b5-44ef-9c40-39e9236c1ee5",
+        1, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486",
+        7, "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+        7, "http://localhost/person/e9293c68-5708-448e-831b-8d6a38928fda",
+        3, "http://localhost/person/ad2f0c64-9846-47a4-b859-c5c02df42ca1",
+        1, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0, "http://localhost/person/001f0d96-5aac-4de4-a2ec-ec0c97824640",
+        0, "http://localhost/person/001fc99e-9ea5-4de6-aa02-fb04be137877",
+        0, "http://localhost/person/002b6bb0-ed3b-4d33-b302-27d893c50b3b",
+        0, "http://localhost/person/002b6db0-3d93-4ec1-b3b5-1ad8467602a9",
+        0, "http://localhost/person/0031ef2b-30c0-4650-b2c9-ad2a849da419",
+        0],
+      "origin_sort": [
+        "Paris, Île-de-France, France",
+        15, "Château de Chanteloup, Amboise, Centre-Val de Loire, France",
+        1, "Montceaux-l'Étoile, Bourgogne-Franche-Comté, France",
+        1, "Rue Saint-Honoré, Paris, Île-de-France, France",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0],
+      "ox_started-ox_year": [
+        "1774",
+        5, "1775",
+        5, "1772",
+        3, "1771",
+        2, "1773",
+        1, "1776",
+        1, "1779",
+        1, "1475",
+        0, "1484",
+        0, "1487",
+        0]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_12a74d9a-6ebe-4a8e-8009-1893a60abe5c": {
+
+    },
+    "uuid_29cc8c82-be87-43f1-945f-ca7eeb98dd90": {
+
+    },
+    "uuid_2c2eb7c6-1201-463a-876e-62f6ec30f710": {
+
+    },
+    "uuid_3a427a0f-e342-4982-a3bf-cdea9ceba5d4": {
+
+    },
+    "uuid_3f49771c-7ac3-4a6b-b41b-0e66a138e602": {
+
+    },
+    "uuid_4dba8d4d-3deb-403f-adae-028914454f5a": {
+
+    },
+    "uuid_7148984b-0e19-47c0-838b-8e2f2a15c051": {
+
+    },
+    "uuid_72b601a9-4d6d-4f8a-b468-fddb37552f92": {
+
+    },
+    "uuid_747d6b71-ad76-42fd-b705-38b7c31c24d5": {
+
+    },
+    "uuid_79fb6a44-387f-4f22-9b30-218564afc544": {
+
+    },
+    "uuid_864eae06-3485-4e84-9cdc-176fef8cb809": {
+
+    },
+    "uuid_88126414-b2a8-451b-a38a-8e338a9ebb39": {
+
+    },
+    "uuid_adc0ba63-57bb-456e-b1e1-c3630d41a2eb": {
+
+    },
+    "uuid_bd6401c3-89d6-4d43-8580-460b8d411425": {
+
+    },
+    "uuid_ce549238-cbca-42bf-a15e-4bc71e0b7647": {
+
+    },
+    "uuid_e58fb91b-72ab-471b-a4c9-5e1e716c455e": {
+
+    },
+    "uuid_fb5ec2b9-584a-41df-a130-86530ded54da": {
+
+    },
+    "uuid_feac56c4-bc88-4d16-8284-a0eab64b65e5": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609799467211162e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/52ca679d-3fa4-4072-8fb8-4631ddb84819",
+          "http://localhost/comment/82206995-bec7-47d2-8be1-e9379205cdcf"
+        ],
+        "dcterms_abstract": "D’Al. écrit sous sa dictée à Condorcet, ce qu’il ne fait pas pour d’autres. Demandent des nouvelles de sa santé physique et morale, le pressent de lutter, l’une contre ses douleurs, l’autre contres ses 'sottises'. Condorcet a pris l’écriture d’Anlézy pour celle de Chastellux. D’Al. lui a envoyé des conseils quelques jours plus tôt.",
+        "dcterms_description": "15 Oct 1771: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065299",
+        "dcterms_identifier-editi_": "editi_1065299",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/88126414-b2a8-451b-a38a-8e338a9ebb39",
+        "dcterms_identifier-uuid_": "uuid_88126414-b2a8-451b-a38a-8e338a9ebb39",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/faf9df8c-cf09-4153-b295-3f2779ca8b15"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_88126414-b2a8-451b-a38a-8e338a9ebb39",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/faf9df8c-cf09-4153-b295-3f2779ca8b15"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/82206995-bec7-47d2-8be1-e9379205cdcf"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/52ca679d-3fa4-4072-8fb8-4631ddb84819"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "15 octobre",
+        "ox_incipit": "Mon revêche secrétaire veut bien écrire à mon bon …",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:52:18Z",
+        "ox_internalModified": "2025-04-04T17:52:18Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1771,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/32975c59-c50a-4484-b59d-f3c107e004b4",
+          "http://localhost/resource/c654053b-bbce-440e-a0e3-4f4254727af1"
+        ],
+        "recipient_sort": "Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794",
+        "resources": [
+          "http://localhost/resource/32975c59-c50a-4484-b59d-f3c107e004b4",
+          "http://localhost/resource/c654053b-bbce-440e-a0e3-4f4254727af1"
+        ],
+        "started_date_gregorian_sort": "1771-10-15T00:00:00Z",
+        "started_date_sort": "1771-10-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/88126414-b2a8-451b-a38a-8e338a9ebb39",
+        "uuid": "88126414-b2a8-451b-a38a-8e338a9ebb39",
+        "uuid_related": [
+          "faf9df8c-cf09-4153-b295-3f2779ca8b15",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "6f274793-c874-4483-8055-80ea7e8be486",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "52ca679d-3fa4-4072-8fb8-4631ddb84819",
+          "82206995-bec7-47d2-8be1-e9379205cdcf",
+          "32975c59-c50a-4484-b59d-f3c107e004b4",
+          "c654053b-bbce-440e-a0e3-4f4254727af1"
+        ]
+      },
+      {
+        "_version_": 1.8609799467232133e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/4d3389dc-e253-4550-88cc-0d854944922e",
+          "http://localhost/comment/91acd5ea-2fd9-4616-a3b3-3f71ff23733b"
+        ],
+        "dcterms_abstract": "D’Al. lui a dit avoir écrit à Condorcet. Santé physique et morale de Condorcet. Souffrir mais éviter le ridicule. Santé de l’oncle et de la mère de Condorcet. Evêque de Lisieux viendra avec Mlle d’Ussé. Ussé voyage, Pons se meurt. Mme Suard. Mme de Mellet. Mme de Meulan. L’ami de la maison joué à Fontainebleau. Clausonette s’en va. Elle ne regrette pas la campagne. Election à l’Acad. fr. vers le 20. Maupéou devenu colonel. Cossé sera ambassadeur d’Angleterre.",
+        "dcterms_description": "1 Nov 1771: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065301",
+        "dcterms_identifier-editi_": "editi_1065301",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/747d6b71-ad76-42fd-b705-38b7c31c24d5",
+        "dcterms_identifier-uuid_": "uuid_747d6b71-ad76-42fd-b705-38b7c31c24d5",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/617f4da1-25ca-4d24-bb1a-48bea9aa5d79"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_747d6b71-ad76-42fd-b705-38b7c31c24d5",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/617f4da1-25ca-4d24-bb1a-48bea9aa5d79"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/91acd5ea-2fd9-4616-a3b3-3f71ff23733b"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/4d3389dc-e253-4550-88cc-0d854944922e"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "1er novembre",
+        "ox_incipit": "J’ai désiré vous écrire tous les jours.…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:52:18Z",
+        "ox_internalModified": "2025-04-04T17:52:18Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1771,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/104eb5d9-16cd-4ae4-bbe2-07afab0b1157",
+          "http://localhost/resource/c792d057-5f1d-4fe6-a612-0f48e04b58e5"
+        ],
+        "recipient_sort": "Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794",
+        "resources": [
+          "http://localhost/resource/104eb5d9-16cd-4ae4-bbe2-07afab0b1157",
+          "http://localhost/resource/c792d057-5f1d-4fe6-a612-0f48e04b58e5"
+        ],
+        "started_date_gregorian_sort": "1771-11-01T00:00:00Z",
+        "started_date_sort": "1771-11-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/747d6b71-ad76-42fd-b705-38b7c31c24d5",
+        "uuid": "747d6b71-ad76-42fd-b705-38b7c31c24d5",
+        "uuid_related": [
+          "617f4da1-25ca-4d24-bb1a-48bea9aa5d79",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "6f274793-c874-4483-8055-80ea7e8be486",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "4d3389dc-e253-4550-88cc-0d854944922e",
+          "91acd5ea-2fd9-4616-a3b3-3f71ff23733b",
+          "104eb5d9-16cd-4ae4-bbe2-07afab0b1157",
+          "c792d057-5f1d-4fe6-a612-0f48e04b58e5"
+        ]
+      },
+      {
+        "_version_": 1.8609799469989888e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/c6720b41-fb6c-40b9-8c90-68baba2c6cfc"
+        ],
+        "dcterms_abstract": "Santé de Condorcet. Mora se porte bien. Mme de Meulan a fait une fausse couche et va bien. Son 'secrétaire' [D’Al.] lira ce que Condorcet lui enverra. Qu’il lise l’ouvrage de Guibert. Le Dépositaire de Volt. [Loménie de Brienne] à Mouy du 19 au 20. Bréquigny et Beauzée ont été reçus lundi [6 juillet 1772]. Tonnerre tombé chez Mme Ledroit. Saint-Chamans se réjouit de voir Condorcet. Guibert lui plait. Elle a fait la connaissance de Dutillot. Condorcet manque à Turgot.",
+        "dcterms_description": "10 Jul 1772: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065347",
+        "dcterms_identifier-editi_": "editi_1065347",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/fb5ec2b9-584a-41df-a130-86530ded54da",
+        "dcterms_identifier-uuid_": "uuid_fb5ec2b9-584a-41df-a130-86530ded54da",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/9666f627-2dad-4ad5-865a-307fa2c67859"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_fb5ec2b9-584a-41df-a130-86530ded54da",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/9666f627-2dad-4ad5-865a-307fa2c67859"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/c6720b41-fb6c-40b9-8c90-68baba2c6cfc"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "Mon secrétaire et moi, nous vous écrivons en commun, bon et très bon et trop bon Condorcet…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:52:29Z",
+        "ox_internalModified": "2025-04-04T17:52:29Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1772,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3da946b9-18f2-48ab-b220-2c1ed0098710",
+          "http://localhost/resource/3c0802a4-ef71-4e6c-a466-c440708a533d"
+        ],
+        "recipient_sort": "Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794",
+        "resources": [
+          "http://localhost/resource/3da946b9-18f2-48ab-b220-2c1ed0098710",
+          "http://localhost/resource/3c0802a4-ef71-4e6c-a466-c440708a533d"
+        ],
+        "started_date_gregorian_sort": "1772-07-10T00:00:00Z",
+        "started_date_sort": "1772-07-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/fb5ec2b9-584a-41df-a130-86530ded54da",
+        "uuid": "fb5ec2b9-584a-41df-a130-86530ded54da",
+        "uuid_related": [
+          "9666f627-2dad-4ad5-865a-307fa2c67859",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "6f274793-c874-4483-8055-80ea7e8be486",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "c6720b41-fb6c-40b9-8c90-68baba2c6cfc",
+          "3da946b9-18f2-48ab-b220-2c1ed0098710",
+          "3c0802a4-ef71-4e6c-a466-c440708a533d"
+        ]
+      },
+      {
+        "_version_": 1.860979947003183e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/b2891181-4e07-490a-b699-dc2f2a0d8925",
+          "http://localhost/comment/0f2418fb-113f-480b-a4a2-1f9eef1b7f52"
+        ],
+        "dcterms_abstract": "Suard est très content de l’ouvrage de Condorcet qu’il remettra à D’Al. à son retour de la campagne. Lui donner des nouvelles de la santé de Saint-Chamans. Le 'secrétaire' [D’Al.] entre ennui et abattement. Elle et lui demandent à Condorcet de ne pas aller à Ablois. Affaire des évêques de Rennes et de Verdun. Roméo et Juliette de Ducis [27 juillet 1772]. Graines de raves de Turgot adressées à Bertin. Elle a pris de l’opium.",
+        "dcterms_description": "26 Jul 1772: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065353",
+        "dcterms_identifier-editi_": "editi_1065353",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/72b601a9-4d6d-4f8a-b468-fddb37552f92",
+        "dcterms_identifier-uuid_": "uuid_72b601a9-4d6d-4f8a-b468-fddb37552f92",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ac483b01-8940-484d-89df-63109934cb57"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_72b601a9-4d6d-4f8a-b468-fddb37552f92",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ac483b01-8940-484d-89df-63109934cb57"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/0f2418fb-113f-480b-a4a2-1f9eef1b7f52"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/b2891181-4e07-490a-b699-dc2f2a0d8925"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "26 juillet",
+        "ox_incipit": "Bon Condorcet, mon secrétaire et moi, nous vous écrivons toujours de concert…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:52:30Z",
+        "ox_internalModified": "2025-04-04T17:52:30Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1772,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c910abd1-192a-4983-b432-b927b29777e8",
+          "http://localhost/resource/92ac31da-f7f5-4d0c-9d13-c6615f43cc10"
+        ],
+        "recipient_sort": "Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794",
+        "resources": [
+          "http://localhost/resource/c910abd1-192a-4983-b432-b927b29777e8",
+          "http://localhost/resource/92ac31da-f7f5-4d0c-9d13-c6615f43cc10"
+        ],
+        "started_date_gregorian_sort": "1772-07-26T00:00:00Z",
+        "started_date_sort": "1772-07-26T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/72b601a9-4d6d-4f8a-b468-fddb37552f92",
+        "uuid": "72b601a9-4d6d-4f8a-b468-fddb37552f92",
+        "uuid_related": [
+          "ac483b01-8940-484d-89df-63109934cb57",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "6f274793-c874-4483-8055-80ea7e8be486",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "b2891181-4e07-490a-b699-dc2f2a0d8925",
+          "0f2418fb-113f-480b-a4a2-1f9eef1b7f52",
+          "c910abd1-192a-4983-b432-b927b29777e8",
+          "92ac31da-f7f5-4d0c-9d13-c6615f43cc10"
+        ]
+      },
+      {
+        "_version_": 1.8609799470042317e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/13bac8af-87ab-47db-b1f6-cb8489398b06",
+          "http://localhost/comment/f4b3d2c8-92fd-45cf-9d53-d5148d1aabb6"
+        ],
+        "dcterms_abstract": "Elle est malade et triste. Elle ne voit plus Ussé, également malade. Crillon a écrit. Mme de Boufflers. [D’Al.] dit 'le bon Condorcet suivi du bon Henri'.",
+        "dcterms_description": "14 Aug 1772: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065354",
+        "dcterms_identifier-editi_": "editi_1065354",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e58fb91b-72ab-471b-a4c9-5e1e716c455e",
+        "dcterms_identifier-uuid_": "uuid_e58fb91b-72ab-471b-a4c9-5e1e716c455e",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/934ada0a-205c-462d-984b-0b0eb1c7ec51"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_e58fb91b-72ab-471b-a4c9-5e1e716c455e",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/934ada0a-205c-462d-984b-0b0eb1c7ec51"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/f4b3d2c8-92fd-45cf-9d53-d5148d1aabb6"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/13bac8af-87ab-47db-b1f6-cb8489398b06"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "14 août",
+        "ox_incipit": "Nous ne voulons pas laisser partir Henri sans vous…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:52:30Z",
+        "ox_internalModified": "2025-04-04T17:52:30Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1772,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4de9a668-ce2a-456a-9dfd-ceae47fc7a7b",
+          "http://localhost/resource/7ef966da-5a0a-4be5-b717-33e3be86e773"
+        ],
+        "recipient_sort": "Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794",
+        "resources": [
+          "http://localhost/resource/4de9a668-ce2a-456a-9dfd-ceae47fc7a7b",
+          "http://localhost/resource/7ef966da-5a0a-4be5-b717-33e3be86e773"
+        ],
+        "started_date_gregorian_sort": "1772-08-14T00:00:00Z",
+        "started_date_sort": "1772-08-14T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e58fb91b-72ab-471b-a4c9-5e1e716c455e",
+        "uuid": "e58fb91b-72ab-471b-a4c9-5e1e716c455e",
+        "uuid_related": [
+          "934ada0a-205c-462d-984b-0b0eb1c7ec51",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "6f274793-c874-4483-8055-80ea7e8be486",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "13bac8af-87ab-47db-b1f6-cb8489398b06",
+          "f4b3d2c8-92fd-45cf-9d53-d5148d1aabb6",
+          "4de9a668-ce2a-456a-9dfd-ceae47fc7a7b",
+          "7ef966da-5a0a-4be5-b717-33e3be86e773"
+        ]
+      },
+      {
+        "_version_": 1.8609799470440776e+18,
+        "author_sort": "Vichy Chamron (Mme), fl. 1773",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Elle lui renvoie le mém. (ou Eloge) qu’il lui avait communiqué [en ms] et qu’elle a lu avec sa sœur. Compte lui expliquer de vive voix la raison de sa curiosité.",
+        "dcterms_description": "1773: Vichy Chamron (Mme), fl. 1773 (Montceaux-l'Étoile, Bourgogne-Franche-Comté, France) to D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065415",
+        "dcterms_identifier-editi_": "editi_1065415",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/29cc8c82-be87-43f1-945f-ca7eeb98dd90",
+        "dcterms_identifier-uuid_": "uuid_29cc8c82-be87-43f1-945f-ca7eeb98dd90",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/af2676b3-7d2c-4b7b-81ff-0f433de05d08"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/eb1974cd-fd15-4f79-82f5-8d7768796656"
+        ],
+        "id": "uuid_29cc8c82-be87-43f1-945f-ca7eeb98dd90",
+        "locations": [
+          "http://localhost/location/2663fae6-28ee-48c5-8e6f-328236326be0",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_authors-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/2663fae6-28ee-48c5-8e6f-328236326be0"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/af2676b3-7d2c-4b7b-81ff-0f433de05d08"
+        ],
+        "object_type": "work",
+        "origin_sort": "Montceaux-l'Étoile, Bourgogne-Franche-Comté, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Vous êtes véritablement bon, monsieur, il me serait difficile…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:52:45Z",
+        "ox_internalModified": "2025-04-04T17:52:45Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_year": 1773,
+        "people": [
+          "http://localhost/person/eb1974cd-fd15-4f79-82f5-8d7768796656",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e80dad3b-1a3e-4523-b5dd-237d4e1c25a7",
+          "http://localhost/resource/02d6077a-bbed-423b-920e-9880d1c7f796"
+        ],
+        "recipient_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "resources": [
+          "http://localhost/resource/e80dad3b-1a3e-4523-b5dd-237d4e1c25a7",
+          "http://localhost/resource/02d6077a-bbed-423b-920e-9880d1c7f796"
+        ],
+        "started_date_gregorian_sort": "1773-12-31T00:00:00Z",
+        "started_date_sort": "1773-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/29cc8c82-be87-43f1-945f-ca7eeb98dd90",
+        "uuid": "29cc8c82-be87-43f1-945f-ca7eeb98dd90",
+        "uuid_related": [
+          "af2676b3-7d2c-4b7b-81ff-0f433de05d08",
+          "eb1974cd-fd15-4f79-82f5-8d7768796656",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "2663fae6-28ee-48c5-8e6f-328236326be0",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "e80dad3b-1a3e-4523-b5dd-237d4e1c25a7",
+          "02d6077a-bbed-423b-920e-9880d1c7f796"
+        ]
+      },
+      {
+        "_version_": 1.860979947649106e+18,
+        "author_sort": "Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Adieux et dernières volontés : lui demande de brûler sans les lire les l. de Mora, de récupérer les siennes à Bordeaux par Magallon, et de les brûler elles aussi. Ce que lui doivent La Borde, le duc d’Orléans et d’Albon. Donner son secrétaire à Guibert. L’amour réciproque qui l’unissait à Mora. Veut mourir. Un mot pour Mme Geoffrin, qui aimait [Mora].",
+        "dcterms_description": "2 Jun 1774: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 (Paris, Île-de-France, France) to D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065540",
+        "dcterms_identifier-editi_": "editi_1065540",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/feac56c4-bc88-4d16-8284-a0eab64b65e5",
+        "dcterms_identifier-uuid_": "uuid_feac56c4-bc88-4d16-8284-a0eab64b65e5",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/678880b8-7fd5-42a7-86c7-86d69f6c77b6"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9"
+        ],
+        "id": "uuid_feac56c4-bc88-4d16-8284-a0eab64b65e5",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_addressees-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/678880b8-7fd5-42a7-86c7-86d69f6c77b6"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je vous dois tout, je suis si sûre de votre amitié…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:53:16Z",
+        "ox_internalModified": "2025-04-04T17:53:16Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1774,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/1c969d81-03b5-4816-822b-ed026e8b7b4d",
+          "http://localhost/resource/e5bdd23f-1390-445a-8d07-98aec397f797"
+        ],
+        "recipient_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "resources": [
+          "http://localhost/resource/1c969d81-03b5-4816-822b-ed026e8b7b4d",
+          "http://localhost/resource/e5bdd23f-1390-445a-8d07-98aec397f797"
+        ],
+        "started_date_gregorian_sort": "1774-06-02T00:00:00Z",
+        "started_date_sort": "1774-06-02T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/feac56c4-bc88-4d16-8284-a0eab64b65e5",
+        "uuid": "feac56c4-bc88-4d16-8284-a0eab64b65e5",
+        "uuid_related": [
+          "678880b8-7fd5-42a7-86c7-86d69f6c77b6",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1c969d81-03b5-4816-822b-ed026e8b7b4d",
+          "e5bdd23f-1390-445a-8d07-98aec397f797"
+        ]
+      },
+      {
+        "_version_": 1.8609799476533002e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/0b982601-9636-4fcf-a667-4f1f4dfa8835",
+          "http://localhost/comment/16f0bba8-2c24-4554-a6d1-a5f126d5dff9"
+        ],
+        "dcterms_abstract": "Répond à son amitié. Condorcet manque à Turgot. Elle regrette qu’il n’ait écouté Les Barmécides de La Harpe avec eux. Clausonette lui écrit pour elle. Colysée ouvert. Anlézy estime Condorcet. [D’Al.] trouve 'qu’en voilà assez'. Suard et Morellet l’attendent.",
+        "dcterms_description": "25 Jun 1774: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065546",
+        "dcterms_identifier-editi_": "editi_1065546",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7148984b-0e19-47c0-838b-8e2f2a15c051",
+        "dcterms_identifier-uuid_": "uuid_7148984b-0e19-47c0-838b-8e2f2a15c051",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fbe97f07-a140-4a9f-820d-1f32757af7f2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_7148984b-0e19-47c0-838b-8e2f2a15c051",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fbe97f07-a140-4a9f-820d-1f32757af7f2"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/16f0bba8-2c24-4554-a6d1-a5f126d5dff9"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/0b982601-9636-4fcf-a667-4f1f4dfa8835"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "25 [juin 1774]",
+        "ox_incipit": "Vous voyez bien, monsieur, que je prends un secrétaire et que, tout de mauvaise humeur qu’il est.…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:53:17Z",
+        "ox_internalModified": "2025-04-04T17:53:17Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1774,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/43a95ac2-0477-4bb1-b80c-f7e1243e73f8",
+          "http://localhost/resource/74cfdb03-7b7d-43a9-aff7-318229409405"
+        ],
+        "recipient_sort": "Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794",
+        "resources": [
+          "http://localhost/resource/43a95ac2-0477-4bb1-b80c-f7e1243e73f8",
+          "http://localhost/resource/74cfdb03-7b7d-43a9-aff7-318229409405"
+        ],
+        "started_date_gregorian_sort": "1774-06-25T00:00:00Z",
+        "started_date_sort": "1774-06-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7148984b-0e19-47c0-838b-8e2f2a15c051",
+        "uuid": "7148984b-0e19-47c0-838b-8e2f2a15c051",
+        "uuid_related": [
+          "fbe97f07-a140-4a9f-820d-1f32757af7f2",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "6f274793-c874-4483-8055-80ea7e8be486",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0b982601-9636-4fcf-a667-4f1f4dfa8835",
+          "16f0bba8-2c24-4554-a6d1-a5f126d5dff9",
+          "43a95ac2-0477-4bb1-b80c-f7e1243e73f8",
+          "74cfdb03-7b7d-43a9-aff7-318229409405"
+        ]
+      },
+      {
+        "_version_": 1.8609799476533002e+18,
+        "author_sort": "Beauvau-Craon, Charles Just de, 1720-1793; Rohan Chabot, Marie-Sylvie de, 1729-1807",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "N’a pas connaissance d’un retour des 'exilés', mais l’informe 'sous le secret' que l’ordre de rappel du comte de Br[oglie] va être expédié. Ch[oiseul] n’a pas défense de paraître. Mme de Beauvau terminera la l. Va partir au Conseil.",
+        "dcterms_description": "30 Jun 1774: Beauvau-Craon, Charles Just de, 1720-1793 ~ Rohan Chabot, Marie-Sylvie de, 1729-1807 (Paris, Île-de-France, France) to D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065547",
+        "dcterms_identifier-editi_": "editi_1065547",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/bd6401c3-89d6-4d43-8580-460b8d411425",
+        "dcterms_identifier-uuid_": "uuid_bd6401c3-89d6-4d43-8580-460b8d411425",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/db3d1924-76a5-4730-bc90-d898e00ae284"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0acf32d2-7792-426c-97b2-288c2e478181",
+          "http://localhost/person/9855a482-699e-4071-be8c-afd11b28e329"
+        ],
+        "id": "uuid_bd6401c3-89d6-4d43-8580-460b8d411425",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/db3d1924-76a5-4730-bc90-d898e00ae284"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Mandez-moi s'il vous plaît, ce que vous entendez par…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:53:18Z",
+        "ox_internalModified": "2025-04-04T17:53:18Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 30,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1774,
+        "people": [
+          "http://localhost/person/0acf32d2-7792-426c-97b2-288c2e478181",
+          "http://localhost/person/9855a482-699e-4071-be8c-afd11b28e329",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c58cb7e9-57a8-4c9e-8761-d3a3e0c6190c",
+          "http://localhost/resource/8483aea0-ec09-4a24-bc77-0e1e2df67dc9"
+        ],
+        "recipient_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "resources": [
+          "http://localhost/resource/c58cb7e9-57a8-4c9e-8761-d3a3e0c6190c",
+          "http://localhost/resource/8483aea0-ec09-4a24-bc77-0e1e2df67dc9"
+        ],
+        "started_date_gregorian_sort": "1774-06-30T00:00:00Z",
+        "started_date_sort": "1774-06-30T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/bd6401c3-89d6-4d43-8580-460b8d411425",
+        "uuid": "bd6401c3-89d6-4d43-8580-460b8d411425",
+        "uuid_related": [
+          "db3d1924-76a5-4730-bc90-d898e00ae284",
+          "0acf32d2-7792-426c-97b2-288c2e478181",
+          "9855a482-699e-4071-be8c-afd11b28e329",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "c58cb7e9-57a8-4c9e-8761-d3a3e0c6190c",
+          "8483aea0-ec09-4a24-bc77-0e1e2df67dc9"
+        ]
+      },
+      {
+        "_version_": 1.8609799476616888e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/d7951541-8d5b-453f-982d-95acf38f8cac",
+          "http://localhost/comment/21394ceb-04eb-4ce1-a0de-3a103df16184"
+        ],
+        "dcterms_abstract": "Mlle de Lespinasse veut obliger le chevalier de Saint-Pierre. Elle a remis sa l. à Condorcet qui voit Turgot à tous moments, mais Turgot est accablé dans 'ces premiers moments'. Mlle de Lespinasse ne sera pas chez elle mardi. Compliments de D’Al.",
+        "dcterms_description": "29 Aug 1774: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Saint-Pierre, Jacques-Henri Bernardin de, 1737-1814 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065561",
+        "dcterms_identifier-editi_": "editi_1065561",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/adc0ba63-57bb-456e-b1e1-c3630d41a2eb",
+        "dcterms_identifier-uuid_": "uuid_adc0ba63-57bb-456e-b1e1-c3630d41a2eb",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/be35bd2e-311d-48d3-89e5-d3c4f90b0ee5"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_adc0ba63-57bb-456e-b1e1-c3630d41a2eb",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e9293c68-5708-448e-831b-8d6a38928fda"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/be35bd2e-311d-48d3-89e5-d3c4f90b0ee5"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/21394ceb-04eb-4ce1-a0de-3a103df16184"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/d7951541-8d5b-453f-982d-95acf38f8cac"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "29 [août 1774]",
+        "ox_incipit": "Mlle de Lespinasse est bien touchée des marques de…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:53:21Z",
+        "ox_internalModified": "2025-04-04T17:53:21Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1774,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/e9293c68-5708-448e-831b-8d6a38928fda"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4b1e6a6c-a33f-4010-a00a-62ec5e5c28d4",
+          "http://localhost/resource/f3734dfe-64ce-4e44-b898-d8f4956df2c2"
+        ],
+        "recipient_sort": "Saint-Pierre, Jacques-Henri Bernardin de, 1737-1814",
+        "resources": [
+          "http://localhost/resource/4b1e6a6c-a33f-4010-a00a-62ec5e5c28d4",
+          "http://localhost/resource/f3734dfe-64ce-4e44-b898-d8f4956df2c2"
+        ],
+        "started_date_gregorian_sort": "1774-08-29T00:00:00Z",
+        "started_date_sort": "1774-08-29T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/adc0ba63-57bb-456e-b1e1-c3630d41a2eb",
+        "uuid": "adc0ba63-57bb-456e-b1e1-c3630d41a2eb",
+        "uuid_related": [
+          "be35bd2e-311d-48d3-89e5-d3c4f90b0ee5",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "e9293c68-5708-448e-831b-8d6a38928fda",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "d7951541-8d5b-453f-982d-95acf38f8cac",
+          "21394ceb-04eb-4ce1-a0de-3a103df16184",
+          "4b1e6a6c-a33f-4010-a00a-62ec5e5c28d4",
+          "f3734dfe-64ce-4e44-b898-d8f4956df2c2"
+        ]
+      },
+      {
+        "_version_": 1.8609799476627374e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/1763241c-edd8-4c6b-a20f-9a74da57a2ba"
+        ],
+        "dcterms_abstract": "M. Turgot a la l. qu’il lui a écrit. Il a grande envie de l’obliger ; mais il est tellement accablé, que d’ici au départ pour Compiègne il ne peut pas lui donner une heure….",
+        "dcterms_description": "5 Sep 1774: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Saint-Pierre, Jacques-Henri Bernardin de, 1737-1814 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065562",
+        "dcterms_identifier-editi_": "editi_1065562",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ce549238-cbca-42bf-a15e-4bc71e0b7647",
+        "dcterms_identifier-uuid_": "uuid_ce549238-cbca-42bf-a15e-4bc71e0b7647",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7b09f045-97d8-43c1-8a67-1aff0bca464e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_ce549238-cbca-42bf-a15e-4bc71e0b7647",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e9293c68-5708-448e-831b-8d6a38928fda"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7b09f045-97d8-43c1-8a67-1aff0bca464e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/1763241c-edd8-4c6b-a20f-9a74da57a2ba"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:53:21Z",
+        "ox_internalModified": "2025-04-04T17:53:21Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1774,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/e9293c68-5708-448e-831b-8d6a38928fda"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3e0110d1-c0c2-40de-a3ca-d7ba1bcba72e",
+          "http://localhost/resource/580530db-8687-43ec-a389-cda451148138"
+        ],
+        "recipient_sort": "Saint-Pierre, Jacques-Henri Bernardin de, 1737-1814",
+        "resources": [
+          "http://localhost/resource/3e0110d1-c0c2-40de-a3ca-d7ba1bcba72e",
+          "http://localhost/resource/580530db-8687-43ec-a389-cda451148138"
+        ],
+        "started_date_gregorian_sort": "1774-09-05T00:00:00Z",
+        "started_date_sort": "1774-09-05T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ce549238-cbca-42bf-a15e-4bc71e0b7647",
+        "uuid": "ce549238-cbca-42bf-a15e-4bc71e0b7647",
+        "uuid_related": [
+          "7b09f045-97d8-43c1-8a67-1aff0bca464e",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "e9293c68-5708-448e-831b-8d6a38928fda",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1763241c-edd8-4c6b-a20f-9a74da57a2ba",
+          "3e0110d1-c0c2-40de-a3ca-d7ba1bcba72e",
+          "580530db-8687-43ec-a389-cda451148138"
+        ]
+      },
+      {
+        "_version_": 1.860979947698389e+18,
+        "author_sort": "Grandjean de Fouchy Desportes de Pardailhan, Marie-Madeleine, d.1784",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/6ecbb2f2-613f-44c3-9083-f9764e80debe"
+        ],
+        "dcterms_abstract": "Vient de voir [l’huissier chargé de l’expulsion]. Cinq ou six mille francs tireraient Fouchy d’affaire. Compliments.",
+        "dcterms_description": "8 Apr 1775: Grandjean de Fouchy Desportes de Pardailhan, Marie-Madeleine, d.1784 (Paris, Île-de-France, France) to D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065622",
+        "dcterms_identifier-editi_": "editi_1065622",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/79fb6a44-387f-4f22-9b30-218564afc544",
+        "dcterms_identifier-uuid_": "uuid_79fb6a44-387f-4f22-9b30-218564afc544",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0cd7127b-a987-4214-bcf1-5d21248fa68b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/7ca182f1-4353-4e39-9712-1ff4f8de779c"
+        ],
+        "id": "uuid_79fb6a44-387f-4f22-9b30-218564afc544",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0cd7127b-a987-4214-bcf1-5d21248fa68b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/6ecbb2f2-613f-44c3-9083-f9764e80debe"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "8 [avril 1775]",
+        "ox_incipit": "…un moyen, monsieur, de vous faire un honneur très grand dans le monde, est d’aider M. de Fouchy…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:53:36Z",
+        "ox_internalModified": "2025-04-04T17:53:36Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1775,
+        "people": [
+          "http://localhost/person/7ca182f1-4353-4e39-9712-1ff4f8de779c",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c99a640b-30c9-45c3-b50b-c8aa6774d1a2",
+          "http://localhost/resource/d50303bb-4eaa-4ae4-9c3f-c9dd2a933f62"
+        ],
+        "recipient_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "resources": [
+          "http://localhost/resource/c99a640b-30c9-45c3-b50b-c8aa6774d1a2",
+          "http://localhost/resource/d50303bb-4eaa-4ae4-9c3f-c9dd2a933f62"
+        ],
+        "started_date_gregorian_sort": "1775-04-08T00:00:00Z",
+        "started_date_sort": "1775-04-08T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/79fb6a44-387f-4f22-9b30-218564afc544",
+        "uuid": "79fb6a44-387f-4f22-9b30-218564afc544",
+        "uuid_related": [
+          "0cd7127b-a987-4214-bcf1-5d21248fa68b",
+          "7ca182f1-4353-4e39-9712-1ff4f8de779c",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "6ecbb2f2-613f-44c3-9083-f9764e80debe",
+          "c99a640b-30c9-45c3-b50b-c8aa6774d1a2",
+          "d50303bb-4eaa-4ae4-9c3f-c9dd2a933f62"
+        ]
+      },
+      {
+        "_version_": 1.8609799194770145e+18,
+        "author_sort": "Crozat, Louise Honorine, 1734-1801",
+        "cito_Catalog": "Jacquier, François",
+        "dcterms_description": "15 Sep 1775: Crozat, Louise Honorine, 1734-1801 (Château de Chanteloup, Amboise, Centre-Val de Loire, France) to Jacquier, François, 1711-1788 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056277",
+        "dcterms_identifier-editi_": "editi_1056277",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3a427a0f-e342-4982-a3bf-cdea9ceba5d4",
+        "dcterms_identifier-uuid_": "uuid_3a427a0f-e342-4982-a3bf-cdea9ceba5d4",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/611aeaff-70d5-457b-876f-678119f389d5",
+          "http://localhost/manifestation/256233bb-1e0c-4251-8256-148e6649cbb7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ef6a88c8-b4b5-44ef-9c40-39e9236c1ee5"
+        ],
+        "id": "uuid_3a427a0f-e342-4982-a3bf-cdea9ceba5d4",
+        "locations": [
+          "http://localhost/location/e8a298f0-2efc-487a-82b2-baad8c49799c",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/e8a298f0-2efc-487a-82b2-baad8c49799c"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/ad2f0c64-9846-47a4-b859-c5c02df42ca1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/611aeaff-70d5-457b-876f-678119f389d5",
+          "http://localhost/manifestation/256233bb-1e0c-4251-8256-148e6649cbb7"
+        ],
+        "object_type": "work",
+        "origin_sort": "Château de Chanteloup, Amboise, Centre-Val de Loire, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-16T16:10:30Z",
+        "ox_internalModified": "2024-08-22T10:20:12Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from the inventory published in 'François Jacquier. Un savant des Lumières entre le cloître et le monde', ed. Gilles Montègre and Pierre Crépel (Nancy, 2017), 16 August 2024",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1775,
+        "people": [
+          "http://localhost/person/ef6a88c8-b4b5-44ef-9c40-39e9236c1ee5",
+          "http://localhost/person/ad2f0c64-9846-47a4-b859-c5c02df42ca1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Jacquier, François, 1711-1788",
+        "started_date_gregorian_sort": "1775-09-15T00:00:00Z",
+        "started_date_sort": "1775-09-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3a427a0f-e342-4982-a3bf-cdea9ceba5d4",
+        "uuid": "3a427a0f-e342-4982-a3bf-cdea9ceba5d4",
+        "uuid_related": [
+          "611aeaff-70d5-457b-876f-678119f389d5",
+          "256233bb-1e0c-4251-8256-148e6649cbb7",
+          "ef6a88c8-b4b5-44ef-9c40-39e9236c1ee5",
+          "ad2f0c64-9846-47a4-b859-c5c02df42ca1",
+          "e8a298f0-2efc-487a-82b2-baad8c49799c",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.8609799479909417e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/7d102ecc-be4d-465f-b8aa-e85f6e8c4423",
+          "http://localhost/comment/275ab69a-d263-47f6-b61a-94732e7dc803"
+        ],
+        "dcterms_abstract": "Les parents de Condorcet. Elle a dîné avec Turgot qui espère voir le prix du blé diminuer. Le clergé demande au roi d’interdire les ouvrages anonymes pour lutter contre l’incrédulité. Les Suard. Turgot a défendu Devaines publiquement. Saint-Chamans va mieux. Le secrétariat de Condorcet. Apophtegme d’Angiviller.",
+        "dcterms_description": "24 Sep 1775: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065662",
+        "dcterms_identifier-editi_": "editi_1065662",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/864eae06-3485-4e84-9cdc-176fef8cb809",
+        "dcterms_identifier-uuid_": "uuid_864eae06-3485-4e84-9cdc-176fef8cb809",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4d80745b-36ae-4e0e-92dc-ede3d2645b52"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_864eae06-3485-4e84-9cdc-176fef8cb809",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4d80745b-36ae-4e0e-92dc-ede3d2645b52"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/275ab69a-d263-47f6-b61a-94732e7dc803"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/7d102ecc-be4d-465f-b8aa-e85f6e8c4423"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "24 septembre",
+        "ox_incipit": "Vous êtes trop aimable, bon Condorcet, de trouver le temps au milieu de tout ce qui vous accable.…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:53:46Z",
+        "ox_internalModified": "2025-04-04T17:53:46Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 24,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1775,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/6f274793-c874-4483-8055-80ea7e8be486"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/37af229b-7eae-498e-8ca2-dc3fc4fdd0d5",
+          "http://localhost/resource/b8d719d2-0825-4378-8196-31967a6823e6"
+        ],
+        "recipient_sort": "Condorcet, Marie Jean Antoine Nicolas de Caritat, marquis de, 1743-1794",
+        "resources": [
+          "http://localhost/resource/37af229b-7eae-498e-8ca2-dc3fc4fdd0d5",
+          "http://localhost/resource/b8d719d2-0825-4378-8196-31967a6823e6"
+        ],
+        "started_date_gregorian_sort": "1775-09-24T00:00:00Z",
+        "started_date_sort": "1775-09-24T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/864eae06-3485-4e84-9cdc-176fef8cb809",
+        "uuid": "864eae06-3485-4e84-9cdc-176fef8cb809",
+        "uuid_related": [
+          "4d80745b-36ae-4e0e-92dc-ede3d2645b52",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "6f274793-c874-4483-8055-80ea7e8be486",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "7d102ecc-be4d-465f-b8aa-e85f6e8c4423",
+          "275ab69a-d263-47f6-b61a-94732e7dc803",
+          "37af229b-7eae-498e-8ca2-dc3fc4fdd0d5",
+          "b8d719d2-0825-4378-8196-31967a6823e6"
+        ]
+      },
+      {
+        "_version_": 1.8609799479961846e+18,
+        "author_sort": "Grandjean de Fouchy Desportes de Pardailhan, Marie-Madeleine, d.1784",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/19e1c1d3-9455-45ec-8519-13c6f7993344"
+        ],
+        "dcterms_abstract": "Elle implore la protection de D’Al.",
+        "dcterms_description": "19 Oct 1775: Grandjean de Fouchy Desportes de Pardailhan, Marie-Madeleine, d.1784 (Paris, Île-de-France, France) to D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065669",
+        "dcterms_identifier-editi_": "editi_1065669",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3f49771c-7ac3-4a6b-b41b-0e66a138e602",
+        "dcterms_identifier-uuid_": "uuid_3f49771c-7ac3-4a6b-b41b-0e66a138e602",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/795db81f-90fe-4f5a-bb4d-59decacf7337"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/7ca182f1-4353-4e39-9712-1ff4f8de779c"
+        ],
+        "id": "uuid_3f49771c-7ac3-4a6b-b41b-0e66a138e602",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/795db81f-90fe-4f5a-bb4d-59decacf7337"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/19e1c1d3-9455-45ec-8519-13c6f7993344"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "19 octobre",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:53:48Z",
+        "ox_internalModified": "2025-04-04T17:53:48Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 19,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1775,
+        "people": [
+          "http://localhost/person/7ca182f1-4353-4e39-9712-1ff4f8de779c",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4009c3b1-e046-4800-a958-8635b3209244",
+          "http://localhost/resource/e1b0b876-fdb1-4a40-a8ce-21d3c1c14f5f"
+        ],
+        "recipient_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "resources": [
+          "http://localhost/resource/4009c3b1-e046-4800-a958-8635b3209244",
+          "http://localhost/resource/e1b0b876-fdb1-4a40-a8ce-21d3c1c14f5f"
+        ],
+        "started_date_gregorian_sort": "1775-10-19T00:00:00Z",
+        "started_date_sort": "1775-10-19T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3f49771c-7ac3-4a6b-b41b-0e66a138e602",
+        "uuid": "3f49771c-7ac3-4a6b-b41b-0e66a138e602",
+        "uuid_related": [
+          "795db81f-90fe-4f5a-bb4d-59decacf7337",
+          "7ca182f1-4353-4e39-9712-1ff4f8de779c",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "19e1c1d3-9455-45ec-8519-13c6f7993344",
+          "4009c3b1-e046-4800-a958-8635b3209244",
+          "e1b0b876-fdb1-4a40-a8ce-21d3c1c14f5f"
+        ]
+      },
+      {
+        "_version_": 1.8609799479982817e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/20b66f46-f970-4ea8-a5d8-2a4f2ad3206a",
+          "http://localhost/comment/9de364ef-784a-4545-838c-7af85d04b4b9"
+        ],
+        "dcterms_abstract": "A reçu des nouvelles de Fontainebleau de Vaines, lui promet sa gratification. Compliment de D'Al; Secrétaire.",
+        "dcterms_description": "25 Oct 1775: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Saint-Pierre, Jacques-Henri Bernardin de, 1737-1814 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065673",
+        "dcterms_identifier-editi_": "editi_1065673",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/12a74d9a-6ebe-4a8e-8009-1893a60abe5c",
+        "dcterms_identifier-uuid_": "uuid_12a74d9a-6ebe-4a8e-8009-1893a60abe5c",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b21812c8-5e59-4cd7-af58-eb804b058d81"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_12a74d9a-6ebe-4a8e-8009-1893a60abe5c",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e9293c68-5708-448e-831b-8d6a38928fda"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b21812c8-5e59-4cd7-af58-eb804b058d81"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_authorAnnotate-comment": [
+          "http://localhost/comment/9de364ef-784a-4545-838c-7af85d04b4b9"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/20b66f46-f970-4ea8-a5d8-2a4f2ad3206a"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "25 octobre",
+        "ox_incipit": "Je reçois dans le moment, monsieur, des nouvelles de Fontainebleau ;",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:53:49Z",
+        "ox_internalModified": "2025-04-04T17:53:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1775,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/e9293c68-5708-448e-831b-8d6a38928fda"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/39c34790-0ada-417e-ab2f-86f7aa599bbd",
+          "http://localhost/resource/a838b299-cd80-46c4-82a9-1d0d73a9857a"
+        ],
+        "recipient_sort": "Saint-Pierre, Jacques-Henri Bernardin de, 1737-1814",
+        "resources": [
+          "http://localhost/resource/39c34790-0ada-417e-ab2f-86f7aa599bbd",
+          "http://localhost/resource/a838b299-cd80-46c4-82a9-1d0d73a9857a"
+        ],
+        "started_date_gregorian_sort": "1775-10-25T00:00:00Z",
+        "started_date_sort": "1775-10-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/12a74d9a-6ebe-4a8e-8009-1893a60abe5c",
+        "uuid": "12a74d9a-6ebe-4a8e-8009-1893a60abe5c",
+        "uuid_related": [
+          "b21812c8-5e59-4cd7-af58-eb804b058d81",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "e9293c68-5708-448e-831b-8d6a38928fda",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "20b66f46-f970-4ea8-a5d8-2a4f2ad3206a",
+          "9de364ef-784a-4545-838c-7af85d04b4b9",
+          "39c34790-0ada-417e-ab2f-86f7aa599bbd",
+          "a838b299-cd80-46c4-82a9-1d0d73a9857a"
+        ]
+      },
+      {
+        "_version_": 1.8609799480307876e+18,
+        "author_sort": "Geoffrin de La Ferté Imbault, Marie-Thérèse, 1715-1791",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Lui ferme l'accès à la chambre de sa mère pour des raisons religieuses.",
+        "dcterms_description": "2 Sep 1776: Geoffrin de La Ferté Imbault, Marie-Thérèse, 1715-1791 (Paris, Île-de-France, France) to D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065730",
+        "dcterms_identifier-editi_": "editi_1065730",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2c2eb7c6-1201-463a-876e-62f6ec30f710",
+        "dcterms_identifier-uuid_": "uuid_2c2eb7c6-1201-463a-876e-62f6ec30f710",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7b031771-240e-4192-9fb3-08e517a26b76"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cdd48ef0-115e-4cc8-8fd1-35d5d03c01ae"
+        ],
+        "id": "uuid_2c2eb7c6-1201-463a-876e-62f6ec30f710",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7b031771-240e-4192-9fb3-08e517a26b76"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je vais vous parler, monsieur, avec la franchise qui m'est…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:57:18Z",
+        "ox_internalModified": "2025-04-04T17:57:18Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1776,
+        "people": [
+          "http://localhost/person/cdd48ef0-115e-4cc8-8fd1-35d5d03c01ae",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3908b193-2db7-4ab9-9511-0fae94efb8ba",
+          "http://localhost/resource/abedfe87-0344-4715-9b34-5f5c8290bc5c"
+        ],
+        "recipient_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "resources": [
+          "http://localhost/resource/3908b193-2db7-4ab9-9511-0fae94efb8ba",
+          "http://localhost/resource/abedfe87-0344-4715-9b34-5f5c8290bc5c"
+        ],
+        "started_date_gregorian_sort": "1776-09-02T00:00:00Z",
+        "started_date_sort": "1776-09-02T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2c2eb7c6-1201-463a-876e-62f6ec30f710",
+        "uuid": "2c2eb7c6-1201-463a-876e-62f6ec30f710",
+        "uuid_related": [
+          "7b031771-240e-4192-9fb3-08e517a26b76",
+          "cdd48ef0-115e-4cc8-8fd1-35d5d03c01ae",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "3908b193-2db7-4ab9-9511-0fae94efb8ba",
+          "abedfe87-0344-4715-9b34-5f5c8290bc5c"
+        ]
+      },
+      {
+        "_version_": 1.8609799487480136e+18,
+        "author_sort": "Hornoy, Alexandrine-Geneviève d', fl. 1772-1779",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Regrette mais ne peut s’empêcher de lui faire perdre du temps 'à lire une lettre de femme'. Plaisir à la lecture des Eloges, Massillon, Bossuet, Fénelon son 'héros de tous tems', Fléchier. Regrette de n’avoir pas trouvé l’éloge de l’abbé Gédoyn, traducteur de Quintilien et de Pausanias, auteur d’une 'apologie des traductions', admiré par l’abbé d’Olivet. Gédoyn la regardait comme sa fille adoptive et était un familier de leur maison. Maréchal de Richelieu, Volt.",
+        "dcterms_description": "20 Feb 1779: Hornoy, Alexandrine-Geneviève d', fl. 1772-1779 (Rue Saint-Honoré, Paris, Île-de-France, France) to D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065903",
+        "dcterms_identifier-editi_": "editi_1065903",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/4dba8d4d-3deb-403f-adae-028914454f5a",
+        "dcterms_identifier-uuid_": "uuid_4dba8d4d-3deb-403f-adae-028914454f5a",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/feb9c233-5260-479c-8c6d-8dc19f7c194d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8ad5c41a-3d25-4698-9db7-8648edd812c7"
+        ],
+        "id": "uuid_4dba8d4d-3deb-403f-adae-028914454f5a",
+        "locations": [
+          "http://localhost/location/0549e4aa-a857-4327-b97c-bd5de5e6a1d8",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0549e4aa-a857-4327-b97c-bd5de5e6a1d8"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/feb9c233-5260-479c-8c6d-8dc19f7c194d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rue Saint-Honoré, Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Il y a monsieur, bien de la témérité à écrire à un homme…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:58:02Z",
+        "ox_internalModified": "2025-04-04T17:58:02Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1779,
+        "people": [
+          "http://localhost/person/8ad5c41a-3d25-4698-9db7-8648edd812c7",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/7eb1e652-f54a-4a11-b013-0f1747a66eff",
+          "http://localhost/resource/79e3a442-f772-468d-8fa9-1c40ddd818c3"
+        ],
+        "recipient_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "resources": [
+          "http://localhost/resource/7eb1e652-f54a-4a11-b013-0f1747a66eff",
+          "http://localhost/resource/79e3a442-f772-468d-8fa9-1c40ddd818c3"
+        ],
+        "started_date_gregorian_sort": "1779-02-20T00:00:00Z",
+        "started_date_sort": "1779-02-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.741Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/4dba8d4d-3deb-403f-adae-028914454f5a",
+        "uuid": "4dba8d4d-3deb-403f-adae-028914454f5a",
+        "uuid_related": [
+          "feb9c233-5260-479c-8c6d-8dc19f7c194d",
+          "8ad5c41a-3d25-4698-9db7-8648edd812c7",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "0549e4aa-a857-4327-b97c-bd5de5e6a1d8",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "7eb1e652-f54a-4a11-b013-0f1747a66eff",
+          "79e3a442-f772-468d-8fa9-1c40ddd818c3"
+        ]
+      }
+    ],
+    "numFound": 18,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 3,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1770-01-01T00:00:00Z TO 1810-12-31T23:59:59Z] AND (person-author-gender:(female) OR person-recipient-gender:(female) OR person-mentioned-gender:(female)) AND person-author-gender:(female) AND person-recipient-gender:(male) AND location-origin:(Paris, Île-de-France, France)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
