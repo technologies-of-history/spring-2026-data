@@ -1,0 +1,3158 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Pirckheimer, Willibald",
+        13, "Grumbach, Argula von",
+        10, "Pirckheimer, Caritas",
+        6, "Erasmus, Desiderius",
+        4, "Dürer, Albrecht",
+        2, "Eck, Johann",
+        2, "Dantiscus, Ioannes",
+        1, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0],
+      "destination_sort": [
+        "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        8, "Geisenfeld Abbey, Geisenfeld, Bavaria, Germany",
+        3, "Bergen Abbey, Bergen bei Neuburg, Neuburg an der Donau, Bavaria, Germany",
+        2, "Brussels, Brussels Capital Region, Belgium",
+        2, "Kloster Gnadenberg, Gnadenberg, Bavaria, Germany",
+        2, "Augsburg, Bavaria, Germany",
+        1, "Chelsea, London, England",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+        13, "http://localhost/person/3d57cf71-45af-4e07-a6bd-d83773da9c21",
+        4, "http://localhost/person/972e049d-2fab-4d5a-aa10-5b048f67e07d",
+        4, "http://localhost/person/041ae48b-09ab-40d4-aedf-7984658582cf",
+        3, "http://localhost/person/980e28cd-8bec-466c-9b73-0992867beefb",
+        3, "http://localhost/person/047dc020-004e-450a-b133-c5cdcafee877",
+        2, "http://localhost/person/6342939b-59b5-4016-9301-fd11e5c5ddcb",
+        1, "http://localhost/person/6becf53d-9e74-4f63-aea0-17ad73d05d90",
+        1, "http://localhost/person/6ec67f02-f106-4a90-88dc-ca8611908117",
+        1, "http://localhost/person/bff27372-c8ac-4a54-bc43-4d3c2e5fc689",
+        1],
+      "mail_recipient-person": [
+        "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251",
+        12, "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185",
+        11, "http://localhost/person/37b50d3e-7ece-4144-a933-edbfdbbdac8e",
+        3, "http://localhost/person/0e38b102-171b-459d-a599-e4c82854df07",
+        2, "http://localhost/person/3b978f67-cb61-4dd4-8aad-ba6b59218ea7",
+        2, "http://localhost/person/47db6536-4ba0-4737-99d6-a559ef312825",
+        2, "http://localhost/person/59d2c934-9a3a-402a-b5bd-89e89e809f48",
+        2, "http://localhost/person/754bfde2-264e-4096-aabb-45333583ee18",
+        2, "http://localhost/person/b03fc3a3-9c55-4664-bac1-e6c65ed20c27",
+        2, "http://localhost/person/ccab2ee3-efea-400d-b44a-6c583f548890",
+        2],
+      "origin_sort": [
+        "Nuremberg, Bavaria, Germany",
+        19, "Ingolstadt, Bavaria, Germany, (Holy Roman Empire)",
+        5, "Freiburg, Baden-Württemberg, Germany",
+        4, "Wittenberg, Saxony-Anhalt, Germany",
+        3, "Leipzig, Saxony, Germany",
+        2, "Ansbach, Bavaria, Germany",
+        1, "Burggrumbach, Bavaria, Germany",
+        1, "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        1, "Regensburg, Bavaria, Germany",
+        1, "Worms, Rheinland-Pfalz, Germany",
+        1],
+      "ox_started-ox_year": [
+        "1532",
+        4, "1533",
+        4, "1517",
+        3, "1530",
+        3, "1503",
+        2, "1507",
+        2, "1514",
+        2, "1519",
+        2, "1529",
+        2, "1509",
+        1]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_064ee5c7-43a1-4414-a226-bd4f5ed8ebe5": {
+
+    },
+    "uuid_088a09a1-18bd-4c55-85c7-924862329a62": {
+
+    },
+    "uuid_0ca0bf27-4019-41a6-9e4a-4fd8a2a38b49": {
+
+    },
+    "uuid_14c550f5-cac7-4cea-845c-f803bbffb822": {
+
+    },
+    "uuid_1c5b27b2-7be7-4939-9bdf-51e87e93669f": {
+
+    },
+    "uuid_1dee6687-a2b5-4094-91ae-ee8b1f9d257b": {
+
+    },
+    "uuid_21f8abb6-9470-4062-b729-743c16bf485f": {
+
+    },
+    "uuid_23e39cba-8162-42ec-906b-6ae3b5d3355d": {
+
+    },
+    "uuid_3212e3ff-2693-419e-a4be-2182fd40164e": {
+
+    },
+    "uuid_4946e311-52ae-430e-9964-e6703d4fecc0": {
+
+    },
+    "uuid_541ed694-6920-4d74-96a6-5063661e14bd": {
+
+    },
+    "uuid_6e2067df-3ca7-457f-97dd-6efcc10b2a87": {
+
+    },
+    "uuid_725ffc95-11ae-497d-abe3-175fef32872b": {
+
+    },
+    "uuid_7fd5aebb-9acd-4aeb-820f-ba4bb2f3f35c": {
+
+    },
+    "uuid_87ac2f69-fdb9-4194-8787-9cbff4e2a921": {
+
+    },
+    "uuid_898f5e43-7300-48cd-984c-36723331dd74": {
+
+    },
+    "uuid_8f653850-ea1b-40ed-82d7-75a4a512e736": {
+
+    },
+    "uuid_942dc00c-2a92-45ff-934e-dcc5b977e9f6": {
+
+    },
+    "uuid_9a7dbb9d-7ad3-4219-b56d-523946e540a5": {
+
+    },
+    "uuid_9af8ecad-3f08-4a44-a5cd-9bcb014624d3": {
+
+    },
+    "uuid_a03076fa-47d9-4316-b56c-74487e98c461": {
+
+    },
+    "uuid_a0387021-e9b0-4ed8-b4ee-a7896e565a03": {
+
+    },
+    "uuid_a11d537f-565b-44f2-b3fb-1d8f274ea11c": {
+
+    },
+    "uuid_b0428e3d-3cf4-45a6-b2ae-7f08272ce9bc": {
+
+    },
+    "uuid_b1b3f016-7910-4426-b2bd-7f50011722ff": {
+
+    },
+    "uuid_b767d8a6-1469-4148-a898-db87c6b5b9d3": {
+
+    },
+    "uuid_c0e1a9bc-4f22-4291-8dc4-b256760bd47d": {
+
+    },
+    "uuid_cb611058-153d-4c59-9d8f-f82867bf8638": {
+
+    },
+    "uuid_cbf27b42-c352-4062-b7da-2f83fe9ad3fa": {
+
+    },
+    "uuid_cd89b057-50ae-42e0-b90d-0e91fc79bd0c": {
+
+    },
+    "uuid_d0490356-30ee-41df-90ac-1260f8cb2c9e": {
+
+    },
+    "uuid_d7cd1f78-b133-431a-b5bd-b71b7589ea3f": {
+
+    },
+    "uuid_df80aff1-7ad3-4e75-bb04-3bba6f103fe2": {
+
+    },
+    "uuid_ebfb92dc-ad2e-44e4-b739-9e93cb54f94b": {
+
+    },
+    "uuid_edba0291-868c-4c37-9f08-d21dcbd9b1a1": {
+
+    },
+    "uuid_f17f66b4-d3c3-4650-af63-ddba33d0e1ef": {
+
+    },
+    "uuid_f82520cd-c9ce-4c98-a5a8-438247882fd7": {
+
+    },
+    "uuid_f920846f-9ebd-431d-aefd-ee974cb3cb28": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609799379330007e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "comments": [
+          "http://localhost/comment/7ad0ae0c-57e5-4430-bc73-d98688b4006a"
+        ],
+        "dcterms_description": "21 Dec 1503 to 31 Dec 1503: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Caritas, 1467-1532 (Klarissenkloster St Klara, Nuremberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062428",
+        "dcterms_identifier-editi_": "editi_1062428",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f17f66b4-d3c3-4650-af63-ddba33d0e1ef",
+        "dcterms_identifier-uuid_": "uuid_f17f66b4-d3c3-4650-af63-ddba33d0e1ef",
+        "dcterms_language": "Latin",
+        "destination_sort": "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c3e17409-c218-486e-807b-decf72fb8d32"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_f17f66b4-d3c3-4650-af63-ddba33d0e1ef",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c3e17409-c218-486e-807b-decf72fb8d32"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_completed-ox_day": 31,
+        "ox_completed-ox_month": 12,
+        "ox_completed-ox_year": 1503,
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/7ad0ae0c-57e5-4430-bc73-d98688b4006a"
+        ],
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:44:11Z",
+        "ox_internalModified": "2025-03-10T17:44:11Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1503,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1504-01-10T00:00:00Z",
+        "started_date_sort": "1503-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f17f66b4-d3c3-4650-af63-ddba33d0e1ef",
+        "uuid": "f17f66b4-d3c3-4650-af63-ddba33d0e1ef",
+        "uuid_related": [
+          "c3e17409-c218-486e-807b-decf72fb8d32",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "49e6e99e-d894-4721-bf8d-e89925f26131",
+          "7ad0ae0c-57e5-4430-bc73-d98688b4006a"
+        ]
+      },
+      {
+        "_version_": 1.8609799379330007e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "comments": [
+          "http://localhost/comment/2e08cb96-8e67-4f6d-b4cb-f0ef17cb397a"
+        ],
+        "dcterms_description": "21 Dec 1503 to 13 Mar 1504: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Caritas, 1467-1532 (Klarissenkloster St Klara, Nuremberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062429",
+        "dcterms_identifier-editi_": "editi_1062429",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/87ac2f69-fdb9-4194-8787-9cbff4e2a921",
+        "dcterms_identifier-uuid_": "uuid_87ac2f69-fdb9-4194-8787-9cbff4e2a921",
+        "dcterms_language": "Latin",
+        "destination_sort": "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/90773ec8-6418-42c5-a32b-ad69d31d68d5"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_87ac2f69-fdb9-4194-8787-9cbff4e2a921",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/90773ec8-6418-42c5-a32b-ad69d31d68d5"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_completed-ox_day": 13,
+        "ox_completed-ox_month": 3,
+        "ox_completed-ox_year": 1504,
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/2e08cb96-8e67-4f6d-b4cb-f0ef17cb397a"
+        ],
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:44:11Z",
+        "ox_internalModified": "2025-03-10T17:44:11Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-indef_uncertain": true,
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1503,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1504-03-23T00:00:00Z",
+        "started_date_sort": "1504-03-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/87ac2f69-fdb9-4194-8787-9cbff4e2a921",
+        "uuid": "87ac2f69-fdb9-4194-8787-9cbff4e2a921",
+        "uuid_related": [
+          "90773ec8-6418-42c5-a32b-ad69d31d68d5",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "49e6e99e-d894-4721-bf8d-e89925f26131",
+          "2e08cb96-8e67-4f6d-b4cb-f0ef17cb397a"
+        ]
+      },
+      {
+        "_version_": 1.860979937276592e+18,
+        "author_sort": "Scheurl, Christoph, 1481-1542",
+        "cito_Catalog": "Pirckheimer, Caritas",
+        "dcterms_description": "12 May 1507: Scheurl, Christoph, 1481-1542 (Wittenberg, Saxony-Anhalt, Germany) to Pirckheimer, Caritas, 1467-1532",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062220",
+        "dcterms_identifier-editi_": "editi_1062220",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d0490356-30ee-41df-90ac-1260f8cb2c9e",
+        "dcterms_identifier-uuid_": "uuid_d0490356-30ee-41df-90ac-1260f8cb2c9e",
+        "dcterms_language": "Latin",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7fa05695-40ea-41ba-aec2-12b5e53a38e7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/041ae48b-09ab-40d4-aedf-7984658582cf"
+        ],
+        "id": "uuid_d0490356-30ee-41df-90ac-1260f8cb2c9e",
+        "locations": [
+          "http://localhost/location/6890c8e8-110d-4bff-acec-54caded99f5d"
+        ],
+        "mail_addressees-rdf_value": "Charitatem Pirchameram",
+        "mail_origin-location": [
+          "http://localhost/location/6890c8e8-110d-4bff-acec-54caded99f5d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7fa05695-40ea-41ba-aec2-12b5e53a38e7"
+        ],
+        "object_type": "work",
+        "origin_sort": "Wittenberg, Saxony-Anhalt, Germany",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "12 Maii [1507]",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-01-02T11:58:08Z",
+        "ox_internalModified": "2025-01-02T11:58:08Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘Briefe von, an und über Caritas Pirckheimer (aus den Jahren 1498–1530)’, ed. Josef Pfanner (Landshut, 1966), 2 January 2025",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1507,
+        "people": [
+          "http://localhost/person/041ae48b-09ab-40d4-aedf-7984658582cf",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1507-05-22T00:00:00Z",
+        "started_date_sort": "1507-05-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d0490356-30ee-41df-90ac-1260f8cb2c9e",
+        "uuid": "d0490356-30ee-41df-90ac-1260f8cb2c9e",
+        "uuid_related": [
+          "7fa05695-40ea-41ba-aec2-12b5e53a38e7",
+          "041ae48b-09ab-40d4-aedf-7984658582cf",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "6890c8e8-110d-4bff-acec-54caded99f5d"
+        ]
+      },
+      {
+        "_version_": 1.860979937276592e+18,
+        "author_sort": "Scheurl, Christoph, 1481-1542",
+        "cito_Catalog": "Pirckheimer, Caritas",
+        "comments": [
+          "http://localhost/comment/8b0be7c0-e14b-4447-bc2b-6ff668610f74"
+        ],
+        "dcterms_description": "Sep 1507: Scheurl, Christoph, 1481-1542 (Wittenberg, Saxony-Anhalt, Germany) to Pirckheimer, Caritas, 1467-1532",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062221",
+        "dcterms_identifier-editi_": "editi_1062221",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9af8ecad-3f08-4a44-a5cd-9bcb014624d3",
+        "dcterms_identifier-uuid_": "uuid_9af8ecad-3f08-4a44-a5cd-9bcb014624d3",
+        "dcterms_language": "Latin",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6671d83e-e456-444a-924e-5798fd841fca"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/041ae48b-09ab-40d4-aedf-7984658582cf"
+        ],
+        "id": "uuid_9af8ecad-3f08-4a44-a5cd-9bcb014624d3",
+        "locations": [
+          "http://localhost/location/6890c8e8-110d-4bff-acec-54caded99f5d"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/6890c8e8-110d-4bff-acec-54caded99f5d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6671d83e-e456-444a-924e-5798fd841fca"
+        ],
+        "object_type": "work",
+        "origin_sort": "Wittenberg, Saxony-Anhalt, Germany",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/8b0be7c0-e14b-4447-bc2b-6ff668610f74"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-01-02T11:58:08Z",
+        "ox_internalModified": "2025-01-02T11:58:08Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘Briefe von, an und über Caritas Pirckheimer (aus den Jahren 1498–1530)’, ed. Josef Pfanner (Landshut, 1966), 2 January 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1507,
+        "people": [
+          "http://localhost/person/041ae48b-09ab-40d4-aedf-7984658582cf",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1507-10-10T00:00:00Z",
+        "started_date_sort": "1507-09-30T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9af8ecad-3f08-4a44-a5cd-9bcb014624d3",
+        "uuid": "9af8ecad-3f08-4a44-a5cd-9bcb014624d3",
+        "uuid_related": [
+          "6671d83e-e456-444a-924e-5798fd841fca",
+          "041ae48b-09ab-40d4-aedf-7984658582cf",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "6890c8e8-110d-4bff-acec-54caded99f5d",
+          "8b0be7c0-e14b-4447-bc2b-6ff668610f74"
+        ]
+      },
+      {
+        "_version_": 1.860979937276592e+18,
+        "author_sort": "Scheurl, Christoph, 1481-1542",
+        "cito_Catalog": "Pirckheimer, Caritas",
+        "dcterms_description": "5 Jan 1509: Scheurl, Christoph, 1481-1542 (Wittenberg, Saxony-Anhalt, Germany) to Pirckheimer, Caritas, 1467-1532 ~ Tucher, Apollonia, 1460-1533",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062222",
+        "dcterms_identifier-editi_": "editi_1062222",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/edba0291-868c-4c37-9f08-d21dcbd9b1a1",
+        "dcterms_identifier-uuid_": "uuid_edba0291-868c-4c37-9f08-d21dcbd9b1a1",
+        "dcterms_language": "Latin",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/54dc911a-65b8-49c5-87fe-bcfe6a7275c9"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/041ae48b-09ab-40d4-aedf-7984658582cf"
+        ],
+        "id": "uuid_edba0291-868c-4c37-9f08-d21dcbd9b1a1",
+        "locations": [
+          "http://localhost/location/6890c8e8-110d-4bff-acec-54caded99f5d"
+        ],
+        "mail_addressees-rdf_value": "Charitatem abbatissimam [!] et Apoloniam priorissam",
+        "mail_authors-rdf_value": "Scheurlius",
+        "mail_origin-location": [
+          "http://localhost/location/6890c8e8-110d-4bff-acec-54caded99f5d"
+        ],
+        "mail_origin-rdf_value": "Vittembergae",
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "http://localhost/person/69f44727-754f-4558-9639-87ca814e04a6"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/54dc911a-65b8-49c5-87fe-bcfe6a7275c9"
+        ],
+        "object_type": "work",
+        "origin_sort": "Wittenberg, Saxony-Anhalt, Germany",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Nonis Januariis 1509",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-01-02T11:58:08Z",
+        "ox_internalModified": "2025-01-02T11:58:08Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘Briefe von, an und über Caritas Pirckheimer (aus den Jahren 1498–1530)’, ed. Josef Pfanner (Landshut, 1966), 2 January 2025",
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1509,
+        "people": [
+          "http://localhost/person/041ae48b-09ab-40d4-aedf-7984658582cf",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "http://localhost/person/69f44727-754f-4558-9639-87ca814e04a6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532; Tucher, Apollonia, 1460-1533",
+        "started_date_gregorian_sort": "1509-01-15T00:00:00Z",
+        "started_date_sort": "1509-01-05T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/edba0291-868c-4c37-9f08-d21dcbd9b1a1",
+        "uuid": "edba0291-868c-4c37-9f08-d21dcbd9b1a1",
+        "uuid_related": [
+          "54dc911a-65b8-49c5-87fe-bcfe6a7275c9",
+          "041ae48b-09ab-40d4-aedf-7984658582cf",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "69f44727-754f-4558-9639-87ca814e04a6",
+          "6890c8e8-110d-4bff-acec-54caded99f5d"
+        ]
+      },
+      {
+        "_version_": 1.860979913916416e+18,
+        "author_sort": "Eck, Johann Maier von, 1486-1543",
+        "cito_Catalog": "Eck, Johann",
+        "comments": [
+          "http://localhost/comment/fb3529b6-7a79-479b-a322-5c2e35e10470"
+        ],
+        "dcterms_abstract": "Eck explains that, two years ago, he learned of his appointment as lecturer in the theological faculty at the University of Ingolstadt through Kunigunde's son Wilhelm. He also learned that, following her husband's death, she has retreated to a life of spiritual contemplation. To both thank her and support her admirable resolution, he sends her an abbreviated German translation and interpretation of his late mentor Johannes Geyler von Kaisersberg's sermon series \"Navicula Paenitentiae\".",
+        "dcterms_description": "18 Mar 1512: Eck, Johann Maier von, 1486-1543 (Ingolstadt, Bavaria, Germany, (Holy Roman Empire)) to Kunigunde of Austria, 1465-1520",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001054426",
+        "dcterms_identifier-editi_": "editi_1054426",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cb611058-153d-4c59-9d8f-f82867bf8638",
+        "dcterms_identifier-uuid_": "uuid_cb611058-153d-4c59-9d8f-f82867bf8638",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/46c70e48-09a3-44e1-8ca9-310e36f649c1",
+          "http://localhost/manifestation/9380a304-f15d-4609-a705-7e013f3a3c80",
+          "http://localhost/manifestation/48e61411-3a4b-4013-8905-a8c198614e9b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/980e28cd-8bec-466c-9b73-0992867beefb"
+        ],
+        "id": "uuid_cb611058-153d-4c59-9d8f-f82867bf8638",
+        "locations": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_addressees-rdf_value": "Kunigunden Hertzogin in Obern unnd Nydern Bayren",
+        "mail_origin-location": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_origin-rdf_value": "Ingollstat",
+        "mail_recipient-person": [
+          "http://localhost/person/36c7944b-9d4d-433d-b6a0-1c5f94e0fca2"
+        ],
+        "manifestation-institution-place": [
+          "Bayerische Staatsbibliothek",
+          "Bibliotheca Regia Monacensis\nBSB\nDie Bayerische Staatsbibliothek\nMunich Bayerische Staatsbibliothek\nStaatsbibliothek München",
+          "Munich",
+          "München",
+          "Germany",
+          "Universitätsbibliothek der Ludwig-Maximilians-Universität",
+          "LMU\nUniversitätsbibliothek, München\nUniversitätsbibliothek der LMU München\nUB University of Munich - Central Library",
+          "Munich",
+          "München",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/46c70e48-09a3-44e1-8ca9-310e36f649c1",
+          "http://localhost/manifestation/9380a304-f15d-4609-a705-7e013f3a3c80",
+          "http://localhost/manifestation/48e61411-3a4b-4013-8905-a8c198614e9b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Ingolstadt, Bavaria, Germany, (Holy Roman Empire)",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "am XVIII. tag des mertzen Im XII. jar. [also: Am XVIII. tag des Mertzen nach der geburt unsers herren Jhesu cristi Tusentfünffhundert und XII. jar.]",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-06-03T17:18:53Z",
+        "ox_internalModified": "2024-06-03T17:18:53Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/fb3529b6-7a79-479b-a322-5c2e35e10470"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Sara Joswig, with Cultures of Knowledge, based on 'Johannes Eck: Briefwechsel', ed. Vinzenz Pfnür (Universität Münster, 2011), 3 June 2024",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1512,
+        "people": [
+          "http://localhost/person/980e28cd-8bec-466c-9b73-0992867beefb",
+          "http://localhost/person/36c7944b-9d4d-433d-b6a0-1c5f94e0fca2"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/780a22fb-ebb5-45ce-b2c2-40c66b1c74c2"
+        ],
+        "recipient_sort": "Kunigunde of Austria, 1465-1520",
+        "resources": [
+          "http://localhost/resource/780a22fb-ebb5-45ce-b2c2-40c66b1c74c2"
+        ],
+        "started_date_gregorian_sort": "1512-03-28T00:00:00Z",
+        "started_date_sort": "1512-03-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:30.824Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cb611058-153d-4c59-9d8f-f82867bf8638",
+        "uuid": "cb611058-153d-4c59-9d8f-f82867bf8638",
+        "uuid_related": [
+          "46c70e48-09a3-44e1-8ca9-310e36f649c1",
+          "9380a304-f15d-4609-a705-7e013f3a3c80",
+          "48e61411-3a4b-4013-8905-a8c198614e9b",
+          "980e28cd-8bec-466c-9b73-0992867beefb",
+          "36c7944b-9d4d-433d-b6a0-1c5f94e0fca2",
+          "4645882d-a2d0-42d4-8708-b4ebff8079f0",
+          "fb3529b6-7a79-479b-a322-5c2e35e10470",
+          "780a22fb-ebb5-45ce-b2c2-40c66b1c74c2"
+        ]
+      },
+      {
+        "_version_": 1.8609799384572887e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "1 Jun 1513: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Caritas, 1467-1532 (Klarissenkloster St Klara, Nuremberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062614",
+        "dcterms_identifier-editi_": "editi_1062614",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/898f5e43-7300-48cd-984c-36723331dd74",
+        "dcterms_identifier-uuid_": "uuid_898f5e43-7300-48cd-984c-36723331dd74",
+        "dcterms_language": "Latin",
+        "destination_sort": "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/67779884-f9e4-40bd-8632-293fb9aded08"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_898f5e43-7300-48cd-984c-36723331dd74",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/67779884-f9e4-40bd-8632-293fb9aded08"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:44:49Z",
+        "ox_internalModified": "2025-03-10T17:44:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1513,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1513-06-11T00:00:00Z",
+        "started_date_sort": "1513-06-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/898f5e43-7300-48cd-984c-36723331dd74",
+        "uuid": "898f5e43-7300-48cd-984c-36723331dd74",
+        "uuid_related": [
+          "67779884-f9e4-40bd-8632-293fb9aded08",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "49e6e99e-d894-4721-bf8d-e89925f26131"
+        ]
+      },
+      {
+        "_version_": 1.8609799387078984e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "29 Apr 1514: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Stetten, Katharina von, fl. 1501-1520 (Geisenfeld Abbey, Geisenfeld, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062683",
+        "dcterms_identifier-editi_": "editi_1062683",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a03076fa-47d9-4316-b56c-74487e98c461",
+        "dcterms_identifier-uuid_": "uuid_a03076fa-47d9-4316-b56c-74487e98c461",
+        "dcterms_language": "German",
+        "destination_sort": "Geisenfeld Abbey, Geisenfeld, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a947acf1-0ca4-42bf-aace-f42d9c1d1f0d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_a03076fa-47d9-4316-b56c-74487e98c461",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/5d1d9fed-733d-49fa-b5b4-5cd05caca548"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/5d1d9fed-733d-49fa-b5b4-5cd05caca548"
+        ],
+        "mail_origin-indef_uncertain": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/59d2c934-9a3a-402a-b5bd-89e89e809f48"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a947acf1-0ca4-42bf-aace-f42d9c1d1f0d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:45:03Z",
+        "ox_internalModified": "2025-03-10T17:45:03Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1514,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/59d2c934-9a3a-402a-b5bd-89e89e809f48"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Stetten, Katharina von, fl. 1501-1520",
+        "started_date_gregorian_sort": "1514-05-09T00:00:00Z",
+        "started_date_sort": "1514-04-29T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a03076fa-47d9-4316-b56c-74487e98c461",
+        "uuid": "a03076fa-47d9-4316-b56c-74487e98c461",
+        "uuid_related": [
+          "a947acf1-0ca4-42bf-aace-f42d9c1d1f0d",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "59d2c934-9a3a-402a-b5bd-89e89e809f48",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "5d1d9fed-733d-49fa-b5b4-5cd05caca548"
+        ]
+      },
+      {
+        "_version_": 1.8609799387131412e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "8 Aug 1514: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Stetten, Katharina von, fl. 1501-1520 (Geisenfeld Abbey, Geisenfeld, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062696",
+        "dcterms_identifier-editi_": "editi_1062696",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0ca0bf27-4019-41a6-9e4a-4fd8a2a38b49",
+        "dcterms_identifier-uuid_": "uuid_0ca0bf27-4019-41a6-9e4a-4fd8a2a38b49",
+        "dcterms_language": "German",
+        "destination_sort": "Geisenfeld Abbey, Geisenfeld, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/244f6c45-0d02-4e5d-bf53-86fcc7c32f67"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_0ca0bf27-4019-41a6-9e4a-4fd8a2a38b49",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/5d1d9fed-733d-49fa-b5b4-5cd05caca548"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/5d1d9fed-733d-49fa-b5b4-5cd05caca548"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/59d2c934-9a3a-402a-b5bd-89e89e809f48"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/244f6c45-0d02-4e5d-bf53-86fcc7c32f67"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:45:06Z",
+        "ox_internalModified": "2025-03-10T17:45:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1514,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/59d2c934-9a3a-402a-b5bd-89e89e809f48"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Stetten, Katharina von, fl. 1501-1520",
+        "started_date_gregorian_sort": "1514-08-18T00:00:00Z",
+        "started_date_sort": "1514-08-08T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0ca0bf27-4019-41a6-9e4a-4fd8a2a38b49",
+        "uuid": "0ca0bf27-4019-41a6-9e4a-4fd8a2a38b49",
+        "uuid_related": [
+          "244f6c45-0d02-4e5d-bf53-86fcc7c32f67",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "59d2c934-9a3a-402a-b5bd-89e89e809f48",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "5d1d9fed-733d-49fa-b5b4-5cd05caca548"
+        ]
+      },
+      {
+        "_version_": 1.8609799390088397e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "29 Dec 1515: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Klara, 1480-1533 (Klarissenkloster St Klara, Nuremberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062749",
+        "dcterms_identifier-editi_": "editi_1062749",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cbf27b42-c352-4062-b7da-2f83fe9ad3fa",
+        "dcterms_identifier-uuid_": "uuid_cbf27b42-c352-4062-b7da-2f83fe9ad3fa",
+        "dcterms_language": "Latin",
+        "destination_sort": "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/9fb6fa33-e60b-482e-ab6a-8ee6178dbfbe"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_cbf27b42-c352-4062-b7da-2f83fe9ad3fa",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3b978f67-cb61-4dd4-8aad-ba6b59218ea7"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/9fb6fa33-e60b-482e-ab6a-8ee6178dbfbe"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:45:22Z",
+        "ox_internalModified": "2025-03-10T17:45:22Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1515,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/3b978f67-cb61-4dd4-8aad-ba6b59218ea7"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Klara, 1480-1533",
+        "started_date_gregorian_sort": "1516-01-08T00:00:00Z",
+        "started_date_sort": "1515-12-29T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cbf27b42-c352-4062-b7da-2f83fe9ad3fa",
+        "uuid": "cbf27b42-c352-4062-b7da-2f83fe9ad3fa",
+        "uuid_related": [
+          "9fb6fa33-e60b-482e-ab6a-8ee6178dbfbe",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "3b978f67-cb61-4dd4-8aad-ba6b59218ea7",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "49e6e99e-d894-4721-bf8d-e89925f26131"
+        ]
+      },
+      {
+        "_version_": 1.8609799390235197e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "26 Dec 1516 to 31 Dec 1516: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Katharina (the elder), b.1476 (Geisenfeld Abbey, Geisenfeld, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062782",
+        "dcterms_identifier-editi_": "editi_1062782",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1c5b27b2-7be7-4939-9bdf-51e87e93669f",
+        "dcterms_identifier-uuid_": "uuid_1c5b27b2-7be7-4939-9bdf-51e87e93669f",
+        "dcterms_language": "Latin",
+        "destination_sort": "Geisenfeld Abbey, Geisenfeld, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/705aea6d-aff0-461c-823c-bb5a08cb493e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_1c5b27b2-7be7-4939-9bdf-51e87e93669f",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/5d1d9fed-733d-49fa-b5b4-5cd05caca548"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/5d1d9fed-733d-49fa-b5b4-5cd05caca548"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e20a531b-8455-44d6-8b85-bd0e882ff9e2"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/705aea6d-aff0-461c-823c-bb5a08cb493e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_completed-ox_day": 31,
+        "ox_completed-ox_month": 12,
+        "ox_completed-ox_year": 1516,
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:45:30Z",
+        "ox_internalModified": "2025-03-10T17:45:30Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_inferred": true,
+        "ox_started-indef_uncertain": true,
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1516,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/e20a531b-8455-44d6-8b85-bd0e882ff9e2"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Katharina (the elder), b.1476",
+        "started_date_gregorian_sort": "1517-01-10T00:00:00Z",
+        "started_date_sort": "1516-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:39.049Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1c5b27b2-7be7-4939-9bdf-51e87e93669f",
+        "uuid": "1c5b27b2-7be7-4939-9bdf-51e87e93669f",
+        "uuid_related": [
+          "705aea6d-aff0-461c-823c-bb5a08cb493e",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "e20a531b-8455-44d6-8b85-bd0e882ff9e2",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "5d1d9fed-733d-49fa-b5b4-5cd05caca548"
+        ]
+      },
+      {
+        "_version_": 1.8609799372703007e+18,
+        "author_sort": "Macheisen, Johannes, d.1521",
+        "cito_Catalog": "Pirckheimer, Caritas",
+        "dcterms_description": "17 Sep 1517: Macheisen, Johannes, d.1521 (Klarissenkloster St Klara, Nuremberg, Bavaria, Germany) to Pirckheimer, Caritas, 1467-1532",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062207",
+        "dcterms_identifier-editi_": "editi_1062207",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b1b3f016-7910-4426-b2bd-7f50011722ff",
+        "dcterms_identifier-uuid_": "uuid_b1b3f016-7910-4426-b2bd-7f50011722ff",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c536c92d-be6e-49ec-a207-5beee1887249"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/fa149612-7e3f-47c0-bb2b-aa72f4125dda"
+        ],
+        "id": "uuid_b1b3f016-7910-4426-b2bd-7f50011722ff",
+        "locations": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_authors-rdf_value": "F. Johannes Machysen",
+        "mail_origin-location": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_origin-rdf_value": "Nurenbergk bei dem kloster sannd Claren in dem bichthuß",
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c536c92d-be6e-49ec-a207-5beee1887249"
+        ],
+        "object_type": "work",
+        "origin_sort": "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "XVII Septembris anno XVII",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-01-02T11:58:04Z",
+        "ox_internalModified": "2025-01-02T11:58:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘Briefe von, an und über Caritas Pirckheimer (aus den Jahren 1498–1530)’, ed. Josef Pfanner (Landshut, 1966), 2 January 2025",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1517,
+        "people": [
+          "http://localhost/person/fa149612-7e3f-47c0-bb2b-aa72f4125dda",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1517-09-27T00:00:00Z",
+        "started_date_sort": "1517-09-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b1b3f016-7910-4426-b2bd-7f50011722ff",
+        "uuid": "b1b3f016-7910-4426-b2bd-7f50011722ff",
+        "uuid_related": [
+          "c536c92d-be6e-49ec-a207-5beee1887249",
+          "fa149612-7e3f-47c0-bb2b-aa72f4125dda",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "49e6e99e-d894-4721-bf8d-e89925f26131"
+        ]
+      },
+      {
+        "_version_": 1.8609799733549466e+18,
+        "author_sort": "Dürer, Albrecht, 1471-1528",
+        "cito_Catalog": "Dürer, Albrecht",
+        "comments": [
+          "http://localhost/comment/931b7ceb-e1c8-480b-80ef-fbd9783427c9"
+        ],
+        "dcterms_abstract": "Translation [by Cristina Neagu]:  Here you can take into account two different opinions: the previous view and mine. If it were up to me to build the roof, I would make it pointed like a tower roof, and the apex would be no more than a quarter of the total length above the roofline. Additionally, if I were in charge, I would make the roof no higher than a fourth of its cross-length, and no more than two levels of beams stacked on top of each other. This would be good in terms of fire protection. I am sure, this would also be the recommendation of an authority in the field such as Vitruvius. If the old structure is too low, one could increase the height between the trusses. Add to this my view on how the long timbers should be laid and fastened on the pillars. It is, I admit, only a rough opinion, but the carpenters would know what to make of it. The hight of the roof should be about one third of its length, and it should be set on three levels of beams stacked on top of each other. The lowest level should be a quarter higher than the level above it. And the top level should be a quarter above the middle level. Thus, the structure would be error-free. The strongest wood should be used for the lowest level, the moderately strong for the middle, and the weakest wood for the top. This is how the structure should be built. It is the first and second levels that carry the roofing, and the topmost level is set as the ridge beam, resting on the two levels below. The roof should be curved inwardly on each side by a quarter, which reduces the burden. So, the entire structure should be closed in on itself. Thus it does not push against the walls, but rather supports itself. The carpenters would know what I mean. The entire roof should be laid flush onto the walls and pillars. This way it would support inself gently and naturally. It is clear that such a roof would not be affected by wind as much as a roof seven levels high would be.  It is also impossible that, if covered with thick snow, it would become as heavy as it would otherwise be. It is also more secure in terms of fire safety, if struck by lightning. And it would not cost as much in terms of day to day roof maintenance for the building. Also, the existing timberwork can be re-used, so that no great expense needs to be made for new timber. But, more importantly, I fear that, if the large roof is not removed from the church and, as a result, the building is vaulted, the roof will push the walls apart, and the structure will become damaged beyond repair.",
+        "dcterms_description": "1517: Dürer, Albrecht, 1471-1528 (Nuremberg, Bavaria, Germany) to Fürer, Christoph, fl. 1517 ~ Fürer, Siegmund, fl. 1517 ~ Tucher, Apollonia, fl. 1514-1526 (Kloster Gnadenberg, Gnadenberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001073208",
+        "dcterms_identifier-editi_": "editi_1073208",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/064ee5c7-43a1-4414-a226-bd4f5ed8ebe5",
+        "dcterms_identifier-uuid_": "uuid_064ee5c7-43a1-4414-a226-bd4f5ed8ebe5",
+        "dcterms_language": "German",
+        "destination_sort": "Kloster Gnadenberg, Gnadenberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d1cd4ca5-2fb6-4196-833f-6a289fc6d09d",
+          "http://localhost/manifestation/3fdd4738-3b04-4f20-a163-0a8f6a4c738d",
+          "http://localhost/manifestation/067f9838-b77a-46d7-a3b6-46c50b5be684",
+          "http://localhost/manifestation/18916e40-55a2-4f2f-a07f-ae24ac4effda",
+          "http://localhost/manifestation/aeb8e9c4-125b-4498-b96c-1ed75daa211e",
+          "http://localhost/manifestation/ae681a2c-c6d9-400e-890b-d6173c5d371d",
+          "http://localhost/manifestation/3ce6791c-daf0-4fca-ae44-314d4dfa7cdf"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/047dc020-004e-450a-b133-c5cdcafee877"
+        ],
+        "id": "uuid_064ee5c7-43a1-4414-a226-bd4f5ed8ebe5",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/e2d5d923-2bbf-4673-a083-1c8891f7e79b"
+        ],
+        "mail_addressees-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/e2d5d923-2bbf-4673-a083-1c8891f7e79b"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/754bfde2-264e-4096-aabb-45333583ee18",
+          "http://localhost/person/ddf44bfc-071d-41ee-987d-4c176817d11f",
+          "http://localhost/person/47db6536-4ba0-4737-99d6-a559ef312825"
+        ],
+        "manifestation-institution-place": [
+          "British Library, Manuscript Collections",
+          "BL\nBritish Museum\nB.M.\nThe British Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d1cd4ca5-2fb6-4196-833f-6a289fc6d09d",
+          "http://localhost/manifestation/3fdd4738-3b04-4f20-a163-0a8f6a4c738d",
+          "http://localhost/manifestation/067f9838-b77a-46d7-a3b6-46c50b5be684",
+          "http://localhost/manifestation/18916e40-55a2-4f2f-a07f-ae24ac4effda",
+          "http://localhost/manifestation/aeb8e9c4-125b-4498-b96c-1ed75daa211e",
+          "http://localhost/manifestation/ae681a2c-c6d9-400e-890b-d6173c5d371d",
+          "http://localhost/manifestation/3ce6791c-daf0-4fca-ae44-314d4dfa7cdf"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_excipit": "Jtem es ist awch das forig zymer dortzw zw prawchen also, das man nit gros gelt vm new holtz werg darff geben. Vnd das ist eigentlich dy worheit: so man dy gros dachung nit van der kirchen tut, so man sy dan gewelben würt, so würt daz dach dy mawer van ein ander schiben, vnd würt der paw schadhaft werden.",
+        "ox_incipit": "Do sech jr den vnder schid der techer gegen ein ander. Dy forig meinvng vnd mein meinvng.  Jtem so das dach mir zw machen schtünd, so wolt jchs jn der mit spiczig machen wy ein turn dach, vnd dy spitz nit mer dan ein teils hoch vber der dach leng.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-09-10T16:24:53Z",
+        "ox_internalModified": "2025-09-16T12:29:48Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/931b7ceb-e1c8-480b-80ef-fbd9783427c9"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cristina Neagu, 10 September 2025",
+        "ox_started-ox_year": 1517,
+        "people": [
+          "http://localhost/person/047dc020-004e-450a-b133-c5cdcafee877",
+          "http://localhost/person/754bfde2-264e-4096-aabb-45333583ee18",
+          "http://localhost/person/ddf44bfc-071d-41ee-987d-4c176817d11f",
+          "http://localhost/person/47db6536-4ba0-4737-99d6-a559ef312825"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/a3bccdd8-b4e8-4996-b05f-d872594d487c"
+        ],
+        "recipient_sort": "Fürer, Christoph, fl. 1517; Fürer, Siegmund, fl. 1517; Tucher, Apollonia, fl. 1514-1526",
+        "resources": [
+          "http://localhost/resource/a3bccdd8-b4e8-4996-b05f-d872594d487c"
+        ],
+        "started_date_gregorian_sort": "1517-12-31T00:00:00Z",
+        "started_date_sort": "1517-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:53.659Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/064ee5c7-43a1-4414-a226-bd4f5ed8ebe5",
+        "uuid": "064ee5c7-43a1-4414-a226-bd4f5ed8ebe5",
+        "uuid_related": [
+          "d1cd4ca5-2fb6-4196-833f-6a289fc6d09d",
+          "3fdd4738-3b04-4f20-a163-0a8f6a4c738d",
+          "067f9838-b77a-46d7-a3b6-46c50b5be684",
+          "18916e40-55a2-4f2f-a07f-ae24ac4effda",
+          "aeb8e9c4-125b-4498-b96c-1ed75daa211e",
+          "ae681a2c-c6d9-400e-890b-d6173c5d371d",
+          "3ce6791c-daf0-4fca-ae44-314d4dfa7cdf",
+          "047dc020-004e-450a-b133-c5cdcafee877",
+          "754bfde2-264e-4096-aabb-45333583ee18",
+          "ddf44bfc-071d-41ee-987d-4c176817d11f",
+          "47db6536-4ba0-4737-99d6-a559ef312825",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "e2d5d923-2bbf-4673-a083-1c8891f7e79b",
+          "931b7ceb-e1c8-480b-80ef-fbd9783427c9",
+          "a3bccdd8-b4e8-4996-b05f-d872594d487c"
+        ]
+      },
+      {
+        "_version_": 1.8609799733559951e+18,
+        "author_sort": "Dürer, Albrecht, 1471-1528",
+        "cito_Catalog": "Dürer, Albrecht",
+        "comments": [
+          "http://localhost/comment/c44e12bd-c914-4762-97a6-eed9eb155836"
+        ],
+        "dcterms_abstract": "Translation [by Cristina Neagu]:  To begin with, the question is raised whether it is more useful to leave the roof as it is or to take it down. Here follow reasons why the large roof is harmful. Firstly, it is very heavy and puts a great deal of strain on the walls. Secondly, as it is widely acknowledged, this kind of roofing pushes against the walls, which causes damage to the structure over time. Thirdly, strong winds exert force on large roofs, and this is a cause for real concern. Additionally, such a large structure is dangerous because of the risk of fire. If lightning strikes, no one would be able to save it due to the large amount of wood inside. Fifthly, maintaining such a large and unwieldy roof, taking into account all necessary repairs over time, would be much more expensive. Reasons why a smaller roof would be more practical than a large one: Firstly, such a large structure is not needed, since no grain is being stored there. Secondly, a smaller roof would not put strain on the walls, because the weight would be reduced by more than two thirds of the load. Also, the wind would blow off snow more easily. Additionally, strong winds could not exert as much force on it, since there is less resistance. A smaller structure is not as dangerous in terms of fire. If it were to burn, it would either burn faster, or it would be easier to save. Furthermore, a smaller roof would be less dangerous to build and would cost less to maintain. To conclude, a roof such as the one described above would best be one quarter of the height from its length up to the top, and would have only two trusses stacked on top of each other. This can be made from existent material, and enough timber would still be left over to build a large house from it. The roofing should be done in such a way that it holds itself together so that it does not press against the walls but instead rests upon them. Good carpenters would know what to do. If a roof with a sharp incline is still preferred, with a view to create a grain store, then two beams should be placed on each side, angled upwards by a quarter. Without the grain store, such a structure would have no purpose. But in my opinion, the best idea is to opt for a pointed roof, as described before.",
+        "dcterms_description": "1517: Dürer, Albrecht, 1471-1528 (Nuremberg, Bavaria, Germany) to Fürer, Christoph, fl. 1517 ~ Fürer, Siegmund, fl. 1517 ~ Tucher, Apollonia, fl. 1514-1526 (Kloster Gnadenberg, Gnadenberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001073209",
+        "dcterms_identifier-editi_": "editi_1073209",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a11d537f-565b-44f2-b3fb-1d8f274ea11c",
+        "dcterms_identifier-uuid_": "uuid_a11d537f-565b-44f2-b3fb-1d8f274ea11c",
+        "dcterms_language": "German",
+        "destination_sort": "Kloster Gnadenberg, Gnadenberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/70eef7cd-da89-42b5-b6fb-419a032e890c",
+          "http://localhost/manifestation/36bdc89c-2293-4156-9436-6b2869c2626e",
+          "http://localhost/manifestation/c57b22e5-e95a-4d4e-adb4-958fbefa1af0",
+          "http://localhost/manifestation/fcb56ddf-acd1-4a67-88e6-aecf593bb3fe",
+          "http://localhost/manifestation/21b7c692-744a-4579-90d1-79ae4d08e88e",
+          "http://localhost/manifestation/6badcd85-69e3-403d-aa08-ee477c61b580",
+          "http://localhost/manifestation/d8fe2963-d546-4b80-8e40-eb4be4222dcb"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/047dc020-004e-450a-b133-c5cdcafee877"
+        ],
+        "id": "uuid_a11d537f-565b-44f2-b3fb-1d8f274ea11c",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/e2d5d923-2bbf-4673-a083-1c8891f7e79b"
+        ],
+        "mail_addressees-indef_inferred": true,
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/e2d5d923-2bbf-4673-a083-1c8891f7e79b"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/754bfde2-264e-4096-aabb-45333583ee18",
+          "http://localhost/person/ddf44bfc-071d-41ee-987d-4c176817d11f",
+          "http://localhost/person/47db6536-4ba0-4737-99d6-a559ef312825"
+        ],
+        "manifestation-institution-place": [
+          "Stadtarchiv Nürnberg",
+          "Das Stadtarchiv Nürnberg\nNuremberg Stadtarchiv\nStadtarchiv Nurnberg",
+          "Nuremberg",
+          "Nürnberg\nNurnberg",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/70eef7cd-da89-42b5-b6fb-419a032e890c",
+          "http://localhost/manifestation/36bdc89c-2293-4156-9436-6b2869c2626e",
+          "http://localhost/manifestation/c57b22e5-e95a-4d4e-adb4-958fbefa1af0",
+          "http://localhost/manifestation/fcb56ddf-acd1-4a67-88e6-aecf593bb3fe",
+          "http://localhost/manifestation/21b7c692-744a-4579-90d1-79ae4d08e88e",
+          "http://localhost/manifestation/6badcd85-69e3-403d-aa08-ee477c61b580",
+          "http://localhost/manifestation/d8fe2963-d546-4b80-8e40-eb4be4222dcb"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_excipit": "Item dy dachung sol gemacht werden, das sy jn sich selbs gepunden werd, awff das sy nit jn dy mawer streb, sunder das sy allein dorawff lig vnd ru. Das wissen gut zymerlewt woll zw than. Item will man aber ein dach mit eim scharpfen r […] machen, so mag man zwen dwölm awff jtlicher seiten lassen hinein gen pis awff ein firteill, ob man ein körn schüt wolt machen, sunst ist es zw nichten So gut vnd jn meiner meinv[ng] jst das das pest, wy forn gemacht is[t], jn der mit ein spitz.",
+        "ox_incipit": "Jesus 1517 Jar. Albrecht Dürers muster mit anzaigung der beschwerdt deß thachwergs der kirchen Gnadenperg. Item erstlich ist zw bewegen, ob nützer sey das dach zw sten lassen oder ab zw prechen. Item hy no folgen vrsach, worum dy gros dachung schedlich sey. Item erstlich, sy ist mechtig schwer vnd tregt dy mawer hart doran.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-09-10T16:24:53Z",
+        "ox_internalModified": "2025-09-16T12:32:11Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/c44e12bd-c914-4762-97a6-eed9eb155836"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cristina Neagu, 10 September 2025",
+        "ox_started-ox_year": 1517,
+        "people": [
+          "http://localhost/person/047dc020-004e-450a-b133-c5cdcafee877",
+          "http://localhost/person/754bfde2-264e-4096-aabb-45333583ee18",
+          "http://localhost/person/ddf44bfc-071d-41ee-987d-4c176817d11f",
+          "http://localhost/person/47db6536-4ba0-4737-99d6-a559ef312825"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Fürer, Christoph, fl. 1517; Fürer, Siegmund, fl. 1517; Tucher, Apollonia, fl. 1514-1526",
+        "started_date_gregorian_sort": "1517-12-31T00:00:00Z",
+        "started_date_sort": "1517-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:53.659Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a11d537f-565b-44f2-b3fb-1d8f274ea11c",
+        "uuid": "a11d537f-565b-44f2-b3fb-1d8f274ea11c",
+        "uuid_related": [
+          "70eef7cd-da89-42b5-b6fb-419a032e890c",
+          "36bdc89c-2293-4156-9436-6b2869c2626e",
+          "c57b22e5-e95a-4d4e-adb4-958fbefa1af0",
+          "fcb56ddf-acd1-4a67-88e6-aecf593bb3fe",
+          "21b7c692-744a-4579-90d1-79ae4d08e88e",
+          "6badcd85-69e3-403d-aa08-ee477c61b580",
+          "d8fe2963-d546-4b80-8e40-eb4be4222dcb",
+          "047dc020-004e-450a-b133-c5cdcafee877",
+          "754bfde2-264e-4096-aabb-45333583ee18",
+          "ddf44bfc-071d-41ee-987d-4c176817d11f",
+          "47db6536-4ba0-4737-99d6-a559ef312825",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "e2d5d923-2bbf-4673-a083-1c8891f7e79b",
+          "c44e12bd-c914-4762-97a6-eed9eb155836"
+        ]
+      },
+      {
+        "_version_": 1.8609799395582935e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "29 Dec 1518 to 3 Jan 1519: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Caritas, 1467-1532 (Klarissenkloster St Klara, Nuremberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062948",
+        "dcterms_identifier-editi_": "editi_1062948",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cd89b057-50ae-42e0-b90d-0e91fc79bd0c",
+        "dcterms_identifier-uuid_": "uuid_cd89b057-50ae-42e0-b90d-0e91fc79bd0c",
+        "dcterms_language": "Latin",
+        "destination_sort": "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/febf9de4-d559-4bdb-8aaf-74cf43e808a8"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_cd89b057-50ae-42e0-b90d-0e91fc79bd0c",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/febf9de4-d559-4bdb-8aaf-74cf43e808a8"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_completed-ox_day": 3,
+        "ox_completed-ox_month": 1,
+        "ox_completed-ox_year": 1519,
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:48:57Z",
+        "ox_internalModified": "2025-03-10T17:48:57Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_inferred": true,
+        "ox_started-indef_uncertain": true,
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1518,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1519-01-13T00:00:00Z",
+        "started_date_sort": "1519-01-03T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:39.049Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cd89b057-50ae-42e0-b90d-0e91fc79bd0c",
+        "uuid": "cd89b057-50ae-42e0-b90d-0e91fc79bd0c",
+        "uuid_related": [
+          "febf9de4-d559-4bdb-8aaf-74cf43e808a8",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "49e6e99e-d894-4721-bf8d-e89925f26131"
+        ]
+      },
+      {
+        "_version_": 1.8609799372703007e+18,
+        "author_sort": "Cochlaeus, Ioannes, 1479-1552",
+        "cito_Catalog": "Pirckheimer, Caritas",
+        "dcterms_description": "22 Dec 1519: Cochlaeus, Ioannes, 1479-1552 (Nuremberg, Bavaria, Germany) to Pirckheimer, Caritas, 1467-1532",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062208",
+        "dcterms_identifier-editi_": "editi_1062208",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/942dc00c-2a92-45ff-934e-dcc5b977e9f6",
+        "dcterms_identifier-uuid_": "uuid_942dc00c-2a92-45ff-934e-dcc5b977e9f6",
+        "dcterms_language": "Latin",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/9f109431-0b32-4c51-bcdb-716e31913246"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/bff27372-c8ac-4a54-bc43-4d3c2e5fc689"
+        ],
+        "id": "uuid_942dc00c-2a92-45ff-934e-dcc5b977e9f6",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_addressees-rdf_value": "Charitati Pirckheimerin",
+        "mail_authors-rdf_value": "Jo. Cochläus",
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_origin-rdf_value": "Norinberga",
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/9f109431-0b32-4c51-bcdb-716e31913246"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "undecimo calendas Januarii. Anno salutis 1519.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-01-02T11:58:04Z",
+        "ox_internalModified": "2025-01-02T11:58:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘Briefe von, an und über Caritas Pirckheimer (aus den Jahren 1498–1530)’, ed. Josef Pfanner (Landshut, 1966), 2 January 2025",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1519,
+        "people": [
+          "http://localhost/person/bff27372-c8ac-4a54-bc43-4d3c2e5fc689",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1520-01-01T00:00:00Z",
+        "started_date_sort": "1519-12-22T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/942dc00c-2a92-45ff-934e-dcc5b977e9f6",
+        "uuid": "942dc00c-2a92-45ff-934e-dcc5b977e9f6",
+        "uuid_related": [
+          "9f109431-0b32-4c51-bcdb-716e31913246",
+          "bff27372-c8ac-4a54-bc43-4d3c2e5fc689",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ]
+      },
+      {
+        "_version_": 1.860979939593945e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "23 Dec 1519: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Caritas, 1467-1532 (Klarissenkloster St Klara, Nuremberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001063029",
+        "dcterms_identifier-editi_": "editi_1063029",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b767d8a6-1469-4148-a898-db87c6b5b9d3",
+        "dcterms_identifier-uuid_": "uuid_b767d8a6-1469-4148-a898-db87c6b5b9d3",
+        "dcterms_language": "Latin",
+        "destination_sort": "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/17b3908c-4477-4299-b1bd-f0f28cfc7a70"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_b767d8a6-1469-4148-a898-db87c6b5b9d3",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/17b3908c-4477-4299-b1bd-f0f28cfc7a70"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:49:20Z",
+        "ox_internalModified": "2025-03-10T17:49:20Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-ox_day": 23,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1519,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1520-01-02T00:00:00Z",
+        "started_date_sort": "1519-12-23T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:39.049Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b767d8a6-1469-4148-a898-db87c6b5b9d3",
+        "uuid": "b767d8a6-1469-4148-a898-db87c6b5b9d3",
+        "uuid_related": [
+          "17b3908c-4477-4299-b1bd-f0f28cfc7a70",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "49e6e99e-d894-4721-bf8d-e89925f26131"
+        ]
+      },
+      {
+        "_version_": 1.8609799376215736e+18,
+        "author_sort": "Nützel, Kaspar, 1471-1529",
+        "cito_Catalog": "Pirckheimer, Caritas",
+        "dcterms_description": "11 Mar 1521: Nützel, Kaspar, 1471-1529 (Worms, Rheinland-Pfalz, Germany) to Pirckheimer, Caritas, 1467-1532",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062246",
+        "dcterms_identifier-editi_": "editi_1062246",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ebfb92dc-ad2e-44e4-b739-9e93cb54f94b",
+        "dcterms_identifier-uuid_": "uuid_ebfb92dc-ad2e-44e4-b739-9e93cb54f94b",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ab3b1207-ee4b-424f-ad86-0c76f1d3a664"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ccb9068c-9ffb-47fa-b88e-568777b0ac23"
+        ],
+        "id": "uuid_ebfb92dc-ad2e-44e4-b739-9e93cb54f94b",
+        "locations": [
+          "http://localhost/location/c1f84e7c-9ce4-4931-9067-ee2a45f566d8"
+        ],
+        "mail_authors-rdf_value": "Caspar Nützel der eltere",
+        "mail_origin-location": [
+          "http://localhost/location/c1f84e7c-9ce4-4931-9067-ee2a45f566d8"
+        ],
+        "mail_origin-rdf_value": "Wurmbs",
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ab3b1207-ee4b-424f-ad86-0c76f1d3a664"
+        ],
+        "object_type": "work",
+        "origin_sort": "Worms, Rheinland-Pfalz, Germany",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "am eritag den 11 tags mertzen 1521",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-01-02T11:58:12Z",
+        "ox_internalModified": "2025-01-02T11:58:12Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘Briefe von, an und über Caritas Pirckheimer (aus den Jahren 1498–1530)’, ed. Josef Pfanner (Landshut, 1966), 2 January 2025",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1521,
+        "people": [
+          "http://localhost/person/ccb9068c-9ffb-47fa-b88e-568777b0ac23",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas, 1467-1532",
+        "started_date_gregorian_sort": "1521-03-21T00:00:00Z",
+        "started_date_sort": "1521-03-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ebfb92dc-ad2e-44e4-b739-9e93cb54f94b",
+        "uuid": "ebfb92dc-ad2e-44e4-b739-9e93cb54f94b",
+        "uuid_related": [
+          "ab3b1207-ee4b-424f-ad86-0c76f1d3a664",
+          "ccb9068c-9ffb-47fa-b88e-568777b0ac23",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "c1f84e7c-9ce4-4931-9067-ee2a45f566d8"
+        ]
+      },
+      {
+        "_version_": 1.8609799401371075e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "1 Jun 1524 to 10 Jun 1524: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Katharina (the younger), 1498-1563 (Klarissenkloster St Klara, Nuremberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001063227",
+        "dcterms_identifier-editi_": "editi_1063227",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8f653850-ea1b-40ed-82d7-75a4a512e736",
+        "dcterms_identifier-uuid_": "uuid_8f653850-ea1b-40ed-82d7-75a4a512e736",
+        "dcterms_language": "German",
+        "destination_sort": "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/489de93b-14ad-412d-8ce0-a9ce69acd230"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_8f653850-ea1b-40ed-82d7-75a4a512e736",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_addressees-indef_inferred": true,
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/b03fc3a3-9c55-4664-bac1-e6c65ed20c27"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/489de93b-14ad-412d-8ce0-a9ce69acd230"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_completed-ox_day": 10,
+        "ox_completed-ox_month": 6,
+        "ox_completed-ox_year": 1524,
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:50:14Z",
+        "ox_internalModified": "2025-03-10T17:50:14Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1524,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/b03fc3a3-9c55-4664-bac1-e6c65ed20c27"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Katharina (the younger), 1498-1563",
+        "started_date_gregorian_sort": "1524-06-20T00:00:00Z",
+        "started_date_sort": "1524-06-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:39.049Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8f653850-ea1b-40ed-82d7-75a4a512e736",
+        "uuid": "8f653850-ea1b-40ed-82d7-75a4a512e736",
+        "uuid_related": [
+          "489de93b-14ad-412d-8ce0-a9ce69acd230",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "b03fc3a3-9c55-4664-bac1-e6c65ed20c27",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "49e6e99e-d894-4721-bf8d-e89925f26131"
+        ]
+      },
+      {
+        "_version_": 1.8609799194990346e+18,
+        "author_sort": "Grumbach, Georg von, 1517-1539",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "He explains that his teacher at St Sebaldt was dismissed and expelled from the city. Osiander found a new teacher for him at St Laurence's, who is taking him on at the same rate. He moved in last Wednesday and is doing well. He hopes that his parents do not regret the expense of his education and commends them to God.",
+        "dcterms_description": "5 Jun 1525: Grumbach, Georg von, 1517-1539 (Nuremberg, Bavaria, Germany) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056321",
+        "dcterms_identifier-editi_": "editi_1056321",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/df80aff1-7ad3-4e75-bb04-3bba6f103fe2",
+        "dcterms_identifier-uuid_": "uuid_df80aff1-7ad3-4e75-bb04-3bba6f103fe2",
+        "dcterms_language": "German",
+        "dcterms_references-person": [
+          "http://localhost/person/9f7627ee-419b-4800-beb6-3940f29dee84"
+        ],
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7a0bf466-027e-47cb-ad3b-1eaa6bf9004c",
+          "http://localhost/manifestation/c38ac978-e4d6-4e18-96ea-0dc6d5240549"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/972e049d-2fab-4d5a-aa10-5b048f67e07d"
+        ],
+        "id": "uuid_df80aff1-7ad3-4e75-bb04-3bba6f103fe2",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_addressees-rdf_value": "argula von grumbach geborn von stauff",
+        "mail_authors-rdf_value": "gorg von grumbach",
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_origin-rdf_value": "nurmberg",
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7a0bf466-027e-47cb-ad3b-1eaa6bf9004c",
+          "http://localhost/manifestation/c38ac978-e4d6-4e18-96ea-0dc6d5240549"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "am andern pfingstag. 1525",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:39Z",
+        "ox_internalModified": "2024-08-29T10:35:03Z",
+        "ox_internalModifiedByUser": "Sara Joswig",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1525,
+        "people": [
+          "http://localhost/person/972e049d-2fab-4d5a-aa10-5b048f67e07d",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1525-06-15T00:00:00Z",
+        "started_date_sort": "1525-06-05T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/df80aff1-7ad3-4e75-bb04-3bba6f103fe2",
+        "uuid": "df80aff1-7ad3-4e75-bb04-3bba6f103fe2",
+        "uuid_related": [
+          "7a0bf466-027e-47cb-ad3b-1eaa6bf9004c",
+          "c38ac978-e4d6-4e18-96ea-0dc6d5240549",
+          "972e049d-2fab-4d5a-aa10-5b048f67e07d",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "9f7627ee-419b-4800-beb6-3940f29dee84"
+        ]
+      },
+      {
+        "_version_": 1.8609799409633853e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "comments": [
+          "http://localhost/comment/acc273d2-c465-4a99-92c4-f4fffabdbbf3"
+        ],
+        "dcterms_description": "4 Dec 1527 to 5 Dec 1527: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Sabina, 1482-1529 (Bergen Abbey, Bergen bei Neuburg, Neuburg an der Donau, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001063530",
+        "dcterms_identifier-editi_": "editi_1063530",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a0387021-e9b0-4ed8-b4ee-a7896e565a03",
+        "dcterms_identifier-uuid_": "uuid_a0387021-e9b0-4ed8-b4ee-a7896e565a03",
+        "dcterms_language": "German",
+        "destination_sort": "Bergen Abbey, Bergen bei Neuburg, Neuburg an der Donau, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/bce588ef-4541-4ac3-8288-386a08d1bb70"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_a0387021-e9b0-4ed8-b4ee-a7896e565a03",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/2d30a0e0-e2d5-4bbc-839d-75714264b685"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/2d30a0e0-e2d5-4bbc-839d-75714264b685"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/ccab2ee3-efea-400d-b44a-6c583f548890"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/bce588ef-4541-4ac3-8288-386a08d1bb70"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_completed-ox_day": 5,
+        "ox_completed-ox_month": 12,
+        "ox_completed-ox_year": 1527,
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:51:37Z",
+        "ox_internalModified": "2025-03-10T17:51:37Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/acc273d2-c465-4a99-92c4-f4fffabdbbf3"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1527,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/ccab2ee3-efea-400d-b44a-6c583f548890"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Sabina, 1482-1529",
+        "started_date_gregorian_sort": "1527-12-15T00:00:00Z",
+        "started_date_sort": "1527-12-05T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:39.049Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a0387021-e9b0-4ed8-b4ee-a7896e565a03",
+        "uuid": "a0387021-e9b0-4ed8-b4ee-a7896e565a03",
+        "uuid_related": [
+          "bce588ef-4541-4ac3-8288-386a08d1bb70",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "ccab2ee3-efea-400d-b44a-6c583f548890",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "2d30a0e0-e2d5-4bbc-839d-75714264b685",
+          "acc273d2-c465-4a99-92c4-f4fffabdbbf3"
+        ]
+      },
+      {
+        "_version_": 1.8609799412454523e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "1 May 1528 to 31 May 1528: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Caritas, 1467-1532 ~ Pirckheimer, Caritas (the younger), 1503-1554 ~ Pirckheimer, Eufemia, 1486-1547 ~ Pirckheimer, Katharina (the elder), b.1476 ~ Pirckheimer, Katharina (the younger), 1498-1563 ~ Pirckheimer, Klara, 1480-1533 ~ Pirckheimer, Walburg, 1468-1541 ~ Pirckheimer, Sabina, 1482-1529 (Klarissenkloster St Klara, Nuremberg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001063560",
+        "dcterms_identifier-editi_": "editi_1063560",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1dee6687-a2b5-4094-91ae-ee8b1f9d257b",
+        "dcterms_identifier-uuid_": "uuid_1dee6687-a2b5-4094-91ae-ee8b1f9d257b",
+        "dcterms_language": "Latin",
+        "destination_sort": "Klarissenkloster St Klara, Nuremberg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/713d10ab-bee6-4b53-b8f1-1e0c06412a3b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_1dee6687-a2b5-4094-91ae-ee8b1f9d257b",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/49e6e99e-d894-4721-bf8d-e89925f26131"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "http://localhost/person/fd242ba4-971b-47dd-a5da-1acfbde98b17",
+          "http://localhost/person/0e38b102-171b-459d-a599-e4c82854df07",
+          "http://localhost/person/e20a531b-8455-44d6-8b85-bd0e882ff9e2",
+          "http://localhost/person/b03fc3a3-9c55-4664-bac1-e6c65ed20c27",
+          "http://localhost/person/3b978f67-cb61-4dd4-8aad-ba6b59218ea7",
+          "http://localhost/person/0f84ae3b-6dbc-42cc-a463-06da02b30f61",
+          "http://localhost/person/ccab2ee3-efea-400d-b44a-6c583f548890"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/713d10ab-bee6-4b53-b8f1-1e0c06412a3b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_completed-ox_day": 31,
+        "ox_completed-ox_month": 5,
+        "ox_completed-ox_year": 1528,
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:51:47Z",
+        "ox_internalModified": "2025-03-10T17:51:47Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1528,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "http://localhost/person/fd242ba4-971b-47dd-a5da-1acfbde98b17",
+          "http://localhost/person/0e38b102-171b-459d-a599-e4c82854df07",
+          "http://localhost/person/e20a531b-8455-44d6-8b85-bd0e882ff9e2",
+          "http://localhost/person/b03fc3a3-9c55-4664-bac1-e6c65ed20c27",
+          "http://localhost/person/3b978f67-cb61-4dd4-8aad-ba6b59218ea7",
+          "http://localhost/person/0f84ae3b-6dbc-42cc-a463-06da02b30f61",
+          "http://localhost/person/ccab2ee3-efea-400d-b44a-6c583f548890"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Caritas (the younger), 1503-1554; Pirckheimer, Caritas, 1467-1532; Pirckheimer, Eufemia, 1486-1547; Pirckheimer, Katharina (the elder), b.1476; Pirckheimer, Katharina (the younger), 1498-1563; Pirckheimer, Klara, 1480-1533; Pirckheimer, Sabina, 1482-1529; Pirckheimer, Walburg, 1468-1541",
+        "started_date_gregorian_sort": "1528-06-10T00:00:00Z",
+        "started_date_sort": "1528-05-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:39.049Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1dee6687-a2b5-4094-91ae-ee8b1f9d257b",
+        "uuid": "1dee6687-a2b5-4094-91ae-ee8b1f9d257b",
+        "uuid_related": [
+          "713d10ab-bee6-4b53-b8f1-1e0c06412a3b",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "3a323ca5-363a-4407-ae6a-a9447eca1251",
+          "fd242ba4-971b-47dd-a5da-1acfbde98b17",
+          "0e38b102-171b-459d-a599-e4c82854df07",
+          "e20a531b-8455-44d6-8b85-bd0e882ff9e2",
+          "b03fc3a3-9c55-4664-bac1-e6c65ed20c27",
+          "3b978f67-cb61-4dd4-8aad-ba6b59218ea7",
+          "0f84ae3b-6dbc-42cc-a463-06da02b30f61",
+          "ccab2ee3-efea-400d-b44a-6c583f548890",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "49e6e99e-d894-4721-bf8d-e89925f26131"
+        ]
+      },
+      {
+        "_version_": 1.860979919785296e+18,
+        "author_sort": "Ketzmann, Johann, 1487-1542",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "Her son Georg has been absent from school, choosing instead to spend time at the inn or with his uncle, Argula's brother. He has cited his mother's instructions as an excuse for his absence, and Ketzmann asks if this is true. If it were not for his respect for Argula's feelings, he would not continue to care for her son. He is angry that her brother is distracting Georg from his studies and worries about the longer term effects of the boy's obstinacy.",
+        "dcterms_description": "10 Feb 1529: Ketzmann, Johann, 1487-1542 (Nuremberg, Bavaria, Germany) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056323",
+        "dcterms_identifier-editi_": "editi_1056323",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9a7dbb9d-7ad3-4219-b56d-523946e540a5",
+        "dcterms_identifier-uuid_": "uuid_9a7dbb9d-7ad3-4219-b56d-523946e540a5",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fe10d3ed-96a9-42cb-8fee-a83e0a600d62",
+          "http://localhost/manifestation/f5397fb3-a1a8-4ce4-b481-bcd03eb553c8"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d54ffbec-03a4-49f7-97c8-bc79d8affd12"
+        ],
+        "id": "uuid_9a7dbb9d-7ad3-4219-b56d-523946e540a5",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_addressees-rdf_value": "Argula von grumbach geborn von Stauff",
+        "mail_authors-rdf_value": "Joan. Ketzman",
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fe10d3ed-96a9-42cb-8fee-a83e0a600d62",
+          "http://localhost/manifestation/f5397fb3-a1a8-4ce4-b481-bcd03eb553c8"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Am Aschenmittwoch im 29.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:41Z",
+        "ox_internalModified": "2024-08-21T22:43:41Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1529,
+        "people": [
+          "http://localhost/person/d54ffbec-03a4-49f7-97c8-bc79d8affd12",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1529-02-20T00:00:00Z",
+        "started_date_sort": "1529-02-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9a7dbb9d-7ad3-4219-b56d-523946e540a5",
+        "uuid": "9a7dbb9d-7ad3-4219-b56d-523946e540a5",
+        "uuid_related": [
+          "fe10d3ed-96a9-42cb-8fee-a83e0a600d62",
+          "f5397fb3-a1a8-4ce4-b481-bcd03eb553c8",
+          "d54ffbec-03a4-49f7-97c8-bc79d8affd12",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ]
+      },
+      {
+        "_version_": 1.8609799071258378e+18,
+        "author_sort": "Erasmus, Desiderius, 1466-1536",
+        "cito_Catalog": "Erasmus, Desiderius",
+        "dcterms_description": "6 Sep 1529: Erasmus, Desiderius, 1466-1536 (Freiburg, Baden-Württemberg, Germany) to Roper, Margaret, 1505-1544 (Chelsea, London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001052530",
+        "dcterms_identifier-editi_": "editi_1052530",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3212e3ff-2693-419e-a4be-2182fd40164e",
+        "dcterms_identifier-uuid_": "uuid_3212e3ff-2693-419e-a4be-2182fd40164e",
+        "dcterms_language": "Latin",
+        "destination_sort": "Chelsea, London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/2596fed5-eb29-4a89-88c3-769db4eb0fc1",
+          "http://localhost/manifestation/571e6b2e-ce68-402a-b8b1-502325855b25",
+          "http://localhost/manifestation/2773f4d6-b150-430a-ac53-96fad3e158d1",
+          "http://localhost/manifestation/05b9ce60-2541-45fa-bec4-be7692316906"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/3d57cf71-45af-4e07-a6bd-d83773da9c21"
+        ],
+        "id": "uuid_3212e3ff-2693-419e-a4be-2182fd40164e",
+        "locations": [
+          "http://localhost/location/8fc7fd47-a0ab-4591-aab4-44a642b6b389",
+          "http://localhost/location/81211875-0478-4ab8-9fda-7912a4a6ad01"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/81211875-0478-4ab8-9fda-7912a4a6ad01"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8fc7fd47-a0ab-4591-aab4-44a642b6b389"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3e03061a-5809-4ab4-a014-4f67bc52cab2"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/2596fed5-eb29-4a89-88c3-769db4eb0fc1",
+          "http://localhost/manifestation/571e6b2e-ce68-402a-b8b1-502325855b25",
+          "http://localhost/manifestation/2773f4d6-b150-430a-ac53-96fad3e158d1",
+          "http://localhost/manifestation/05b9ce60-2541-45fa-bec4-be7692316906"
+        ],
+        "object_type": "work",
+        "origin_sort": "Freiburg, Baden-Württemberg, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-03-06T14:32:51Z",
+        "ox_internalModified": "2024-03-06T14:32:51Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 6 March 2024",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1529,
+        "people": [
+          "http://localhost/person/3d57cf71-45af-4e07-a6bd-d83773da9c21",
+          "http://localhost/person/3e03061a-5809-4ab4-a014-4f67bc52cab2"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9b63696f-8256-461a-b79c-924626034ac0",
+          "http://localhost/resource/fbca836b-1846-4cbd-974c-4849fc3e41d8"
+        ],
+        "recipient_sort": "Roper, Margaret, 1505-1544",
+        "resources": [
+          "http://localhost/resource/9b63696f-8256-461a-b79c-924626034ac0",
+          "http://localhost/resource/fbca836b-1846-4cbd-974c-4849fc3e41d8"
+        ],
+        "started_date_gregorian_sort": "1529-09-16T00:00:00Z",
+        "started_date_sort": "1529-09-06T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:25.337Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3212e3ff-2693-419e-a4be-2182fd40164e",
+        "uuid": "3212e3ff-2693-419e-a4be-2182fd40164e",
+        "uuid_related": [
+          "2596fed5-eb29-4a89-88c3-769db4eb0fc1",
+          "571e6b2e-ce68-402a-b8b1-502325855b25",
+          "2773f4d6-b150-430a-ac53-96fad3e158d1",
+          "05b9ce60-2541-45fa-bec4-be7692316906",
+          "3d57cf71-45af-4e07-a6bd-d83773da9c21",
+          "3e03061a-5809-4ab4-a014-4f67bc52cab2",
+          "8fc7fd47-a0ab-4591-aab4-44a642b6b389",
+          "81211875-0478-4ab8-9fda-7912a4a6ad01",
+          "9b63696f-8256-461a-b79c-924626034ac0",
+          "fbca836b-1846-4cbd-974c-4849fc3e41d8"
+        ]
+      },
+      {
+        "_version_": 1.860979941550588e+18,
+        "author_sort": "Pirckheimer, Willibald, 1470-1530",
+        "cito_Catalog": "Pirckheimer, Willibald",
+        "dcterms_description": "10 Jan 1530 to 20 Jan 1530: Pirckheimer, Willibald, 1470-1530 (Nuremberg, Bavaria, Germany) to Pirckheimer, Eufemia, 1486-1547 (Bergen Abbey, Bergen bei Neuburg, Neuburg an der Donau, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001063659",
+        "dcterms_identifier-editi_": "editi_1063659",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/4946e311-52ae-430e-9964-e6703d4fecc0",
+        "dcterms_identifier-uuid_": "uuid_4946e311-52ae-430e-9964-e6703d4fecc0",
+        "dcterms_language": "German",
+        "destination_sort": "Bergen Abbey, Bergen bei Neuburg, Neuburg an der Donau, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/15a8f4d7-d845-43c2-8091-4d80ccd31f25"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d"
+        ],
+        "id": "uuid_4946e311-52ae-430e-9964-e6703d4fecc0",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "http://localhost/location/2d30a0e0-e2d5-4bbc-839d-75714264b685"
+        ],
+        "mail_addressees-indef_inferred": true,
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/2d30a0e0-e2d5-4bbc-839d-75714264b685"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/0e38b102-171b-459d-a599-e4c82854df07"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/15a8f4d7-d845-43c2-8091-4d80ccd31f25"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_completed-ox_day": 20,
+        "ox_completed-ox_month": 1,
+        "ox_completed-ox_year": 1530,
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-03-10T17:52:18Z",
+        "ox_internalModified": "2025-03-10T17:52:18Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 10 March 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1530,
+        "people": [
+          "http://localhost/person/5b704b83-b998-472f-abde-5a693a4be59d",
+          "http://localhost/person/0e38b102-171b-459d-a599-e4c82854df07"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pirckheimer, Eufemia, 1486-1547",
+        "started_date_gregorian_sort": "1530-01-30T00:00:00Z",
+        "started_date_sort": "1530-01-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:39.049Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/4946e311-52ae-430e-9964-e6703d4fecc0",
+        "uuid": "4946e311-52ae-430e-9964-e6703d4fecc0",
+        "uuid_related": [
+          "15a8f4d7-d845-43c2-8091-4d80ccd31f25",
+          "5b704b83-b998-472f-abde-5a693a4be59d",
+          "0e38b102-171b-459d-a599-e4c82854df07",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1",
+          "2d30a0e0-e2d5-4bbc-839d-75714264b685"
+        ]
+      },
+      {
+        "_version_": 1.8609799197989274e+18,
+        "author_sort": "Althamer, Andreas, 1500-1539",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "His family is well. Several men have now departed for the Diet of Augsburg, including the prince. He prays for God's Spirit to bless all the princes and to disrupt the schemes of all who hope for the collapse of God's kingdom.",
+        "dcterms_description": "26 May 1530: Althamer, Andreas, 1500-1539 (Ansbach, Bavaria, Germany) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056343",
+        "dcterms_identifier-editi_": "editi_1056343",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b0428e3d-3cf4-45a6-b2ae-7f08272ce9bc",
+        "dcterms_identifier-uuid_": "uuid_b0428e3d-3cf4-45a6-b2ae-7f08272ce9bc",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/8a1e186c-83fb-4fb9-808a-f8833afeeb9b",
+          "http://localhost/manifestation/f59940c3-1d89-4b69-b34b-b7f7d69491ca"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/6342939b-59b5-4016-9301-fd11e5c5ddcb"
+        ],
+        "id": "uuid_b0428e3d-3cf4-45a6-b2ae-7f08272ce9bc",
+        "locations": [
+          "http://localhost/location/8cbaf629-a96b-440b-a418-2ee4ef15ed66"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8cbaf629-a96b-440b-a418-2ee4ef15ed66"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/8a1e186c-83fb-4fb9-808a-f8833afeeb9b",
+          "http://localhost/manifestation/f59940c3-1d89-4b69-b34b-b7f7d69491ca"
+        ],
+        "object_type": "work",
+        "origin_sort": "Ansbach, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:47Z",
+        "ox_internalModified": "2024-08-21T22:43:47Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1530,
+        "people": [
+          "http://localhost/person/6342939b-59b5-4016-9301-fd11e5c5ddcb",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1530-06-05T00:00:00Z",
+        "started_date_sort": "1530-05-26T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b0428e3d-3cf4-45a6-b2ae-7f08272ce9bc",
+        "uuid": "b0428e3d-3cf4-45a6-b2ae-7f08272ce9bc",
+        "uuid_related": [
+          "8a1e186c-83fb-4fb9-808a-f8833afeeb9b",
+          "f59940c3-1d89-4b69-b34b-b7f7d69491ca",
+          "6342939b-59b5-4016-9301-fd11e5c5ddcb",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "8cbaf629-a96b-440b-a418-2ee4ef15ed66"
+        ]
+      },
+      {
+        "_version_": 1.8609799075641426e+18,
+        "author_sort": "Erasmus, Desiderius, 1466-1536",
+        "cito_Catalog": "Erasmus, Desiderius",
+        "dcterms_description": "9 Jul 1530: Erasmus, Desiderius, 1466-1536 (Freiburg, Baden-Württemberg, Germany) to Mary of Hungary, 1505-1558 (Augsburg, Bavaria, Germany)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001052668",
+        "dcterms_identifier-editi_": "editi_1052668",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c0e1a9bc-4f22-4291-8dc4-b256760bd47d",
+        "dcterms_identifier-uuid_": "uuid_c0e1a9bc-4f22-4291-8dc4-b256760bd47d",
+        "dcterms_language": "Latin",
+        "destination_sort": "Augsburg, Bavaria, Germany",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/1974dbde-87ac-48de-b3f0-381900b8fc60",
+          "http://localhost/manifestation/538d6a96-4b8d-4ca3-a02f-270c0ece4ddb",
+          "http://localhost/manifestation/d0408c5d-b512-4105-b820-3860768b5e5e",
+          "http://localhost/manifestation/3c2f588b-6053-44cd-ac92-d3b8eefb3fd6"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/3d57cf71-45af-4e07-a6bd-d83773da9c21"
+        ],
+        "id": "uuid_c0e1a9bc-4f22-4291-8dc4-b256760bd47d",
+        "locations": [
+          "http://localhost/location/8fc7fd47-a0ab-4591-aab4-44a642b6b389",
+          "http://localhost/location/4c10c090-b2c1-4122-8d94-e5125e7c3c41"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/4c10c090-b2c1-4122-8d94-e5125e7c3c41"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8fc7fd47-a0ab-4591-aab4-44a642b6b389"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/37b50d3e-7ece-4144-a933-edbfdbbdac8e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/1974dbde-87ac-48de-b3f0-381900b8fc60",
+          "http://localhost/manifestation/538d6a96-4b8d-4ca3-a02f-270c0ece4ddb",
+          "http://localhost/manifestation/d0408c5d-b512-4105-b820-3860768b5e5e",
+          "http://localhost/manifestation/3c2f588b-6053-44cd-ac92-d3b8eefb3fd6"
+        ],
+        "object_type": "work",
+        "origin_sort": "Freiburg, Baden-Württemberg, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-03-06T14:34:02Z",
+        "ox_internalModified": "2024-03-06T14:34:02Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 6 March 2024",
+        "ox_started-ox_day": 9,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1530,
+        "people": [
+          "http://localhost/person/3d57cf71-45af-4e07-a6bd-d83773da9c21",
+          "http://localhost/person/37b50d3e-7ece-4144-a933-edbfdbbdac8e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/23c252a8-06a2-4605-8425-af999bf475b1",
+          "http://localhost/resource/f3099c34-393b-4592-906b-376f6a3c1b14"
+        ],
+        "recipient_sort": "Mary of Hungary, 1505-1558",
+        "resources": [
+          "http://localhost/resource/23c252a8-06a2-4605-8425-af999bf475b1",
+          "http://localhost/resource/f3099c34-393b-4592-906b-376f6a3c1b14"
+        ],
+        "started_date_gregorian_sort": "1530-07-19T00:00:00Z",
+        "started_date_sort": "1530-07-09T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:25.337Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c0e1a9bc-4f22-4291-8dc4-b256760bd47d",
+        "uuid": "c0e1a9bc-4f22-4291-8dc4-b256760bd47d",
+        "uuid_related": [
+          "1974dbde-87ac-48de-b3f0-381900b8fc60",
+          "538d6a96-4b8d-4ca3-a02f-270c0ece4ddb",
+          "d0408c5d-b512-4105-b820-3860768b5e5e",
+          "3c2f588b-6053-44cd-ac92-d3b8eefb3fd6",
+          "3d57cf71-45af-4e07-a6bd-d83773da9c21",
+          "37b50d3e-7ece-4144-a933-edbfdbbdac8e",
+          "8fc7fd47-a0ab-4591-aab4-44a642b6b389",
+          "4c10c090-b2c1-4122-8d94-e5125e7c3c41",
+          "23c252a8-06a2-4605-8425-af999bf475b1",
+          "f3099c34-393b-4592-906b-376f6a3c1b14"
+        ]
+      },
+      {
+        "_version_": 1.8609799086221558e+18,
+        "author_sort": "Erasmus, Desiderius, 1466-1536",
+        "cito_Catalog": "Erasmus, Desiderius",
+        "dcterms_description": "12 Dec 1531: Erasmus, Desiderius, 1466-1536 (Freiburg, Baden-Württemberg, Germany) to Mary of Hungary, 1505-1558 (Brussels, Brussels Capital Region, Belgium)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001052904",
+        "dcterms_identifier-editi_": "editi_1052904",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d7cd1f78-b133-431a-b5bd-b71b7589ea3f",
+        "dcterms_identifier-uuid_": "uuid_d7cd1f78-b133-431a-b5bd-b71b7589ea3f",
+        "dcterms_language": "Latin",
+        "destination_sort": "Brussels, Brussels Capital Region, Belgium",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a97cadc8-2348-4e9e-99a4-4d791db693e3",
+          "http://localhost/manifestation/93898cf8-7f32-4597-8bef-353f25bc9a21",
+          "http://localhost/manifestation/462690e5-8a9d-4c98-b3bb-be7f0393aabc",
+          "http://localhost/manifestation/93bbc907-1192-4392-ba90-93a0a5af73b7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/3d57cf71-45af-4e07-a6bd-d83773da9c21"
+        ],
+        "id": "uuid_d7cd1f78-b133-431a-b5bd-b71b7589ea3f",
+        "locations": [
+          "http://localhost/location/8fc7fd47-a0ab-4591-aab4-44a642b6b389",
+          "http://localhost/location/a774a57f-6fc4-4136-b541-90b0fc3275c4"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/a774a57f-6fc4-4136-b541-90b0fc3275c4"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8fc7fd47-a0ab-4591-aab4-44a642b6b389"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/37b50d3e-7ece-4144-a933-edbfdbbdac8e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a97cadc8-2348-4e9e-99a4-4d791db693e3",
+          "http://localhost/manifestation/93898cf8-7f32-4597-8bef-353f25bc9a21",
+          "http://localhost/manifestation/462690e5-8a9d-4c98-b3bb-be7f0393aabc",
+          "http://localhost/manifestation/93bbc907-1192-4392-ba90-93a0a5af73b7"
+        ],
+        "object_type": "work",
+        "origin_sort": "Freiburg, Baden-Württemberg, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-03-06T14:38:31Z",
+        "ox_internalModified": "2024-03-06T14:38:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 6 March 2024",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1531,
+        "people": [
+          "http://localhost/person/3d57cf71-45af-4e07-a6bd-d83773da9c21",
+          "http://localhost/person/37b50d3e-7ece-4144-a933-edbfdbbdac8e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/0232f381-b09d-4c83-89db-e51737a0a320",
+          "http://localhost/resource/c04624ef-7fd4-4a93-84c9-b754c07c5774"
+        ],
+        "recipient_sort": "Mary of Hungary, 1505-1558",
+        "resources": [
+          "http://localhost/resource/0232f381-b09d-4c83-89db-e51737a0a320",
+          "http://localhost/resource/c04624ef-7fd4-4a93-84c9-b754c07c5774"
+        ],
+        "started_date_gregorian_sort": "1531-12-22T00:00:00Z",
+        "started_date_sort": "1531-12-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:25.917Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d7cd1f78-b133-431a-b5bd-b71b7589ea3f",
+        "uuid": "d7cd1f78-b133-431a-b5bd-b71b7589ea3f",
+        "uuid_related": [
+          "a97cadc8-2348-4e9e-99a4-4d791db693e3",
+          "93898cf8-7f32-4597-8bef-353f25bc9a21",
+          "462690e5-8a9d-4c98-b3bb-be7f0393aabc",
+          "93bbc907-1192-4392-ba90-93a0a5af73b7",
+          "3d57cf71-45af-4e07-a6bd-d83773da9c21",
+          "37b50d3e-7ece-4144-a933-edbfdbbdac8e",
+          "8fc7fd47-a0ab-4591-aab4-44a642b6b389",
+          "a774a57f-6fc4-4136-b541-90b0fc3275c4",
+          "0232f381-b09d-4c83-89db-e51737a0a320",
+          "c04624ef-7fd4-4a93-84c9-b754c07c5774"
+        ]
+      },
+      {
+        "_version_": 1.860979919799976e+18,
+        "author_sort": "Grumbach, Georg von, 1517-1539",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "He requests clothing and asks that his bed be assembled. He asks for a hunk of cheese and some brandy because of Lenten practices in Ingolstadt. He also needs the Institutions of Justinian which cost about 50 kreuzer.",
+        "dcterms_description": "13 Mar 1532: Grumbach, Georg von, 1517-1539 (Ingolstadt, Bavaria, Germany, (Holy Roman Empire)) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056345",
+        "dcterms_identifier-editi_": "editi_1056345",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/541ed694-6920-4d74-96a6-5063661e14bd",
+        "dcterms_identifier-uuid_": "uuid_541ed694-6920-4d74-96a6-5063661e14bd",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c5a26337-05f3-4015-b850-154e834b89d9",
+          "http://localhost/manifestation/eba3d651-f197-4108-9994-01058f62ab55"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/972e049d-2fab-4d5a-aa10-5b048f67e07d"
+        ],
+        "id": "uuid_541ed694-6920-4d74-96a6-5063661e14bd",
+        "locations": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c5a26337-05f3-4015-b850-154e834b89d9",
+          "http://localhost/manifestation/eba3d651-f197-4108-9994-01058f62ab55"
+        ],
+        "object_type": "work",
+        "origin_sort": "Ingolstadt, Bavaria, Germany, (Holy Roman Empire)",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "[translation: Wednesday after Laetare]",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:47Z",
+        "ox_internalModified": "2024-08-21T22:43:47Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1532,
+        "people": [
+          "http://localhost/person/972e049d-2fab-4d5a-aa10-5b048f67e07d",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1532-03-23T00:00:00Z",
+        "started_date_sort": "1532-03-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/541ed694-6920-4d74-96a6-5063661e14bd",
+        "uuid": "541ed694-6920-4d74-96a6-5063661e14bd",
+        "uuid_related": [
+          "c5a26337-05f3-4015-b850-154e834b89d9",
+          "eba3d651-f197-4108-9994-01058f62ab55",
+          "972e049d-2fab-4d5a-aa10-5b048f67e07d",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ]
+      },
+      {
+        "_version_": 1.860979919802073e+18,
+        "author_sort": "Grumbach, Georg von, 1517-1539",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "He recounts news from Zürich of the deaths of four hundred people of the 'new faith'. There are conflicting accounts of how they were defeated by a group of sixteen. He leaves the matter of what this new faith is and whether the story is true to her judgement.",
+        "dcterms_description": "15 Mar 1532: Grumbach, Georg von, 1517-1539 (Ingolstadt, Bavaria, Germany, (Holy Roman Empire)) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056347",
+        "dcterms_identifier-editi_": "editi_1056347",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7fd5aebb-9acd-4aeb-820f-ba4bb2f3f35c",
+        "dcterms_identifier-uuid_": "uuid_7fd5aebb-9acd-4aeb-820f-ba4bb2f3f35c",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c546d754-c537-4e40-975d-5cd1c7b39c87",
+          "http://localhost/manifestation/b926803f-bea2-4792-a184-9a52e3a15831"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/972e049d-2fab-4d5a-aa10-5b048f67e07d"
+        ],
+        "id": "uuid_7fd5aebb-9acd-4aeb-820f-ba4bb2f3f35c",
+        "locations": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c546d754-c537-4e40-975d-5cd1c7b39c87",
+          "http://localhost/manifestation/b926803f-bea2-4792-a184-9a52e3a15831"
+        ],
+        "object_type": "work",
+        "origin_sort": "Ingolstadt, Bavaria, Germany, (Holy Roman Empire)",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "[Translation: Friday after Laetare]",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:47Z",
+        "ox_internalModified": "2024-08-29T09:39:27Z",
+        "ox_internalModifiedByUser": "Sara Joswig",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1532,
+        "people": [
+          "http://localhost/person/972e049d-2fab-4d5a-aa10-5b048f67e07d",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1532-03-25T00:00:00Z",
+        "started_date_sort": "1532-03-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7fd5aebb-9acd-4aeb-820f-ba4bb2f3f35c",
+        "uuid": "7fd5aebb-9acd-4aeb-820f-ba4bb2f3f35c",
+        "uuid_related": [
+          "c546d754-c537-4e40-975d-5cd1c7b39c87",
+          "b926803f-bea2-4792-a184-9a52e3a15831",
+          "972e049d-2fab-4d5a-aa10-5b048f67e07d",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ]
+      },
+      {
+        "_version_": 1.8609797780251607e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "7 Jul 1532: Dantiscus, Ioannes, 1485-1548 (Regensburg, Bavaria, Germany) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001009302",
+        "dcterms_identifier-editi_": "editi_1009302",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/14c550f5-cac7-4cea-845c-f803bbffb822",
+        "dcterms_identifier-uuid_": "uuid_14c550f5-cac7-4cea-845c-f803bbffb822",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_14c550f5-cac7-4cea-845c-f803bbffb822",
+        "locations": [
+          "http://localhost/location/6627736a-699f-480a-b6ca-897d288fe960"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6627736a-699f-480a-b6ca-897d288fe960"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Regensburg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-19T20:11:45Z",
+        "ox_internalModified": "2021-03-19T20:11:45Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 19 March 2021",
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1532,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/086bfc36-78df-4a6a-a54c-70430c5f8568"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/086bfc36-78df-4a6a-a54c-70430c5f8568"
+        ],
+        "started_date_gregorian_sort": "1532-07-07T00:00:00Z",
+        "started_date_sort": "1532-07-07T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:29.147Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/14c550f5-cac7-4cea-845c-f803bbffb822",
+        "uuid": "14c550f5-cac7-4cea-845c-f803bbffb822",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "6627736a-699f-480a-b6ca-897d288fe960",
+          "086bfc36-78df-4a6a-a54c-70430c5f8568"
+        ]
+      },
+      {
+        "_version_": 1.8609799198010245e+18,
+        "author_sort": "Grumbach, Georg von, 1517-1539",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "He describes recent events in his life in Grumbach and his homesickness. He dislikes his cousin Hans and the family's Frankish inclination for pomp and ceremony. His brother Hans-Jörg will explain more, but in the meantime he asks her to greet his friends and to write to him soon.",
+        "dcterms_description": "1532: Grumbach, Georg von, 1517-1539 (Burggrumbach, Bavaria, Germany) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056346",
+        "dcterms_identifier-editi_": "editi_1056346",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/21f8abb6-9470-4062-b729-743c16bf485f",
+        "dcterms_identifier-uuid_": "uuid_21f8abb6-9470-4062-b729-743c16bf485f",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/8c0c5fd8-7750-417f-8351-fdd739faf473",
+          "http://localhost/manifestation/36ab5c11-6b8b-4a28-9e29-f347299f3263"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/972e049d-2fab-4d5a-aa10-5b048f67e07d"
+        ],
+        "id": "uuid_21f8abb6-9470-4062-b729-743c16bf485f",
+        "locations": [
+          "http://localhost/location/d928d7fe-aba9-4c65-9ef7-a4f1a4e87f28"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d928d7fe-aba9-4c65-9ef7-a4f1a4e87f28"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/8c0c5fd8-7750-417f-8351-fdd739faf473",
+          "http://localhost/manifestation/36ab5c11-6b8b-4a28-9e29-f347299f3263"
+        ],
+        "object_type": "work",
+        "origin_sort": "Burggrumbach, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:47Z",
+        "ox_internalModified": "2024-08-21T22:43:47Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_year": 1532,
+        "people": [
+          "http://localhost/person/972e049d-2fab-4d5a-aa10-5b048f67e07d",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1533-01-10T00:00:00Z",
+        "started_date_sort": "1532-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/21f8abb6-9470-4062-b729-743c16bf485f",
+        "uuid": "21f8abb6-9470-4062-b729-743c16bf485f",
+        "uuid_related": [
+          "8c0c5fd8-7750-417f-8351-fdd739faf473",
+          "36ab5c11-6b8b-4a28-9e29-f347299f3263",
+          "972e049d-2fab-4d5a-aa10-5b048f67e07d",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "d928d7fe-aba9-4c65-9ef7-a4f1a4e87f28"
+        ]
+      },
+      {
+        "_version_": 1.860979919802073e+18,
+        "author_sort": "Geissler, Nicholas, fl. 1533",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "Her son Georg had approached Geissler with his hand almost amputated and asked for help. Geissler sent for a doctor and lent him money, so Georg owes him 20 Rhine gulden. Though Georg promised to deposit 12 gulden at the Kunigunde Hergot printery in Nuremberg on New Year's Eve, he has not done so.",
+        "dcterms_description": "19 Feb 1533: Geissler, Nicholas, fl. 1533 (Leipzig, Saxony, Germany) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056348",
+        "dcterms_identifier-editi_": "editi_1056348",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/088a09a1-18bd-4c55-85c7-924862329a62",
+        "dcterms_identifier-uuid_": "uuid_088a09a1-18bd-4c55-85c7-924862329a62",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/04f63770-4709-4964-8758-55842b93544b",
+          "http://localhost/manifestation/9bb3c46c-49e7-48d1-ba0d-6a1667d0856b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/6ec67f02-f106-4a90-88dc-ca8611908117"
+        ],
+        "id": "uuid_088a09a1-18bd-4c55-85c7-924862329a62",
+        "locations": [
+          "http://localhost/location/cf503b96-fb56-466f-b30b-41e90704b00b"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/cf503b96-fb56-466f-b30b-41e90704b00b"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/04f63770-4709-4964-8758-55842b93544b",
+          "http://localhost/manifestation/9bb3c46c-49e7-48d1-ba0d-6a1667d0856b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Leipzig, Saxony, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:48Z",
+        "ox_internalModified": "2024-08-21T22:43:48Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_day": 19,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1533,
+        "people": [
+          "http://localhost/person/6ec67f02-f106-4a90-88dc-ca8611908117",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1533-03-01T00:00:00Z",
+        "started_date_sort": "1533-02-19T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/088a09a1-18bd-4c55-85c7-924862329a62",
+        "uuid": "088a09a1-18bd-4c55-85c7-924862329a62",
+        "uuid_related": [
+          "04f63770-4709-4964-8758-55842b93544b",
+          "9bb3c46c-49e7-48d1-ba0d-6a1667d0856b",
+          "6ec67f02-f106-4a90-88dc-ca8611908117",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "cf503b96-fb56-466f-b30b-41e90704b00b"
+        ]
+      },
+      {
+        "_version_": 1.8609799095082025e+18,
+        "author_sort": "Erasmus, Desiderius, 1466-1536",
+        "cito_Catalog": "Erasmus, Desiderius",
+        "dcterms_description": "1 Jun 1533: Erasmus, Desiderius, 1466-1536 (Freiburg, Baden-Württemberg, Germany) to Mary of Hungary, 1505-1558 (Brussels, Brussels Capital Region, Belgium)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001053128",
+        "dcterms_identifier-editi_": "editi_1053128",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/23e39cba-8162-42ec-906b-6ae3b5d3355d",
+        "dcterms_identifier-uuid_": "uuid_23e39cba-8162-42ec-906b-6ae3b5d3355d",
+        "dcterms_language": "Latin",
+        "destination_sort": "Brussels, Brussels Capital Region, Belgium",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/94abb604-491a-4582-bdb2-03dd321c03e2",
+          "http://localhost/manifestation/3ae277b6-ef73-4150-bd6e-bee836322abc",
+          "http://localhost/manifestation/2e520ffd-0304-4485-8326-cf2213cfab65",
+          "http://localhost/manifestation/0518960f-327b-4102-a427-0529935f3034"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/3d57cf71-45af-4e07-a6bd-d83773da9c21"
+        ],
+        "id": "uuid_23e39cba-8162-42ec-906b-6ae3b5d3355d",
+        "locations": [
+          "http://localhost/location/8fc7fd47-a0ab-4591-aab4-44a642b6b389",
+          "http://localhost/location/a774a57f-6fc4-4136-b541-90b0fc3275c4"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/a774a57f-6fc4-4136-b541-90b0fc3275c4"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8fc7fd47-a0ab-4591-aab4-44a642b6b389"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/37b50d3e-7ece-4144-a933-edbfdbbdac8e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/94abb604-491a-4582-bdb2-03dd321c03e2",
+          "http://localhost/manifestation/3ae277b6-ef73-4150-bd6e-bee836322abc",
+          "http://localhost/manifestation/2e520ffd-0304-4485-8326-cf2213cfab65",
+          "http://localhost/manifestation/0518960f-327b-4102-a427-0529935f3034"
+        ],
+        "object_type": "work",
+        "origin_sort": "Freiburg, Baden-Württemberg, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-03-06T14:40:36Z",
+        "ox_internalModified": "2024-03-06T14:40:36Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christoph Kudella, 6 March 2024",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1533,
+        "people": [
+          "http://localhost/person/3d57cf71-45af-4e07-a6bd-d83773da9c21",
+          "http://localhost/person/37b50d3e-7ece-4144-a933-edbfdbbdac8e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/400a5249-3efe-4552-9c32-9e454fc976e4",
+          "http://localhost/resource/620b5439-49f8-42d8-99ec-8a39eab1360e"
+        ],
+        "recipient_sort": "Mary of Hungary, 1505-1558",
+        "resources": [
+          "http://localhost/resource/400a5249-3efe-4552-9c32-9e454fc976e4",
+          "http://localhost/resource/620b5439-49f8-42d8-99ec-8a39eab1360e"
+        ],
+        "started_date_gregorian_sort": "1533-06-11T00:00:00Z",
+        "started_date_sort": "1533-06-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:25.917Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/23e39cba-8162-42ec-906b-6ae3b5d3355d",
+        "uuid": "23e39cba-8162-42ec-906b-6ae3b5d3355d",
+        "uuid_related": [
+          "94abb604-491a-4582-bdb2-03dd321c03e2",
+          "3ae277b6-ef73-4150-bd6e-bee836322abc",
+          "2e520ffd-0304-4485-8326-cf2213cfab65",
+          "0518960f-327b-4102-a427-0529935f3034",
+          "3d57cf71-45af-4e07-a6bd-d83773da9c21",
+          "37b50d3e-7ece-4144-a933-edbfdbbdac8e",
+          "8fc7fd47-a0ab-4591-aab4-44a642b6b389",
+          "a774a57f-6fc4-4136-b541-90b0fc3275c4",
+          "400a5249-3efe-4552-9c32-9e454fc976e4",
+          "620b5439-49f8-42d8-99ec-8a39eab1360e"
+        ]
+      },
+      {
+        "_version_": 1.8609799148276285e+18,
+        "author_sort": "Eck, Johann Maier von, 1486-1543",
+        "cito_Catalog": "Eck, Johann",
+        "comments": [
+          "http://localhost/comment/a58a39a4-f41d-4108-adba-1694c8aba783"
+        ],
+        "dcterms_abstract": "Eck describes his (unnamed) sister-in-law's difficult circumstances: her husband died and left her with a young child, many debts, and several debtors. His sister-in-law has asked him to write, on her behalf, to Argula von Grumbach for assistance.",
+        "dcterms_description": "18 Dec 1533: Eck, Johann Maier von, 1486-1543 (Ingolstadt, Bavaria, Germany, (Holy Roman Empire)) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001054690",
+        "dcterms_identifier-editi_": "editi_1054690",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f82520cd-c9ce-4c98-a5a8-438247882fd7",
+        "dcterms_identifier-uuid_": "uuid_f82520cd-c9ce-4c98-a5a8-438247882fd7",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7b8cad43-7804-451f-8814-cccf26e8be80",
+          "http://localhost/manifestation/deb63044-78dd-4255-ad79-3f96b674d782",
+          "http://localhost/manifestation/604c58c4-df5d-49e9-9fba-1666657b9867"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/980e28cd-8bec-466c-9b73-0992867beefb"
+        ],
+        "id": "uuid_f82520cd-c9ce-4c98-a5a8-438247882fd7",
+        "locations": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_authors-rdf_value": "Johann Eck",
+        "mail_origin-location": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_origin-rdf_value": "Ingolstat",
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7b8cad43-7804-451f-8814-cccf26e8be80",
+          "http://localhost/manifestation/deb63044-78dd-4255-ad79-3f96b674d782",
+          "http://localhost/manifestation/604c58c4-df5d-49e9-9fba-1666657b9867"
+        ],
+        "object_type": "work",
+        "origin_sort": "Ingolstadt, Bavaria, Germany, (Holy Roman Empire)",
+        "owl_sameAs-work": [
+          "http://localhost/work/725ffc95-11ae-497d-abe3-175fef32872b"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "wunnebaldi etc. Anno 33",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-06-03T17:20:30Z",
+        "ox_internalModified": "2024-08-29T12:04:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/a58a39a4-f41d-4108-adba-1694c8aba783"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Sara Joswig, with Cultures of Knowledge, based on 'Johannes Eck: Briefwechsel', ed. Vinzenz Pfnür (Universität Münster, 2011), 3 June 2024",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1533,
+        "people": [
+          "http://localhost/person/980e28cd-8bec-466c-9b73-0992867beefb",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/98b6db26-2f62-46f7-a40e-361c1d7cecf5"
+        ],
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "resources": [
+          "http://localhost/resource/98b6db26-2f62-46f7-a40e-361c1d7cecf5"
+        ],
+        "started_date_gregorian_sort": "1533-12-28T00:00:00Z",
+        "started_date_sort": "1533-12-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:30.824Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f82520cd-c9ce-4c98-a5a8-438247882fd7",
+        "uuid": "f82520cd-c9ce-4c98-a5a8-438247882fd7",
+        "uuid_related": [
+          "7b8cad43-7804-451f-8814-cccf26e8be80",
+          "deb63044-78dd-4255-ad79-3f96b674d782",
+          "980e28cd-8bec-466c-9b73-0992867beefb",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "4645882d-a2d0-42d4-8708-b4ebff8079f0",
+          "98b6db26-2f62-46f7-a40e-361c1d7cecf5",
+          "604c58c4-df5d-49e9-9fba-1666657b9867",
+          "a58a39a4-f41d-4108-adba-1694c8aba783",
+          "725ffc95-11ae-497d-abe3-175fef32872b"
+        ]
+      },
+      {
+        "_version_": 1.8609799197884416e+18,
+        "author_sort": "Eck, Johann Maier von, 1486-1543",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "Eck describes his (unnamed) sister-in-law's difficult circumstances: her husband died and left her with a young child, many debts, and several debtors. His sister-in-law has asked him to write, on her behalf, to Argula von Grumbach for assistance.",
+        "dcterms_description": "18 Dec 1533: Eck, Johann Maier von, 1486-1543 (Ingolstadt, Bavaria, Germany, (Holy Roman Empire)) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056327",
+        "dcterms_identifier-editi_": "editi_1056327",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/725ffc95-11ae-497d-abe3-175fef32872b",
+        "dcterms_identifier-uuid_": "uuid_725ffc95-11ae-497d-abe3-175fef32872b",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c3e261ec-4da5-41b0-8c4f-703625497adf",
+          "http://localhost/manifestation/52a000c0-050b-4c98-a4f9-92db8aa8574b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/980e28cd-8bec-466c-9b73-0992867beefb"
+        ],
+        "id": "uuid_725ffc95-11ae-497d-abe3-175fef32872b",
+        "locations": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_authors-rdf_value": "Johann Eck",
+        "mail_origin-location": [
+          "http://localhost/location/4645882d-a2d0-42d4-8708-b4ebff8079f0"
+        ],
+        "mail_origin-rdf_value": "Ingolstat",
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c3e261ec-4da5-41b0-8c4f-703625497adf",
+          "http://localhost/manifestation/52a000c0-050b-4c98-a4f9-92db8aa8574b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Ingolstadt, Bavaria, Germany, (Holy Roman Empire)",
+        "owl_sameAs-work": [
+          "http://localhost/work/f82520cd-c9ce-4c98-a5a8-438247882fd7"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "wunnebaldi etc. Anno 33 18 December",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:42Z",
+        "ox_internalModified": "2024-08-21T22:43:42Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1533,
+        "people": [
+          "http://localhost/person/980e28cd-8bec-466c-9b73-0992867beefb",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1533-12-28T00:00:00Z",
+        "started_date_sort": "1533-12-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/725ffc95-11ae-497d-abe3-175fef32872b",
+        "uuid": "725ffc95-11ae-497d-abe3-175fef32872b",
+        "uuid_related": [
+          "c3e261ec-4da5-41b0-8c4f-703625497adf",
+          "52a000c0-050b-4c98-a4f9-92db8aa8574b",
+          "980e28cd-8bec-466c-9b73-0992867beefb",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "4645882d-a2d0-42d4-8708-b4ebff8079f0",
+          "f82520cd-c9ce-4c98-a5a8-438247882fd7"
+        ]
+      },
+      {
+        "_version_": 1.8609799197905388e+18,
+        "author_sort": "Grumbach, Gottfried von, 1523-1554 or after",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "He has received her letter, the cheese, the material for his coat, and the money to buy a new shirt and a German New Testament. He clarifies that it is not his teacher's wife who has passed away, but the wife of the schoolteacher Ketzman. He is studying hard and intends to become a better person than his brother.",
+        "dcterms_description": "15 Jul 1538: Grumbach, Gottfried von, 1523-1554 or after (Nuremberg, Bavaria, Germany) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056330",
+        "dcterms_identifier-editi_": "editi_1056330",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f920846f-9ebd-431d-aefd-ee974cb3cb28",
+        "dcterms_identifier-uuid_": "uuid_f920846f-9ebd-431d-aefd-ee974cb3cb28",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a4e93c95-be9e-43bb-8b2d-3e0614eb460f",
+          "http://localhost/manifestation/22ba6f0f-bc77-43b6-9e63-85e52247fc13"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/c8a05935-1a07-48c3-bbf9-019c07031f2e"
+        ],
+        "id": "uuid_f920846f-9ebd-431d-aefd-ee974cb3cb28",
+        "locations": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_addressees-rdf_value": "argula schlicke(n) grefin wittwe geborne freheri(n) von stauf",
+        "mail_authors-rdf_value": "gott fridt von grumbach",
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a4e93c95-be9e-43bb-8b2d-3e0614eb460f",
+          "http://localhost/manifestation/22ba6f0f-bc77-43b6-9e63-85e52247fc13"
+        ],
+        "object_type": "work",
+        "origin_sort": "Nuremberg, Bavaria, Germany",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "am montag nach margrete(n) tag anno 1538",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:44Z",
+        "ox_internalModified": "2024-08-21T22:43:44Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1538,
+        "people": [
+          "http://localhost/person/c8a05935-1a07-48c3-bbf9-019c07031f2e",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1538-07-25T00:00:00Z",
+        "started_date_sort": "1538-07-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f920846f-9ebd-431d-aefd-ee974cb3cb28",
+        "uuid": "f920846f-9ebd-431d-aefd-ee974cb3cb28",
+        "uuid_related": [
+          "a4e93c95-be9e-43bb-8b2d-3e0614eb460f",
+          "22ba6f0f-bc77-43b6-9e63-85e52247fc13",
+          "c8a05935-1a07-48c3-bbf9-019c07031f2e",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "53985e7b-dced-4cb1-b213-5dab0fdcc5b1"
+        ]
+      },
+      {
+        "_version_": 1.8609799198031217e+18,
+        "author_sort": "Ruchhamer, Antoninus, fl. 1539",
+        "cito_Catalog": "Grumbach, Argula von",
+        "dcterms_abstract": "Georg von Grumbach, her recently deceased son, owed him money for food, which he hopes Argula will repay.",
+        "dcterms_description": "25 Jul 1539: Ruchhamer, Antoninus, fl. 1539 (Leipzig, Saxony, Germany) to Grumbach, Argula von, 1492-1554",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056350",
+        "dcterms_identifier-editi_": "editi_1056350",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6e2067df-3ca7-457f-97dd-6efcc10b2a87",
+        "dcterms_identifier-uuid_": "uuid_6e2067df-3ca7-457f-97dd-6efcc10b2a87",
+        "dcterms_language": "German",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/16fbf20e-7406-4cd8-b35b-54f017dc82c9",
+          "http://localhost/manifestation/31ca8729-5e39-4794-a3db-940bf4a09edb"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/6becf53d-9e74-4f63-aea0-17ad73d05d90"
+        ],
+        "id": "uuid_6e2067df-3ca7-457f-97dd-6efcc10b2a87",
+        "locations": [
+          "http://localhost/location/cf503b96-fb56-466f-b30b-41e90704b00b"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/cf503b96-fb56-466f-b30b-41e90704b00b"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "manifestation-institution-place": [
+          "Bayerisches Hauptstaatsarchiv",
+          "Staatlichen Archive Bayerns\nBayerisches Staatsarchiv München\nHauptstaatsarchiv, Geheimes Hausarchiv",
+          "Munich",
+          "München\nMuenchen",
+          "Germany"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/16fbf20e-7406-4cd8-b35b-54f017dc82c9",
+          "http://localhost/manifestation/31ca8729-5e39-4794-a3db-940bf4a09edb"
+        ],
+        "object_type": "work",
+        "origin_sort": "Leipzig, Saxony, Germany",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-08-21T22:43:49Z",
+        "ox_internalModified": "2024-08-21T22:43:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 August 2024",
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1539,
+        "people": [
+          "http://localhost/person/6becf53d-9e74-4f63-aea0-17ad73d05d90",
+          "http://localhost/person/20ae4360-8559-4c72-8b5f-fab095dee185"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Grumbach, Argula von, 1492-1554",
+        "started_date_gregorian_sort": "1539-08-04T00:00:00Z",
+        "started_date_sort": "1539-07-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6e2067df-3ca7-457f-97dd-6efcc10b2a87",
+        "uuid": "6e2067df-3ca7-457f-97dd-6efcc10b2a87",
+        "uuid_related": [
+          "16fbf20e-7406-4cd8-b35b-54f017dc82c9",
+          "31ca8729-5e39-4794-a3db-940bf4a09edb",
+          "6becf53d-9e74-4f63-aea0-17ad73d05d90",
+          "20ae4360-8559-4c72-8b5f-fab095dee185",
+          "cf503b96-fb56-466f-b30b-41e90704b00b"
+        ]
+      }
+    ],
+    "numFound": 38,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 3,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1500-01-01T00:00:00Z TO 1540-12-31T23:59:59Z] AND (person-author-gender:(female) OR person-recipient-gender:(female) OR person-mentioned-gender:(female)) AND person-author-gender:(male) AND person-recipient-gender:(female) AND location-origin:(Germany)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
