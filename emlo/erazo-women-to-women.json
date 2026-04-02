@@ -1,0 +1,91 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Oranje-Nassau, Albertine Agnes van",
+        6, "Schurman, Anna Maria van",
+        4, "Solms-Braunfels, Amalia von",
+        1, "Winthrop letters",
+        1, "Witt, Johan de",
+        1, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0],
+      "destination_sort": [
+        "Utrecht, Utrecht, Netherlands",
+        3, "Leeuwarden, Friesland, (United Provinces) Netherlands",
+        2, "Groningen, Groningen, Netherlands",
+        1, "Herford, North Rhine-Westphalia, Germany",
+        1, "Salem, Massachusetts, United States",
+        1, "The Hague, South Holland, Netherlands",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/3064ff5a-9f95-41ed-81a3-3cfe1f91b784",
+        4, "http://localhost/person/fa548942-a52e-4af8-ae13-535f71639ab3",
+        3, "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+        1, "http://localhost/person/50188812-3a28-470b-afc2-307ff824bcd1",
+        1, "http://localhost/person/501b06fe-b921-4ffd-ae66-f87fa7cc8f0f",
+        1, "http://localhost/person/647bcf06-504e-4701-996e-a137ea2d6a08",
+        1, "http://localhost/person/c87191fd-56f2-4e08-8181-924309f94deb",
+        1, "http://localhost/person/ec9736b9-04bc-41b5-8cdf-fbc017614394",
+        1, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+        3, "http://localhost/person/3064ff5a-9f95-41ed-81a3-3cfe1f91b784",
+        3, "http://localhost/person/41d626f5-d98b-4e78-a67f-0138c655dafd",
+        2, "http://localhost/person/44860f76-9092-4ec9-94be-309c38d05339",
+        1, "http://localhost/person/90e14e27-e265-420c-9684-d31df3139e57",
+        1, "http://localhost/person/a0343151-9ab3-4bb5-b9ea-ce8135dc725e",
+        1, "http://localhost/person/ae7a3cdd-3a4c-4e2c-b066-e8b05fcfd9c5",
+        1, "http://localhost/person/b8b7e427-5e14-4de8-9d32-8956315a0eb8",
+        1, "http://localhost/person/d0f6220f-380c-443f-90fc-45f1c87372f9",
+        1, "http://localhost/person/d285d9e7-7d60-4879-8804-b6690a461e56",
+        1],
+      "origin_sort": [
+        "Leeuwarden, Friesland, (United Provinces) Netherlands",
+        5, "Amsterdam, North Holland, (United Provinces) Netherlands",
+        4, "Berlin, Berlin, Germany",
+        1, "Dordrecht, South Holland, Netherlands",
+        1, "Hartford, Connecticut, United States",
+        1, "London, England, United Kingdom",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0],
+      "ox_started-ox_year": [
+        "1667",
+        4, "1668",
+        4, "1670",
+        4, "1665",
+        1, "1475",
+        0, "1484",
+        0, "1487",
+        0, "1488",
+        0, "1489",
+        0, "1491",
+        0]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_0213196a-24bd-427a-b313-3c1e39458141": {
