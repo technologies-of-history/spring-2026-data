@@ -2,7 +2,7 @@ import json
 import csv
 
 # Read the JSON file
-with open('filename.json', 'r') as f:
+with open('reed_women_to_men.json', 'r') as f:
     data = json.load(f)
 
 # Extract the document records from the response
@@ -45,7 +45,7 @@ for doc in docs:
 
 # Write to CSV
 fieldnames = ['Description', 'Author', 'Recipient', 'Date', 'Year', 'Location', 'Origin', 'Destination']
-with open('filename.csv', 'w', newline='', encoding='utf-8') as f:
+with open('reed_women_to_men.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(rows)
