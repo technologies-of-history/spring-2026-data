@@ -1,0 +1,2160 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Dantiscus, Ioannes",
+        17, "Hanover, Anne of",
+        4, "Bassi, Laura",
+        3, "Stuart, Mary II (Queen of England, Scotland, and Ireland)",
+        2, "Huygens, Constantijn",
+        1, "León, Luis de",
+        1, "Rubens, Peter Paul",
+        1, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0],
+      "destination_sort": [
+        "Madrid, Spain",
+        2, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0, "Abergavenny, Monmouthshire, Wales",
+        0, "Abingdon Street, Westminster, London, England, United Kingdom",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+        17, "http://localhost/person/a7dc641a-d35d-4453-9713-b48514dcd54b",
+        3, "http://localhost/person/0aa0849f-c32b-417f-88e5-d3f6fe573e88",
+        2, "http://localhost/person/360c3a1d-67d5-460d-823c-d2f68caa2b97",
+        1, "http://localhost/person/621b2467-874b-4a37-a8d3-57d3375d57b3",
+        1, "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+        1, "http://localhost/person/8d911415-9082-4612-8ae1-3fc6e30696e6",
+        1, "http://localhost/person/bb3aba72-1721-497d-bc98-f81d8d099eb8",
+        1, "http://localhost/person/c308edec-7206-4ded-8809-3f0c0d04fadd",
+        1, "http://localhost/person/e1de2f0e-4689-4e84-8d2d-4b4ebf083c86",
+        1],
+      "mail_recipient-person": [
+        "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3",
+        17, "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0",
+        4, "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3",
+        3, "http://localhost/person/b3fbfdb2-82b2-4be2-bda8-8c60bb1b1479",
+        2, "http://localhost/person/0a1775d1-37f9-4bb6-a907-b853f7b2a9da",
+        1, "http://localhost/person/51183c98-8173-4a13-a3b2-633bd3f3a236",
+        1, "http://localhost/person/77d9e48e-232f-4a8d-8ff4-58ea4d4551a2",
+        1, "http://localhost/person/eeec97ef-dea8-4b20-a21a-5abf2cb73413",
+        1, "http://localhost/person/fe1c439a-aa58-46d5-8118-de463010a855",
+        1, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0],
+      "origin_sort": [
+        "Madrid, Spain",
+        9, "Valladolid, Castille and León, Spain",
+        6, "Burgos, Castille and León, Spain",
+        3, "Granada, Andalusia, Spain",
+        3, "Málaga, Andalusia, Spain",
+        2, "Toledo, Castille-La Mancha, Spain",
+        2, "Alicante, Valencia, Spain",
+        1, "Bahía de Cádiz, Andalusia, Spain",
+        1, "Barcelona, Catalonia, Spain",
+        1, "The Hague, South Holland, Netherlands",
+        1],
+      "ox_started-ox_year": [
+        "1527",
+        7, "1528",
+        5, "1526",
+        4, "1756",
+        3, "1524",
+        1, "1587",
+        1, "1631",
+        1, "1679",
+        1, "1685",
+        1, "1689",
+        1]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_0a24166c-93e1-4867-a4be-1e8b4533df15": {
+
+    },
+    "uuid_19148f84-2aa7-4b25-a3c4-bce4e9b68754": {
+
+    },
+    "uuid_20ce54e6-6659-449f-afc9-462e184d54b1": {
+
+    },
+    "uuid_2adb4431-5dc1-49f5-a36f-515ced2b8a34": {
+
+    },
+    "uuid_30f3e65b-680d-4805-b160-92550e8443f8": {
+
+    },
+    "uuid_34f82e57-c616-4f92-852a-55c0cd4c311e": {
+
+    },
+    "uuid_38cce8d5-7935-49fb-a6b3-6be0c716fa05": {
+
+    },
+    "uuid_3b40a467-e1df-4512-aec1-604b07d7b99e": {
+
+    },
+    "uuid_5270e0eb-0322-409f-9a1d-bf7f321d6107": {
+
+    },
+    "uuid_65a11591-cd79-4242-9f6e-02f445f43d1e": {
+
+    },
+    "uuid_6be097c7-b19c-4562-bc66-507f77688190": {
+
+    },
+    "uuid_7ed90325-e66f-402c-9d72-1bad0baebbab": {
+
+    },
+    "uuid_827ed9b0-1b92-4dc0-a96a-94a356f00d41": {
+
+    },
+    "uuid_8f2b3400-d813-4081-b298-b1506af0e4f2": {
+
+    },
+    "uuid_9846a51b-6184-4d4b-9a6b-7ebb78bf763f": {
+
+    },
+    "uuid_9fe072ae-b707-4c38-a0bc-09963c4ad3cf": {
+
+    },
+    "uuid_a42a6165-4e19-4f51-8fc0-256c0ea066e6": {
+
+    },
+    "uuid_ad38bad9-b46e-45fe-8f34-150ea5d640c8": {
+
+    },
+    "uuid_b6ea1f5a-9e7c-4441-b4f2-a34eac791ecc": {
+
+    },
+    "uuid_bbcb1eb5-a660-449d-9824-dde70240f98d": {
+
+    },
+    "uuid_c1061d18-7275-494c-8cd3-63d0b580ae5c": {
+
+    },
+    "uuid_c29296cb-006e-4d93-8f3a-c1057515aada": {
+
+    },
+    "uuid_d68d2ca2-c874-4209-816c-159a911b3e96": {
+
+    },
+    "uuid_df1abfc7-8393-46ae-9f1e-9842db545223": {
+
+    },
+    "uuid_df82466c-1605-4d68-9d2c-52071afc0e17": {
+
+    },
+    "uuid_e0d8b46c-1da4-418d-b525-89e1237dee09": {
+
+    },
+    "uuid_ed67e585-0fd9-4c92-9b12-cf0e59684a5b": {
+
+    },
+    "uuid_f90e347f-eb0f-4c99-8fbd-a7782519fc90": {
+
+    },
+    "uuid_fd8624b7-a36a-437a-965c-decfd5d7c1d9": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.860979776296059e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "18 Dec 1524: Dantiscus, Ioannes, 1485-1548 (Madrid, Spain) to Sforza, Bona, Queen of Poland, 1494-1557 ~ Sigismund I, King of Poland, 1467-1548",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008600",
+        "dcterms_identifier-editi_": "editi_1008600",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/bbcb1eb5-a660-449d-9824-dde70240f98d",
+        "dcterms_identifier-uuid_": "uuid_bbcb1eb5-a660-449d-9824-dde70240f98d",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_bbcb1eb5-a660-449d-9824-dde70240f98d",
+        "locations": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "http://localhost/person/51183c98-8173-4a13-a3b2-633bd3f3a236"
+        ],
+        "object_type": "work",
+        "origin_sort": "Madrid, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:20Z",
+        "ox_internalModified": "2021-03-18T19:01:20Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1524,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "http://localhost/person/51183c98-8173-4a13-a3b2-633bd3f3a236"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/69db9f43-8e83-4b6b-853b-1681d176f38f"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557; Sigismund I, King of Poland, 1467-1548",
+        "resources": [
+          "http://localhost/resource/69db9f43-8e83-4b6b-853b-1681d176f38f"
+        ],
+        "started_date_gregorian_sort": "1524-12-18T00:00:00Z",
+        "started_date_sort": "1524-12-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/bbcb1eb5-a660-449d-9824-dde70240f98d",
+        "uuid": "bbcb1eb5-a660-449d-9824-dde70240f98d",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "51183c98-8173-4a13-a3b2-633bd3f3a236",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "69db9f43-8e83-4b6b-853b-1681d176f38f"
+        ]
+      },
+      {
+        "_version_": 1.8609797755704443e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "24 Feb 1526: Dantiscus, Ioannes, 1485-1548 (Toledo, Castille-La Mancha, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008219",
+        "dcterms_identifier-editi_": "editi_1008219",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8f2b3400-d813-4081-b298-b1506af0e4f2",
+        "dcterms_identifier-uuid_": "uuid_8f2b3400-d813-4081-b298-b1506af0e4f2",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_8f2b3400-d813-4081-b298-b1506af0e4f2",
+        "locations": [
+          "http://localhost/location/b3691ed5-d240-4dfd-973f-c2ad366946e1"
+        ],
+        "mail_authors-indef_inferred": true,
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/b3691ed5-d240-4dfd-973f-c2ad366946e1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Toledo, Castille-La Mancha, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T18:59:46Z",
+        "ox_internalModified": "2021-03-18T18:59:46Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 24,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1526,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/7e6569a9-184c-4f51-a202-b729f3da50e5"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/7e6569a9-184c-4f51-a202-b729f3da50e5"
+        ],
+        "started_date_gregorian_sort": "1526-02-24T00:00:00Z",
+        "started_date_sort": "1526-02-24T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8f2b3400-d813-4081-b298-b1506af0e4f2",
+        "uuid": "8f2b3400-d813-4081-b298-b1506af0e4f2",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "b3691ed5-d240-4dfd-973f-c2ad366946e1",
+          "7e6569a9-184c-4f51-a202-b729f3da50e5"
+        ]
+      },
+      {
+        "_version_": 1.860979776503677e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "1 Sep 1526: Dantiscus, Ioannes, 1485-1548 (Granada, Andalusia, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008670",
+        "dcterms_identifier-editi_": "editi_1008670",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/827ed9b0-1b92-4dc0-a96a-94a356f00d41",
+        "dcterms_identifier-uuid_": "uuid_827ed9b0-1b92-4dc0-a96a-94a356f00d41",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_827ed9b0-1b92-4dc0-a96a-94a356f00d41",
+        "locations": [
+          "http://localhost/location/66066872-3054-4c06-a4b0-6e3eab3e01bd"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/66066872-3054-4c06-a4b0-6e3eab3e01bd"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Granada, Andalusia, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:37Z",
+        "ox_internalModified": "2021-03-18T19:01:37Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1526,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/299ef1d7-739e-47f3-99f1-6fa5013dec38"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/299ef1d7-739e-47f3-99f1-6fa5013dec38"
+        ],
+        "started_date_gregorian_sort": "1526-09-01T00:00:00Z",
+        "started_date_sort": "1526-09-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/827ed9b0-1b92-4dc0-a96a-94a356f00d41",
+        "uuid": "827ed9b0-1b92-4dc0-a96a-94a356f00d41",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "66066872-3054-4c06-a4b0-6e3eab3e01bd",
+          "299ef1d7-739e-47f3-99f1-6fa5013dec38"
+        ]
+      },
+      {
+        "_version_": 1.860979776505774e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "13 Oct 1526: Dantiscus, Ioannes, 1485-1548 (Granada, Andalusia, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008676",
+        "dcterms_identifier-editi_": "editi_1008676",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/5270e0eb-0322-409f-9a1d-bf7f321d6107",
+        "dcterms_identifier-uuid_": "uuid_5270e0eb-0322-409f-9a1d-bf7f321d6107",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_5270e0eb-0322-409f-9a1d-bf7f321d6107",
+        "locations": [
+          "http://localhost/location/66066872-3054-4c06-a4b0-6e3eab3e01bd"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/66066872-3054-4c06-a4b0-6e3eab3e01bd"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Granada, Andalusia, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:39Z",
+        "ox_internalModified": "2021-03-18T19:01:39Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1526,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/1b6e7df8-4c91-4257-bb00-93135622e432"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/1b6e7df8-4c91-4257-bb00-93135622e432"
+        ],
+        "started_date_gregorian_sort": "1526-10-13T00:00:00Z",
+        "started_date_sort": "1526-10-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/5270e0eb-0322-409f-9a1d-bf7f321d6107",
+        "uuid": "5270e0eb-0322-409f-9a1d-bf7f321d6107",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "66066872-3054-4c06-a4b0-6e3eab3e01bd",
+          "1b6e7df8-4c91-4257-bb00-93135622e432"
+        ]
+      },
+      {
+        "_version_": 1.8609797765099684e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "6 Dec 1526: Dantiscus, Ioannes, 1485-1548 (Granada, Andalusia, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008687",
+        "dcterms_identifier-editi_": "editi_1008687",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/30f3e65b-680d-4805-b160-92550e8443f8",
+        "dcterms_identifier-uuid_": "uuid_30f3e65b-680d-4805-b160-92550e8443f8",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_30f3e65b-680d-4805-b160-92550e8443f8",
+        "locations": [
+          "http://localhost/location/66066872-3054-4c06-a4b0-6e3eab3e01bd"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/66066872-3054-4c06-a4b0-6e3eab3e01bd"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Granada, Andalusia, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:41Z",
+        "ox_internalModified": "2021-03-18T19:01:41Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1526,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2eb75ad2-dd4a-4a42-9958-98f173e5663b"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/2eb75ad2-dd4a-4a42-9958-98f173e5663b"
+        ],
+        "started_date_gregorian_sort": "1526-12-06T00:00:00Z",
+        "started_date_sort": "1526-12-06T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/30f3e65b-680d-4805-b160-92550e8443f8",
+        "uuid": "30f3e65b-680d-4805-b160-92550e8443f8",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "66066872-3054-4c06-a4b0-6e3eab3e01bd",
+          "2eb75ad2-dd4a-4a42-9958-98f173e5663b"
+        ]
+      },
+      {
+        "_version_": 1.8609797767081492e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "22 Apr 1527: Dantiscus, Ioannes, 1485-1548 (Valladolid, Castille and León, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008719",
+        "dcterms_identifier-editi_": "editi_1008719",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9fe072ae-b707-4c38-a0bc-09963c4ad3cf",
+        "dcterms_identifier-uuid_": "uuid_9fe072ae-b707-4c38-a0bc-09963c4ad3cf",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_9fe072ae-b707-4c38-a0bc-09963c4ad3cf",
+        "locations": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Valladolid, Castille and León, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:49Z",
+        "ox_internalModified": "2021-03-18T19:01:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1527,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/391935bf-873c-4ff9-984d-d7bec291d729"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/391935bf-873c-4ff9-984d-d7bec291d729"
+        ],
+        "started_date_gregorian_sort": "1527-04-22T00:00:00Z",
+        "started_date_sort": "1527-04-22T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9fe072ae-b707-4c38-a0bc-09963c4ad3cf",
+        "uuid": "9fe072ae-b707-4c38-a0bc-09963c4ad3cf",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "15dbeb6c-ef51-40ef-a1d6-82437e7dd341",
+          "391935bf-873c-4ff9-984d-d7bec291d729"
+        ]
+      },
+      {
+        "_version_": 1.860979776711295e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "6 May 1527: Dantiscus, Ioannes, 1485-1548 (Valladolid, Castille and León, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008726",
+        "dcterms_identifier-editi_": "editi_1008726",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/38cce8d5-7935-49fb-a6b3-6be0c716fa05",
+        "dcterms_identifier-uuid_": "uuid_38cce8d5-7935-49fb-a6b3-6be0c716fa05",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_38cce8d5-7935-49fb-a6b3-6be0c716fa05",
+        "locations": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Valladolid, Castille and León, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:50Z",
+        "ox_internalModified": "2021-03-18T19:01:50Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1527,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d32e9684-8f11-458f-921d-162e709cc23f"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/d32e9684-8f11-458f-921d-162e709cc23f"
+        ],
+        "started_date_gregorian_sort": "1527-05-06T00:00:00Z",
+        "started_date_sort": "1527-05-06T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/38cce8d5-7935-49fb-a6b3-6be0c716fa05",
+        "uuid": "38cce8d5-7935-49fb-a6b3-6be0c716fa05",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "15dbeb6c-ef51-40ef-a1d6-82437e7dd341",
+          "d32e9684-8f11-458f-921d-162e709cc23f"
+        ]
+      },
+      {
+        "_version_": 1.8609797767144407e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "21 May 1527: Dantiscus, Ioannes, 1485-1548 (Valladolid, Castille and León, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008733",
+        "dcterms_identifier-editi_": "editi_1008733",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f90e347f-eb0f-4c99-8fbd-a7782519fc90",
+        "dcterms_identifier-uuid_": "uuid_f90e347f-eb0f-4c99-8fbd-a7782519fc90",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_f90e347f-eb0f-4c99-8fbd-a7782519fc90",
+        "locations": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_authors-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Valladolid, Castille and León, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:52Z",
+        "ox_internalModified": "2021-03-18T19:01:52Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1527,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2851c5a4-3409-4a19-a570-b33d51feedc2"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/2851c5a4-3409-4a19-a570-b33d51feedc2"
+        ],
+        "started_date_gregorian_sort": "1527-05-21T00:00:00Z",
+        "started_date_sort": "1527-05-21T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f90e347f-eb0f-4c99-8fbd-a7782519fc90",
+        "uuid": "f90e347f-eb0f-4c99-8fbd-a7782519fc90",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "15dbeb6c-ef51-40ef-a1d6-82437e7dd341",
+          "2851c5a4-3409-4a19-a570-b33d51feedc2"
+        ]
+      },
+      {
+        "_version_": 1.8609797767196836e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "17 Jun 1527: Dantiscus, Ioannes, 1485-1548 (Valladolid, Castille and León, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008744",
+        "dcterms_identifier-editi_": "editi_1008744",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ed67e585-0fd9-4c92-9b12-cf0e59684a5b",
+        "dcterms_identifier-uuid_": "uuid_ed67e585-0fd9-4c92-9b12-cf0e59684a5b",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_ed67e585-0fd9-4c92-9b12-cf0e59684a5b",
+        "locations": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Valladolid, Castille and León, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:54Z",
+        "ox_internalModified": "2021-03-18T19:01:54Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1527,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/6970b9c4-10a8-4f63-a169-1566f2846263"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/6970b9c4-10a8-4f63-a169-1566f2846263"
+        ],
+        "started_date_gregorian_sort": "1527-06-17T00:00:00Z",
+        "started_date_sort": "1527-06-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ed67e585-0fd9-4c92-9b12-cf0e59684a5b",
+        "uuid": "ed67e585-0fd9-4c92-9b12-cf0e59684a5b",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "15dbeb6c-ef51-40ef-a1d6-82437e7dd341",
+          "6970b9c4-10a8-4f63-a169-1566f2846263"
+        ]
+      },
+      {
+        "_version_": 1.8609797767270236e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "17 Aug 1527: Dantiscus, Ioannes, 1485-1548 (Valladolid, Castille and León, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008760",
+        "dcterms_identifier-editi_": "editi_1008760",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/df82466c-1605-4d68-9d2c-52071afc0e17",
+        "dcterms_identifier-uuid_": "uuid_df82466c-1605-4d68-9d2c-52071afc0e17",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_df82466c-1605-4d68-9d2c-52071afc0e17",
+        "locations": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Valladolid, Castille and León, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:58Z",
+        "ox_internalModified": "2021-03-18T19:01:58Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1527,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/96de2381-ec15-45de-8c7a-e02846a309a0"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/96de2381-ec15-45de-8c7a-e02846a309a0"
+        ],
+        "started_date_gregorian_sort": "1527-08-17T00:00:00Z",
+        "started_date_sort": "1527-08-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/df82466c-1605-4d68-9d2c-52071afc0e17",
+        "uuid": "df82466c-1605-4d68-9d2c-52071afc0e17",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "15dbeb6c-ef51-40ef-a1d6-82437e7dd341",
+          "96de2381-ec15-45de-8c7a-e02846a309a0"
+        ]
+      },
+      {
+        "_version_": 1.8609797767280722e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "20 Aug 1527: Dantiscus, Ioannes, 1485-1548 (Valladolid, Castille and León, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008763",
+        "dcterms_identifier-editi_": "editi_1008763",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6be097c7-b19c-4562-bc66-507f77688190",
+        "dcterms_identifier-uuid_": "uuid_6be097c7-b19c-4562-bc66-507f77688190",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_6be097c7-b19c-4562-bc66-507f77688190",
+        "locations": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/15dbeb6c-ef51-40ef-a1d6-82437e7dd341"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Valladolid, Castille and León, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:01:59Z",
+        "ox_internalModified": "2021-03-18T19:01:59Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1527,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f6719858-885e-4b3c-9cf0-e3ebc28006fc"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/f6719858-885e-4b3c-9cf0-e3ebc28006fc"
+        ],
+        "started_date_gregorian_sort": "1527-08-20T00:00:00Z",
+        "started_date_sort": "1527-08-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6be097c7-b19c-4562-bc66-507f77688190",
+        "uuid": "6be097c7-b19c-4562-bc66-507f77688190",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "15dbeb6c-ef51-40ef-a1d6-82437e7dd341",
+          "f6719858-885e-4b3c-9cf0-e3ebc28006fc"
+        ]
+      },
+      {
+        "_version_": 1.860979776733315e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "15 Nov 1527: Dantiscus, Ioannes, 1485-1548 (Burgos, Castille and León, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008777",
+        "dcterms_identifier-editi_": "editi_1008777",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/20ce54e6-6659-449f-afc9-462e184d54b1",
+        "dcterms_identifier-uuid_": "uuid_20ce54e6-6659-449f-afc9-462e184d54b1",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_20ce54e6-6659-449f-afc9-462e184d54b1",
+        "locations": [
+          "http://localhost/location/4c6ddcf8-4474-4696-84a0-46cc66b7e0bd"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/4c6ddcf8-4474-4696-84a0-46cc66b7e0bd"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Burgos, Castille and León, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:02:02Z",
+        "ox_internalModified": "2021-03-18T19:02:02Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1527,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/bf1df7ec-e6a4-4e39-b397-882977232b26"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/bf1df7ec-e6a4-4e39-b397-882977232b26"
+        ],
+        "started_date_gregorian_sort": "1527-11-15T00:00:00Z",
+        "started_date_sort": "1527-11-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:29.147Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/20ce54e6-6659-449f-afc9-462e184d54b1",
+        "uuid": "20ce54e6-6659-449f-afc9-462e184d54b1",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "4c6ddcf8-4474-4696-84a0-46cc66b7e0bd",
+          "bf1df7ec-e6a4-4e39-b397-882977232b26"
+        ]
+      },
+      {
+        "_version_": 1.8609797767364608e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "10 Jan 1528: Dantiscus, Ioannes, 1485-1548 (Burgos, Castille and León, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008785",
+        "dcterms_identifier-editi_": "editi_1008785",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e0d8b46c-1da4-418d-b525-89e1237dee09",
+        "dcterms_identifier-uuid_": "uuid_e0d8b46c-1da4-418d-b525-89e1237dee09",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_e0d8b46c-1da4-418d-b525-89e1237dee09",
+        "locations": [
+          "http://localhost/location/4c6ddcf8-4474-4696-84a0-46cc66b7e0bd"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/4c6ddcf8-4474-4696-84a0-46cc66b7e0bd"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Burgos, Castille and León, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:02:04Z",
+        "ox_internalModified": "2021-03-31T13:34:33Z",
+        "ox_internalModifiedByUser": "Charlotte Marique",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1528,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d3dd2ceb-e15a-427b-a26b-5844a2f0c320"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/d3dd2ceb-e15a-427b-a26b-5844a2f0c320"
+        ],
+        "started_date_gregorian_sort": "1528-01-10T00:00:00Z",
+        "started_date_sort": "1528-01-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:29.147Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e0d8b46c-1da4-418d-b525-89e1237dee09",
+        "uuid": "e0d8b46c-1da4-418d-b525-89e1237dee09",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "4c6ddcf8-4474-4696-84a0-46cc66b7e0bd",
+          "d3dd2ceb-e15a-427b-a26b-5844a2f0c320"
+        ]
+      },
+      {
+        "_version_": 1.860979776740655e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "20 Feb 1528: Dantiscus, Ioannes, 1485-1548 (Burgos, Castille and León, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008792",
+        "dcterms_identifier-editi_": "editi_1008792",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/34f82e57-c616-4f92-852a-55c0cd4c311e",
+        "dcterms_identifier-uuid_": "uuid_34f82e57-c616-4f92-852a-55c0cd4c311e",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_34f82e57-c616-4f92-852a-55c0cd4c311e",
+        "locations": [
+          "http://localhost/location/4c6ddcf8-4474-4696-84a0-46cc66b7e0bd"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/4c6ddcf8-4474-4696-84a0-46cc66b7e0bd"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Burgos, Castille and León, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:02:06Z",
+        "ox_internalModified": "2021-03-18T19:02:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1528,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/7b4506cb-8e85-4b74-bd87-dc2b97437e81"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/7b4506cb-8e85-4b74-bd87-dc2b97437e81"
+        ],
+        "started_date_gregorian_sort": "1528-02-20T00:00:00Z",
+        "started_date_sort": "1528-02-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:29.147Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/34f82e57-c616-4f92-852a-55c0cd4c311e",
+        "uuid": "34f82e57-c616-4f92-852a-55c0cd4c311e",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "4c6ddcf8-4474-4696-84a0-46cc66b7e0bd",
+          "7b4506cb-8e85-4b74-bd87-dc2b97437e81"
+        ]
+      },
+      {
+        "_version_": 1.8609797767438008e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "27 Mar 1528: Dantiscus, Ioannes, 1485-1548 (Madrid, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008799",
+        "dcterms_identifier-editi_": "editi_1008799",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0a24166c-93e1-4867-a4be-1e8b4533df15",
+        "dcterms_identifier-uuid_": "uuid_0a24166c-93e1-4867-a4be-1e8b4533df15",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_0a24166c-93e1-4867-a4be-1e8b4533df15",
+        "locations": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Madrid, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:02:08Z",
+        "ox_internalModified": "2021-03-18T19:02:08Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 27,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1528,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4306a726-a8d0-4edb-a393-c7f6b1ecf43a"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/4306a726-a8d0-4edb-a393-c7f6b1ecf43a"
+        ],
+        "started_date_gregorian_sort": "1528-03-27T00:00:00Z",
+        "started_date_sort": "1528-03-27T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:29.147Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0a24166c-93e1-4867-a4be-1e8b4533df15",
+        "uuid": "0a24166c-93e1-4867-a4be-1e8b4533df15",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "4306a726-a8d0-4edb-a393-c7f6b1ecf43a"
+        ]
+      },
+      {
+        "_version_": 1.860979776745898e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "12 Oct 1528: Dantiscus, Ioannes, 1485-1548 (Madrid, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008806",
+        "dcterms_identifier-editi_": "editi_1008806",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/65a11591-cd79-4242-9f6e-02f445f43d1e",
+        "dcterms_identifier-uuid_": "uuid_65a11591-cd79-4242-9f6e-02f445f43d1e",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_65a11591-cd79-4242-9f6e-02f445f43d1e",
+        "locations": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Madrid, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:02:09Z",
+        "ox_internalModified": "2021-03-18T19:02:09Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1528,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b044de9f-1532-4626-99e8-0358007bb115"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/b044de9f-1532-4626-99e8-0358007bb115"
+        ],
+        "started_date_gregorian_sort": "1528-10-12T00:00:00Z",
+        "started_date_sort": "1528-10-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:29.147Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/65a11591-cd79-4242-9f6e-02f445f43d1e",
+        "uuid": "65a11591-cd79-4242-9f6e-02f445f43d1e",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "b044de9f-1532-4626-99e8-0358007bb115"
+        ]
+      },
+      {
+        "_version_": 1.8609797767469466e+18,
+        "author_sort": "Dantiscus, Ioannes, 1485-1548",
+        "cito_Catalog": "Dantiscus, Ioannes",
+        "dcterms_description": "19 Nov 1528: Dantiscus, Ioannes, 1485-1548 (Toledo, Castille-La Mancha, Spain) to Sforza, Bona, Queen of Poland, 1494-1557",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001008808",
+        "dcterms_identifier-editi_": "editi_1008808",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2adb4431-5dc1-49f5-a36f-515ced2b8a34",
+        "dcterms_identifier-uuid_": "uuid_2adb4431-5dc1-49f5-a36f-515ced2b8a34",
+        "dcterms_language": "Latin",
+        "frbr_creator-person": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42"
+        ],
+        "id": "uuid_2adb4431-5dc1-49f5-a36f-515ced2b8a34",
+        "locations": [
+          "http://localhost/location/b3691ed5-d240-4dfd-973f-c2ad366946e1"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/b3691ed5-d240-4dfd-973f-c2ad366946e1"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Toledo, Castille-La Mancha, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-03-18T19:02:10Z",
+        "ox_internalModified": "2021-03-18T19:02:10Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Anna Skolimowska, Corpus of Ioannes Dantiscus’ Texts & Correspondence, 18 March 2021",
+        "ox_started-ox_day": 19,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1528,
+        "people": [
+          "http://localhost/person/f537e544-5649-476e-bf15-f97ab8a79b42",
+          "http://localhost/person/47aa8ffc-f598-4b47-9210-4585923ab9e3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/61db35ed-542d-4f8d-ae7d-7c524f2c1870"
+        ],
+        "recipient_sort": "Sforza, Bona, Queen of Poland, 1494-1557",
+        "resources": [
+          "http://localhost/resource/61db35ed-542d-4f8d-ae7d-7c524f2c1870"
+        ],
+        "started_date_gregorian_sort": "1528-11-19T00:00:00Z",
+        "started_date_sort": "1528-11-19T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:29.147Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2adb4431-5dc1-49f5-a36f-515ced2b8a34",
+        "uuid": "2adb4431-5dc1-49f5-a36f-515ced2b8a34",
+        "uuid_related": [
+          "f537e544-5649-476e-bf15-f97ab8a79b42",
+          "47aa8ffc-f598-4b47-9210-4585923ab9e3",
+          "b3691ed5-d240-4dfd-973f-c2ad366946e1",
+          "61db35ed-542d-4f8d-ae7d-7c524f2c1870"
+        ]
+      },
+      {
+        "_version_": 1.8609797384938455e+18,
+        "author_sort": "León, Luis de, 1527-1591",
+        "cito_Catalog": "León, Luis de",
+        "comments": [
+          "http://localhost/comment/345ba9f3-2a65-4c38-a6c2-c14b36af4416"
+        ],
+        "dcterms_description": "11 Sep 1587: León, Luis de, 1527-1591 (Madrid, Spain) to Discalced Carmelite Monastery of Santa Ana, Madrid, nuns of the ~ Ana de Jesús, 1545-1621 (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000996174",
+        "dcterms_identifier-editi_": "editi_996174",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b6ea1f5a-9e7c-4441-b4f2-a34eac791ecc",
+        "dcterms_identifier-uuid_": "uuid_b6ea1f5a-9e7c-4441-b4f2-a34eac791ecc",
+        "dcterms_language": "Spanish",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3ea2e860-ca75-40e5-8da0-68adeeceac1a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d911415-9082-4612-8ae1-3fc6e30696e6"
+        ],
+        "id": "uuid_b6ea1f5a-9e7c-4441-b4f2-a34eac791ecc",
+        "locations": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_addressees-rdf_value": "A las madres priora Ana de Iesus y religiosas carmelitas descalças del monasterio de Madrid'",
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/fe1c439a-aa58-46d5-8118-de463010a855",
+          "http://localhost/person/77d9e48e-232f-4a8d-8ff4-58ea4d4551a2"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3ea2e860-ca75-40e5-8da0-68adeeceac1a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Madrid, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2019-09-05T12:49:20Z",
+        "ox_internalModified": "2023-12-04T17:41:25Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/345ba9f3-2a65-4c38-a6c2-c14b36af4416"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with metadata prepared by Marina Popea, 5 September 2019",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1587,
+        "people": [
+          "http://localhost/person/8d911415-9082-4612-8ae1-3fc6e30696e6",
+          "http://localhost/person/fe1c439a-aa58-46d5-8118-de463010a855",
+          "http://localhost/person/77d9e48e-232f-4a8d-8ff4-58ea4d4551a2"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/87bf1a45-6685-4cd2-bcf2-03393e99c9a9"
+        ],
+        "recipient_sort": "Ana de Jesús, 1545-1621; Discalced Carmelite Monastery of Santa Ana, Madrid, nuns of the",
+        "resources": [
+          "http://localhost/resource/87bf1a45-6685-4cd2-bcf2-03393e99c9a9"
+        ],
+        "started_date_gregorian_sort": "1587-09-11T00:00:00Z",
+        "started_date_sort": "1587-09-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:07.730Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b6ea1f5a-9e7c-4441-b4f2-a34eac791ecc",
+        "uuid": "b6ea1f5a-9e7c-4441-b4f2-a34eac791ecc",
+        "uuid_related": [
+          "3ea2e860-ca75-40e5-8da0-68adeeceac1a",
+          "8d911415-9082-4612-8ae1-3fc6e30696e6",
+          "fe1c439a-aa58-46d5-8118-de463010a855",
+          "77d9e48e-232f-4a8d-8ff4-58ea4d4551a2",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "345ba9f3-2a65-4c38-a6c2-c14b36af4416",
+          "87bf1a45-6685-4cd2-bcf2-03393e99c9a9"
+        ]
+      },
+      {
+        "_version_": 1.860979605392851e+18,
+        "author_sort": "Philip IV, King of Spain, 1605-1665",
+        "cito_Catalog": "Rubens, Peter Paul",
+        "comments": [
+          "http://localhost/comment/df7f4a95-6180-4f2c-b3c9-792dd135af80"
+        ],
+        "dcterms_description": "13 Sep 1631: Philip IV, King of Spain, 1605-1665 (Madrid, Spain) to Medici, Marie de', Queen consort of Henry IV, 1575-1642",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000947583",
+        "dcterms_identifier-editi_": "editi_947583",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d68d2ca2-c874-4209-816c-159a911b3e96",
+        "dcterms_identifier-uuid_": "uuid_d68d2ca2-c874-4209-816c-159a911b3e96",
+        "dcterms_language": "Spanish",
+        "dcterms_references-person": [
+          "http://localhost/person/6880a9e8-f810-4890-80dd-78bf1e2eef7f"
+        ],
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d39c85dc-9497-4451-a551-ed7e0833c584"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/621b2467-874b-4a37-a8d3-57d3375d57b3"
+        ],
+        "id": "uuid_d68d2ca2-c874-4209-816c-159a911b3e96",
+        "locations": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/0a1775d1-37f9-4bb6-a907-b853f7b2a9da"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d39c85dc-9497-4451-a551-ed7e0833c584"
+        ],
+        "object_type": "work",
+        "origin_sort": "Madrid, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2016-03-23T19:07:46Z",
+        "ox_internalModified": "2016-03-23T19:07:46Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/df7f4a95-6180-4f2c-b3c9-792dd135af80"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, 23 March 2016",
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1631,
+        "people": [
+          "http://localhost/person/621b2467-874b-4a37-a8d3-57d3375d57b3",
+          "http://localhost/person/0a1775d1-37f9-4bb6-a907-b853f7b2a9da"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/af605c3b-40ef-4373-95ef-980a96947a0a"
+        ],
+        "recipient_sort": "Medici, Marie de', Queen consort of Henry IV, 1575-1642",
+        "resources": [
+          "http://localhost/resource/af605c3b-40ef-4373-95ef-980a96947a0a"
+        ],
+        "started_date_gregorian_sort": "1631-09-13T00:00:00Z",
+        "started_date_sort": "1631-09-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:01.850Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d68d2ca2-c874-4209-816c-159a911b3e96",
+        "uuid": "d68d2ca2-c874-4209-816c-159a911b3e96",
+        "uuid_related": [
+          "d39c85dc-9497-4451-a551-ed7e0833c584",
+          "621b2467-874b-4a37-a8d3-57d3375d57b3",
+          "0a1775d1-37f9-4bb6-a907-b853f7b2a9da",
+          "6880a9e8-f810-4890-80dd-78bf1e2eef7f",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "df7f4a95-6180-4f2c-b3c9-792dd135af80",
+          "af605c3b-40ef-4373-95ef-980a96947a0a"
+        ]
+      },
+      {
+        "_version_": 1.8609795515453276e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "10 Oct 1679: Huygens, Constantijn, 1596-1687 (The Hague, South Holland, Netherlands) to Chièze (Madame) (Madrid, Spain)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000926393",
+        "dcterms_identifier-editi_": "editi_926393",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c1061d18-7275-494c-8cd3-63d0b580ae5c",
+        "dcterms_identifier-uuid_": "uuid_c1061d18-7275-494c-8cd3-63d0b580ae5c",
+        "dcterms_language": "French",
+        "destination_sort": "Madrid, Spain",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/32805c4b-7e39-4950-b8cc-12e0e467d611",
+          "http://localhost/manifestation/857ec9f9-35a1-49ca-b4e1-8e3f50d160ce",
+          "http://localhost/manifestation/653e6dcb-f310-46d7-afc2-2ab71d494d55"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_c1061d18-7275-494c-8cd3-63d0b580ae5c",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/eeec97ef-dea8-4b20-a21a-5abf2cb73413"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/32805c4b-7e39-4950-b8cc-12e0e467d611",
+          "http://localhost/manifestation/857ec9f9-35a1-49ca-b4e1-8e3f50d160ce",
+          "http://localhost/manifestation/653e6dcb-f310-46d7-afc2-2ab71d494d55"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-14T11:56:26Z",
+        "ox_internalModified": "2021-12-15T17:02:12Z",
+        "ox_internalModifiedByUser": "CofK Digital Fellow",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 14 November 2014",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1679,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/7138"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/eeec97ef-dea8-4b20-a21a-5abf2cb73413"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/202aede4-b349-49bf-b3ba-56b322577f3f",
+          "http://localhost/resource/7ad80382-9409-40fd-ad3d-291f0fde1c49"
+        ],
+        "recipient_sort": "Chièze (Madame)",
+        "resources": [
+          "http://localhost/resource/202aede4-b349-49bf-b3ba-56b322577f3f",
+          "http://localhost/resource/7ad80382-9409-40fd-ad3d-291f0fde1c49"
+        ],
+        "started_date_gregorian_sort": "1679-10-10T00:00:00Z",
+        "started_date_sort": "1679-10-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:36.363Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c1061d18-7275-494c-8cd3-63d0b580ae5c",
+        "uuid": "c1061d18-7275-494c-8cd3-63d0b580ae5c",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "eeec97ef-dea8-4b20-a21a-5abf2cb73413",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "202aede4-b349-49bf-b3ba-56b322577f3f",
+          "7ad80382-9409-40fd-ad3d-291f0fde1c49",
+          "32805c4b-7e39-4950-b8cc-12e0e467d611",
+          "857ec9f9-35a1-49ca-b4e1-8e3f50d160ce",
+          "653e6dcb-f310-46d7-afc2-2ab71d494d55"
+        ]
+      },
+      {
+        "_version_": 1.8609796198915113e+18,
+        "author_sort": "Charles II of Spain, 1661-1700",
+        "cito_Catalog": "Stuart, Mary II (Queen of England, Scotland, and Ireland)",
+        "dcterms_description": "29 Mar 1685: Charles II of Spain, 1661-1700 (Madrid, Spain) to Mary II, Queen of England, Scotland, and Ireland, 1662-1694",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000953523",
+        "dcterms_identifier-editi_": "editi_953523",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7ed90325-e66f-402c-9d72-1bad0baebbab",
+        "dcterms_identifier-uuid_": "uuid_7ed90325-e66f-402c-9d72-1bad0baebbab",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/223d364f-733c-47f4-8501-b3545e8b6631"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0aa0849f-c32b-417f-88e5-d3f6fe573e88"
+        ],
+        "id": "uuid_7ed90325-e66f-402c-9d72-1bad0baebbab",
+        "locations": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/b3fbfdb2-82b2-4be2-bda8-8c60bb1b1479"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/223d364f-733c-47f4-8501-b3545e8b6631"
+        ],
+        "object_type": "work",
+        "origin_sort": "Madrid, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2016-06-15T21:47:22Z",
+        "ox_internalModified": "2021-10-06T08:18:23Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 15 June 2016",
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1685,
+        "people": [
+          "http://localhost/person/0aa0849f-c32b-417f-88e5-d3f6fe573e88",
+          "http://localhost/person/b3fbfdb2-82b2-4be2-bda8-8c60bb1b1479"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/30a9440d-7e80-4d5d-a20a-e0ffee803a08"
+        ],
+        "recipient_sort": "Mary II, Queen of England, Scotland, and Ireland, 1662-1694",
+        "resources": [
+          "http://localhost/resource/30a9440d-7e80-4d5d-a20a-e0ffee803a08"
+        ],
+        "started_date_gregorian_sort": "1685-03-29T00:00:00Z",
+        "started_date_sort": "1685-03-29T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:08.404Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7ed90325-e66f-402c-9d72-1bad0baebbab",
+        "uuid": "7ed90325-e66f-402c-9d72-1bad0baebbab",
+        "uuid_related": [
+          "223d364f-733c-47f4-8501-b3545e8b6631",
+          "0aa0849f-c32b-417f-88e5-d3f6fe573e88",
+          "b3fbfdb2-82b2-4be2-bda8-8c60bb1b1479",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "30a9440d-7e80-4d5d-a20a-e0ffee803a08"
+        ]
+      },
+      {
+        "_version_": 1.8609796198915113e+18,
+        "author_sort": "Charles II of Spain, 1661-1700",
+        "cito_Catalog": "Stuart, Mary II (Queen of England, Scotland, and Ireland)",
+        "dcterms_description": "21 May 1689: Charles II of Spain, 1661-1700 (Madrid, Spain) to Mary II, Queen of England, Scotland, and Ireland, 1662-1694",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000953524",
+        "dcterms_identifier-editi_": "editi_953524",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/19148f84-2aa7-4b25-a3c4-bce4e9b68754",
+        "dcterms_identifier-uuid_": "uuid_19148f84-2aa7-4b25-a3c4-bce4e9b68754",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d4ffb357-41aa-458b-920f-8bad1c142d29"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0aa0849f-c32b-417f-88e5-d3f6fe573e88"
+        ],
+        "id": "uuid_19148f84-2aa7-4b25-a3c4-bce4e9b68754",
+        "locations": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/b3fbfdb2-82b2-4be2-bda8-8c60bb1b1479"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d4ffb357-41aa-458b-920f-8bad1c142d29"
+        ],
+        "object_type": "work",
+        "origin_sort": "Madrid, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2016-06-15T21:47:24Z",
+        "ox_internalModified": "2021-10-06T08:18:23Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 15 June 2016",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1689,
+        "people": [
+          "http://localhost/person/0aa0849f-c32b-417f-88e5-d3f6fe573e88",
+          "http://localhost/person/b3fbfdb2-82b2-4be2-bda8-8c60bb1b1479"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b3813566-47eb-4fe4-a3b6-663ebab13f14"
+        ],
+        "recipient_sort": "Mary II, Queen of England, Scotland, and Ireland, 1662-1694",
+        "resources": [
+          "http://localhost/resource/b3813566-47eb-4fe4-a3b6-663ebab13f14"
+        ],
+        "started_date_gregorian_sort": "1689-05-21T00:00:00Z",
+        "started_date_sort": "1689-05-21T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:08.404Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/19148f84-2aa7-4b25-a3c4-bce4e9b68754",
+        "uuid": "19148f84-2aa7-4b25-a3c4-bce4e9b68754",
+        "uuid_related": [
+          "d4ffb357-41aa-458b-920f-8bad1c142d29",
+          "0aa0849f-c32b-417f-88e5-d3f6fe573e88",
+          "b3fbfdb2-82b2-4be2-bda8-8c60bb1b1479",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "b3813566-47eb-4fe4-a3b6-663ebab13f14"
+        ]
+      },
+      {
+        "_version_": 1.8609799369987195e+18,
+        "author_sort": "Ortega, José, fl. 1753",
+        "cito_Catalog": "Bassi, Laura",
+        "dcterms_description": "21 Apr 1753: Ortega, José, fl. 1753 (Barcelona, Catalonia, Spain) to Bassi, Laura Maria Caterina, 1711-1788",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062072",
+        "dcterms_identifier-editi_": "editi_1062072",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c29296cb-006e-4d93-8f3a-c1057515aada",
+        "dcterms_identifier-uuid_": "uuid_c29296cb-006e-4d93-8f3a-c1057515aada",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/71128d6f-f641-46bc-95a3-7c7d43e7c780"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/a7dc641a-d35d-4453-9713-b48514dcd54b"
+        ],
+        "id": "uuid_c29296cb-006e-4d93-8f3a-c1057515aada",
+        "locations": [
+          "http://localhost/location/407a0bd0-5fa8-4b22-8fc6-448733fc6341"
+        ],
+        "mail_authors-rdf_value": "Giuseppe Hortega",
+        "mail_origin-location": [
+          "http://localhost/location/407a0bd0-5fa8-4b22-8fc6-448733fc6341"
+        ],
+        "mail_origin-rdf_value": "Barcelona",
+        "mail_recipient-person": [
+          "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/71128d6f-f641-46bc-95a3-7c7d43e7c780"
+        ],
+        "object_type": "work",
+        "origin_sort": "Barcelona, Catalonia, Spain",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "21 de Aprile de 1753",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-12-30T12:54:00Z",
+        "ox_internalModified": "2024-12-30T12:54:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from G. Cenerelli, ‘Lettere inedite alla celebre Laura Bassi, scritte da illustri italiani e stranieri. Con Biografia’ (Bologna, 1885), 30 December 2024",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1753,
+        "people": [
+          "http://localhost/person/a7dc641a-d35d-4453-9713-b48514dcd54b",
+          "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/cb9a4a57-04b2-4b6d-9ac5-546cc90a4802"
+        ],
+        "recipient_sort": "Bassi, Laura Maria Caterina, 1711-1788",
+        "resources": [
+          "http://localhost/resource/cb9a4a57-04b2-4b6d-9ac5-546cc90a4802"
+        ],
+        "started_date_gregorian_sort": "1753-04-21T00:00:00Z",
+        "started_date_sort": "1753-04-21T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c29296cb-006e-4d93-8f3a-c1057515aada",
+        "uuid": "c29296cb-006e-4d93-8f3a-c1057515aada",
+        "uuid_related": [
+          "71128d6f-f641-46bc-95a3-7c7d43e7c780",
+          "a7dc641a-d35d-4453-9713-b48514dcd54b",
+          "9d5c9a09-0b69-49e9-b339-dfc36586f4f3",
+          "407a0bd0-5fa8-4b22-8fc6-448733fc6341",
+          "cb9a4a57-04b2-4b6d-9ac5-546cc90a4802"
+        ]
+      },
+      {
+        "_version_": 1.8609798574180925e+18,
+        "author_sort": "Kam, Adriaan van der, fl. 1755",
+        "cito_Catalog": "Hanover, Anne of",
+        "dcterms_description": "11 Jun 1755: Kam, Adriaan van der, fl. 1755 (Alicante, Valencia, Spain) to Hanover, Anne of, 1709-1759",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001036744",
+        "dcterms_identifier-editi_": "editi_1036744",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/fd8624b7-a36a-437a-965c-decfd5d7c1d9",
+        "dcterms_identifier-uuid_": "uuid_fd8624b7-a36a-437a-965c-decfd5d7c1d9",
+        "dcterms_language": "Dutch",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/9e9bfd54-2819-430c-8bdf-c8b181fdfd16"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/bb3aba72-1721-497d-bc98-f81d8d099eb8"
+        ],
+        "id": "uuid_fd8624b7-a36a-437a-965c-decfd5d7c1d9",
+        "locations": [
+          "http://localhost/location/ec6f72f5-84a0-44d4-aa8f-bd3871353670"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ec6f72f5-84a0-44d4-aa8f-bd3871353670"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/9e9bfd54-2819-430c-8bdf-c8b181fdfd16"
+        ],
+        "object_type": "work",
+        "origin_sort": "Alicante, Valencia, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2023-03-21T11:49:14Z",
+        "ox_internalModified": "2023-03-21T11:49:14Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 21 March 2023",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1755,
+        "people": [
+          "http://localhost/person/bb3aba72-1721-497d-bc98-f81d8d099eb8",
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d891733a-a202-4ae2-85db-9d0280026040"
+        ],
+        "recipient_sort": "Hanover, Anne of, 1709-1759",
+        "resources": [
+          "http://localhost/resource/d891733a-a202-4ae2-85db-9d0280026040"
+        ],
+        "started_date_gregorian_sort": "1755-06-11T00:00:00Z",
+        "started_date_sort": "1755-06-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:03.367Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/fd8624b7-a36a-437a-965c-decfd5d7c1d9",
+        "uuid": "fd8624b7-a36a-437a-965c-decfd5d7c1d9",
+        "uuid_related": [
+          "9e9bfd54-2819-430c-8bdf-c8b181fdfd16",
+          "bb3aba72-1721-497d-bc98-f81d8d099eb8",
+          "bcfafe9a-cfa5-4448-8bda-9781a15683e0",
+          "ec6f72f5-84a0-44d4-aa8f-bd3871353670",
+          "d891733a-a202-4ae2-85db-9d0280026040"
+        ]
+      },
+      {
+        "_version_": 1.8609798547452723e+18,
+        "author_sort": "Boudaan, Hendrik Jan, 1702-1761",
+        "cito_Catalog": "Hanover, Anne of",
+        "dcterms_description": "9 Jun 1756: Boudaan, Hendrik Jan, 1702-1761 (Bahía de Cádiz, Andalusia, Spain) to Hanover, Anne of, 1709-1759",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001036383",
+        "dcterms_identifier-editi_": "editi_1036383",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a42a6165-4e19-4f51-8fc0-256c0ea066e6",
+        "dcterms_identifier-uuid_": "uuid_a42a6165-4e19-4f51-8fc0-256c0ea066e6",
+        "dcterms_language": "Dutch",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7a60d429-3ec6-485d-8f39-ee215c03b85d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/e1de2f0e-4689-4e84-8d2d-4b4ebf083c86"
+        ],
+        "id": "uuid_a42a6165-4e19-4f51-8fc0-256c0ea066e6",
+        "locations": [
+          "http://localhost/location/0c5cff9c-d9ce-4495-881f-1fe0a5abd3b3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0c5cff9c-d9ce-4495-881f-1fe0a5abd3b3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7a60d429-3ec6-485d-8f39-ee215c03b85d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Bahía de Cádiz, Andalusia, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2023-03-21T11:47:17Z",
+        "ox_internalModified": "2023-03-21T11:47:17Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 21 March 2023",
+        "ox_started-ox_day": 9,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1756,
+        "people": [
+          "http://localhost/person/e1de2f0e-4689-4e84-8d2d-4b4ebf083c86",
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e7385d3e-9700-4790-b794-1d4777eeee4e"
+        ],
+        "recipient_sort": "Hanover, Anne of, 1709-1759",
+        "resources": [
+          "http://localhost/resource/e7385d3e-9700-4790-b794-1d4777eeee4e"
+        ],
+        "started_date_gregorian_sort": "1756-06-09T00:00:00Z",
+        "started_date_sort": "1756-06-09T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:03.367Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a42a6165-4e19-4f51-8fc0-256c0ea066e6",
+        "uuid": "a42a6165-4e19-4f51-8fc0-256c0ea066e6",
+        "uuid_related": [
+          "7a60d429-3ec6-485d-8f39-ee215c03b85d",
+          "e1de2f0e-4689-4e84-8d2d-4b4ebf083c86",
+          "bcfafe9a-cfa5-4448-8bda-9781a15683e0",
+          "0c5cff9c-d9ce-4495-881f-1fe0a5abd3b3",
+          "e7385d3e-9700-4790-b794-1d4777eeee4e"
+        ]
+      },
+      {
+        "_version_": 1.860979860382417e+18,
+        "author_sort": "Wassenaer, Willem van, 1712-1783",
+        "cito_Catalog": "Hanover, Anne of",
+        "dcterms_description": "15 Jun 1756: Wassenaer, Willem van, 1712-1783 (Málaga, Andalusia, Spain) to Hanover, Anne of, 1709-1759",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001037830",
+        "dcterms_identifier-editi_": "editi_1037830",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/df1abfc7-8393-46ae-9f1e-9842db545223",
+        "dcterms_identifier-uuid_": "uuid_df1abfc7-8393-46ae-9f1e-9842db545223",
+        "dcterms_language": "Dutch",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6c3f72b7-3891-4b2c-a8f7-2503874768a8"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/c308edec-7206-4ded-8809-3f0c0d04fadd"
+        ],
+        "id": "uuid_df1abfc7-8393-46ae-9f1e-9842db545223",
+        "locations": [
+          "http://localhost/location/4430ed73-c8cd-4166-b1b2-c65bd9c57a3c"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/4430ed73-c8cd-4166-b1b2-c65bd9c57a3c"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6c3f72b7-3891-4b2c-a8f7-2503874768a8"
+        ],
+        "object_type": "work",
+        "origin_sort": "Málaga, Andalusia, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2023-03-21T11:56:25Z",
+        "ox_internalModified": "2023-03-21T11:56:25Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 21 March 2023",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1756,
+        "people": [
+          "http://localhost/person/c308edec-7206-4ded-8809-3f0c0d04fadd",
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/da2834ac-9909-4415-8b24-c63f10dafe24"
+        ],
+        "recipient_sort": "Hanover, Anne of, 1709-1759",
+        "resources": [
+          "http://localhost/resource/da2834ac-9909-4415-8b24-c63f10dafe24"
+        ],
+        "started_date_gregorian_sort": "1756-06-15T00:00:00Z",
+        "started_date_sort": "1756-06-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:04.273Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/df1abfc7-8393-46ae-9f1e-9842db545223",
+        "uuid": "df1abfc7-8393-46ae-9f1e-9842db545223",
+        "uuid_related": [
+          "6c3f72b7-3891-4b2c-a8f7-2503874768a8",
+          "c308edec-7206-4ded-8809-3f0c0d04fadd",
+          "bcfafe9a-cfa5-4448-8bda-9781a15683e0",
+          "4430ed73-c8cd-4166-b1b2-c65bd9c57a3c",
+          "da2834ac-9909-4415-8b24-c63f10dafe24"
+        ]
+      },
+      {
+        "_version_": 1.860979857693868e+18,
+        "author_sort": "Lamair, J. S., fl. 1756",
+        "cito_Catalog": "Hanover, Anne of",
+        "dcterms_description": "22 Jun 1756: Lamair, J. S., fl. 1756 (Málaga, Andalusia, Spain) to Hanover, Anne of, 1709-1759",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001036864",
+        "dcterms_identifier-editi_": "editi_1036864",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ad38bad9-b46e-45fe-8f34-150ea5d640c8",
+        "dcterms_identifier-uuid_": "uuid_ad38bad9-b46e-45fe-8f34-150ea5d640c8",
+        "dcterms_language": "Dutch",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/594afffc-207f-4e25-b641-2a6fe598dbdf"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/360c3a1d-67d5-460d-823c-d2f68caa2b97"
+        ],
+        "id": "uuid_ad38bad9-b46e-45fe-8f34-150ea5d640c8",
+        "locations": [
+          "http://localhost/location/4430ed73-c8cd-4166-b1b2-c65bd9c57a3c"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/4430ed73-c8cd-4166-b1b2-c65bd9c57a3c"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/594afffc-207f-4e25-b641-2a6fe598dbdf"
+        ],
+        "object_type": "work",
+        "origin_sort": "Málaga, Andalusia, Spain",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2023-03-21T11:49:56Z",
+        "ox_internalModified": "2023-03-21T11:49:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 21 March 2023",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1756,
+        "people": [
+          "http://localhost/person/360c3a1d-67d5-460d-823c-d2f68caa2b97",
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d4017ccc-3f1c-4066-a9b7-3c68a45b6c44"
+        ],
+        "recipient_sort": "Hanover, Anne of, 1709-1759",
+        "resources": [
+          "http://localhost/resource/d4017ccc-3f1c-4066-a9b7-3c68a45b6c44"
+        ],
+        "started_date_gregorian_sort": "1756-06-22T00:00:00Z",
+        "started_date_sort": "1756-06-22T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:03.789Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ad38bad9-b46e-45fe-8f34-150ea5d640c8",
+        "uuid": "ad38bad9-b46e-45fe-8f34-150ea5d640c8",
+        "uuid_related": [
+          "594afffc-207f-4e25-b641-2a6fe598dbdf",
+          "360c3a1d-67d5-460d-823c-d2f68caa2b97",
+          "bcfafe9a-cfa5-4448-8bda-9781a15683e0",
+          "4430ed73-c8cd-4166-b1b2-c65bd9c57a3c",
+          "d4017ccc-3f1c-4066-a9b7-3c68a45b6c44"
+        ]
+      },
+      {
+        "_version_": 1.860979936999768e+18,
+        "author_sort": "Ortega, José, fl. 1753",
+        "cito_Catalog": "Bassi, Laura",
+        "dcterms_description": "12 Sep 1757: Ortega, José, fl. 1753 (Madrid, Spain) to Bassi, Laura Maria Caterina, 1711-1788",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062073",
+        "dcterms_identifier-editi_": "editi_1062073",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9846a51b-6184-4d4b-9a6b-7ebb78bf763f",
+        "dcterms_identifier-uuid_": "uuid_9846a51b-6184-4d4b-9a6b-7ebb78bf763f",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/aa916a15-e5b9-4ef1-a8d1-3d330ef87c8b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/a7dc641a-d35d-4453-9713-b48514dcd54b"
+        ],
+        "id": "uuid_9846a51b-6184-4d4b-9a6b-7ebb78bf763f",
+        "locations": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_authors-rdf_value": "Giuseppe Hortega",
+        "mail_origin-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-rdf_value": "Madrid",
+        "mail_recipient-person": [
+          "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/aa916a15-e5b9-4ef1-a8d1-3d330ef87c8b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Madrid, Spain",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "12 Septembre de 1757",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-12-30T12:54:00Z",
+        "ox_internalModified": "2024-12-30T12:54:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from G. Cenerelli, ‘Lettere inedite alla celebre Laura Bassi, scritte da illustri italiani e stranieri. Con Biografia’ (Bologna, 1885), 30 December 2024",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1757,
+        "people": [
+          "http://localhost/person/a7dc641a-d35d-4453-9713-b48514dcd54b",
+          "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/a7a09deb-a01c-46db-80f1-d0e809a486c6"
+        ],
+        "recipient_sort": "Bassi, Laura Maria Caterina, 1711-1788",
+        "resources": [
+          "http://localhost/resource/a7a09deb-a01c-46db-80f1-d0e809a486c6"
+        ],
+        "started_date_gregorian_sort": "1757-09-12T00:00:00Z",
+        "started_date_sort": "1757-09-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9846a51b-6184-4d4b-9a6b-7ebb78bf763f",
+        "uuid": "9846a51b-6184-4d4b-9a6b-7ebb78bf763f",
+        "uuid_related": [
+          "aa916a15-e5b9-4ef1-a8d1-3d330ef87c8b",
+          "a7dc641a-d35d-4453-9713-b48514dcd54b",
+          "9d5c9a09-0b69-49e9-b339-dfc36586f4f3",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "a7a09deb-a01c-46db-80f1-d0e809a486c6"
+        ]
+      },
+      {
+        "_version_": 1.860979936999768e+18,
+        "author_sort": "Ortega, José, fl. 1753",
+        "cito_Catalog": "Bassi, Laura",
+        "dcterms_description": "4 Dec 1758: Ortega, José, fl. 1753 (Madrid, Spain) to Bassi, Laura Maria Caterina, 1711-1788",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001062074",
+        "dcterms_identifier-editi_": "editi_1062074",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3b40a467-e1df-4512-aec1-604b07d7b99e",
+        "dcterms_identifier-uuid_": "uuid_3b40a467-e1df-4512-aec1-604b07d7b99e",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/bb32c08a-7734-4299-925c-9ff13abf0005"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/a7dc641a-d35d-4453-9713-b48514dcd54b"
+        ],
+        "id": "uuid_3b40a467-e1df-4512-aec1-604b07d7b99e",
+        "locations": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_authors-rdf_value": "Giuseppe Hortega",
+        "mail_origin-location": [
+          "http://localhost/location/a5241041-975a-46f9-a85c-aba5e98003ab"
+        ],
+        "mail_origin-rdf_value": "Madrid",
+        "mail_recipient-person": [
+          "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/bb32c08a-7734-4299-925c-9ff13abf0005"
+        ],
+        "object_type": "work",
+        "origin_sort": "Madrid, Spain",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "4 Dicembre 1758",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-12-30T12:54:00Z",
+        "ox_internalModified": "2024-12-30T12:54:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from G. Cenerelli, ‘Lettere inedite alla celebre Laura Bassi, scritte da illustri italiani e stranieri. Con Biografia’ (Bologna, 1885), 30 December 2024",
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1758,
+        "people": [
+          "http://localhost/person/a7dc641a-d35d-4453-9713-b48514dcd54b",
+          "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2e60532b-8713-4125-8c1e-e972b1f6713d"
+        ],
+        "recipient_sort": "Bassi, Laura Maria Caterina, 1711-1788",
+        "resources": [
+          "http://localhost/resource/2e60532b-8713-4125-8c1e-e972b1f6713d"
+        ],
+        "started_date_gregorian_sort": "1758-12-04T00:00:00Z",
+        "started_date_sort": "1758-12-04T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:38.590Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3b40a467-e1df-4512-aec1-604b07d7b99e",
+        "uuid": "3b40a467-e1df-4512-aec1-604b07d7b99e",
+        "uuid_related": [
+          "bb32c08a-7734-4299-925c-9ff13abf0005",
+          "a7dc641a-d35d-4453-9713-b48514dcd54b",
+          "9d5c9a09-0b69-49e9-b339-dfc36586f4f3",
+          "a5241041-975a-46f9-a85c-aba5e98003ab",
+          "2e60532b-8713-4125-8c1e-e972b1f6713d"
+        ]
+      }
+    ],
+    "numFound": 29,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 0,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "{!q.op=AND} (person-author-gender:(female) OR person-recipient-gender:(female) OR person-mentioned-gender:(female)) AND person-author-gender:(male) AND person-recipient-gender:(female) AND (location-origin:(spain) OR location-destination:(spain) OR location-mentioned:(spain))",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
