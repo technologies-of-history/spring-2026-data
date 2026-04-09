@@ -45,7 +45,7 @@ for doc in docs:
 
 # Write to CSV
 fieldnames = ['Description', 'Author', 'Recipient', 'Date', 'Year', 'Location', 'Origin', 'Destination']
-with open('hahn_women_to_women', 'w', newline='', encoding='utf-8') as f:
+with open('hahn_women_to_women.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(rows)
