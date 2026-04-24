@@ -94,13 +94,22 @@
     "uuid_0249db17-75f2-464b-a32e-6bdccbbb71f2": {
 
     },
+    "uuid_0b49b146-b38a-4959-af37-04ca87be6cd2": {
+
+    },
     "uuid_0cab6701-f933-4aa4-89d5-5b9628ce9bcb": {
+
+    },
+    "uuid_0e581f12-30e7-4b8a-84c0-c26abc8d918a": {
 
     },
     "uuid_11abc88b-427e-45f2-bc87-ce426922952a": {
 
     },
     "uuid_13efd19c-fcd8-4011-8855-bfb0ad582255": {
+
+    },
+    "uuid_1411817e-e5db-4d0b-89ff-4f144809fbc0": {
 
     },
     "uuid_18423fcc-f548-4921-95c0-f6b7a5c52cf0": {
@@ -112,6 +121,9 @@
     "uuid_222d4792-4100-4ece-a7dd-cf5863df3c62": {
 
     },
+    "uuid_271ab705-1ab3-4ccb-b391-d01806bfea82": {
+
+    },
     "uuid_2a69a5bb-36c2-413e-b366-e09f6911f79f": {
 
     },
@@ -121,6 +133,12 @@
     "uuid_3236a123-daf8-4cca-a3e3-656651166103": {
 
     },
+    "uuid_3381effd-eb69-421c-999f-13e49b161517": {
+
+    },
+    "uuid_34840a67-8501-4bc2-bedc-9a1dd1a9b203": {
+
+    },
     "uuid_36921502-3306-459e-a945-f11635d5e763": {
 
     },
@@ -128,6 +146,12 @@
 
     },
     "uuid_3a81688a-c5db-4593-bf85-28ef135df10c": {
+
+    },
+    "uuid_3b3e2e0d-b9a4-44f8-8e63-596dd7036ef1": {
+
+    },
+    "uuid_3c473307-99f6-4629-93d1-4181119d1921": {
 
     },
     "uuid_4390a33e-bd64-4790-a3f7-13749653e75f": {
@@ -157,13 +181,25 @@
     "uuid_5d31a745-fbff-45a8-b4d9-e743d5869346": {
 
     },
+    "uuid_5e501f19-d2b6-4c0d-9ce0-ad522d788245": {
+
+    },
     "uuid_69894677-575a-48c5-8e25-ffea3cafaf6c": {
+
+    },
+    "uuid_69f3e73b-5619-4660-985a-5ba3dd87cc21": {
 
     },
     "uuid_72624c4f-1371-4f4a-a6af-ebdaa4c7c84f": {
 
     },
     "uuid_7c9c5e2b-d44e-4f77-887d-666fb73bd049": {
+
+    },
+    "uuid_7ff9ab9e-99e9-4e0d-a742-abb18f910856": {
+
+    },
+    "uuid_83e5bb16-2d51-4faf-a090-26e9e7406343": {
 
     },
     "uuid_854d597e-529c-4556-ac3f-48c4bab7a38e": {
@@ -214,6 +250,9 @@
     "uuid_c38efada-6bd4-4a08-84dc-c05bb3caf7d5": {
 
     },
+    "uuid_cda6cdd5-04b5-4aad-84e5-194f03bcba0a": {
+
+    },
     "uuid_d26aa05b-6d52-4567-8e4b-bc9dbaed83ec": {
 
     },
@@ -235,7 +274,13 @@
     "uuid_f3b9a82b-062e-4d65-8f2f-201ebab89c9c": {
 
     },
+    "uuid_f469724b-0604-4877-8a0e-924069e90c0f": {
+
+    },
     "uuid_f4f74cc9-f155-4c0b-8969-c6948101105c": {
+
+    },
+    "uuid_fff75e35-36ca-44ea-8f08-3ec00f45b089": {
 
     }
   },
@@ -4145,13 +4190,1164 @@
           "9041446a-e899-4577-b8fa-b870da9a43b8",
           "536f03ba-c06f-400c-969f-bb8c723cacef"
         ]
+      },
+      {
+        "_version_": 1.8628856784932045e+18,
+        "author_sort": "Elstob, Elizabeth, 1683-1756",
+        "cito_Catalog": "Bodleian card catalogue",
+        "comments": [
+          "http://localhost/comment/78d88472-f8c6-44c8-9e6f-24781708637b"
+        ],
+        "dcterms_abstract": "Sends transcripts (fols. 92-5) of Lady Pakington's two\nprayers. 1. for King Charles II; 2. for Resignation [Bodleian card catalogue]\n\nApologises for not sending Lady Packington’s prayers sooner, as she is having\ndifficulty transcribing them. [Dawn Hollis]",
+        "dcterms_description": "24 Feb 1752: Elstob, Elizabeth, 1683-1756 (Whitehall, Westminster, London, England) to Ballard, George, 1705-1755 (Magdalen College, University of Oxford, Oxford, Oxfordshire, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000017367",
+        "dcterms_identifier-editi_": "editi_17367",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3381effd-eb69-421c-999f-13e49b161517",
+        "dcterms_identifier-uuid_": "uuid_3381effd-eb69-421c-999f-13e49b161517",
+        "dcterms_language": "English",
+        "dcterms_references-person": [
+          "http://localhost/person/536f03ba-c06f-400c-969f-bb8c723cacef"
+        ],
+        "destination_sort": "Magdalen College, University of Oxford, Oxford, Oxfordshire, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/cafc01e5-8100-41eb-93fa-996245989135",
+          "http://localhost/manifestation/0a924214-ddf8-47f0-aef2-64a109323250"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/bae3ddb4-7346-4076-8d96-3e83c1d721db"
+        ],
+        "id": "uuid_3381effd-eb69-421c-999f-13e49b161517",
+        "locations": [
+          "http://localhost/location/91285d12-e3ae-464b-946b-65ce6efd0aef",
+          "http://localhost/location/9041446a-e899-4577-b8fa-b870da9a43b8"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/9041446a-e899-4577-b8fa-b870da9a43b8"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/91285d12-e3ae-464b-946b-65ce6efd0aef"
+        ],
+        "mail_origin-rdf_value": "Whitehall",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/cafc01e5-8100-41eb-93fa-996245989135",
+          "http://localhost/manifestation/0a924214-ddf8-47f0-aef2-64a109323250"
+        ],
+        "object_type": "work",
+        "origin_sort": "Whitehall, Westminster, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "February 24th 1752",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2017-08-24T16:51:26Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/78d88472-f8c6-44c8-9e6f-24781708637b"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian Libraries, University of Oxford, 20 February 2010; additional metadata contributed by Dawn Hollis, 20 July 2017",
+        "ox_started-ox_day": 24,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1752,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/bae3ddb4-7346-4076-8d96-3e83c1d721db"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/eb919063-b173-4584-b920-c1ec6bd81474"
+        ],
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "resources": [
+          "http://localhost/resource/eb919063-b173-4584-b920-c1ec6bd81474"
+        ],
+        "started_date_gregorian_sort": "1752-02-24T00:00:00Z",
+        "started_date_sort": "1752-02-24T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:49.454Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3381effd-eb69-421c-999f-13e49b161517",
+        "uuid": "3381effd-eb69-421c-999f-13e49b161517",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "91285d12-e3ae-464b-946b-65ce6efd0aef",
+          "cafc01e5-8100-41eb-93fa-996245989135",
+          "bae3ddb4-7346-4076-8d96-3e83c1d721db",
+          "eb919063-b173-4584-b920-c1ec6bd81474",
+          "0a924214-ddf8-47f0-aef2-64a109323250",
+          "9041446a-e899-4577-b8fa-b870da9a43b8",
+          "78d88472-f8c6-44c8-9e6f-24781708637b",
+          "536f03ba-c06f-400c-969f-bb8c723cacef"
+        ]
+      },
+      {
+        "_version_": 1.8628856970236396e+18,
+        "author_sort": "Hopkins, Anna, fl. 1741-1753",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "All the books for which her friends subscribed are to\nbe left at the Grasshopper in Lombard St. and she will\ncollect and distribute them, encloses a list of the\nsubscribers and ac. of money. As to advertising the\nbook Mr. Martin thinks this could be done through the\nOxford booksellers.",
+        "dcterms_description": "24 Nov 1752: Hopkins, Anna, fl. 1741-1753 (Clapham, (Surrey) Greater London, England) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000027071",
+        "dcterms_identifier-editi_": "editi_27071",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/69f3e73b-5619-4660-985a-5ba3dd87cc21",
+        "dcterms_identifier-uuid_": "uuid_69f3e73b-5619-4660-985a-5ba3dd87cc21",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/2bff997d-7d48-4144-a4e0-598d5464fd39"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c85aa5b-c226-4c05-b11b-20f21fb20880"
+        ],
+        "id": "uuid_69f3e73b-5619-4660-985a-5ba3dd87cc21",
+        "locations": [
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55",
+        "mail_authors-rdf_value": "Hopkins, Anna.",
+        "mail_origin-location": [
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_origin-rdf_value": "Clapham",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/2bff997d-7d48-4144-a4e0-598d5464fd39"
+        ],
+        "object_type": "work",
+        "origin_sort": "Clapham, (Surrey) Greater London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Nov. 24. 1752",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2016-10-20T11:19:54Z",
+        "ox_internalModifiedByUser": "Charlotte Marique",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 24,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1752,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/0c85aa5b-c226-4c05-b11b-20f21fb20880"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1752-11-24T00:00:00Z",
+        "started_date_sort": "1752-11-24T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:01.266Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/69f3e73b-5619-4660-985a-5ba3dd87cc21",
+        "uuid": "69f3e73b-5619-4660-985a-5ba3dd87cc21",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "0c85aa5b-c226-4c05-b11b-20f21fb20880",
+          "954430bf-4f33-4351-a572-dabe7f521251",
+          "2bff997d-7d48-4144-a4e0-598d5464fd39"
+        ]
+      },
+      {
+        "_version_": 1.8628856970236396e+18,
+        "author_sort": "Hopkins, Anna, fl. 1741-1753",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Gives directions for the copies of B's. book for several\nof the subscribers she obtained be sent to her and she\nwill distribute them, with directions as to packing and\ncarriage, she will bear the cost. \n Is glad B. is acquainted with her cousin Mr.",
+        "dcterms_description": "20 Dec 1752: Hopkins, Anna, fl. 1741-1753 (Clapham, (Surrey) Greater London, England) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000027072",
+        "dcterms_identifier-editi_": "editi_27072",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f469724b-0604-4877-8a0e-924069e90c0f",
+        "dcterms_identifier-uuid_": "uuid_f469724b-0604-4877-8a0e-924069e90c0f",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d53ef330-d42e-4efc-a7f5-27fa78738b40"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c85aa5b-c226-4c05-b11b-20f21fb20880"
+        ],
+        "id": "uuid_f469724b-0604-4877-8a0e-924069e90c0f",
+        "locations": [
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55. antiquary",
+        "mail_authors-rdf_value": "Hopkins, Anna.",
+        "mail_origin-location": [
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_origin-rdf_value": "Clapham",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d53ef330-d42e-4efc-a7f5-27fa78738b40"
+        ],
+        "object_type": "work",
+        "origin_sort": "Clapham, (Surrey) Greater London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Dec. 20. 1752",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2016-10-20T11:19:54Z",
+        "ox_internalModifiedByUser": "Charlotte Marique",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1752,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/0c85aa5b-c226-4c05-b11b-20f21fb20880"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1752-12-20T00:00:00Z",
+        "started_date_sort": "1752-12-20T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:01.266Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f469724b-0604-4877-8a0e-924069e90c0f",
+        "uuid": "f469724b-0604-4877-8a0e-924069e90c0f",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "0c85aa5b-c226-4c05-b11b-20f21fb20880",
+          "954430bf-4f33-4351-a572-dabe7f521251",
+          "d53ef330-d42e-4efc-a7f5-27fa78738b40"
+        ]
+      },
+      {
+        "_version_": 1.8628856970236396e+18,
+        "author_sort": "Hopkins, Anna, fl. 1741-1753",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Received the books safely, and sends more receipts. \n One Oxford man told her that one letter from Queen Eliz.\nwhich B. printed is worth more than his subscription to\nthe book.",
+        "dcterms_description": "5 Jan 1753: Hopkins, Anna, fl. 1741-1753 (Clapham, (Surrey) Greater London, England) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000027073",
+        "dcterms_identifier-editi_": "editi_27073",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1411817e-e5db-4d0b-89ff-4f144809fbc0",
+        "dcterms_identifier-uuid_": "uuid_1411817e-e5db-4d0b-89ff-4f144809fbc0",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4faab4b2-d19f-4e7e-8e69-241d8820004a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c85aa5b-c226-4c05-b11b-20f21fb20880"
+        ],
+        "id": "uuid_1411817e-e5db-4d0b-89ff-4f144809fbc0",
+        "locations": [
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55. antiquary",
+        "mail_authors-rdf_value": "Hopkins, Anna.",
+        "mail_origin-location": [
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_origin-rdf_value": "Clapham",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4faab4b2-d19f-4e7e-8e69-241d8820004a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Clapham, (Surrey) Greater London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Jan. 5. 1753",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2016-10-20T11:19:54Z",
+        "ox_internalModifiedByUser": "Charlotte Marique",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1753,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/0c85aa5b-c226-4c05-b11b-20f21fb20880"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1753-01-05T00:00:00Z",
+        "started_date_sort": "1753-01-05T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:01.266Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1411817e-e5db-4d0b-89ff-4f144809fbc0",
+        "uuid": "1411817e-e5db-4d0b-89ff-4f144809fbc0",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "4faab4b2-d19f-4e7e-8e69-241d8820004a",
+          "0c85aa5b-c226-4c05-b11b-20f21fb20880",
+          "954430bf-4f33-4351-a572-dabe7f521251"
+        ]
+      },
+      {
+        "_version_": 1.8628856749301432e+18,
+        "author_sort": "Donnellan, Anna, 1702 or before-1762",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Has received the parcel of books, directed to Mrs. Delany,\nsupposes Mrs. Delany will give her directions concerning\nthem.",
+        "dcterms_description": "20 Jan 1753: Donnellan, Anna, 1702 or before-1762 (London, England, United Kingdom) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000015514",
+        "dcterms_identifier-editi_": "editi_15514",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3b3e2e0d-b9a4-44f8-8e63-596dd7036ef1",
+        "dcterms_identifier-uuid_": "uuid_3b3e2e0d-b9a4-44f8-8e63-596dd7036ef1",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/094515e3-5268-4dcc-8103-70f1af78a637"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/6d3e1620-9964-4817-9898-ee88115c459e"
+        ],
+        "id": "uuid_3b3e2e0d-b9a4-44f8-8e63-596dd7036ef1",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55 antiquary",
+        "mail_authors-rdf_value": "Donellan, Anna.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/094515e3-5268-4dcc-8103-70f1af78a637"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Jan. 20. 1753",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2022-03-23T23:08:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1753,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/6d3e1620-9964-4817-9898-ee88115c459e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1753-01-20T00:00:00Z",
+        "started_date_sort": "1753-01-20T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:48.400Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3b3e2e0d-b9a4-44f8-8e63-596dd7036ef1",
+        "uuid": "3b3e2e0d-b9a4-44f8-8e63-596dd7036ef1",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "6d3e1620-9964-4817-9898-ee88115c459e",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "094515e3-5268-4dcc-8103-70f1af78a637"
+        ]
+      },
+      {
+        "_version_": 1.862885678494253e+18,
+        "author_sort": "Elstob, Elizabeth, 1683-1756",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Her Ladies being engaged with her Grace she is with great\npain obliged to write herself to B. to acknowledge the\nreceipt of the copies of his work on \"Learned Ladys\".\nSends Lady Harriet's thanks for the Poem he sent her. [Bodleian card catalogue]\n\nElstob writes to confirm safe receipt of her copies of Ballard’s book. Apologises\nthat she cannot procure more receipts for him. Sends thanks from Lady Harriet\nfor a poem he sent to her. [Dawn Hollis]",
+        "dcterms_description": "30 Jan 1753: Elstob, Elizabeth, 1683-1756 (Whitehall, Westminster, London, England) to Ballard, George, 1705-1755 (Oxford, Oxfordshire, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000017369",
+        "dcterms_identifier-editi_": "editi_17369",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/83e5bb16-2d51-4faf-a090-26e9e7406343",
+        "dcterms_identifier-uuid_": "uuid_83e5bb16-2d51-4faf-a090-26e9e7406343",
+        "dcterms_language": "English",
+        "destination_sort": "Oxford, Oxfordshire, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b3064c15-2ad4-40df-88f1-6af20a62b09a",
+          "http://localhost/manifestation/9f6ff829-acf5-42c5-a646-07122acf7d64"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/bae3ddb4-7346-4076-8d96-3e83c1d721db"
+        ],
+        "id": "uuid_83e5bb16-2d51-4faf-a090-26e9e7406343",
+        "locations": [
+          "http://localhost/location/91285d12-e3ae-464b-946b-65ce6efd0aef",
+          "http://localhost/location/6c07b3b4-c9dd-4347-9fc1-7b98bad424cc"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/6c07b3b4-c9dd-4347-9fc1-7b98bad424cc"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/91285d12-e3ae-464b-946b-65ce6efd0aef"
+        ],
+        "mail_origin-rdf_value": "Whitehall",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b3064c15-2ad4-40df-88f1-6af20a62b09a",
+          "http://localhost/manifestation/9f6ff829-acf5-42c5-a646-07122acf7d64"
+        ],
+        "object_type": "work",
+        "origin_sort": "Whitehall, Westminster, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Janry 30th 1753.",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2017-08-24T19:56:50Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Bodleian Libraries, University of Oxford, 20 February 2010; additional metadata contributed by Dawn Hollis, 20 July 2017",
+        "ox_started-ox_day": 30,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1753,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/bae3ddb4-7346-4076-8d96-3e83c1d721db"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/afa35150-7cab-4a7e-a80b-b040cd41c368"
+        ],
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "resources": [
+          "http://localhost/resource/afa35150-7cab-4a7e-a80b-b040cd41c368"
+        ],
+        "started_date_gregorian_sort": "1753-01-30T00:00:00Z",
+        "started_date_sort": "1753-01-30T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:49.454Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/83e5bb16-2d51-4faf-a090-26e9e7406343",
+        "uuid": "83e5bb16-2d51-4faf-a090-26e9e7406343",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "91285d12-e3ae-464b-946b-65ce6efd0aef",
+          "b3064c15-2ad4-40df-88f1-6af20a62b09a",
+          "bae3ddb4-7346-4076-8d96-3e83c1d721db",
+          "afa35150-7cab-4a7e-a80b-b040cd41c368",
+          "9f6ff829-acf5-42c5-a646-07122acf7d64",
+          "6c07b3b4-c9dd-4347-9fc1-7b98bad424cc"
+        ]
+      },
+      {
+        "_version_": 1.862885697024688e+18,
+        "author_sort": "Hopkins, Anna, fl. 1741-1753",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Sends the receipts she has collected from subscribers to\nB's. book. Mr. Duckett has had one copy, sent to him\nfor binding, stolen will B. replace it. Has read the\nbook with great pleasure.",
+        "dcterms_description": "14 Feb 1753: Hopkins, Anna, fl. 1741-1753 (Clapham, (Surrey) Greater London, England) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000027074",
+        "dcterms_identifier-editi_": "editi_27074",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/5e501f19-d2b6-4c0d-9ce0-ad522d788245",
+        "dcterms_identifier-uuid_": "uuid_5e501f19-d2b6-4c0d-9ce0-ad522d788245",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/5d18d378-afcd-414f-9a57-e73520bc850f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c85aa5b-c226-4c05-b11b-20f21fb20880"
+        ],
+        "id": "uuid_5e501f19-d2b6-4c0d-9ce0-ad522d788245",
+        "locations": [
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55. antiquary",
+        "mail_authors-rdf_value": "Hopkins, Anna.",
+        "mail_origin-location": [
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_origin-rdf_value": "Clapham",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/5d18d378-afcd-414f-9a57-e73520bc850f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Clapham, (Surrey) Greater London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Feb. 14. 1753",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2016-10-20T11:19:54Z",
+        "ox_internalModifiedByUser": "Charlotte Marique",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1753,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/0c85aa5b-c226-4c05-b11b-20f21fb20880"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1753-02-14T00:00:00Z",
+        "started_date_sort": "1753-02-14T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:01.266Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/5e501f19-d2b6-4c0d-9ce0-ad522d788245",
+        "uuid": "5e501f19-d2b6-4c0d-9ce0-ad522d788245",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "0c85aa5b-c226-4c05-b11b-20f21fb20880",
+          "954430bf-4f33-4351-a572-dabe7f521251",
+          "5d18d378-afcd-414f-9a57-e73520bc850f"
+        ]
+      },
+      {
+        "_version_": 1.8628857338517258e+18,
+        "author_sort": "Solinus, Andrew, fl. 1753",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Inquires if B's book is yet published.",
+        "dcterms_description": "24 Feb 1753: Solinus, Andrew, fl. 1753 (London, England, United Kingdom) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000045074",
+        "dcterms_identifier-editi_": "editi_45074",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/fff75e35-36ca-44ea-8f08-3ec00f45b089",
+        "dcterms_identifier-uuid_": "uuid_fff75e35-36ca-44ea-8f08-3ec00f45b089",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/011aaf2a-2dd1-4b6f-9031-c821b1baf8f7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5dc5172a-e33a-4b4f-abb0-e9e7eaa81838"
+        ],
+        "id": "uuid_fff75e35-36ca-44ea-8f08-3ec00f45b089",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55 antiquary",
+        "mail_authors-rdf_value": "Solinus, Andrew., Countess Cowper",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/011aaf2a-2dd1-4b6f-9031-c821b1baf8f7"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Feb. 24. 1753",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 24,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1753,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/5dc5172a-e33a-4b4f-abb0-e9e7eaa81838"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1753-02-24T00:00:00Z",
+        "started_date_sort": "1753-02-24T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:25.058Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/fff75e35-36ca-44ea-8f08-3ec00f45b089",
+        "uuid": "fff75e35-36ca-44ea-8f08-3ec00f45b089",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "5dc5172a-e33a-4b4f-abb0-e9e7eaa81838",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "011aaf2a-2dd1-4b6f-9031-c821b1baf8f7"
+        ]
+      },
+      {
+        "_version_": 1.8628857338527744e+18,
+        "author_sort": "Solinus, Andrew, fl. 1753",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Desires that the book for which she subscribed should be\nsent to the 'Hog in ye Pond' in Oxford Road near Swallow\nSt. or to the 'White horse cellar' Piccadilly, where she\nwill send for it.",
+        "dcterms_description": "1 Mar 1753: Solinus, Andrew, fl. 1753 (London, England, United Kingdom) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000045075",
+        "dcterms_identifier-editi_": "editi_45075",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/34840a67-8501-4bc2-bedc-9a1dd1a9b203",
+        "dcterms_identifier-uuid_": "uuid_34840a67-8501-4bc2-bedc-9a1dd1a9b203",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a8b220dd-10b4-4124-9d89-db4dacb3887b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5dc5172a-e33a-4b4f-abb0-e9e7eaa81838"
+        ],
+        "id": "uuid_34840a67-8501-4bc2-bedc-9a1dd1a9b203",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-53 antiquary",
+        "mail_authors-rdf_value": "Solinus, Andrew., Countess Cowper",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a8b220dd-10b4-4124-9d89-db4dacb3887b"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Mar. 1. 1753",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1753,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/5dc5172a-e33a-4b4f-abb0-e9e7eaa81838"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1753-03-01T00:00:00Z",
+        "started_date_sort": "1753-03-01T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:25.058Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/34840a67-8501-4bc2-bedc-9a1dd1a9b203",
+        "uuid": "34840a67-8501-4bc2-bedc-9a1dd1a9b203",
+        "uuid_related": [
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "5dc5172a-e33a-4b4f-abb0-e9e7eaa81838",
+          "a8b220dd-10b4-4124-9d89-db4dacb3887b"
+        ]
+      },
+      {
+        "_version_": 1.8628857338527744e+18,
+        "author_sort": "Solinus, Andrew, fl. 1753",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Acknowledges the receipt of the book, for which she\nsubscribed.",
+        "dcterms_description": "13 Mar 1753: Solinus, Andrew, fl. 1753 (London, England, United Kingdom) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000045076",
+        "dcterms_identifier-editi_": "editi_45076",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3c473307-99f6-4629-93d1-4181119d1921",
+        "dcterms_identifier-uuid_": "uuid_3c473307-99f6-4629-93d1-4181119d1921",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f2476379-e73c-475d-9529-857f5dc217f8"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5dc5172a-e33a-4b4f-abb0-e9e7eaa81838"
+        ],
+        "id": "uuid_3c473307-99f6-4629-93d1-4181119d1921",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55 antiquary",
+        "mail_authors-rdf_value": "Solinus, Andrew., Countess Cowper",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f2476379-e73c-475d-9529-857f5dc217f8"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Mar. 13. 1753",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1753,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/5dc5172a-e33a-4b4f-abb0-e9e7eaa81838"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1753-03-13T00:00:00Z",
+        "started_date_sort": "1753-03-13T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:25.058Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3c473307-99f6-4629-93d1-4181119d1921",
+        "uuid": "3c473307-99f6-4629-93d1-4181119d1921",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "5dc5172a-e33a-4b4f-abb0-e9e7eaa81838",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "f2476379-e73c-475d-9529-857f5dc217f8"
+        ]
+      },
+      {
+        "_version_": 1.8628856666180813e+18,
+        "author_sort": "Chapone, Sarah, 1699-1764",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Wants 8 copies of B's work to satisfy those from who she\ngot to subscribe but thro. her brother's mistake B. only\nsent 5. will he send the other 3 copies. Sorry her\nbrother could not call on B. he was taken ill on the road.\nThrough whom did Mr. Richardson subscribe for B's. book?",
+        "dcterms_description": "30 Mar 1753: Chapone, Sarah, 1699-1764 (Salisbury Court, Fleet Street, London, England) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000010694",
+        "dcterms_identifier-editi_": "editi_10694",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7ff9ab9e-99e9-4e0d-a742-abb18f910856",
+        "dcterms_identifier-uuid_": "uuid_7ff9ab9e-99e9-4e0d-a742-abb18f910856",
+        "dcterms_language": "English",
+        "dcterms_references-person": [
+          "http://localhost/person/415ea2a1-7477-41cb-af02-4c77744329d3",
+          "http://localhost/person/abd95373-1c23-4a49-b4d2-65a64938b5c8",
+          "http://localhost/person/09bb9720-0553-4eff-85bf-09add8659abe",
+          "http://localhost/person/0dd5284d-9a1c-45a3-89fe-e032f04394e4"
+        ],
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0733d8dc-0b8d-4727-b31f-5c1bf0c6ff87"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ba220d24-10bd-4e61-934f-629eb4ac67a6"
+        ],
+        "id": "uuid_7ff9ab9e-99e9-4e0d-a742-abb18f910856",
+        "locations": [
+          "http://localhost/location/fd3de940-0a29-44bc-ace9-08af25ef302d"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55 antiquary",
+        "mail_authors-rdf_value": "Chapone, Sarah., Junior, Sally",
+        "mail_origin-location": [
+          "http://localhost/location/fd3de940-0a29-44bc-ace9-08af25ef302d"
+        ],
+        "mail_origin-rdf_value": "Salisbury Court",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0733d8dc-0b8d-4727-b31f-5c1bf0c6ff87"
+        ],
+        "object_type": "work",
+        "origin_sort": "Salisbury Court, Fleet Street, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Mar. 30. 1753",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2016-02-23T10:45:44Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 19 February 2010; additional metadata contributed by Cultures of Knowledge student James Harrison, 4 February 2016",
+        "ox_started-ox_day": 30,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1753,
+        "ox_transcription": [
+          "Sarah Chapone catalogue Transcription by James Harrison (ed. Callum Seddon), February 2016. Transcription hosted by EMLO. Please see citation guidelines at : emlo.bodleian.ox.ac.uk/about . 1 From Sarah Chapone to George Ballard 30 March 1753 Bodleian Library, Oxford MS Ballard 43, fols 188r –189v [fol. 188r] To1 Mr Ballard at Magdalen College Oxford Free Iii Gore [fol. 188v] [Blank] [fol. 189r] Sir,2 I received the five Books Yesterday very safe you had advertized me of; but find your putting up only that number, my Brother had mistaken me, as I had desired him to acquaint you that I beged eight Books which I would take care to receive the Receipts for, and convey to you Sir, excepting \\those for/ my Brother’s and my own, which my Mama has at Cheltenham. The 1 Address written at a ninety -degree angle. 2 This letter was written on a single sheet of paper folded once to form a small, folio booklet, leaving four pages for the let ter itself. The first page is blank, and the second (foliated as 91, and then later, as 189), third, and fourth sides were used for the content of the letter. I follow the folio numbers used by the archivist at the Bodleian who foliated this manuscript, and record when the text runs to a ‘new’ page in footnotes. Sarah Chapone catalogue Transcription by James Harrison (ed. Callum Seddon), February 2016. Transcription hosted by EMLO. Please see citation guidelines at : emlo.bodleian.ox.ac.uk/about . 2 Three Books still wanting, are for Mr Lewes, in Cork Street, Mr Dyer at Chelsea, and Dr M orley in Lincolns Inn Feilds; which I should be glad were sent immediately, as the Gentlemen are a little impatient for the Work since the Publication. I am sorry my Brother had it not in his Power to make his Visit longer at Oxford, as I know it would have given him Pleasure; he fell ill on the Road six miles short of Cheltenham, his Disorder [fol. 189v] proved the Mearzles which kept him some days at the Inn where my Mamas tender care soon enabled him to accompany her home; an d I had the great satisfaction of receiving a few lines from him on Wednesday. which assure me he is quite recovered. I believe Mr Richardson subscribed to your Work by my Brother’s hand, yet neither he nor I are quite sure as Mr Richardson can’t recollect whether it was to Mrs Delany, or my Brother. but when I write Cheltenham, I will enquire, and let you know, who is your debter. Mr Rickardson had no Receipt. he charges me with his Compliments. You were not so good to mention your own health, but which I hope you have enjoyed, without those sad Interruptions you have Sarah Chapone catalogue Transcription by James Harrison (ed. Callum Seddon), February 2016. Transcription hosted by EMLO. Please see citation guidelines at : emlo.bodleian.ox.ac.uk/about . 3 been sometimes afflicated with; and that you may3 still continue to do so, I beg you will beleive are the the sincere wishes of Sir, your obliged and obedien t humble servant S Chapone Salisbury Court March 30 1753 I heard lately of Mr Sandford by his Sister, - they are both well. 3 This text begins on wha t Chapone treats as a new page but is , for the purposes of the manuscript’s foliation, still fol. 189v."
+        ],
+        "ox_urlOfTranscription": [
+          "https://emlo-edit.bodleian.ox.ac.uk/culturesofknowledge/transcripts/txt/Chapone_transcription_ID_10694_1753_Mar_30.pdf"
+        ],
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/ba220d24-10bd-4e61-934f-629eb4ac67a6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/aee64f93-a615-48ce-a97f-432d12ab49d6"
+        ],
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "resources": [
+          "http://localhost/resource/aee64f93-a615-48ce-a97f-432d12ab49d6"
+        ],
+        "started_date_gregorian_sort": "1753-03-30T00:00:00Z",
+        "started_date_sort": "1753-03-30T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:42.763Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7ff9ab9e-99e9-4e0d-a742-abb18f910856",
+        "uuid": "7ff9ab9e-99e9-4e0d-a742-abb18f910856",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "ba220d24-10bd-4e61-934f-629eb4ac67a6",
+          "0733d8dc-0b8d-4727-b31f-5c1bf0c6ff87",
+          "fd3de940-0a29-44bc-ace9-08af25ef302d",
+          "415ea2a1-7477-41cb-af02-4c77744329d3",
+          "abd95373-1c23-4a49-b4d2-65a64938b5c8",
+          "09bb9720-0553-4eff-85bf-09add8659abe",
+          "0dd5284d-9a1c-45a3-89fe-e032f04394e4",
+          "aee64f93-a615-48ce-a97f-432d12ab49d6"
+        ]
+      },
+      {
+        "_version_": 1.8628856666191299e+18,
+        "author_sort": "Chapone, Sarah, 1699-1764",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Apologises for not having before sent the subscribers\nreceipts for the copies of B's book she has distributed.\nIs concerned at B's ill health.\n\nMr. Richardson sends his compliments.",
+        "dcterms_description": "9 May 1753: Chapone, Sarah, 1699-1764 (Salisbury Court, Fleet Street, London, England) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000010695",
+        "dcterms_identifier-editi_": "editi_10695",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/271ab705-1ab3-4ccb-b391-d01806bfea82",
+        "dcterms_identifier-uuid_": "uuid_271ab705-1ab3-4ccb-b391-d01806bfea82",
+        "dcterms_language": "English",
+        "dcterms_references-person": [
+          "http://localhost/person/719cb61f-94fd-41bf-89cc-8cdeaafef72e",
+          "http://localhost/person/abd95373-1c23-4a49-b4d2-65a64938b5c8"
+        ],
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/92823aaf-7fe2-4ffd-8f8d-de8459af3815"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ba220d24-10bd-4e61-934f-629eb4ac67a6"
+        ],
+        "id": "uuid_271ab705-1ab3-4ccb-b391-d01806bfea82",
+        "locations": [
+          "http://localhost/location/fd3de940-0a29-44bc-ace9-08af25ef302d"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55 antiquary",
+        "mail_authors-rdf_value": "Chapone, Sarah., Sally, jun.",
+        "mail_origin-location": [
+          "http://localhost/location/fd3de940-0a29-44bc-ace9-08af25ef302d"
+        ],
+        "mail_origin-rdf_value": "Salisbury Court",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/92823aaf-7fe2-4ffd-8f8d-de8459af3815"
+        ],
+        "object_type": "work",
+        "origin_sort": "Salisbury Court, Fleet Street, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "May 9. 1753",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2016-02-23T10:46:05Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 19 February 2010; additional metadata contributed by Cultures of Knowledge student James Harrison, 4 February 2016",
+        "ox_started-ox_day": 9,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1753,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/ba220d24-10bd-4e61-934f-629eb4ac67a6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1753-05-09T00:00:00Z",
+        "started_date_sort": "1753-05-09T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:42.763Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/271ab705-1ab3-4ccb-b391-d01806bfea82",
+        "uuid": "271ab705-1ab3-4ccb-b391-d01806bfea82",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "ba220d24-10bd-4e61-934f-629eb4ac67a6",
+          "fd3de940-0a29-44bc-ace9-08af25ef302d",
+          "92823aaf-7fe2-4ffd-8f8d-de8459af3815",
+          "719cb61f-94fd-41bf-89cc-8cdeaafef72e",
+          "abd95373-1c23-4a49-b4d2-65a64938b5c8"
+        ]
+      },
+      {
+        "_version_": 1.862885673704358e+18,
+        "author_sort": "Dewes, Ann, fl. 1752-1754",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Thanks for the transcription of a MSS. hopes B. will\nallow her to show it to her friends, it is now in\nMrs. Elstob's hands, who is as well as can be expected.\nMiss Talbot & Miss Colley have not yet received their\nbooks. Will try and get off some of the copies of B's\nbook which he has left on his hands.",
+        "dcterms_description": "17 Mar 1754: Dewes, Ann, fl. 1752-1754 (Suffolk Street, London, England) to Ballard, George, 1705-1755",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000014827",
+        "dcterms_identifier-editi_": "editi_14827",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cda6cdd5-04b5-4aad-84e5-194f03bcba0a",
+        "dcterms_identifier-uuid_": "uuid_cda6cdd5-04b5-4aad-84e5-194f03bcba0a",
+        "dcterms_language": "English",
+        "dcterms_references-person": [
+          "http://localhost/person/bae3ddb4-7346-4076-8d96-3e83c1d721db",
+          "http://localhost/person/722de268-0f9f-4d1b-96b2-792671b13d8f"
+        ],
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/115c47b7-b302-4631-9259-86a9ccd8af11"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/2ba33542-4fe7-4a3c-a382-9134671cc850"
+        ],
+        "id": "uuid_cda6cdd5-04b5-4aad-84e5-194f03bcba0a",
+        "locations": [
+          "http://localhost/location/204d943f-7a03-4cd8-8891-0511053c96d9"
+        ],
+        "mail_addressees-rdf_value": "Ballard, Geo. 1706-55 antiquary",
+        "mail_authors-rdf_value": "Dewes, Anne.",
+        "mail_origin-location": [
+          "http://localhost/location/204d943f-7a03-4cd8-8891-0511053c96d9"
+        ],
+        "mail_origin-rdf_value": "Suffolk St.",
+        "mail_recipient-person": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/115c47b7-b302-4631-9259-86a9ccd8af11"
+        ],
+        "object_type": "work",
+        "origin_sort": "Suffolk Street, London, England",
+        "ox_agentsReferencedAnnotatedBy-comment": [
+          "http://localhost/comment/e70f9416-d44a-4ce3-a9c4-c481aa73b0e2"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Mar. 17. 1754",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-11-13T14:29:52Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1754,
+        "people": [
+          "http://localhost/person/3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "http://localhost/person/2ba33542-4fe7-4a3c-a382-9134671cc850"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ballard, George, 1705-1755",
+        "started_date_gregorian_sort": "1754-03-17T00:00:00Z",
+        "started_date_sort": "1754-03-17T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:44.332Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cda6cdd5-04b5-4aad-84e5-194f03bcba0a",
+        "uuid": "cda6cdd5-04b5-4aad-84e5-194f03bcba0a",
+        "uuid_related": [
+          "3d3b9177-00d7-4493-abba-3703015b3fe2",
+          "2ba33542-4fe7-4a3c-a382-9134671cc850",
+          "204d943f-7a03-4cd8-8891-0511053c96d9",
+          "115c47b7-b302-4631-9259-86a9ccd8af11",
+          "bae3ddb4-7346-4076-8d96-3e83c1d721db",
+          "722de268-0f9f-4d1b-96b2-792671b13d8f",
+          "e70f9416-d44a-4ce3-a9c4-c481aa73b0e2"
+        ]
+      },
+      {
+        "_version_": 1.8628861540444406e+18,
+        "author_sort": "Hanover, Anne of, 1709-1759",
+        "cito_Catalog": "Hanover, Anne of",
+        "dcterms_description": "17 Sep 1755: Hanover, Anne of, 1709-1759 (London, England, United Kingdom) to Rotterdam, Councils of Holland in the Admirality of, fl. 1655-1659",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001034416",
+        "dcterms_identifier-editi_": "editi_1034416",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0e581f12-30e7-4b8a-84c0-c26abc8d918a",
+        "dcterms_identifier-uuid_": "uuid_0e581f12-30e7-4b8a-84c0-c26abc8d918a",
+        "dcterms_language": "Dutch",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/33cfc3bb-f38b-4485-a08a-839a164cfd1f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "id": "uuid_0e581f12-30e7-4b8a-84c0-c26abc8d918a",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/f6b671b3-3884-42d1-a331-eaa78b96a7d2"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/33cfc3bb-f38b-4485-a08a-839a164cfd1f"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2023-03-19T20:33:37Z",
+        "ox_internalModified": "2023-03-19T20:33:37Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 19 March 2023",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1755,
+        "people": [
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0",
+          "http://localhost/person/f6b671b3-3884-42d1-a331-eaa78b96a7d2"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/ef12592a-55e0-4c0d-b44a-01ffca0af476"
+        ],
+        "recipient_sort": "Rotterdam, Councils of Holland in the Admirality of, fl. 1655-1659",
+        "resources": [
+          "http://localhost/resource/ef12592a-55e0-4c0d-b44a-01ffca0af476"
+        ],
+        "started_date_gregorian_sort": "1755-09-17T00:00:00Z",
+        "started_date_sort": "1755-09-17T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:00:54.096Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0e581f12-30e7-4b8a-84c0-c26abc8d918a",
+        "uuid": "0e581f12-30e7-4b8a-84c0-c26abc8d918a",
+        "uuid_related": [
+          "33cfc3bb-f38b-4485-a08a-839a164cfd1f",
+          "bcfafe9a-cfa5-4448-8bda-9781a15683e0",
+          "f6b671b3-3884-42d1-a331-eaa78b96a7d2",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "ef12592a-55e0-4c0d-b44a-01ffca0af476"
+        ]
+      },
+      {
+        "_version_": 1.8628862175975834e+18,
+        "author_sort": "Field, Mary, fl. 1757",
+        "cito_Catalog": "Dutch Church in London archive (Hessels)",
+        "comments": [
+          "http://localhost/comment/75c4249e-8a6c-44f6-a5ec-f7f49c5a4253"
+        ],
+        "dcterms_description": "6 Feb 1757: Field, Mary, fl. 1757 (London, England, United Kingdom) to Dutch Church in London, Ministers and Elders of the",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001053863",
+        "dcterms_identifier-editi_": "editi_1053863",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0b49b146-b38a-4959-af37-04ca87be6cd2",
+        "dcterms_identifier-uuid_": "uuid_0b49b146-b38a-4959-af37-04ca87be6cd2",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4044e8ce-0302-4252-a47f-47a629c19542"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/e0fc1940-da94-4fc0-9c77-74c0c767b9e0"
+        ],
+        "id": "uuid_0b49b146-b38a-4959-af37-04ca87be6cd2",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_authors-rdf_value": "Mary Field",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/307f452a-0985-4236-956c-a90bc314f405"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4044e8ce-0302-4252-a47f-47a629c19542"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "February 6, 1757",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2024-04-11T09:55:58Z",
+        "ox_internalModified": "2024-04-11T09:55:58Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/75c4249e-8a6c-44f6-a5ec-f7f49c5a4253"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, 11 April 2024",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1757,
+        "people": [
+          "http://localhost/person/e0fc1940-da94-4fc0-9c77-74c0c767b9e0",
+          "http://localhost/person/307f452a-0985-4236-956c-a90bc314f405"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/64520bb2-cf43-4175-84a4-133bbbc162f4"
+        ],
+        "recipient_sort": "Dutch Church in London, Ministers and Elders of the",
+        "resources": [
+          "http://localhost/resource/64520bb2-cf43-4175-84a4-133bbbc162f4"
+        ],
+        "started_date_gregorian_sort": "1757-02-06T00:00:00Z",
+        "started_date_sort": "1757-02-06T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:23.570Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0b49b146-b38a-4959-af37-04ca87be6cd2",
+        "uuid": "0b49b146-b38a-4959-af37-04ca87be6cd2",
+        "uuid_related": [
+          "4044e8ce-0302-4252-a47f-47a629c19542",
+          "e0fc1940-da94-4fc0-9c77-74c0c767b9e0",
+          "307f452a-0985-4236-956c-a90bc314f405",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "75c4249e-8a6c-44f6-a5ec-f7f49c5a4253",
+          "64520bb2-cf43-4175-84a4-133bbbc162f4"
+        ]
       }
     ],
     "numFound": 65,
     "start": 0
   },
   "responseHeader": {
-    "QTime": 2,
+    "QTime": 3,
     "params": {
       "f.cito_Catalog.facet.limit": "10",
       "f.destination_sort.facet.limit": "10",
@@ -4182,7 +5378,7 @@
       "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
       "indent": "on",
       "q": "started_date_sort:[1700-01-01T00:00:00Z TO 1760-12-31T23:59:59Z] AND person-author-gender:(female) AND person-recipient-gender:(male) AND location-origin:(London)",
-      "rows": "50",
+      "rows": "65",
       "sort": "started_date_sort asc",
       "start": "0",
       "wt": "json"
