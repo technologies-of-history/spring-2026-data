@@ -1,0 +1,3983 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Bodleian card catalogue",
+        50, "Hanover, Anne of",
+        24, "Montagu, Mary Wortley",
+        15, "Gray, Thomas",
+        8, "Social Bodies project",
+        6, "Spalding Gentlemen's Society",
+        4, "Arbuthnot, John",
+        3, "Flamsteed, John",
+        3, "Bodleian Student Editions",
+        2, "Jurin, James",
+        2],
+      "destination_sort": [
+        "Castle Ashby, Northamptonshire, England",
+        9, "England",
+        6, "The Hague, South Holland, Netherlands",
+        4, "Tamworth Castle, Tamworth, Staffordshire, England",
+        3, "Turin, Piedmont, Italy",
+        2, "Clapham, (Surrey) Greater London, England",
+        1, "London, England, United Kingdom",
+        1, "Otes House, High Laver, Essex, England",
+        1, "Pudlicote, Oxfordshire, England, United Kingdom",
+        1, "Spring Grove, Wye, Kent, England",
+        1],
+      "frbr_creator-person": [
+        "http://localhost/person/2ae11694-5c83-4074-a402-c5318fce587e",
+        25, "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+        16, "http://localhost/person/6b8cc74b-c5f9-4178-97d1-76e0cb916d82",
+        15, "http://localhost/person/2900ba57-dd49-4d65-ba4d-174a27feb020",
+        8, "http://localhost/person/8e185360-f24a-46e2-885b-398e5d1f8b5e",
+        7, "http://localhost/person/e6884beb-a187-4049-a8c0-caff98e3ab6f",
+        7, "http://localhost/person/5f3883bf-eedf-40da-9990-eb7715d5bcf2",
+        3, "http://localhost/person/d388d5d5-bebd-4c8b-a0c0-f9793f802964",
+        3, "http://localhost/person/d6671018-17df-405f-ba8b-a99e77ebdeba",
+        3, "http://localhost/person/697d692e-1f60-4a05-b1f2-c95f723ffbb1",
+        2],
+      "mail_recipient-person": [
+        "http://localhost/person/e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1",
+        25, "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0",
+        24, "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+        15, "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5",
+        11, "http://localhost/person/166f0125-a96c-42b9-b3be-6386f7195cc5",
+        7, "http://localhost/person/7e172799-9218-4514-9dc5-be01816db925",
+        4, "http://localhost/person/cd64a990-7b5c-4aba-9fd8-521afcbc0dd0",
+        3, "http://localhost/person/471f2ec5-eec8-4062-ad40-6a84c38a8b47",
+        2, "http://localhost/person/a93d389d-bfcc-466e-b5d8-0c24a6d4cee4",
+        2, "http://localhost/person/b925dfa4-980e-4ed7-b53f-122aff5c2820",
+        2],
+      "origin_sort": [
+        "London, England, United Kingdom",
+        49, "Fulham, Greater London, England",
+        25, "St James's Palace, St James's, Westminster, London, England, United Kingdom",
+        15, "Grosvenor Street, London, England",
+        4, "Chelsea, London, England",
+        3, "Royal Observatory, Greenwich, London, England",
+        3, "Hackney, Greater London, England",
+        2, "Kensington Palace, London, England, United Kingdom",
+        2, "Kew, London, Greater London, England",
+        2, "Carlton House, London, England, United Kingdom",
+        1],
+      "ox_started-ox_year": [
+        "1734",
+        26, "1759",
+        8, "1704",
+        7, "1700",
+        4, "1710",
+        4, "1737",
+        4, "1741",
+        4, "1754",
+        4, "1756",
+        4, "1702",
+        3]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_016938e9-cbef-4fe8-930b-2d54da91b84b": {
+
+    },
+    "uuid_13e7e09d-394d-4ec4-96fb-fa22a271baa6": {
+
+    },
+    "uuid_14bdae1b-edc0-4112-a7e7-54e5dfc8e26a": {
+
+    },
+    "uuid_22c52503-9715-420a-8701-5a5dd181837f": {
+
+    },
+    "uuid_2d9ec022-06c7-416a-a2e4-600c4632d720": {
+
+    },
+    "uuid_3382dfc3-835b-4a96-9add-854abc25c7d2": {
+
+    },
+    "uuid_3fccef6c-5c08-47bc-aac5-5523d107214f": {
+
+    },
+    "uuid_4444758f-4696-44a6-8484-96d5e0b9f240": {
+
+    },
+    "uuid_4519fda3-33ab-4b4d-8e3e-61ba9fac69d8": {
+
+    },
+    "uuid_45d05d3f-dcec-4cc2-83b8-a56aefe0625e": {
+
+    },
+    "uuid_467febb4-11ed-41e1-8874-6d375dc831f1": {
+
+    },
+    "uuid_498bba73-6c83-450e-8d38-1425d22cb4c9": {
+
+    },
+    "uuid_518f4cc4-6a32-4748-8889-318dec0a5fb5": {
+
+    },
+    "uuid_55ff9144-c8d9-41ce-bcf7-a5b3918819cc": {
+
+    },
+    "uuid_58bdc49d-ecc9-47d1-bc2f-0da4543259fe": {
+
+    },
+    "uuid_6156d680-578c-415d-926b-d4fa04e7ce71": {
+
+    },
+    "uuid_621806c2-dcbe-4e24-b96b-50a9f8751b93": {
+
+    },
+    "uuid_63475324-e77a-4586-aa69-ab65e3aa7e2c": {
+
+    },
+    "uuid_68609dab-f9e4-44b5-a429-1a934f762225": {
+
+    },
+    "uuid_6c062a4f-dcb7-4a0b-9e4f-0421c9be9260": {
+
+    },
+    "uuid_6ce4fb48-7b31-42bd-abff-1616cc9fbf88": {
+
+    },
+    "uuid_6f1401bc-926f-4319-8467-64d8bc7c6ab6": {
+
+    },
+    "uuid_7049458f-ef72-40f2-990f-0385020262b3": {
+
+    },
+    "uuid_72ad4fa4-80f1-4f81-a908-558d11795aa0": {
+
+    },
+    "uuid_74473711-17cf-4299-9d64-1cef1018eae0": {
+
+    },
+    "uuid_7eedb444-06a4-4c46-8375-4dabe34d4ca3": {
+
+    },
+    "uuid_8057d9b0-b554-4ded-a8f5-14cf90fb96b1": {
+
+    },
+    "uuid_9771a88a-e8f0-44f1-94d9-c9bbc1301e4f": {
+
+    },
+    "uuid_97ca38f6-45e8-44b4-bb64-4cdfbf6ecb93": {
+
+    },
+    "uuid_98151686-6e64-400c-8d3c-3a035f87a5fa": {
+
+    },
+    "uuid_9bfae486-fc9e-46e6-8a49-a1ba34f59393": {
+
+    },
+    "uuid_9d029c7c-bc32-4396-9d88-a64d54aaf74d": {
+
+    },
+    "uuid_a4d1406c-9761-4a2b-8694-fdefa2aeb71b": {
+
+    },
+    "uuid_a6c1838b-6f25-46cc-894a-e58a0852ab7c": {
+
+    },
+    "uuid_a899407f-ac8c-47eb-a2dc-27559eac6e2b": {
+
+    },
+    "uuid_aef913ac-ab25-45d0-9fd7-3d22c3e5f27e": {
+
+    },
+    "uuid_b10c2112-a3fc-4d7f-9dc6-7ad3eacc903b": {
+
+    },
+    "uuid_b3d33d82-0899-4a43-83f0-16db0464c810": {
+
+    },
+    "uuid_b65e0055-deba-4e3c-93f7-938b4e9b69ba": {
+
+    },
+    "uuid_c1ed9837-3cf7-4483-ab88-d91109a94f3b": {
+
+    },
+    "uuid_ca7de61d-5555-4265-9566-2b52615fd381": {
+
+    },
+    "uuid_cae24e58-3d70-4429-8280-fbacae1dae87": {
+
+    },
+    "uuid_cb51a857-16bc-47b6-a64c-edd23d3fb922": {
+
+    },
+    "uuid_d442970d-6809-4caf-aed7-5a853ffd9135": {
+
+    },
+    "uuid_e1f14e9b-16c9-4432-b7ac-7640d1f33448": {
+
+    },
+    "uuid_e32420d2-9245-4034-bdd0-3d687b300e17": {
+
+    },
+    "uuid_e7d89f78-a665-44b4-bd8b-0e9ddb3eb8c6": {
+
+    },
+    "uuid_e7ef6f98-0ba0-4e56-bdfa-9ea70b12f789": {
+
+    },
+    "uuid_f20aa324-613f-4707-8759-06e919594249": {
+
+    },
+    "uuid_f87ce5ee-ea7c-422e-9864-148b4b16acab": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8628861084534047e+18,
+        "author_sort": "Flamsteed, John, 1646-1719",
+        "cito_Catalog": "Flamsteed, John",
+        "dcterms_description": "8 Feb 1700: Flamsteed, John, 1646-1719 (Royal Observatory, Greenwich, London, England) to Symonds, Katherine, fl. 1700-1703 (Clapham, (Surrey) Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001019113",
+        "dcterms_identifier-editi_": "editi_1019113",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a899407f-ac8c-47eb-a2dc-27559eac6e2b",
+        "dcterms_identifier-uuid_": "uuid_a899407f-ac8c-47eb-a2dc-27559eac6e2b",
+        "dcterms_language": "English",
+        "destination_sort": "Clapham, (Surrey) Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3ec791ef-e012-472a-976b-5e9679b7ebc6",
+          "http://localhost/manifestation/2a68c46a-e961-4543-91aa-5fd21e55a023"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5f3883bf-eedf-40da-9990-eb7715d5bcf2"
+        ],
+        "id": "uuid_a899407f-ac8c-47eb-a2dc-27559eac6e2b",
+        "locations": [
+          "http://localhost/location/9bb971f3-eb83-4a91-9b53-fa9e0d98c79e",
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/954430bf-4f33-4351-a572-dabe7f521251"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/9bb971f3-eb83-4a91-9b53-fa9e0d98c79e"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/f2e09411-33f5-4e50-8f04-fe2121d12b54"
+        ],
+        "manifestation-institution-place": [
+          "Cambridge University Library",
+          "Cambridge",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3ec791ef-e012-472a-976b-5e9679b7ebc6",
+          "http://localhost/manifestation/2a68c46a-e961-4543-91aa-5fd21e55a023"
+        ],
+        "object_type": "work",
+        "origin_sort": "Royal Observatory, Greenwich, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Thursday Feb. 8 1699/1700",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2021-10-05T21:27:10Z",
+        "ox_internalModified": "2021-10-05T21:27:10Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 5 October 2021",
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1700,
+        "people": [
+          "http://localhost/person/5f3883bf-eedf-40da-9990-eb7715d5bcf2",
+          "http://localhost/person/f2e09411-33f5-4e50-8f04-fe2121d12b54"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Symonds, Katherine, fl. 1700-1703",
+        "started_date_gregorian_sort": "1700-02-18T00:00:00Z",
+        "started_date_sort": "1700-02-08T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:00:34.691Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a899407f-ac8c-47eb-a2dc-27559eac6e2b",
+        "uuid": "a899407f-ac8c-47eb-a2dc-27559eac6e2b",
+        "uuid_related": [
+          "3ec791ef-e012-472a-976b-5e9679b7ebc6",
+          "2a68c46a-e961-4543-91aa-5fd21e55a023",
+          "5f3883bf-eedf-40da-9990-eb7715d5bcf2",
+          "f2e09411-33f5-4e50-8f04-fe2121d12b54",
+          "9bb971f3-eb83-4a91-9b53-fa9e0d98c79e",
+          "954430bf-4f33-4351-a572-dabe7f521251"
+        ]
+      },
+      {
+        "_version_": 1.8628857325808517e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Sends two little book \"which I am not so vaine\nas to call by the pompous name of a present, but\nI thought it become me to offer them to my Lord's\nand your favourable acceptance.\" \n Describes the book and his reasons for writing\nit. The discourse in Latin he vindicates the\nblessed memory of K. Ch. I. and Archbp. Laud, the\nEnglish discourse is of the power of God.",
+        "dcterms_description": "26 Mar 1700: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Ironside, Marie (Mrs), fl. 1696-1700",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044501",
+        "dcterms_identifier-editi_": "editi_44501",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/55ff9144-c8d9-41ce-bcf7-a5b3918819cc",
+        "dcterms_identifier-uuid_": "uuid_55ff9144-c8d9-41ce-bcf7-a5b3918819cc",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b1d58dfa-9170-4fd6-b49b-70420055c62f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_55ff9144-c8d9-41ce-bcf7-a5b3918819cc",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Ironsides. Mrs. wife of Gilbert. Bp. of Hereford.",
+        "mail_authors-rdf_value": "Smith. Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/801a2028-7b73-4095-9aeb-7f27bb0772a7"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b1d58dfa-9170-4fd6-b49b-70420055c62f"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "26. March 1700.",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1700,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/801a2028-7b73-4095-9aeb-7f27bb0772a7"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ironside, Marie (Mrs), fl. 1696-1700",
+        "started_date_gregorian_sort": "1700-03-26T00:00:00Z",
+        "started_date_sort": "1700-03-26T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/55ff9144-c8d9-41ce-bcf7-a5b3918819cc",
+        "uuid": "55ff9144-c8d9-41ce-bcf7-a5b3918819cc",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "801a2028-7b73-4095-9aeb-7f27bb0772a7",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "b1d58dfa-9170-4fd6-b49b-70420055c62f"
+        ]
+      },
+      {
+        "_version_": 1.8628860642842378e+18,
+        "author_sort": "Burnett, Thomas, 1656-1729",
+        "cito_Catalog": "Locke, John",
+        "dcterms_description": "15 Apr 1700: Burnett, Thomas, 1656-1729 (London, England, United Kingdom) to Lockhart, Martha, 1688-1752 (Otes House, High Laver, Essex, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001003369",
+        "dcterms_identifier-editi_": "editi_1003369",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b3d33d82-0899-4a43-83f0-16db0464c810",
+        "dcterms_identifier-uuid_": "uuid_b3d33d82-0899-4a43-83f0-16db0464c810",
+        "dcterms_language": "English",
+        "destination_sort": "Otes House, High Laver, Essex, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/10abe0dd-b8b6-4a65-a41a-f7933ae4800e",
+          "http://localhost/manifestation/e1b2492f-3707-4d02-b1d6-00c2ffcc0476"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/462b97bf-ef9d-4972-9703-75970dd6ba29"
+        ],
+        "id": "uuid_b3d33d82-0899-4a43-83f0-16db0464c810",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860",
+          "http://localhost/location/acee4f26-6c27-4cfc-a364-2286a9feb036"
+        ],
+        "mail_addressees-rdf_value": "Pour Madamoselle Madam Lockhart",
+        "mail_destination-location": [
+          "http://localhost/location/acee4f26-6c27-4cfc-a364-2286a9feb036"
+        ],
+        "mail_destination-rdf_value": "à Oates These",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/5cba20a9-4982-4e3e-92db-4fa98669e6d0"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/10abe0dd-b8b6-4a65-a41a-f7933ae4800e",
+          "http://localhost/manifestation/e1b2492f-3707-4d02-b1d6-00c2ffcc0476"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "15 Apryl 1700",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2020-12-09T22:38:23Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, 9 December 2020",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1700,
+        "people": [
+          "http://localhost/person/462b97bf-ef9d-4972-9703-75970dd6ba29",
+          "http://localhost/person/5cba20a9-4982-4e3e-92db-4fa98669e6d0"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9be2615b-447d-4843-8913-ecadeb658b7d"
+        ],
+        "recipient_sort": "Lockhart, Martha, 1688-1752",
+        "resources": [
+          "http://localhost/resource/9be2615b-447d-4843-8913-ecadeb658b7d"
+        ],
+        "started_date_gregorian_sort": "1700-04-15T00:00:00Z",
+        "started_date_sort": "1700-04-15T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:00:10.108Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b3d33d82-0899-4a43-83f0-16db0464c810",
+        "uuid": "b3d33d82-0899-4a43-83f0-16db0464c810",
+        "uuid_related": [
+          "10abe0dd-b8b6-4a65-a41a-f7933ae4800e",
+          "e1b2492f-3707-4d02-b1d6-00c2ffcc0476",
+          "462b97bf-ef9d-4972-9703-75970dd6ba29",
+          "5cba20a9-4982-4e3e-92db-4fa98669e6d0",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "acee4f26-6c27-4cfc-a364-2286a9feb036",
+          "9be2615b-447d-4843-8913-ecadeb658b7d"
+        ]
+      },
+      {
+        "_version_": 1.8628860241762058e+18,
+        "author_sort": "Newton, Isaac (Sir), 1642-1727",
+        "cito_Catalog": "Newton, Isaac",
+        "dcterms_description": "5 Aug 1700: Newton, Isaac (Sir), 1642-1727 (London, England, United Kingdom) to Barton, Catherine, 1679-1740 (Pudlicote, Oxfordshire, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000990190",
+        "dcterms_identifier-editi_": "editi_990190",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7049458f-ef72-40f2-990f-0385020262b3",
+        "dcterms_identifier-uuid_": "uuid_7049458f-ef72-40f2-990f-0385020262b3",
+        "dcterms_language": "English",
+        "destination_sort": "Pudlicote, Oxfordshire, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0271f3fe-96bd-45c4-99fb-cc40143792b7",
+          "http://localhost/manifestation/fa017a79-02f1-4052-8711-ba61a3f66af4"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d9634499-a63e-405c-9545-d74742523bca"
+        ],
+        "id": "uuid_7049458f-ef72-40f2-990f-0385020262b3",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860",
+          "http://localhost/location/b8ba81ad-5990-40f7-8da6-b28818663361"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/b8ba81ad-5990-40f7-8da6-b28818663361"
+        ],
+        "mail_destination-rdf_value": "For Mris. Catherine Barton at Mr Gyre's at Pudlicot neare\nWoodstock in Oxfordshire By Chipping-Norton Bagg.",
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/d2c14090-a394-4ecb-8e46-84de9919cc8c"
+        ],
+        "manifestation-institution-place": [
+          "The National Archives (UK)",
+          "TNA\nPublic Record Office, National Archives, Kew\nPublic Record Office, London\nPRO\nHMC\nP.R.O.\nThe National Archives, Kew",
+          "Kew, Richmond, Surrey",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0271f3fe-96bd-45c4-99fb-cc40143792b7",
+          "http://localhost/manifestation/fa017a79-02f1-4052-8711-ba61a3f66af4"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Aug. 5. 1700",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2019-03-27T11:07:42Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "The Newton Project, with Cultures of Knowledge, 27 March 2019",
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1700,
+        "people": [
+          "http://localhost/person/d9634499-a63e-405c-9545-d74742523bca",
+          "http://localhost/person/d2c14090-a394-4ecb-8e46-84de9919cc8c"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Barton, Catherine, 1679-1740",
+        "started_date_gregorian_sort": "1700-08-05T00:00:00Z",
+        "started_date_sort": "1700-08-05T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:59:53.216Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7049458f-ef72-40f2-990f-0385020262b3",
+        "uuid": "7049458f-ef72-40f2-990f-0385020262b3",
+        "uuid_related": [
+          "0271f3fe-96bd-45c4-99fb-cc40143792b7",
+          "fa017a79-02f1-4052-8711-ba61a3f66af4",
+          "d9634499-a63e-405c-9545-d74742523bca",
+          "d2c14090-a394-4ecb-8e46-84de9919cc8c",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "b8ba81ad-5990-40f7-8da6-b28818663361"
+        ]
+      },
+      {
+        "_version_": 1.8628857319464632e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "A long letter of condolence on the death\nof her husband.",
+        "dcterms_description": "7 Jun 1701: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Hastings, Frances, d.1723",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044222",
+        "dcterms_identifier-editi_": "editi_44222",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/72ad4fa4-80f1-4f81-a908-558d11795aa0",
+        "dcterms_identifier-uuid_": "uuid_72ad4fa4-80f1-4f81-a908-558d11795aa0",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/9724aea6-cc0c-4030-96f6-2939b67aa9c3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_72ad4fa4-80f1-4f81-a908-558d11795aa0",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Hastings, Frances, widow of the 7th E. of Huntingdon.",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/3e7842ef-1679-4527-99b6-93c12046397e"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/9724aea6-cc0c-4030-96f6-2939b67aa9c3"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "7. June. 1701",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1701,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/3e7842ef-1679-4527-99b6-93c12046397e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Hastings, Frances, d.1723",
+        "started_date_gregorian_sort": "1701-06-07T00:00:00Z",
+        "started_date_sort": "1701-06-07T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/72ad4fa4-80f1-4f81-a908-558d11795aa0",
+        "uuid": "72ad4fa4-80f1-4f81-a908-558d11795aa0",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "3e7842ef-1679-4527-99b6-93c12046397e",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "9724aea6-cc0c-4030-96f6-2939b67aa9c3"
+        ]
+      },
+      {
+        "_version_": 1.8628857325640745e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Out of a just regard to the honour of his Friends\nmemory and to the honour also of the Church and Nation\nof both of which he was a great ornament he will willingly\nundertake to write his character being furnished by\nher with the letters and papers he left behind him.\nSends a list of queries as to the year of her late\nhusbands birth, of what school he was educated and\nUniversity and the years he spent abroad &c. and wants\nthe loan of the notes he made while abroad.",
+        "dcterms_description": "7 Jan 1702: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044467",
+        "dcterms_identifier-editi_": "editi_44467",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a6c1838b-6f25-46cc-894a-e58a0852ab7c",
+        "dcterms_identifier-uuid_": "uuid_a6c1838b-6f25-46cc-894a-e58a0852ab7c",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0c5ffc2e-e232-4fa4-9635-c80a666e7ae2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_a6c1838b-6f25-46cc-894a-e58a0852ab7c",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. widow of Dr. Robert Huntington.",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0c5ffc2e-e232-4fa4-9635-c80a666e7ae2"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "7. Jan. 1701-2",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1702,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1702-01-07T00:00:00Z",
+        "started_date_sort": "1702-01-07T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a6c1838b-6f25-46cc-894a-e58a0852ab7c",
+        "uuid": "a6c1838b-6f25-46cc-894a-e58a0852ab7c",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "0c5ffc2e-e232-4fa4-9635-c80a666e7ae2",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.8628857325640745e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "On some matter evidently relating to the affairs of\nher late husband as Bishop, he thinks that as the Earl\nof Rochester is removed from Ireland it would be best\nfor her to write to the Bp. of Worcester who has a\ngreater interest with the Archbp. of Lambeth than even\nthe Earl would have had. Thanks for the particulars\nshe sent about her late husband and hopes answers to\nthe other of his queries.",
+        "dcterms_description": "31 Jan 1702: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044468",
+        "dcterms_identifier-editi_": "editi_44468",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6156d680-578c-415d-926b-d4fa04e7ce71",
+        "dcterms_identifier-uuid_": "uuid_6156d680-578c-415d-926b-d4fa04e7ce71",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/8bf2c14c-8e54-45aa-96b8-5995b6d21573"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_6156d680-578c-415d-926b-d4fa04e7ce71",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs.",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/8bf2c14c-8e54-45aa-96b8-5995b6d21573"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "31. Jan. 1701-2",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 31,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1702,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1702-01-31T00:00:00Z",
+        "started_date_sort": "1702-01-31T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6156d680-578c-415d-926b-d4fa04e7ce71",
+        "uuid": "6156d680-578c-415d-926b-d4fa04e7ce71",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "8bf2c14c-8e54-45aa-96b8-5995b6d21573",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.862885732565123e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Thanks for letters from the late Bishop's brother\nand herself. Has digested with some difficulty her\nlate husbands papers and notes and is now arranging\nthem for printing, fears that at present, with the\nfresh outbreak of war, there is small hope of publishing\nthe Bishop's Life. (He did not publish Bp. Huntington's\nLife until 1704). Again advises her to approach the\nBp of Worcester for his influence at Lambeth.",
+        "dcterms_description": "7 Mar 1702: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044469",
+        "dcterms_identifier-editi_": "editi_44469",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/22c52503-9715-420a-8701-5a5dd181837f",
+        "dcterms_identifier-uuid_": "uuid_22c52503-9715-420a-8701-5a5dd181837f",
+        "dcterms_language": "English",
+        "dcterms_references-person": [
+          "http://localhost/person/2363cb00-b704-4b87-a2b1-4ddb426594bc"
+        ],
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a895b180-54cf-4474-a26e-a45483b19988"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_22c52503-9715-420a-8701-5a5dd181837f",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. Robert",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a895b180-54cf-4474-a26e-a45483b19988"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "7. March. 1701-2",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2025-09-03T11:10:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1702,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1702-03-07T00:00:00Z",
+        "started_date_sort": "1702-03-07T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/22c52503-9715-420a-8701-5a5dd181837f",
+        "uuid": "22c52503-9715-420a-8701-5a5dd181837f",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "a895b180-54cf-4474-a26e-a45483b19988",
+          "8412236b-c8e3-4a43-aeed-10c550320be5",
+          "2363cb00-b704-4b87-a2b1-4ddb426594bc"
+        ]
+      },
+      {
+        "_version_": 1.862885732565123e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Tells her that the Archbishop of Dublin has the two\nM.S.S sent by the Bp of Killaloe, gives the charges\nand translations of the new Irish Bishops. The D.\nof Ormonde is made Ld: Lieutenant.",
+        "dcterms_description": "6 Feb 1703: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044470",
+        "dcterms_identifier-editi_": "editi_44470",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6ce4fb48-7b31-42bd-abff-1616cc9fbf88",
+        "dcterms_identifier-uuid_": "uuid_6ce4fb48-7b31-42bd-abff-1616cc9fbf88",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0ebca12c-c20c-4af9-a2ed-8f73ea73ac6c"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_6ce4fb48-7b31-42bd-abff-1616cc9fbf88",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. widow of Robert, bp. of Raphoe",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0ebca12c-c20c-4af9-a2ed-8f73ea73ac6c"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "6. Feb. 1702-3",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1703,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1703-02-06T00:00:00Z",
+        "started_date_sort": "1703-02-06T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6ce4fb48-7b31-42bd-abff-1616cc9fbf88",
+        "uuid": "6ce4fb48-7b31-42bd-abff-1616cc9fbf88",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "0ebca12c-c20c-4af9-a2ed-8f73ea73ac6c",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.8628861087354716e+18,
+        "author_sort": "Flamsteed, John, 1646-1719",
+        "cito_Catalog": "Flamsteed, John",
+        "dcterms_description": "1 Jun 1703: Flamsteed, John, 1646-1719 (Royal Observatory, Greenwich, London, England) to Symonds, Katherine, fl. 1700-1703",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001019205",
+        "dcterms_identifier-editi_": "editi_1019205",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9d029c7c-bc32-4396-9d88-a64d54aaf74d",
+        "dcterms_identifier-uuid_": "uuid_9d029c7c-bc32-4396-9d88-a64d54aaf74d",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3dee1a2c-bebf-49ac-907e-b130bbf1f99e",
+          "http://localhost/manifestation/3cd647c6-c094-4727-9003-e77a71d5fed8"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5f3883bf-eedf-40da-9990-eb7715d5bcf2"
+        ],
+        "id": "uuid_9d029c7c-bc32-4396-9d88-a64d54aaf74d",
+        "locations": [
+          "http://localhost/location/9bb971f3-eb83-4a91-9b53-fa9e0d98c79e"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/9bb971f3-eb83-4a91-9b53-fa9e0d98c79e"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/f2e09411-33f5-4e50-8f04-fe2121d12b54"
+        ],
+        "manifestation-institution-place": [
+          "Cambridge University Library",
+          "Cambridge",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3dee1a2c-bebf-49ac-907e-b130bbf1f99e",
+          "http://localhost/manifestation/3cd647c6-c094-4727-9003-e77a71d5fed8"
+        ],
+        "object_type": "work",
+        "origin_sort": "Royal Observatory, Greenwich, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "June 1 (♂) [Tuesday] 1703",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2021-10-05T21:27:36Z",
+        "ox_internalModified": "2021-10-05T21:27:36Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 5 October 2021",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1703,
+        "people": [
+          "http://localhost/person/5f3883bf-eedf-40da-9990-eb7715d5bcf2",
+          "http://localhost/person/f2e09411-33f5-4e50-8f04-fe2121d12b54"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Symonds, Katherine, fl. 1700-1703",
+        "started_date_gregorian_sort": "1703-06-12T00:00:00Z",
+        "started_date_sort": "1703-06-01T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:00:34.691Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9d029c7c-bc32-4396-9d88-a64d54aaf74d",
+        "uuid": "9d029c7c-bc32-4396-9d88-a64d54aaf74d",
+        "uuid_related": [
+          "3dee1a2c-bebf-49ac-907e-b130bbf1f99e",
+          "3cd647c6-c094-4727-9003-e77a71d5fed8",
+          "5f3883bf-eedf-40da-9990-eb7715d5bcf2",
+          "f2e09411-33f5-4e50-8f04-fe2121d12b54",
+          "9bb971f3-eb83-4a91-9b53-fa9e0d98c79e"
+        ]
+      },
+      {
+        "_version_": 1.8628857325661716e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Has now completed and ready for the press, the\naccount of the Life of her late husband the Bp of\nRaphoe and has noticed the Monument it is now proposed\nto put up in the Chapel of Dublin College. Will she\nsend him the inscription on it. He is publishing the\nLife together with the Life of Dr. Edw. Bernard in one\nvolume.",
+        "dcterms_description": "25 Jan 1704: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044471",
+        "dcterms_identifier-editi_": "editi_44471",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9771a88a-e8f0-44f1-94d9-c9bbc1301e4f",
+        "dcterms_identifier-uuid_": "uuid_9771a88a-e8f0-44f1-94d9-c9bbc1301e4f",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7c1bd17b-d6d1-4322-a601-d4815d6f7b67"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_9771a88a-e8f0-44f1-94d9-c9bbc1301e4f",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. Robert",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7c1bd17b-d6d1-4322-a601-d4815d6f7b67"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "25. Jan. 1703-4",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1704,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1704-01-25T00:00:00Z",
+        "started_date_sort": "1704-01-25T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9771a88a-e8f0-44f1-94d9-c9bbc1301e4f",
+        "uuid": "9771a88a-e8f0-44f1-94d9-c9bbc1301e4f",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "7c1bd17b-d6d1-4322-a601-d4815d6f7b67",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.8628857325661716e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Thanks for the Inscription to be cut upon the\nMonument, to be erected to her late husband the\nBp. of Raphoe, has just received the 1st sheet of\nthe Life from the printer.",
+        "dcterms_description": "10 Feb 1704: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044472",
+        "dcterms_identifier-editi_": "editi_44472",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e32420d2-9245-4034-bdd0-3d687b300e17",
+        "dcterms_identifier-uuid_": "uuid_e32420d2-9245-4034-bdd0-3d687b300e17",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/39d1ebd9-77d5-44d5-b2f1-deadc97e6c64"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_e32420d2-9245-4034-bdd0-3d687b300e17",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. Robert",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/39d1ebd9-77d5-44d5-b2f1-deadc97e6c64"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "10. Feb. 1703-4",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1704,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1704-02-10T00:00:00Z",
+        "started_date_sort": "1704-02-10T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e32420d2-9245-4034-bdd0-3d687b300e17",
+        "uuid": "e32420d2-9245-4034-bdd0-3d687b300e17",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "39d1ebd9-77d5-44d5-b2f1-deadc97e6c64",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.8628857317136794e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Is very glad to have received so good an account\nof her son from Rome and trusts he will reach Naples\nsafely. Please thank Mrs. Cotton for her gift of\nSir John's picture, at which he was very much surprised\nfor he thinks it too great a present for him to\nreceive, and the only return he can make is to give\nher his humble and hearty thanks. \"Is glad the\ntwo Nephews returned their Uncles civility and the\nkind treatment you gave will he hopes work upon their\nill nature and charm them into respectful complacency\nand take them off from giving you any further trouble.",
+        "dcterms_description": "18 Apr 1704: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Cotton, Robert (Mrs), fl. 1704-1706",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044091",
+        "dcterms_identifier-editi_": "editi_44091",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/621806c2-dcbe-4e24-b96b-50a9f8751b93",
+        "dcterms_identifier-uuid_": "uuid_621806c2-dcbe-4e24-b96b-50a9f8751b93",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/9f9dd554-f78f-4f8c-9893-92f28b5f15e5"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_621806c2-dcbe-4e24-b96b-50a9f8751b93",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Cotton, Mrs. Robert.",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/cd64a990-7b5c-4aba-9fd8-521afcbc0dd0"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/9f9dd554-f78f-4f8c-9893-92f28b5f15e5"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "18. April. 1704",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1704,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/cd64a990-7b5c-4aba-9fd8-521afcbc0dd0"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Cotton, Robert (Mrs), fl. 1704-1706",
+        "started_date_gregorian_sort": "1704-04-18T00:00:00Z",
+        "started_date_sort": "1704-04-18T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/621806c2-dcbe-4e24-b96b-50a9f8751b93",
+        "uuid": "621806c2-dcbe-4e24-b96b-50a9f8751b93",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "cd64a990-7b5c-4aba-9fd8-521afcbc0dd0",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "9f9dd554-f78f-4f8c-9893-92f28b5f15e5"
+        ]
+      },
+      {
+        "_version_": 1.8628857325672202e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Tells that at last the little book of her late\nhusband's life is finished. He hopes that the book\nwill convey to posterity the piety, learning and\nvirtue of her late husband etc.",
+        "dcterms_description": "11 May 1704: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044473",
+        "dcterms_identifier-editi_": "editi_44473",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3fccef6c-5c08-47bc-aac5-5523d107214f",
+        "dcterms_identifier-uuid_": "uuid_3fccef6c-5c08-47bc-aac5-5523d107214f",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c8edd4af-7bda-4dbd-b794-ac8521ff40a8"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_3fccef6c-5c08-47bc-aac5-5523d107214f",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. Robert.",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c8edd4af-7bda-4dbd-b794-ac8521ff40a8"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "11. May. 1704",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1704,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1704-05-11T00:00:00Z",
+        "started_date_sort": "1704-05-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3fccef6c-5c08-47bc-aac5-5523d107214f",
+        "uuid": "3fccef6c-5c08-47bc-aac5-5523d107214f",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "c8edd4af-7bda-4dbd-b794-ac8521ff40a8",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.8628857325672202e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Expresses how much he values her friendship,\nenquires after her health. Hopes the Copys of his\nbook The Life of her husband reached her safely at\nGloucester.",
+        "dcterms_description": "4 Jul 1704: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044474",
+        "dcterms_identifier-editi_": "editi_44474",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ca7de61d-5555-4265-9566-2b52615fd381",
+        "dcterms_identifier-uuid_": "uuid_ca7de61d-5555-4265-9566-2b52615fd381",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e6da0fdc-0917-40a0-b6a1-e0787348b457"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_ca7de61d-5555-4265-9566-2b52615fd381",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. Robert widow of Robert, Bp. of Raphoe",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e6da0fdc-0917-40a0-b6a1-e0787348b457"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "4. July. 1704",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1704,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1704-07-04T00:00:00Z",
+        "started_date_sort": "1704-07-04T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ca7de61d-5555-4265-9566-2b52615fd381",
+        "uuid": "ca7de61d-5555-4265-9566-2b52615fd381",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "e6da0fdc-0917-40a0-b6a1-e0787348b457",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.8628857325682688e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "She has suggested that on the return of her brother-in-law\nSmith should be given some remuneration for\nwriting the Life of her late husband. Smith is very\nhurt and indignant at this suggestion and protests that\nhe wrote and printed the book at his own cost solely to\nshow the world the excellence of her husband in wisdom,\npiety arid learning and was inspired to do so by the\ngreat love and friendship he had for him. Has sent a\ncopy to the Royal Society. The work is praised by Lord\nClarendon and the Archbp: of Armagh.",
+        "dcterms_description": "15 Jul 1704: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044475",
+        "dcterms_identifier-editi_": "editi_44475",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6c062a4f-dcb7-4a0b-9e4f-0421c9be9260",
+        "dcterms_identifier-uuid_": "uuid_6c062a4f-dcb7-4a0b-9e4f-0421c9be9260",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7bc6047a-46cb-4fc1-bd4f-ecdd757da6c5"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_6c062a4f-dcb7-4a0b-9e4f-0421c9be9260",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. Robert",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7bc6047a-46cb-4fc1-bd4f-ecdd757da6c5"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "15. July. 1704",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1704,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1704-07-15T00:00:00Z",
+        "started_date_sort": "1704-07-15T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6c062a4f-dcb7-4a0b-9e4f-0421c9be9260",
+        "uuid": "6c062a4f-dcb7-4a0b-9e4f-0421c9be9260",
+        "uuid_related": [
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "7bc6047a-46cb-4fc1-bd4f-ecdd757da6c5",
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.8628857317126308e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Is glad to hear that her son is settled in Paris\nand is in good health, perceives that Mr. Cotton\ndesires him not to return home until next year. Has\nhad a letter from Paris in which the son laments he\nhas not heard from his father these 3 months. Regrets\nto learn of the unruly conduct of her two nephews.\nDr. Sherlock is to preach in St. Pauls before Q.Anne\nto celebrate the glorys and triumphs of the late\nvictorys in Germany. \"You may easily imagine that\nthe D. of M. will have no inconsiderable part in the\npanegyrie.",
+        "dcterms_description": "2 Sep 1704: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Cotton, Robert (Mrs), fl. 1704-1706",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044089",
+        "dcterms_identifier-editi_": "editi_44089",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/498bba73-6c83-450e-8d38-1425d22cb4c9",
+        "dcterms_identifier-uuid_": "uuid_498bba73-6c83-450e-8d38-1425d22cb4c9",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e75228b1-6088-433e-b369-23be3b4fb9a8"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_498bba73-6c83-450e-8d38-1425d22cb4c9",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Mrs. Robert Cotton.",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/cd64a990-7b5c-4aba-9fd8-521afcbc0dd0"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e75228b1-6088-433e-b369-23be3b4fb9a8"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "2. Sept. 1704",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1704,
+        "people": [
+          "http://localhost/person/cd64a990-7b5c-4aba-9fd8-521afcbc0dd0",
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Cotton, Robert (Mrs), fl. 1704-1706",
+        "started_date_gregorian_sort": "1704-09-02T00:00:00Z",
+        "started_date_sort": "1704-09-02T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/498bba73-6c83-450e-8d38-1425d22cb4c9",
+        "uuid": "498bba73-6c83-450e-8d38-1425d22cb4c9",
+        "uuid_related": [
+          "cd64a990-7b5c-4aba-9fd8-521afcbc0dd0",
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "e75228b1-6088-433e-b369-23be3b4fb9a8"
+        ]
+      },
+      {
+        "_version_": 1.8628857226151854e+18,
+        "author_sort": "Rawlinson, Thomas (Sir), 1647-1708",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Reminds her of her repeated promises to pay her arrears\nof rent but none of her promises have been kept and he\nhopes she will at least send him part of the money if\nnot all.",
+        "dcterms_description": "5 Jul 1705: Rawlinson, Thomas (Sir), 1647-1708 (London, England, United Kingdom) to Ivens (Mrs), fl. 1702-1705",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000040215",
+        "dcterms_identifier-editi_": "editi_40215",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/13e7e09d-394d-4ec4-96fb-fa22a271baa6",
+        "dcterms_identifier-uuid_": "uuid_13e7e09d-394d-4ec4-96fb-fa22a271baa6",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/19ae5b73-fce7-410a-b654-3f04bf2b4e75"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9de16dae-c229-43bc-89e9-3ea44ec07641"
+        ],
+        "id": "uuid_13e7e09d-394d-4ec4-96fb-fa22a271baa6",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Ivens, Mrs.",
+        "mail_authors-rdf_value": "Rawlinson, Sir Thos: 1647-1708.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/51956e63-8c68-4d37-af71-9ced558c0c59"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/19ae5b73-fce7-410a-b654-3f04bf2b4e75"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 5. 1705.",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1705,
+        "people": [
+          "http://localhost/person/9de16dae-c229-43bc-89e9-3ea44ec07641",
+          "http://localhost/person/51956e63-8c68-4d37-af71-9ced558c0c59"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Ivens (Mrs), fl. 1702-1705",
+        "started_date_gregorian_sort": "1705-07-05T00:00:00Z",
+        "started_date_sort": "1705-07-05T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:18.995Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/13e7e09d-394d-4ec4-96fb-fa22a271baa6",
+        "uuid": "13e7e09d-394d-4ec4-96fb-fa22a271baa6",
+        "uuid_related": [
+          "9de16dae-c229-43bc-89e9-3ea44ec07641",
+          "51956e63-8c68-4d37-af71-9ced558c0c59",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "19ae5b73-fce7-410a-b654-3f04bf2b4e75"
+        ]
+      },
+      {
+        "_version_": 1.8628857325682688e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Among the M.S.S she put into his hands when writing\nthe Life of her late husband is a M.S of the Apocrypha\nin Irish. This M.S was lent to the late Bp. by the\nArchbp. of Armagh, who now desires to recover it, will\nshe give him instructions as to its return? All the\npapers she left with him he has preserved and marked as\nhers, he hopes when times are better they may be printed.",
+        "dcterms_description": "14 Jan 1706: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044476",
+        "dcterms_identifier-editi_": "editi_44476",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/68609dab-f9e4-44b5-a429-1a934f762225",
+        "dcterms_identifier-uuid_": "uuid_68609dab-f9e4-44b5-a429-1a934f762225",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/06bd7d5f-8272-48fa-8a80-b15b95a49558"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_68609dab-f9e4-44b5-a429-1a934f762225",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. Robert widow of the Bp. of Raphoe",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/06bd7d5f-8272-48fa-8a80-b15b95a49558"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "14. Jan. 1705-6",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1706,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1706-01-14T00:00:00Z",
+        "started_date_sort": "1706-01-14T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/68609dab-f9e4-44b5-a429-1a934f762225",
+        "uuid": "68609dab-f9e4-44b5-a429-1a934f762225",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "06bd7d5f-8272-48fa-8a80-b15b95a49558",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.8628857325693174e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "The Archbishop of Armagh desires him to thank her\nfor the return of the M.S.S (see fol. 115) he lent her\nlate husband and will use what influence he has to\nsettle her affairs in Ireland. He has not at present\nfound a safe hand to convey the M.S to the Archbishop.",
+        "dcterms_description": "6 May 1706: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Huntington, Mary, fl. 1692-1708",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044477",
+        "dcterms_identifier-editi_": "editi_44477",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/74473711-17cf-4299-9d64-1cef1018eae0",
+        "dcterms_identifier-uuid_": "uuid_74473711-17cf-4299-9d64-1cef1018eae0",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c14a1dce-77ad-47f9-82ad-438381b66bca"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_74473711-17cf-4299-9d64-1cef1018eae0",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Huntington, Mrs. widow of Robert, Bp. of Raphoe",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c14a1dce-77ad-47f9-82ad-438381b66bca"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "6. May. 1706",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1706,
+        "people": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af",
+          "http://localhost/person/8412236b-c8e3-4a43-aeed-10c550320be5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Huntington, Mary, fl. 1692-1708",
+        "started_date_gregorian_sort": "1706-05-06T00:00:00Z",
+        "started_date_sort": "1706-05-06T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/74473711-17cf-4299-9d64-1cef1018eae0",
+        "uuid": "74473711-17cf-4299-9d64-1cef1018eae0",
+        "uuid_related": [
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "c14a1dce-77ad-47f9-82ad-438381b66bca",
+          "8412236b-c8e3-4a43-aeed-10c550320be5"
+        ]
+      },
+      {
+        "_version_": 1.8628857317136794e+18,
+        "author_sort": "Smith, Thomas (Dr), 1638-1710",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Thanks for a present. Has not written to Mr.\nCotton for some time being unwilling to send him\nhis thoughts on the present state of affairs, which\nif the letters had been intercepted might have brought\ntrouble on both of them. Is glad to hear of her\nsons progress in learning and manly exercises.\nSends a book for Cotton which he has lately had\nprinted in Holland. Sends services to Madame\nCotton, Mr. Cotton, to the young gentleman, Mr.\nCarre and Mr. Redman, with best wishes for the new\nYear.",
+        "dcterms_description": "18 Dec 1706: Smith, Thomas (Dr), 1638-1710 (London, England, United Kingdom) to Cotton, Robert (Mrs), fl. 1704-1706",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000044090",
+        "dcterms_identifier-editi_": "editi_44090",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/4519fda3-33ab-4b4d-8e3e-61ba9fac69d8",
+        "dcterms_identifier-uuid_": "uuid_4519fda3-33ab-4b4d-8e3e-61ba9fac69d8",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6f653671-4c22-4e50-80dc-aeda791f9301"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "id": "uuid_4519fda3-33ab-4b4d-8e3e-61ba9fac69d8",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Mrs. Robert Cotton at Gidding.",
+        "mail_authors-rdf_value": "Smith, Thos: 1638-1710. D.D.",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/cd64a990-7b5c-4aba-9fd8-521afcbc0dd0"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6f653671-4c22-4e50-80dc-aeda791f9301"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "18. Dec. 1706",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 22 February 2010",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1706,
+        "people": [
+          "http://localhost/person/cd64a990-7b5c-4aba-9fd8-521afcbc0dd0",
+          "http://localhost/person/97710755-cb65-4147-9c5e-f16b884c39af"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Cotton, Robert (Mrs), fl. 1704-1706",
+        "started_date_gregorian_sort": "1706-12-18T00:00:00Z",
+        "started_date_sort": "1706-12-18T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:20.515Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/4519fda3-33ab-4b4d-8e3e-61ba9fac69d8",
+        "uuid": "4519fda3-33ab-4b4d-8e3e-61ba9fac69d8",
+        "uuid_related": [
+          "cd64a990-7b5c-4aba-9fd8-521afcbc0dd0",
+          "97710755-cb65-4147-9c5e-f16b884c39af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "6f653671-4c22-4e50-80dc-aeda791f9301"
+        ]
+      },
+      {
+        "_version_": 1.8628861750358835e+18,
+        "author_sort": "Pitt, Robert, 1680-1727",
+        "cito_Catalog": "Social Bodies project",
+        "comments": [
+          "http://localhost/comment/3c7a0fae-ae5c-4a48-a2a5-af9fb27e93b8"
+        ],
+        "dcterms_abstract": "He does not want to miss an opportunity of assuring Harriet of his affection for her—he is uneasy to be apart from her, and is keen to return to her as quickly as he can. He has seen his mother, and his uncle, who is likely to visit them soon (apparently because of their recently born son). [Abstract by the 'Social Bodies: Embodiment in British Letters c. 1680–1820' project, University of Birmingham]",
+        "dcterms_description": "1708: Pitt, Robert, 1680-1727 (London, England, United Kingdom) to Pitt, Harriett, d.1736 (England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001041102",
+        "dcterms_identifier-editi_": "editi_1041102",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cae24e58-3d70-4429-8280-fbacae1dae87",
+        "dcterms_identifier-uuid_": "uuid_cae24e58-3d70-4429-8280-fbacae1dae87",
+        "dcterms_language": "English",
+        "destination_sort": "England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/60d47ca6-d0c8-47d2-aea2-1bf4f7e89405"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/e18938ca-9bec-497a-a044-b6ff0f075517"
+        ],
+        "id": "uuid_cae24e58-3d70-4429-8280-fbacae1dae87",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860",
+          "http://localhost/location/8029cfd7-cbda-454c-86e7-ec517c2b02d5"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/8029cfd7-cbda-454c-86e7-ec517c2b02d5"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/91de37a2-e1b0-4fe8-b261-5a6af56577af"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/60d47ca6-d0c8-47d2-aea2-1bf4f7e89405"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/3c7a0fae-ae5c-4a48-a2a5-af9fb27e93b8"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2023-07-30T10:24:45Z",
+        "ox_internalModified": "2023-11-29T13:33:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Social Bodies: Embodiment in British Letters c. 1680–1820 project, University of Birmingham, 30 July 2023",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_uncertain": true,
+        "ox_started-ox_year": 1708,
+        "people": [
+          "http://localhost/person/e18938ca-9bec-497a-a044-b6ff0f075517",
+          "http://localhost/person/91de37a2-e1b0-4fe8-b261-5a6af56577af"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pitt, Harriett, d.1736",
+        "started_date_gregorian_sort": "1709-01-11T00:00:00Z",
+        "started_date_sort": "1708-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:02.656Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cae24e58-3d70-4429-8280-fbacae1dae87",
+        "uuid": "cae24e58-3d70-4429-8280-fbacae1dae87",
+        "uuid_related": [
+          "60d47ca6-d0c8-47d2-aea2-1bf4f7e89405",
+          "e18938ca-9bec-497a-a044-b6ff0f075517",
+          "91de37a2-e1b0-4fe8-b261-5a6af56577af",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "8029cfd7-cbda-454c-86e7-ec517c2b02d5",
+          "3c7a0fae-ae5c-4a48-a2a5-af9fb27e93b8"
+        ]
+      },
+      {
+        "_version_": 1.862886220937298e+18,
+        "author_sort": "Chamberlayne, John, 1668-1723",
+        "cito_Catalog": "William Wake correspondence and papers card catalogue, Christ Church",
+        "dcterms_abstract": "Printed letter to Queen, from Chamberlayne as secretary of Queen Anne's Bounty, q.v., on its need for returns of parochial values from the bishops.\n\nReminder letters from Chamberlayne to Wake. Petty France, Westminster, 12th and 30th May 1710.",
+        "dcterms_description": "10 Jan 1710: Chamberlayne, John, 1668-1723 (Petty France, Westminster, London, England) to Anne, Queen of Great Britain and Ireland, 1665-1714",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001054834",
+        "dcterms_identifier-editi_": "editi_1054834",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/14bdae1b-edc0-4112-a7e7-54e5dfc8e26a",
+        "dcterms_identifier-uuid_": "uuid_14bdae1b-edc0-4112-a7e7-54e5dfc8e26a",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/60c32af8-bd7f-4fbd-bc52-18b3122cde8d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ab555b76-629d-4c53-b8d7-b994699d4f31"
+        ],
+        "id": "uuid_14bdae1b-edc0-4112-a7e7-54e5dfc8e26a",
+        "locations": [
+          "http://localhost/location/6ac7d042-60af-4bdc-8e61-f488837cf606"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6ac7d042-60af-4bdc-8e61-f488837cf606"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a93d389d-bfcc-466e-b5d8-0c24a6d4cee4"
+        ],
+        "manifestation-institution-place": [
+          "Christ Church College Library, University of Oxford",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/60c32af8-bd7f-4fbd-bc52-18b3122cde8d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Petty France, Westminster, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "10th January 1709/10",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2024-06-03T18:02:39Z",
+        "ox_internalModified": "2024-06-03T18:02:39Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Christ Church Archives, University of Oxford, with Cultures of Knowledge, 3 June 2024",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1710,
+        "people": [
+          "http://localhost/person/ab555b76-629d-4c53-b8d7-b994699d4f31",
+          "http://localhost/person/a93d389d-bfcc-466e-b5d8-0c24a6d4cee4"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4a6de7e7-a43c-4193-aa44-5af3a9dbbf80"
+        ],
+        "recipient_sort": "Anne, Queen of Great Britain and Ireland, 1665-1714",
+        "resources": [
+          "http://localhost/resource/4a6de7e7-a43c-4193-aa44-5af3a9dbbf80"
+        ],
+        "started_date_gregorian_sort": "1710-01-21T00:00:00Z",
+        "started_date_sort": "1710-01-10T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:24.063Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/14bdae1b-edc0-4112-a7e7-54e5dfc8e26a",
+        "uuid": "14bdae1b-edc0-4112-a7e7-54e5dfc8e26a",
+        "uuid_related": [
+          "60c32af8-bd7f-4fbd-bc52-18b3122cde8d",
+          "ab555b76-629d-4c53-b8d7-b994699d4f31",
+          "a93d389d-bfcc-466e-b5d8-0c24a6d4cee4",
+          "6ac7d042-60af-4bdc-8e61-f488837cf606",
+          "4a6de7e7-a43c-4193-aa44-5af3a9dbbf80"
+        ]
+      },
+      {
+        "_version_": 1.862886026151723e+18,
+        "author_sort": "Montagu, Edward Wortley, 1678-1761",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "24 Oct 1710: Montagu, Edward Wortley, 1678-1761 (London, England, United Kingdom) to Montagu, Mary Wortley (Lady), 1689-1762",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000990972",
+        "dcterms_identifier-editi_": "editi_990972",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9bfae486-fc9e-46e6-8a49-a1ba34f59393",
+        "dcterms_identifier-uuid_": "uuid_9bfae486-fc9e-46e6-8a49-a1ba34f59393",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fea3558e-78f8-48cc-a323-bfed6089bb2b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d388d5d5-bebd-4c8b-a0c0-f9793f802964"
+        ],
+        "id": "uuid_9bfae486-fc9e-46e6-8a49-a1ba34f59393",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fea3558e-78f8-48cc-a323-bfed6089bb2b"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2019-04-02T18:03:37Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 2 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 24,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1710,
+        "people": [
+          "http://localhost/person/d388d5d5-bebd-4c8b-a0c0-f9793f802964",
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2c7cb40c-5012-40e8-b20e-37aceffd13b9"
+        ],
+        "recipient_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "resources": [
+          "http://localhost/resource/2c7cb40c-5012-40e8-b20e-37aceffd13b9"
+        ],
+        "started_date_gregorian_sort": "1710-11-04T00:00:00Z",
+        "started_date_sort": "1710-10-24T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:59:53.707Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9bfae486-fc9e-46e6-8a49-a1ba34f59393",
+        "uuid": "9bfae486-fc9e-46e6-8a49-a1ba34f59393",
+        "uuid_related": [
+          "fea3558e-78f8-48cc-a323-bfed6089bb2b",
+          "d388d5d5-bebd-4c8b-a0c0-f9793f802964",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "2c7cb40c-5012-40e8-b20e-37aceffd13b9"
+        ]
+      },
+      {
+        "_version_": 1.8628860261538202e+18,
+        "author_sort": "Montagu, Edward Wortley, 1678-1761",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/a5e3c2ab-0e3a-4fb6-b6cc-5411c2e58cb9"
+        ],
+        "dcterms_description": "21 Nov 1710: Montagu, Edward Wortley, 1678-1761 (London, England, United Kingdom) to Montagu, Mary Wortley (Lady), 1689-1762",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000990979",
+        "dcterms_identifier-editi_": "editi_990979",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8057d9b0-b554-4ded-a8f5-14cf90fb96b1",
+        "dcterms_identifier-uuid_": "uuid_8057d9b0-b554-4ded-a8f5-14cf90fb96b1",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/cb0c13e1-b90e-4a4a-b8a4-9a28a8a0b66f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d388d5d5-bebd-4c8b-a0c0-f9793f802964"
+        ],
+        "id": "uuid_8057d9b0-b554-4ded-a8f5-14cf90fb96b1",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/cb0c13e1-b90e-4a4a-b8a4-9a28a8a0b66f"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2019-04-02T18:03:40Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/a5e3c2ab-0e3a-4fb6-b6cc-5411c2e58cb9"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 2 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1710,
+        "people": [
+          "http://localhost/person/d388d5d5-bebd-4c8b-a0c0-f9793f802964",
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/df88a7e4-aebb-4ab6-970b-aae4f482b60c"
+        ],
+        "recipient_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "resources": [
+          "http://localhost/resource/df88a7e4-aebb-4ab6-970b-aae4f482b60c"
+        ],
+        "started_date_gregorian_sort": "1710-12-02T00:00:00Z",
+        "started_date_sort": "1710-11-21T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:59:53.707Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8057d9b0-b554-4ded-a8f5-14cf90fb96b1",
+        "uuid": "8057d9b0-b554-4ded-a8f5-14cf90fb96b1",
+        "uuid_related": [
+          "cb0c13e1-b90e-4a4a-b8a4-9a28a8a0b66f",
+          "d388d5d5-bebd-4c8b-a0c0-f9793f802964",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "a5e3c2ab-0e3a-4fb6-b6cc-5411c2e58cb9",
+          "df88a7e4-aebb-4ab6-970b-aae4f482b60c"
+        ]
+      },
+      {
+        "_version_": 1.8628861099927142e+18,
+        "author_sort": "Flamsteed, John, 1646-1719",
+        "cito_Catalog": "Flamsteed, John",
+        "comments": [
+          "http://localhost/comment/2b0e2c6f-29ca-4e7a-b03e-430c054bee5a"
+        ],
+        "dcterms_description": "29 Dec 1710: Flamsteed, John, 1646-1719 (Royal Observatory, Greenwich, London, England) to Anne, Queen of Great Britain and Ireland, 1665-1714",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001019597",
+        "dcterms_identifier-editi_": "editi_1019597",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6f1401bc-926f-4319-8467-64d8bc7c6ab6",
+        "dcterms_identifier-uuid_": "uuid_6f1401bc-926f-4319-8467-64d8bc7c6ab6",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fe23f242-eac2-4f04-a640-4dcdf2944212",
+          "http://localhost/manifestation/39d5a450-1b52-4d80-881d-e4577c4b583d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5f3883bf-eedf-40da-9990-eb7715d5bcf2"
+        ],
+        "id": "uuid_6f1401bc-926f-4319-8467-64d8bc7c6ab6",
+        "locations": [
+          "http://localhost/location/9bb971f3-eb83-4a91-9b53-fa9e0d98c79e"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/9bb971f3-eb83-4a91-9b53-fa9e0d98c79e"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a93d389d-bfcc-466e-b5d8-0c24a6d4cee4"
+        ],
+        "manifestation-institution-place": [
+          "Cambridge University Library",
+          "Cambridge",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fe23f242-eac2-4f04-a640-4dcdf2944212",
+          "http://localhost/manifestation/39d5a450-1b52-4d80-881d-e4577c4b583d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Royal Observatory, Greenwich, London, England",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2021-10-11T17:28:59Z",
+        "ox_internalModified": "2021-10-11T17:28:59Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/2b0e2c6f-29ca-4e7a-b03e-430c054bee5a"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 11 October 2021",
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1710,
+        "people": [
+          "http://localhost/person/5f3883bf-eedf-40da-9990-eb7715d5bcf2",
+          "http://localhost/person/a93d389d-bfcc-466e-b5d8-0c24a6d4cee4"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Anne, Queen of Great Britain and Ireland, 1665-1714",
+        "started_date_gregorian_sort": "1711-01-09T00:00:00Z",
+        "started_date_sort": "1710-12-29T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:00:34.691Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6f1401bc-926f-4319-8467-64d8bc7c6ab6",
+        "uuid": "6f1401bc-926f-4319-8467-64d8bc7c6ab6",
+        "uuid_related": [
+          "fe23f242-eac2-4f04-a640-4dcdf2944212",
+          "39d5a450-1b52-4d80-881d-e4577c4b583d",
+          "5f3883bf-eedf-40da-9990-eb7715d5bcf2",
+          "a93d389d-bfcc-466e-b5d8-0c24a6d4cee4",
+          "9bb971f3-eb83-4a91-9b53-fa9e0d98c79e",
+          "2b0e2c6f-29ca-4e7a-b03e-430c054bee5a"
+        ]
+      },
+      {
+        "_version_": 1.8628860263530496e+18,
+        "author_sort": "Montagu, Edward Wortley, 1678-1761",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/7c136799-f521-4c3a-a1a6-64bea8b7fb01"
+        ],
+        "dcterms_description": "9 Feb 1711: Montagu, Edward Wortley, 1678-1761 (London, England, United Kingdom) to Montagu, Mary Wortley (Lady), 1689-1762 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000990984",
+        "dcterms_identifier-editi_": "editi_990984",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e1f14e9b-16c9-4432-b7ac-7640d1f33448",
+        "dcterms_identifier-uuid_": "uuid_e1f14e9b-16c9-4432-b7ac-7640d1f33448",
+        "dcterms_language": "English",
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/786c782a-54cf-4ea5-83d8-7ed3dcecdf71"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d388d5d5-bebd-4c8b-a0c0-f9793f802964"
+        ],
+        "id": "uuid_e1f14e9b-16c9-4432-b7ac-7640d1f33448",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/786c782a-54cf-4ea5-83d8-7ed3dcecdf71"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2019-04-02T18:03:42Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/7c136799-f521-4c3a-a1a6-64bea8b7fb01"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 2 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 9,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1711,
+        "people": [
+          "http://localhost/person/d388d5d5-bebd-4c8b-a0c0-f9793f802964",
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4f4d6d0c-e4d7-4f44-bc95-b9a870c5c02b"
+        ],
+        "recipient_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "resources": [
+          "http://localhost/resource/4f4d6d0c-e4d7-4f44-bc95-b9a870c5c02b"
+        ],
+        "started_date_gregorian_sort": "1711-02-20T00:00:00Z",
+        "started_date_sort": "1711-02-09T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:59:53.707Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e1f14e9b-16c9-4432-b7ac-7640d1f33448",
+        "uuid": "e1f14e9b-16c9-4432-b7ac-7640d1f33448",
+        "uuid_related": [
+          "786c782a-54cf-4ea5-83d8-7ed3dcecdf71",
+          "d388d5d5-bebd-4c8b-a0c0-f9793f802964",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "7c136799-f521-4c3a-a1a6-64bea8b7fb01",
+          "4f4d6d0c-e4d7-4f44-bc95-b9a870c5c02b"
+        ]
+      },
+      {
+        "_version_": 1.8628856947429868e+18,
+        "author_sort": "Henry, Matthew, 1662-1714",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "He has received his bank bills and turned them into East India\nbonds. He is to be called to trial on Tuesday; doubts if he will\nbe treated reasonably. They have heard some time ago at Hackney\na report $word$ they do not understand that 'I should shortly be fetched\nup about that the baptizing of a child.' He is to preach this evening\nMr. Shower's preparation sermon for the morrow.",
+        "dcterms_description": "2 Feb 1712: Henry, Matthew, 1662-1714 (Hackney, Greater London, England) to Henry, Mary (Mrs), d.1731",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000025890",
+        "dcterms_identifier-editi_": "editi_25890",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d442970d-6809-4caf-aed7-5a853ffd9135",
+        "dcterms_identifier-uuid_": "uuid_d442970d-6809-4caf-aed7-5a853ffd9135",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7ccb8dd2-039b-4a19-9ebb-6cf8a9915a67"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/697d692e-1f60-4a05-b1f2-c95f723ffbb1"
+        ],
+        "id": "uuid_d442970d-6809-4caf-aed7-5a853ffd9135",
+        "locations": [
+          "http://localhost/location/56341f2a-f36a-492e-88a0-31dfeda9df78"
+        ],
+        "mail_addressees-rdf_value": "Henry, Mrs.",
+        "mail_authors-rdf_value": "Henry, Matthew, 1662-1714",
+        "mail_origin-location": [
+          "http://localhost/location/56341f2a-f36a-492e-88a0-31dfeda9df78"
+        ],
+        "mail_origin-rdf_value": "Hackney",
+        "mail_recipient-person": [
+          "http://localhost/person/bcbcf0f3-70f4-4546-b9d0-d6348a5b24f6"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7ccb8dd2-039b-4a19-9ebb-6cf8a9915a67"
+        ],
+        "object_type": "work",
+        "origin_sort": "Hackney, Greater London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Feb. 2 1711/12",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2017-03-06T19:38:28Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1712,
+        "people": [
+          "http://localhost/person/697d692e-1f60-4a05-b1f2-c95f723ffbb1",
+          "http://localhost/person/bcbcf0f3-70f4-4546-b9d0-d6348a5b24f6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Henry, Mary (Mrs), d.1731",
+        "started_date_gregorian_sort": "1712-02-02T00:00:00Z",
+        "started_date_sort": "1712-02-02T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:00.743Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d442970d-6809-4caf-aed7-5a853ffd9135",
+        "uuid": "d442970d-6809-4caf-aed7-5a853ffd9135",
+        "uuid_related": [
+          "697d692e-1f60-4a05-b1f2-c95f723ffbb1",
+          "56341f2a-f36a-492e-88a0-31dfeda9df78",
+          "7ccb8dd2-039b-4a19-9ebb-6cf8a9915a67",
+          "bcbcf0f3-70f4-4546-b9d0-d6348a5b24f6"
+        ]
+      },
+      {
+        "_version_": 1.8628856947440353e+18,
+        "author_sort": "Henry, Matthew, 1662-1714",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "He writes to say he is prevented from meeting her next Wednesday\nbecause the next week's coaches are full. He details his movements\nbetween now and arrival at Chester.",
+        "dcterms_description": "11 Jul 1713: Henry, Matthew, 1662-1714 (Hackney, Greater London, England) to Henry (sister of Matthew), fl. 1713",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000025891",
+        "dcterms_identifier-editi_": "editi_25891",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/4444758f-4696-44a6-8484-96d5e0b9f240",
+        "dcterms_identifier-uuid_": "uuid_4444758f-4696-44a6-8484-96d5e0b9f240",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/516cf48d-89fd-4967-b747-c654468b1d03"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/697d692e-1f60-4a05-b1f2-c95f723ffbb1"
+        ],
+        "id": "uuid_4444758f-4696-44a6-8484-96d5e0b9f240",
+        "locations": [
+          "http://localhost/location/56341f2a-f36a-492e-88a0-31dfeda9df78"
+        ],
+        "mail_addressees-rdf_value": "Sister",
+        "mail_authors-rdf_value": "Henry, Matthew, 1662-1714",
+        "mail_origin-location": [
+          "http://localhost/location/56341f2a-f36a-492e-88a0-31dfeda9df78"
+        ],
+        "mail_origin-rdf_value": "Hackney",
+        "mail_recipient-person": [
+          "http://localhost/person/d318a804-da31-41af-ba99-6f402b7060fc"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/516cf48d-89fd-4967-b747-c654468b1d03"
+        ],
+        "object_type": "work",
+        "origin_sort": "Hackney, Greater London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 11 1713",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2016-10-19T13:07:40Z",
+        "ox_internalModifiedByUser": "Charlotte Marique",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1713,
+        "people": [
+          "http://localhost/person/697d692e-1f60-4a05-b1f2-c95f723ffbb1",
+          "http://localhost/person/d318a804-da31-41af-ba99-6f402b7060fc"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Henry (sister of Matthew), fl. 1713",
+        "started_date_gregorian_sort": "1713-07-11T00:00:00Z",
+        "started_date_sort": "1713-07-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:57:00.743Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/4444758f-4696-44a6-8484-96d5e0b9f240",
+        "uuid": "4444758f-4696-44a6-8484-96d5e0b9f240",
+        "uuid_related": [
+          "516cf48d-89fd-4967-b747-c654468b1d03",
+          "697d692e-1f60-4a05-b1f2-c95f723ffbb1",
+          "d318a804-da31-41af-ba99-6f402b7060fc",
+          "56341f2a-f36a-492e-88a0-31dfeda9df78"
+        ]
+      },
+      {
+        "_version_": 1.8628856817007985e+18,
+        "author_sort": "Gadderar, James, 1655-1733",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "In response to her reasonable desire he explains the reason for the\nalteration in the communion office, by which the summary of the Moral\nlaw is substituted for the Decalogue. He begins by saying that the\ndecalogue was never in any liturgy before Bucer overpersuaded the\ninserting of it into the 2nd Edward 6 liturgy.",
+        "dcterms_description": "24 Jan 1718: Gadderar, James, 1655-1733 (Strand, London, England) to Unidentified female (fl. 1701-1750)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000019026",
+        "dcterms_identifier-editi_": "editi_19026",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e7ef6f98-0ba0-4e56-bdfa-9ea70b12f789",
+        "dcterms_identifier-uuid_": "uuid_e7ef6f98-0ba0-4e56-bdfa-9ea70b12f789",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c6c04a98-1060-4788-b192-76bccaa37252"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/319b58cc-0fd9-4009-8d25-35ce7f41e43c"
+        ],
+        "id": "uuid_e7ef6f98-0ba0-4e56-bdfa-9ea70b12f789",
+        "locations": [
+          "http://localhost/location/cc9ba9a7-9d7b-422a-bcda-502f0ee2c63e"
+        ],
+        "mail_addressees-rdf_value": "\"Madam\"",
+        "mail_authors-rdf_value": "Gadderar, The Rev. James, 1655-1733",
+        "mail_origin-location": [
+          "http://localhost/location/cc9ba9a7-9d7b-422a-bcda-502f0ee2c63e"
+        ],
+        "mail_origin-rdf_value": "The Strand",
+        "mail_recipient-person": [
+          "http://localhost/person/7a75f6e5-3b2b-4c96-a86b-3bfeddb94f23"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c6c04a98-1060-4788-b192-76bccaa37252"
+        ],
+        "object_type": "work",
+        "origin_sort": "Strand, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Jan. 24 1717/18",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2016-02-09T17:54:01Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 24,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1718,
+        "people": [
+          "http://localhost/person/319b58cc-0fd9-4009-8d25-35ce7f41e43c",
+          "http://localhost/person/7a75f6e5-3b2b-4c96-a86b-3bfeddb94f23"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Unidentified female (fl. 1701-1750)",
+        "started_date_gregorian_sort": "1718-01-24T00:00:00Z",
+        "started_date_sort": "1718-01-24T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:49.953Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e7ef6f98-0ba0-4e56-bdfa-9ea70b12f789",
+        "uuid": "e7ef6f98-0ba0-4e56-bdfa-9ea70b12f789",
+        "uuid_related": [
+          "cc9ba9a7-9d7b-422a-bcda-502f0ee2c63e",
+          "c6c04a98-1060-4788-b192-76bccaa37252",
+          "319b58cc-0fd9-4009-8d25-35ce7f41e43c",
+          "7a75f6e5-3b2b-4c96-a86b-3bfeddb94f23"
+        ]
+      },
+      {
+        "_version_": 1.8628862771220972e+18,
+        "author_sort": "Green, Edward, 1665-1728",
+        "cito_Catalog": "Spalding Gentlemen's Society",
+        "comments": [
+          "http://localhost/comment/670866e3-6356-489d-9e77-f8df9ba08c19"
+        ],
+        "dcterms_description": "10 Jul 1718: Green, Edward, 1665-1728 (London, England, United Kingdom) to Johnson (Mrs), fl. 1718",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001072383",
+        "dcterms_identifier-editi_": "editi_1072383",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2d9ec022-06c7-416a-a2e4-600c4632d720",
+        "dcterms_identifier-uuid_": "uuid_2d9ec022-06c7-416a-a2e4-600c4632d720",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b9a70244-a2a2-497e-8270-3cc3bae620d6",
+          "http://localhost/manifestation/768578a6-a0c4-4659-af9a-59abf7e42edf"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/b30d3a9a-be26-4e6a-80df-fc7b90c062c2"
+        ],
+        "id": "uuid_2d9ec022-06c7-416a-a2e4-600c4632d720",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-rdf_value": "Mrs Johnson",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/9bdb4d5d-dd40-4378-bee9-a1be7a814e9a"
+        ],
+        "manifestation-institution-place": [
+          "Spalding Gentlemen's Society",
+          "Spalding",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b9a70244-a2a2-497e-8270-3cc3bae620d6",
+          "http://localhost/manifestation/768578a6-a0c4-4659-af9a-59abf7e42edf"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_addresseeAnnotate-comment": [
+          "http://localhost/comment/670866e3-6356-489d-9e77-f8df9ba08c19"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2025-08-14T17:35:29Z",
+        "ox_internalModified": "2025-08-14T17:35:29Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘The Correspondence of the Spalding Gentlemen’s Society, 1710–1761’, ed. Diana Honeybone and Michael Honeybone (Woodbridge: The Boydell Press, 2010), 14 August 2025",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1718,
+        "people": [
+          "http://localhost/person/b30d3a9a-be26-4e6a-80df-fc7b90c062c2",
+          "http://localhost/person/9bdb4d5d-dd40-4378-bee9-a1be7a814e9a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Johnson (Mrs), fl. 1718",
+        "started_date_gregorian_sort": "1718-07-21T00:00:00Z",
+        "started_date_sort": "1718-07-10T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:45.629Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2d9ec022-06c7-416a-a2e4-600c4632d720",
+        "uuid": "2d9ec022-06c7-416a-a2e4-600c4632d720",
+        "uuid_related": [
+          "b9a70244-a2a2-497e-8270-3cc3bae620d6",
+          "768578a6-a0c4-4659-af9a-59abf7e42edf",
+          "b30d3a9a-be26-4e6a-80df-fc7b90c062c2",
+          "9bdb4d5d-dd40-4378-bee9-a1be7a814e9a",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "670866e3-6356-489d-9e77-f8df9ba08c19"
+        ]
+      },
+      {
+        "_version_": 1.8628860268647547e+18,
+        "author_sort": "Craggs, James, 1686-1721",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "28 Jul 1720: Craggs, James, 1686-1721 (Offices of the Secretaries of State, Whitehall, Westminster, London, England, United Kingdom) to Montagu, Mary Wortley (Lady), 1689-1762 (Twickenham, Greater London, England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991236",
+        "dcterms_identifier-editi_": "editi_991236",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/45d05d3f-dcec-4cc2-83b8-a56aefe0625e",
+        "dcterms_identifier-uuid_": "uuid_45d05d3f-dcec-4cc2-83b8-a56aefe0625e",
+        "dcterms_language": "English",
+        "destination_sort": "Twickenham, Greater London, England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ced119c2-1de8-48f8-bb4b-8eccccb6cc8e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/48a06921-2c0b-4dfe-b76b-315ecbf2931a"
+        ],
+        "id": "uuid_45d05d3f-dcec-4cc2-83b8-a56aefe0625e",
+        "locations": [
+          "http://localhost/location/250f7767-51f0-43c3-9808-79f7691465f6",
+          "http://localhost/location/03ad4182-1f01-495a-93d2-a74745974e59"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/03ad4182-1f01-495a-93d2-a74745974e59"
+        ],
+        "mail_destination-rdf_value": "at Twickenham.",
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/250f7767-51f0-43c3-9808-79f7691465f6"
+        ],
+        "mail_origin-rdf_value": "Cockpit",
+        "mail_recipient-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ced119c2-1de8-48f8-bb4b-8eccccb6cc8e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Offices of the Secretaries of State, Whitehall, Westminster, London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 28, 1720.",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2019-04-02T18:05:11Z",
+        "ox_internalModified": "2019-04-02T18:05:11Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 2 April 2019",
+        "ox_started-ox_day": 28,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1720,
+        "people": [
+          "http://localhost/person/48a06921-2c0b-4dfe-b76b-315ecbf2931a",
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/6a75e0a2-7a45-457d-9340-9606f621b961"
+        ],
+        "recipient_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "resources": [
+          "http://localhost/resource/6a75e0a2-7a45-457d-9340-9606f621b961"
+        ],
+        "started_date_gregorian_sort": "1720-08-08T00:00:00Z",
+        "started_date_sort": "1720-07-28T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:59:53.707Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/45d05d3f-dcec-4cc2-83b8-a56aefe0625e",
+        "uuid": "45d05d3f-dcec-4cc2-83b8-a56aefe0625e",
+        "uuid_related": [
+          "ced119c2-1de8-48f8-bb4b-8eccccb6cc8e",
+          "48a06921-2c0b-4dfe-b76b-315ecbf2931a",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "250f7767-51f0-43c3-9808-79f7691465f6",
+          "03ad4182-1f01-495a-93d2-a74745974e59",
+          "6a75e0a2-7a45-457d-9340-9606f621b961"
+        ]
+      },
+      {
+        "_version_": 1.862886026863706e+18,
+        "author_sort": "Rémond, Nicolas-François, 1676-1725",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "Jul 1720: Rémond, Nicolas-François, 1676-1725 (London, England, United Kingdom) to Montagu, Mary Wortley (Lady), 1689-1762",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991234",
+        "dcterms_identifier-editi_": "editi_991234",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f87ce5ee-ea7c-422e-9864-148b4b16acab",
+        "dcterms_identifier-uuid_": "uuid_f87ce5ee-ea7c-422e-9864-148b4b16acab",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/07975618-51e1-44e1-bf9c-bfc8774b805e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/c3a42013-2682-4da8-85ed-455fde8c1bf7"
+        ],
+        "id": "uuid_f87ce5ee-ea7c-422e-9864-148b4b16acab",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "Writ in London.",
+        "mail_recipient-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/07975618-51e1-44e1-bf9c-bfc8774b805e"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2019-04-02T18:05:10Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 2 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1720,
+        "people": [
+          "http://localhost/person/c3a42013-2682-4da8-85ed-455fde8c1bf7",
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4a978f4b-4642-4608-8cd5-2c77d65989dd"
+        ],
+        "recipient_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "resources": [
+          "http://localhost/resource/4a978f4b-4642-4608-8cd5-2c77d65989dd"
+        ],
+        "started_date_gregorian_sort": "1720-07-31T00:00:00Z",
+        "started_date_sort": "1720-07-31T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:59:53.707Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f87ce5ee-ea7c-422e-9864-148b4b16acab",
+        "uuid": "f87ce5ee-ea7c-422e-9864-148b4b16acab",
+        "uuid_related": [
+          "07975618-51e1-44e1-bf9c-bfc8774b805e",
+          "c3a42013-2682-4da8-85ed-455fde8c1bf7",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "4a978f4b-4642-4608-8cd5-2c77d65989dd"
+        ]
+      },
+      {
+        "_version_": 1.8628861633956413e+18,
+        "author_sort": "Pelham-Holles, Thomas, 1693-1768",
+        "cito_Catalog": "Hanover, Anne of",
+        "dcterms_description": "31 Oct 1722: Pelham-Holles, Thomas, 1693-1768 (Newcastle House, Lincoln's Inn Fields, London, England) to Hanover, Anne of, 1709-1759",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001037168",
+        "dcterms_identifier-editi_": "editi_1037168",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/98151686-6e64-400c-8d3c-3a035f87a5fa",
+        "dcterms_identifier-uuid_": "uuid_98151686-6e64-400c-8d3c-3a035f87a5fa",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/97fe9f71-dd7a-452e-8377-35ed10f5880b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d63469b0-9e2b-4dd7-9779-ed50bb9bd2d3"
+        ],
+        "id": "uuid_98151686-6e64-400c-8d3c-3a035f87a5fa",
+        "locations": [
+          "http://localhost/location/3cf7e61a-8c99-40a5-9abd-27ce8bb74624"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3cf7e61a-8c99-40a5-9abd-27ce8bb74624"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/97fe9f71-dd7a-452e-8377-35ed10f5880b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Newcastle House, Lincoln's Inn Fields, London, England",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2023-03-21T11:51:50Z",
+        "ox_internalModified": "2023-03-21T11:51:50Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 21 March 2023",
+        "ox_started-ox_day": 31,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1722,
+        "people": [
+          "http://localhost/person/d63469b0-9e2b-4dd7-9779-ed50bb9bd2d3",
+          "http://localhost/person/bcfafe9a-cfa5-4448-8bda-9781a15683e0"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/80558663-4cce-4fc9-90fc-fad952fd9134"
+        ],
+        "recipient_sort": "Hanover, Anne of, 1709-1759",
+        "resources": [
+          "http://localhost/resource/80558663-4cce-4fc9-90fc-fad952fd9134"
+        ],
+        "started_date_gregorian_sort": "1722-10-31T00:00:00Z",
+        "started_date_sort": "1722-10-31T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:00:56.705Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/98151686-6e64-400c-8d3c-3a035f87a5fa",
+        "uuid": "98151686-6e64-400c-8d3c-3a035f87a5fa",
+        "uuid_related": [
+          "97fe9f71-dd7a-452e-8377-35ed10f5880b",
+          "d63469b0-9e2b-4dd7-9779-ed50bb9bd2d3",
+          "bcfafe9a-cfa5-4448-8bda-9781a15683e0",
+          "3cf7e61a-8c99-40a5-9abd-27ce8bb74624",
+          "80558663-4cce-4fc9-90fc-fad952fd9134"
+        ]
+      },
+      {
+        "_version_": 1.8628859121180344e+18,
+        "author_sort": "Jurin, James, 1684-1750",
+        "cito_Catalog": "Jurin, James",
+        "dcterms_abstract": "Thanks her for Leeuwenhoek's legacy to the Royal Society.",
+        "dcterms_description": "18 Nov 1723: Jurin, James, 1684-1750 (Crane Court, London, England) to Leeuwenhoek, Maria van, fl. 1723-1724",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000949811",
+        "dcterms_identifier-editi_": "editi_949811",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3382dfc3-835b-4a96-9add-854abc25c7d2",
+        "dcterms_identifier-uuid_": "uuid_3382dfc3-835b-4a96-9add-854abc25c7d2",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a34434ea-46dd-4a5b-90c1-cd9eb946221e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/b7957a9c-7b29-49b6-a9dc-2e1bbf761639"
+        ],
+        "id": "uuid_3382dfc3-835b-4a96-9add-854abc25c7d2",
+        "locations": [
+          "http://localhost/location/b4ac8c51-2a6f-4513-a8fe-f0a13de12b2b"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/b4ac8c51-2a6f-4513-a8fe-f0a13de12b2b"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/b925dfa4-980e-4ed7-b53f-122aff5c2820"
+        ],
+        "manifestation-institution-place": [
+          "Wellcome Library",
+          "Wellcome Institute for the History of Medicine (WIHM)",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a34434ea-46dd-4a5b-90c1-cd9eb946221e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Crane Court, London, England",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2016-05-18T16:50:38Z",
+        "ox_internalModified": "2016-05-18T17:04:16Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Andrea Rusnock, the Wellcome Library, and Cultures of Knowledge, 18 May 2016",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1723,
+        "people": [
+          "http://localhost/person/b7957a9c-7b29-49b6-a9dc-2e1bbf761639",
+          "http://localhost/person/b925dfa4-980e-4ed7-b53f-122aff5c2820"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Leeuwenhoek, Maria van, fl. 1723-1724",
+        "started_date_gregorian_sort": "1723-11-29T00:00:00Z",
+        "started_date_sort": "1723-11-18T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:58:59.108Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3382dfc3-835b-4a96-9add-854abc25c7d2",
+        "uuid": "3382dfc3-835b-4a96-9add-854abc25c7d2",
+        "uuid_related": [
+          "a34434ea-46dd-4a5b-90c1-cd9eb946221e",
+          "b7957a9c-7b29-49b6-a9dc-2e1bbf761639",
+          "b925dfa4-980e-4ed7-b53f-122aff5c2820",
+          "b4ac8c51-2a6f-4513-a8fe-f0a13de12b2b"
+        ]
+      },
+      {
+        "_version_": 1.8628861713952276e+18,
+        "author_sort": "Madan, Martin, 1700-1756",
+        "cito_Catalog": "Social Bodies project",
+        "dcterms_abstract": "Courtship letter discussing feeling, rooted in allegorical images, the alias of Lysander and cupid biting Judith's finger. Discussion of solitude, the female heart, and his imminent visit to that evening. [Abstract by the 'Social Bodies: Embodiment in British Letters c. 1680–1820' project, University of Birmingham]",
+        "dcterms_description": "1723: Madan, Martin, 1700-1756 (Poland Street, London, England) to Madan, Judith, 1702-1781 (England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001039902",
+        "dcterms_identifier-editi_": "editi_1039902",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/518f4cc4-6a32-4748-8889-318dec0a5fb5",
+        "dcterms_identifier-uuid_": "uuid_518f4cc4-6a32-4748-8889-318dec0a5fb5",
+        "dcterms_language": "English",
+        "destination_sort": "England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0f65fd8c-1d88-4d30-8ceb-918593b16d46"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/e6884beb-a187-4049-a8c0-caff98e3ab6f"
+        ],
+        "id": "uuid_518f4cc4-6a32-4748-8889-318dec0a5fb5",
+        "locations": [
+          "http://localhost/location/0ddaaaa9-767e-455a-ab4b-379df382796a",
+          "http://localhost/location/8029cfd7-cbda-454c-86e7-ec517c2b02d5"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/8029cfd7-cbda-454c-86e7-ec517c2b02d5"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0ddaaaa9-767e-455a-ab4b-379df382796a"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/166f0125-a96c-42b9-b3be-6386f7195cc5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0f65fd8c-1d88-4d30-8ceb-918593b16d46"
+        ],
+        "object_type": "work",
+        "origin_sort": "Poland Street, London, England",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2023-06-29T19:25:34Z",
+        "ox_internalModified": "2023-07-03T12:37:54Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Social Bodies: Embodiment in British Letters c. 1680–1820 project, University of Birmingham, 29 June 2023",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_year": 1723,
+        "people": [
+          "http://localhost/person/e6884beb-a187-4049-a8c0-caff98e3ab6f",
+          "http://localhost/person/166f0125-a96c-42b9-b3be-6386f7195cc5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4a373e27-a53b-4e8e-b808-1e91ae7a864f"
+        ],
+        "recipient_sort": "Madan, Judith, 1702-1781",
+        "resources": [
+          "http://localhost/resource/4a373e27-a53b-4e8e-b808-1e91ae7a864f"
+        ],
+        "started_date_gregorian_sort": "1723-12-31T00:00:00Z",
+        "started_date_sort": "1723-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:02.005Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/518f4cc4-6a32-4748-8889-318dec0a5fb5",
+        "uuid": "518f4cc4-6a32-4748-8889-318dec0a5fb5",
+        "uuid_related": [
+          "0f65fd8c-1d88-4d30-8ceb-918593b16d46",
+          "e6884beb-a187-4049-a8c0-caff98e3ab6f",
+          "166f0125-a96c-42b9-b3be-6386f7195cc5",
+          "0ddaaaa9-767e-455a-ab4b-379df382796a",
+          "8029cfd7-cbda-454c-86e7-ec517c2b02d5",
+          "4a373e27-a53b-4e8e-b808-1e91ae7a864f"
+        ]
+      },
+      {
+        "_version_": 1.8628859121180344e+18,
+        "author_sort": "Jurin, James, 1684-1750",
+        "cito_Catalog": "Jurin, James",
+        "dcterms_abstract": "By order of the Royal Society, presents her with the two last volumes of the 'Philosophical Transactions' which contain papers by Leeuwenhoek. The Royal Society also presents her with a silver bowl engraved with their Arms in memory of her father.",
+        "dcterms_description": "2 Jun 1724: Jurin, James, 1684-1750 (London, England, United Kingdom) to Leeuwenhoek, Maria van, fl. 1723-1724",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000949812",
+        "dcterms_identifier-editi_": "editi_949812",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cb51a857-16bc-47b6-a64c-edd23d3fb922",
+        "dcterms_identifier-uuid_": "uuid_cb51a857-16bc-47b6-a64c-edd23d3fb922",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/902dad57-f94e-4748-a4d8-a3af5d290886"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/b7957a9c-7b29-49b6-a9dc-2e1bbf761639"
+        ],
+        "id": "uuid_cb51a857-16bc-47b6-a64c-edd23d3fb922",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/b925dfa4-980e-4ed7-b53f-122aff5c2820"
+        ],
+        "manifestation-institution-place": [
+          "Wellcome Library",
+          "Wellcome Institute for the History of Medicine (WIHM)",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/902dad57-f94e-4748-a4d8-a3af5d290886"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2016-05-18T16:50:39Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Andrea Rusnock, the Wellcome Library, and Cultures of Knowledge, 18 May 2016",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1724,
+        "people": [
+          "http://localhost/person/b7957a9c-7b29-49b6-a9dc-2e1bbf761639",
+          "http://localhost/person/b925dfa4-980e-4ed7-b53f-122aff5c2820"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Leeuwenhoek, Maria van, fl. 1723-1724",
+        "started_date_gregorian_sort": "1724-06-13T00:00:00Z",
+        "started_date_sort": "1724-06-02T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:58:59.108Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cb51a857-16bc-47b6-a64c-edd23d3fb922",
+        "uuid": "cb51a857-16bc-47b6-a64c-edd23d3fb922",
+        "uuid_related": [
+          "902dad57-f94e-4748-a4d8-a3af5d290886",
+          "b7957a9c-7b29-49b6-a9dc-2e1bbf761639",
+          "b925dfa4-980e-4ed7-b53f-122aff5c2820",
+          "283a71a7-cf68-4832-a381-9bf5388e1860"
+        ]
+      },
+      {
+        "_version_": 1.862885656382931e+18,
+        "author_sort": "Blakey, James, fl. 1725",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Her son is staying with him and he writes to her of the\nimpudent and obstinate temper of her son, and desires\nto have a meeting with her and her friends.",
+        "dcterms_description": "11 Mar 1725: Blakey, James, fl. 1725 (Friday Street, London, England) to Fleming, Robert (Mrs), fl. 1723-1731",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000005433",
+        "dcterms_identifier-editi_": "editi_5433",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b10c2112-a3fc-4d7f-9dc6-7ad3eacc903b",
+        "dcterms_identifier-uuid_": "uuid_b10c2112-a3fc-4d7f-9dc6-7ad3eacc903b",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7d490cad-8fc0-456a-9ac5-a5c2fec1aecc"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/3e42393a-eb5e-44f0-9d35-5023d0bdc59d"
+        ],
+        "id": "uuid_b10c2112-a3fc-4d7f-9dc6-7ad3eacc903b",
+        "locations": [
+          "http://localhost/location/69e4f1b0-a7f4-42d4-b07a-d8dd0af06e3a"
+        ],
+        "mail_addressees-rdf_value": "Mrs. Robert Fleming.",
+        "mail_authors-rdf_value": "Blakey, James.",
+        "mail_origin-location": [
+          "http://localhost/location/69e4f1b0-a7f4-42d4-b07a-d8dd0af06e3a"
+        ],
+        "mail_origin-rdf_value": "Fryday St.",
+        "mail_recipient-person": [
+          "http://localhost/person/32d46699-9280-4453-879d-d72b8e4f5140"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7d490cad-8fc0-456a-9ac5-a5c2fec1aecc"
+        ],
+        "object_type": "work",
+        "origin_sort": "Friday Street, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Mar. 11. 1725",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2016-11-11T09:43:44Z",
+        "ox_internalModifiedByUser": "Charlotte Marique",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 19 February 2010",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1725,
+        "people": [
+          "http://localhost/person/3e42393a-eb5e-44f0-9d35-5023d0bdc59d",
+          "http://localhost/person/32d46699-9280-4453-879d-d72b8e4f5140"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Fleming, Robert (Mrs), fl. 1723-1731",
+        "started_date_gregorian_sort": "1725-03-11T00:00:00Z",
+        "started_date_sort": "1725-03-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:36.644Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b10c2112-a3fc-4d7f-9dc6-7ad3eacc903b",
+        "uuid": "b10c2112-a3fc-4d7f-9dc6-7ad3eacc903b",
+        "uuid_related": [
+          "69e4f1b0-a7f4-42d4-b07a-d8dd0af06e3a",
+          "7d490cad-8fc0-456a-9ac5-a5c2fec1aecc",
+          "3e42393a-eb5e-44f0-9d35-5023d0bdc59d",
+          "32d46699-9280-4453-879d-d72b8e4f5140"
+        ]
+      },
+      {
+        "_version_": 1.862886286027653e+18,
+        "author_sort": "Pratt, John, fl. 1725",
+        "cito_Catalog": "No catalogue specified",
+        "comments": [
+          "http://localhost/comment/3007146a-30ed-4eae-9f67-16919670322f"
+        ],
+        "dcterms_abstract": "Tells of the marriage of Col. Alexander Spotswood to Ann Butler. Gives news of the English government. Sends some fine beer. Her uncle\n[Mark] Catesby is to visit him soon.",
+        "dcterms_description": "2 Apr 1725: Pratt, John, fl. 1725 (Chelsea, London, England) to Pratt, Elizabeth, fl. 1725 (Williamsburg, Virginia, United States of America)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001075166",
+        "dcterms_identifier-editi_": "editi_1075166",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/97ca38f6-45e8-44b4-bb64-4cdfbf6ecb93",
+        "dcterms_identifier-uuid_": "uuid_97ca38f6-45e8-44b4-bb64-4cdfbf6ecb93",
+        "dcterms_language": "English",
+        "dcterms_references-person": [
+          "http://localhost/person/7a4703b1-8b48-4287-9e8d-4e65689e9772"
+        ],
+        "destination_sort": "Williamsburg, Virginia, United States of America",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c2728a76-34f1-4c4f-b337-d62bbea10283"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/c5704e48-6970-41a9-ba6f-52cfcbec1fee"
+        ],
+        "id": "uuid_97ca38f6-45e8-44b4-bb64-4cdfbf6ecb93",
+        "locations": [
+          "http://localhost/location/81211875-0478-4ab8-9fda-7912a4a6ad01",
+          "http://localhost/location/cb99d572-5e9d-4f98-8bc0-04be8c02e1df"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/cb99d572-5e9d-4f98-8bc0-04be8c02e1df"
+        ],
+        "mail_destination-rdf_value": "Williamsburgh",
+        "mail_origin-location": [
+          "http://localhost/location/81211875-0478-4ab8-9fda-7912a4a6ad01"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/66cccbcc-0845-4764-8052-54ef46094d1e"
+        ],
+        "manifestation-institution-place": [
+          "John D. Rockefeller Jr. Library",
+          "The Research Library of The Colonial Williamsburg Foundation",
+          "Williamsburg",
+          "United States of America"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c2728a76-34f1-4c4f-b337-d62bbea10283"
+        ],
+        "object_type": "work",
+        "origin_sort": "Chelsea, London, England",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/3007146a-30ed-4eae-9f67-16919670322f"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2026-01-12T13:25:02Z",
+        "ox_internalModified": "2026-01-12T13:48:51Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 12 January 2026",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1725,
+        "people": [
+          "http://localhost/person/c5704e48-6970-41a9-ba6f-52cfcbec1fee",
+          "http://localhost/person/66cccbcc-0845-4764-8052-54ef46094d1e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pratt, Elizabeth, fl. 1725",
+        "started_date_gregorian_sort": "1725-04-02T00:00:00Z",
+        "started_date_sort": "1725-04-02T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:50.089Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/97ca38f6-45e8-44b4-bb64-4cdfbf6ecb93",
+        "uuid": "97ca38f6-45e8-44b4-bb64-4cdfbf6ecb93",
+        "uuid_related": [
+          "3007146a-30ed-4eae-9f67-16919670322f",
+          "c5704e48-6970-41a9-ba6f-52cfcbec1fee",
+          "66cccbcc-0845-4764-8052-54ef46094d1e",
+          "81211875-0478-4ab8-9fda-7912a4a6ad01",
+          "cb99d572-5e9d-4f98-8bc0-04be8c02e1df",
+          "c2728a76-34f1-4c4f-b337-d62bbea10283",
+          "7a4703b1-8b48-4287-9e8d-4e65689e9772"
+        ]
+      },
+      {
+        "_version_": 1.8628862771409715e+18,
+        "author_sort": "Johnson, Maurice, 1688-1755",
+        "cito_Catalog": "Spalding Gentlemen's Society",
+        "comments": [
+          "http://localhost/comment/812ef7ae-0883-40bf-913e-b2aa52463814"
+        ],
+        "dcterms_abstract": "Discusses and quotes in full Sir William Young's verses on Dr Broxholme; lists topics discussed at the most recent RS meeting, in particular Dr Blair's water cure for mental illness; lists topics discussed at an SA meeting; explains points relating to current legal cases in the Court of King's Bench concerned with debt and forgery. [Honeybone and Honeybone (Woodbridge, 2010)]",
+        "dcterms_description": "18 Nov 1725: Johnson, Maurice, 1688-1755 (London, England, United Kingdom) to Johnson, Elizabeth, 1690-1754",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001072419",
+        "dcterms_identifier-editi_": "editi_1072419",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e7d89f78-a665-44b4-bd8b-0e9ddb3eb8c6",
+        "dcterms_identifier-uuid_": "uuid_e7d89f78-a665-44b4-bd8b-0e9ddb3eb8c6",
+        "dcterms_language": "English",
+        "dcterms_references-person": [
+          "http://localhost/person/1ee01874-292d-46d4-92e3-9be78b5982bf"
+        ],
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/faa62ebd-b90f-4d4c-b292-96124b1fe051",
+          "http://localhost/manifestation/7d003929-ebcc-450e-b7dd-f45fb988909d",
+          "http://localhost/manifestation/11662370-09b1-4f11-bfd4-33c8ec4cf663"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/b45c19ab-b2d3-4a19-9115-8d0cc8b62735"
+        ],
+        "id": "uuid_e7d89f78-a665-44b4-bd8b-0e9ddb3eb8c6",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/dd52c284-e5e6-495c-9eff-714deb333b34"
+        ],
+        "manifestation-institution-place": [
+          "Spalding Gentlemen's Society",
+          "Spalding",
+          "England, United Kingdom",
+          "Spalding Gentlemen's Society",
+          "Spalding",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/faa62ebd-b90f-4d4c-b292-96124b1fe051",
+          "http://localhost/manifestation/7d003929-ebcc-450e-b7dd-f45fb988909d",
+          "http://localhost/manifestation/11662370-09b1-4f11-bfd4-33c8ec4cf663"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2025-08-14T17:35:36Z",
+        "ox_internalModified": "2025-08-14T17:35:36Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/812ef7ae-0883-40bf-913e-b2aa52463814"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘The Correspondence of the Spalding Gentlemen’s Society, 1710–1761’, ed. Diana Honeybone and Michael Honeybone (Woodbridge: The Boydell Press, 2010), 14 August 2025",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1725,
+        "people": [
+          "http://localhost/person/b45c19ab-b2d3-4a19-9115-8d0cc8b62735",
+          "http://localhost/person/dd52c284-e5e6-495c-9eff-714deb333b34"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Johnson, Elizabeth, 1690-1754",
+        "started_date_gregorian_sort": "1725-11-29T00:00:00Z",
+        "started_date_sort": "1725-11-18T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:45.629Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e7d89f78-a665-44b4-bd8b-0e9ddb3eb8c6",
+        "uuid": "e7d89f78-a665-44b4-bd8b-0e9ddb3eb8c6",
+        "uuid_related": [
+          "faa62ebd-b90f-4d4c-b292-96124b1fe051",
+          "7d003929-ebcc-450e-b7dd-f45fb988909d",
+          "11662370-09b1-4f11-bfd4-33c8ec4cf663",
+          "b45c19ab-b2d3-4a19-9115-8d0cc8b62735",
+          "dd52c284-e5e6-495c-9eff-714deb333b34",
+          "1ee01874-292d-46d4-92e3-9be78b5982bf",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "812ef7ae-0883-40bf-913e-b2aa52463814"
+        ]
+      },
+      {
+        "_version_": 1.8628862039849697e+18,
+        "author_sort": "Arbuthnot, John, 1667-1735",
+        "cito_Catalog": "Arbuthnot, John",
+        "comments": [
+          "http://localhost/comment/5ba6419c-e413-48a7-96d9-947cc4eb4474"
+        ],
+        "dcterms_description": "30 May 1728: Arbuthnot, John, 1667-1735 (London, England, United Kingdom) to Howard, Henrietta, 1685-1763",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001050250",
+        "dcterms_identifier-editi_": "editi_1050250",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f20aa324-613f-4707-8759-06e919594249",
+        "dcterms_identifier-uuid_": "uuid_f20aa324-613f-4707-8759-06e919594249",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/cb4febe6-b6ad-4a33-83bb-a670b5262649",
+          "http://localhost/manifestation/fc9db597-aeb8-4774-9804-9a34edabeeb1",
+          "http://localhost/manifestation/ed4f854f-e411-4969-81ab-400c777e4644"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d6671018-17df-405f-ba8b-a99e77ebdeba"
+        ],
+        "id": "uuid_f20aa324-613f-4707-8759-06e919594249",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_authors-rdf_value": "Jo: Arbuthnott",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/471f2ec5-eec8-4062-ad40-6a84c38a8b47"
+        ],
+        "manifestation-institution-place": [
+          "British Library, Manuscript Collections",
+          "BL\nBritish Museum\nB.M.\nThe British Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/cb4febe6-b6ad-4a33-83bb-a670b5262649",
+          "http://localhost/manifestation/fc9db597-aeb8-4774-9804-9a34edabeeb1",
+          "http://localhost/manifestation/ed4f854f-e411-4969-81ab-400c777e4644"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/5ba6419c-e413-48a7-96d9-947cc4eb4474"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "May 30",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2024-01-05T19:59:50Z",
+        "ox_internalModified": "2024-01-05T19:59:50Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘The Correspondence of Dr John Arbuthnot’, ed. Angus Ross (Munich: Wilhelm Fink Verlag, 2006), 5 January 2024",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 30,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1728,
+        "people": [
+          "http://localhost/person/d6671018-17df-405f-ba8b-a99e77ebdeba",
+          "http://localhost/person/471f2ec5-eec8-4062-ad40-6a84c38a8b47"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Howard, Henrietta, 1685-1763",
+        "started_date_gregorian_sort": "1728-06-10T00:00:00Z",
+        "started_date_sort": "1728-05-30T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:16.912Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f20aa324-613f-4707-8759-06e919594249",
+        "uuid": "f20aa324-613f-4707-8759-06e919594249",
+        "uuid_related": [
+          "cb4febe6-b6ad-4a33-83bb-a670b5262649",
+          "fc9db597-aeb8-4774-9804-9a34edabeeb1",
+          "ed4f854f-e411-4969-81ab-400c777e4644",
+          "d6671018-17df-405f-ba8b-a99e77ebdeba",
+          "471f2ec5-eec8-4062-ad40-6a84c38a8b47",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "5ba6419c-e413-48a7-96d9-947cc4eb4474"
+        ]
+      },
+      {
+        "_version_": 1.8628860270975386e+18,
+        "author_sort": "Fielding, Henry, 1707-1754",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/a5f073b5-665e-4813-8520-453f69c1ad3b"
+        ],
+        "dcterms_description": "4 Sep 1730: Fielding, Henry, 1707-1754 (London, England, United Kingdom) to Montagu, Mary Wortley (Lady), 1689-1762",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991311",
+        "dcterms_identifier-editi_": "editi_991311",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/58bdc49d-ecc9-47d1-bc2f-0da4543259fe",
+        "dcterms_identifier-uuid_": "uuid_58bdc49d-ecc9-47d1-bc2f-0da4543259fe",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/57e9f5cc-43bb-4527-b145-16a0895777e0"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/f1143291-2e73-43ae-b331-b78d6b247d61"
+        ],
+        "id": "uuid_58bdc49d-ecc9-47d1-bc2f-0da4543259fe",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/57e9f5cc-43bb-4527-b145-16a0895777e0"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/a5f073b5-665e-4813-8520-453f69c1ad3b"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "7br 4",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2019-04-04T18:07:28Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1730,
+        "people": [
+          "http://localhost/person/f1143291-2e73-43ae-b331-b78d6b247d61",
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/08ffcb5d-cbbd-46cc-87fa-e59ecc7a58a8"
+        ],
+        "recipient_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "resources": [
+          "http://localhost/resource/08ffcb5d-cbbd-46cc-87fa-e59ecc7a58a8"
+        ],
+        "started_date_gregorian_sort": "1730-09-15T00:00:00Z",
+        "started_date_sort": "1730-09-04T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:59:53.707Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/58bdc49d-ecc9-47d1-bc2f-0da4543259fe",
+        "uuid": "58bdc49d-ecc9-47d1-bc2f-0da4543259fe",
+        "uuid_related": [
+          "57e9f5cc-43bb-4527-b145-16a0895777e0",
+          "f1143291-2e73-43ae-b331-b78d6b247d61",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "a5f073b5-665e-4813-8520-453f69c1ad3b",
+          "08ffcb5d-cbbd-46cc-87fa-e59ecc7a58a8"
+        ]
+      },
+      {
+        "_version_": 1.8628860270985871e+18,
+        "author_sort": "Secondat, Charles-Louis de, 1689-1755",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "11 Mar 1731: Secondat, Charles-Louis de, 1689-1755 (London, England, United Kingdom) to Montagu, Mary Wortley (Lady), 1689-1762",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991312",
+        "dcterms_identifier-editi_": "editi_991312",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7eedb444-06a4-4c46-8375-4dabe34d4ca3",
+        "dcterms_identifier-uuid_": "uuid_7eedb444-06a4-4c46-8375-4dabe34d4ca3",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6ea292f1-4e53-4858-a529-6a4e7fd205a4"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5bd34bee-5c07-45b6-bad0-a99dc6c66809"
+        ],
+        "id": "uuid_7eedb444-06a4-4c46-8375-4dabe34d4ca3",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "a Londres",
+        "mail_recipient-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6ea292f1-4e53-4858-a529-6a4e7fd205a4"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Ce 11 mars 1731",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2019-04-04T18:07:28Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1731,
+        "people": [
+          "http://localhost/person/5bd34bee-5c07-45b6-bad0-a99dc6c66809",
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/5672936b-e076-480a-92de-9e48e56c3682"
+        ],
+        "recipient_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "resources": [
+          "http://localhost/resource/5672936b-e076-480a-92de-9e48e56c3682"
+        ],
+        "started_date_gregorian_sort": "1731-03-11T00:00:00Z",
+        "started_date_sort": "1731-03-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:59:53.707Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7eedb444-06a4-4c46-8375-4dabe34d4ca3",
+        "uuid": "7eedb444-06a4-4c46-8375-4dabe34d4ca3",
+        "uuid_related": [
+          "6ea292f1-4e53-4858-a529-6a4e7fd205a4",
+          "5bd34bee-5c07-45b6-bad0-a99dc6c66809",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "5672936b-e076-480a-92de-9e48e56c3682"
+        ]
+      },
+      {
+        "_version_": 1.8628862039986012e+18,
+        "author_sort": "Arbuthnot, John, 1667-1735",
+        "cito_Catalog": "Arbuthnot, John",
+        "dcterms_description": "6 Jul 1731: Arbuthnot, John, 1667-1735 (London, England, United Kingdom) to Howard, Henrietta, 1685-1763",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001050273",
+        "dcterms_identifier-editi_": "editi_1050273",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/016938e9-cbef-4fe8-930b-2d54da91b84b",
+        "dcterms_identifier-uuid_": "uuid_016938e9-cbef-4fe8-930b-2d54da91b84b",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e6e09ce0-e6c9-44cc-84c5-ffbf54fde542",
+          "http://localhost/manifestation/c1569430-ae39-4dd7-ba70-fce406f6f400",
+          "http://localhost/manifestation/6788a5ff-cc15-4edc-b020-7e13697b4fdf",
+          "http://localhost/manifestation/d5320094-2f58-4f3c-ae3d-8178636d02b2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d6671018-17df-405f-ba8b-a99e77ebdeba"
+        ],
+        "id": "uuid_016938e9-cbef-4fe8-930b-2d54da91b84b",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_authors-rdf_value": "Jo: Arbuthnott",
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-rdf_value": "London",
+        "mail_recipient-person": [
+          "http://localhost/person/471f2ec5-eec8-4062-ad40-6a84c38a8b47"
+        ],
+        "manifestation-institution-place": [
+          "British Library, Manuscript Collections",
+          "BL\nBritish Museum\nB.M.\nThe British Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e6e09ce0-e6c9-44cc-84c5-ffbf54fde542",
+          "http://localhost/manifestation/c1569430-ae39-4dd7-ba70-fce406f6f400",
+          "http://localhost/manifestation/6788a5ff-cc15-4edc-b020-7e13697b4fdf",
+          "http://localhost/manifestation/d5320094-2f58-4f3c-ae3d-8178636d02b2"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 6th / 1731",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2024-01-05T19:59:56Z",
+        "ox_internalModified": "2024-01-05T19:59:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘The Correspondence of Dr John Arbuthnot’, ed. Angus Ross (Munich: Wilhelm Fink Verlag, 2006), 5 January 2024",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1731,
+        "people": [
+          "http://localhost/person/d6671018-17df-405f-ba8b-a99e77ebdeba",
+          "http://localhost/person/471f2ec5-eec8-4062-ad40-6a84c38a8b47"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Howard, Henrietta, 1685-1763",
+        "started_date_gregorian_sort": "1731-07-17T00:00:00Z",
+        "started_date_sort": "1731-07-06T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:16.912Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/016938e9-cbef-4fe8-930b-2d54da91b84b",
+        "uuid": "016938e9-cbef-4fe8-930b-2d54da91b84b",
+        "uuid_related": [
+          "e6e09ce0-e6c9-44cc-84c5-ffbf54fde542",
+          "c1569430-ae39-4dd7-ba70-fce406f6f400",
+          "6788a5ff-cc15-4edc-b020-7e13697b4fdf",
+          "d5320094-2f58-4f3c-ae3d-8178636d02b2",
+          "d6671018-17df-405f-ba8b-a99e77ebdeba",
+          "471f2ec5-eec8-4062-ad40-6a84c38a8b47",
+          "283a71a7-cf68-4832-a381-9bf5388e1860"
+        ]
+      },
+      {
+        "_version_": 1.8628861716993147e+18,
+        "author_sort": "Madan, Martin, 1700-1756",
+        "cito_Catalog": "Social Bodies project",
+        "dcterms_abstract": "The top half of this letter appears to be missing. Martin does not wish to spend their money on the pleasures of London whilst Judith and their children are in the countryside living simply. Therefore he resolves to not go to London, but to amuse himself where he is (Putney) with his books, and by thinking of the pleasurable times they have spent together. [Abstract by the 'Social Bodies: Embodiment in British Letters c. 1680–1820' project, University of Birmingham]",
+        "dcterms_description": "9 Dec 1732: Madan, Martin, 1700-1756 (Putney, London, England) to Madan, Judith, 1702-1781 (England)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001039995",
+        "dcterms_identifier-editi_": "editi_1039995",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/63475324-e77a-4586-aa69-ab65e3aa7e2c",
+        "dcterms_identifier-uuid_": "uuid_63475324-e77a-4586-aa69-ab65e3aa7e2c",
+        "dcterms_language": "English",
+        "destination_sort": "England",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/cd7589be-57e2-478f-bed2-d533d5b3a15f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/e6884beb-a187-4049-a8c0-caff98e3ab6f"
+        ],
+        "id": "uuid_63475324-e77a-4586-aa69-ab65e3aa7e2c",
+        "locations": [
+          "http://localhost/location/1c76a251-0c69-44db-8bbf-08766bd20214",
+          "http://localhost/location/8029cfd7-cbda-454c-86e7-ec517c2b02d5"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/8029cfd7-cbda-454c-86e7-ec517c2b02d5"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/1c76a251-0c69-44db-8bbf-08766bd20214"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/166f0125-a96c-42b9-b3be-6386f7195cc5"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/cd7589be-57e2-478f-bed2-d533d5b3a15f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Putney, London, England",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2023-06-29T19:25:55Z",
+        "ox_internalModified": "2023-07-03T12:37:54Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Social Bodies: Embodiment in British Letters c. 1680–1820 project, University of Birmingham, 29 June 2023",
+        "ox_started-ox_day": 9,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1732,
+        "people": [
+          "http://localhost/person/e6884beb-a187-4049-a8c0-caff98e3ab6f",
+          "http://localhost/person/166f0125-a96c-42b9-b3be-6386f7195cc5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2a930160-d0b0-49b2-8efd-ee40f4617103"
+        ],
+        "recipient_sort": "Madan, Judith, 1702-1781",
+        "resources": [
+          "http://localhost/resource/2a930160-d0b0-49b2-8efd-ee40f4617103"
+        ],
+        "started_date_gregorian_sort": "1732-12-20T00:00:00Z",
+        "started_date_sort": "1732-12-09T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:02.005Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/63475324-e77a-4586-aa69-ab65e3aa7e2c",
+        "uuid": "63475324-e77a-4586-aa69-ab65e3aa7e2c",
+        "uuid_related": [
+          "cd7589be-57e2-478f-bed2-d533d5b3a15f",
+          "e6884beb-a187-4049-a8c0-caff98e3ab6f",
+          "166f0125-a96c-42b9-b3be-6386f7195cc5",
+          "1c76a251-0c69-44db-8bbf-08766bd20214",
+          "8029cfd7-cbda-454c-86e7-ec517c2b02d5",
+          "2a930160-d0b0-49b2-8efd-ee40f4617103"
+        ]
+      },
+      {
+        "_version_": 1.8628860271006843e+18,
+        "author_sort": "Jacob, Giles, 1686-1744",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "11 Jun 1733: Jacob, Giles, 1686-1744 (Islington, London, England) to Montagu, Mary Wortley (Lady), 1689-1762",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991317",
+        "dcterms_identifier-editi_": "editi_991317",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a4d1406c-9761-4a2b-8694-fdefa2aeb71b",
+        "dcterms_identifier-uuid_": "uuid_a4d1406c-9761-4a2b-8694-fdefa2aeb71b",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f602aaa2-13d7-42cf-afa5-f1341f110198"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/75ac9815-3798-4d6e-9107-6c0cc75153a0"
+        ],
+        "id": "uuid_a4d1406c-9761-4a2b-8694-fdefa2aeb71b",
+        "locations": [
+          "http://localhost/location/bf61bcab-7a76-41fb-8021-5e9187e29e16"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/bf61bcab-7a76-41fb-8021-5e9187e29e16"
+        ],
+        "mail_origin-rdf_value": "Islington",
+        "mail_recipient-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f602aaa2-13d7-42cf-afa5-f1341f110198"
+        ],
+        "object_type": "work",
+        "origin_sort": "Islington, London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "11th June 1733.",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2019-04-04T18:07:30Z",
+        "ox_internalModified": "2019-04-04T18:07:30Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1733,
+        "people": [
+          "http://localhost/person/75ac9815-3798-4d6e-9107-6c0cc75153a0",
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/28d315d5-8c42-46c9-ba29-337497a232cd"
+        ],
+        "recipient_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "resources": [
+          "http://localhost/resource/28d315d5-8c42-46c9-ba29-337497a232cd"
+        ],
+        "started_date_gregorian_sort": "1733-06-22T00:00:00Z",
+        "started_date_sort": "1733-06-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:59:53.707Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a4d1406c-9761-4a2b-8694-fdefa2aeb71b",
+        "uuid": "a4d1406c-9761-4a2b-8694-fdefa2aeb71b",
+        "uuid_related": [
+          "f602aaa2-13d7-42cf-afa5-f1341f110198",
+          "75ac9815-3798-4d6e-9107-6c0cc75153a0",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "bf61bcab-7a76-41fb-8021-5e9187e29e16",
+          "28d315d5-8c42-46c9-ba29-337497a232cd"
+        ]
+      },
+      {
+        "_version_": 1.862886204355117e+18,
+        "author_sort": "Arbuthnot, John, 1667-1735",
+        "cito_Catalog": "Arbuthnot, John",
+        "comments": [
+          "http://localhost/comment/0bc97fc6-d676-4ccb-aad6-d262bfc81509"
+        ],
+        "dcterms_description": "11 Jul 1733: Arbuthnot, John, 1667-1735 (Harrow, (Middlesex) Greater London, England) to Pelham-Holles, Henrietta, 1701-1776",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001050312",
+        "dcterms_identifier-editi_": "editi_1050312",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/467febb4-11ed-41e1-8874-6d375dc831f1",
+        "dcterms_identifier-uuid_": "uuid_467febb4-11ed-41e1-8874-6d375dc831f1",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/1f975a29-1fd1-4803-8c6f-472097730407",
+          "http://localhost/manifestation/dacbe7b6-00c3-4ba8-8cc7-1e4a7257dbfc",
+          "http://localhost/manifestation/12587cef-61df-4217-8c3c-1ad84f8ed2d5"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d6671018-17df-405f-ba8b-a99e77ebdeba"
+        ],
+        "id": "uuid_467febb4-11ed-41e1-8874-6d375dc831f1",
+        "locations": [
+          "http://localhost/location/8694f28a-289c-474f-bc15-dce61caca468"
+        ],
+        "mail_authors-rdf_value": "Jo:Arbuthnott",
+        "mail_origin-location": [
+          "http://localhost/location/8694f28a-289c-474f-bc15-dce61caca468"
+        ],
+        "mail_origin-rdf_value": "Harrow",
+        "mail_recipient-person": [
+          "http://localhost/person/9df076e4-a96e-455d-95cc-2d8a868f597d"
+        ],
+        "manifestation-institution-place": [
+          "British Library, Manuscript Collections",
+          "BL\nBritish Museum\nB.M.\nThe British Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/1f975a29-1fd1-4803-8c6f-472097730407",
+          "http://localhost/manifestation/dacbe7b6-00c3-4ba8-8cc7-1e4a7257dbfc",
+          "http://localhost/manifestation/12587cef-61df-4217-8c3c-1ad84f8ed2d5"
+        ],
+        "object_type": "work",
+        "origin_sort": "Harrow, (Middlesex) Greater London, England",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/0bc97fc6-d676-4ccb-aad6-d262bfc81509"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "July 11th 2 a clock p.m.",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2024-01-05T20:00:04Z",
+        "ox_internalModified": "2024-01-05T20:00:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from ‘The Correspondence of Dr John Arbuthnot’, ed. Angus Ross (Munich: Wilhelm Fink Verlag, 2006), 5 January 2024",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1733,
+        "people": [
+          "http://localhost/person/d6671018-17df-405f-ba8b-a99e77ebdeba",
+          "http://localhost/person/9df076e4-a96e-455d-95cc-2d8a868f597d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Pelham-Holles, Henrietta, 1701-1776",
+        "started_date_gregorian_sort": "1733-07-22T00:00:00Z",
+        "started_date_sort": "1733-07-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T08:01:16.912Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/467febb4-11ed-41e1-8874-6d375dc831f1",
+        "uuid": "467febb4-11ed-41e1-8874-6d375dc831f1",
+        "uuid_related": [
+          "1f975a29-1fd1-4803-8c6f-472097730407",
+          "dacbe7b6-00c3-4ba8-8cc7-1e4a7257dbfc",
+          "12587cef-61df-4217-8c3c-1ad84f8ed2d5",
+          "d6671018-17df-405f-ba8b-a99e77ebdeba",
+          "9df076e4-a96e-455d-95cc-2d8a868f597d",
+          "8694f28a-289c-474f-bc15-dce61caca468",
+          "0bc97fc6-d676-4ccb-aad6-d262bfc81509"
+        ]
+      },
+      {
+        "_version_": 1.8628856875277353e+18,
+        "author_sort": "Guillibeau, Nicholas, fl. 1734-1737",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "He conveys Lord Compton's greetings to his father, mother and sister\nand hopes the family got safe to Ashby. Lord Gowring is not yet\nback at school because of a severe cold.  [ [formal, correct language] ]",
+        "dcterms_description": "23 Apr 1734: Guillibeau, Nicholas, fl. 1734-1737 (Fulham, Greater London, England) to Compton, Elizabeth, 1694-1741",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000022160",
+        "dcterms_identifier-editi_": "editi_22160",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/aef913ac-ab25-45d0-9fd7-3d22c3e5f27e",
+        "dcterms_identifier-uuid_": "uuid_aef913ac-ab25-45d0-9fd7-3d22c3e5f27e",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/375f985c-b8e0-4834-aa86-c3d4a4378fe6"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/2ae11694-5c83-4074-a402-c5318fce587e"
+        ],
+        "id": "uuid_aef913ac-ab25-45d0-9fd7-3d22c3e5f27e",
+        "locations": [
+          "http://localhost/location/65bddf46-c36a-42af-b093-823ca22355ad"
+        ],
+        "mail_addressees-rdf_value": "Countess of Northampton.",
+        "mail_authors-rdf_value": "Guillibeau, Nicholas",
+        "mail_origin-location": [
+          "http://localhost/location/65bddf46-c36a-42af-b093-823ca22355ad"
+        ],
+        "mail_origin-rdf_value": "Fulham",
+        "mail_recipient-person": [
+          "http://localhost/person/e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/375f985c-b8e0-4834-aa86-c3d4a4378fe6"
+        ],
+        "object_type": "work",
+        "origin_sort": "Fulham, Greater London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Apl. 23 1734",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2017-07-30T22:17:14Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 23,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1734,
+        "people": [
+          "http://localhost/person/e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1",
+          "http://localhost/person/2ae11694-5c83-4074-a402-c5318fce587e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Compton, Elizabeth, 1694-1741",
+        "started_date_gregorian_sort": "1734-04-23T00:00:00Z",
+        "started_date_sort": "1734-04-23T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:54.958Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/aef913ac-ab25-45d0-9fd7-3d22c3e5f27e",
+        "uuid": "aef913ac-ab25-45d0-9fd7-3d22c3e5f27e",
+        "uuid_related": [
+          "e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1",
+          "2ae11694-5c83-4074-a402-c5318fce587e",
+          "65bddf46-c36a-42af-b093-823ca22355ad",
+          "375f985c-b8e0-4834-aa86-c3d4a4378fe6"
+        ]
+      },
+      {
+        "_version_": 1.8628856875277353e+18,
+        "author_sort": "Guillibeau, Nicholas, fl. 1734-1737",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "He reports Lord Compton's progress under doses of physick to his\nstomach, and the doctor's visit. \"It worked his Lordship eight\ntimes\". His Lordship presents his duty to My Lord and to your\nLadyship and his services to all the Ladies; and returns his Papa\nthanks for his letter.",
+        "dcterms_description": "7 May 1734: Guillibeau, Nicholas, fl. 1734-1737 (Fulham, Greater London, England) to Compton, Elizabeth, 1694-1741",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000022161",
+        "dcterms_identifier-editi_": "editi_22161",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b65e0055-deba-4e3c-93f7-938b4e9b69ba",
+        "dcterms_identifier-uuid_": "uuid_b65e0055-deba-4e3c-93f7-938b4e9b69ba",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3a42eb67-fd77-4713-94af-5aca4d290093"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/2ae11694-5c83-4074-a402-c5318fce587e"
+        ],
+        "id": "uuid_b65e0055-deba-4e3c-93f7-938b4e9b69ba",
+        "locations": [
+          "http://localhost/location/65bddf46-c36a-42af-b093-823ca22355ad"
+        ],
+        "mail_addressees-rdf_value": "Countess of Northampton.",
+        "mail_authors-rdf_value": "Guillibeau, Nicholas",
+        "mail_origin-location": [
+          "http://localhost/location/65bddf46-c36a-42af-b093-823ca22355ad"
+        ],
+        "mail_origin-rdf_value": "Fulham",
+        "mail_recipient-person": [
+          "http://localhost/person/e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3a42eb67-fd77-4713-94af-5aca4d290093"
+        ],
+        "object_type": "work",
+        "origin_sort": "Fulham, Greater London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "May 7 1734",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2017-07-30T22:17:14Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1734,
+        "people": [
+          "http://localhost/person/e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1",
+          "http://localhost/person/2ae11694-5c83-4074-a402-c5318fce587e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Compton, Elizabeth, 1694-1741",
+        "started_date_gregorian_sort": "1734-05-07T00:00:00Z",
+        "started_date_sort": "1734-05-07T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:54.958Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b65e0055-deba-4e3c-93f7-938b4e9b69ba",
+        "uuid": "b65e0055-deba-4e3c-93f7-938b4e9b69ba",
+        "uuid_related": [
+          "e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1",
+          "2ae11694-5c83-4074-a402-c5318fce587e",
+          "65bddf46-c36a-42af-b093-823ca22355ad",
+          "3a42eb67-fd77-4713-94af-5aca4d290093"
+        ]
+      },
+      {
+        "_version_": 1.862885687528784e+18,
+        "author_sort": "Guillibeau, Nicholas, fl. 1734-1737",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "My Lord Compton has had another purge with milder effect. He has\ngiven My Lord's summer coat and breeches to Mr. Herne to lengthen,\nand he will need some more worsted and more thread stockings.",
+        "dcterms_description": "11 May 1734: Guillibeau, Nicholas, fl. 1734-1737 (Fulham, Greater London, England) to Compton, Elizabeth, 1694-1741",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000022162",
+        "dcterms_identifier-editi_": "editi_22162",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c1ed9837-3cf7-4483-ab88-d91109a94f3b",
+        "dcterms_identifier-uuid_": "uuid_c1ed9837-3cf7-4483-ab88-d91109a94f3b",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/39d64802-79fb-4900-bfe1-b48d707e1b60"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/2ae11694-5c83-4074-a402-c5318fce587e"
+        ],
+        "id": "uuid_c1ed9837-3cf7-4483-ab88-d91109a94f3b",
+        "locations": [
+          "http://localhost/location/65bddf46-c36a-42af-b093-823ca22355ad"
+        ],
+        "mail_addressees-rdf_value": "Countess of Northampton.",
+        "mail_authors-rdf_value": "Guillibeau, Nicholas",
+        "mail_origin-location": [
+          "http://localhost/location/65bddf46-c36a-42af-b093-823ca22355ad"
+        ],
+        "mail_origin-rdf_value": "Fulham",
+        "mail_recipient-person": [
+          "http://localhost/person/e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/39d64802-79fb-4900-bfe1-b48d707e1b60"
+        ],
+        "object_type": "work",
+        "origin_sort": "Fulham, Greater London, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "May 11 1734",
+        "ox_internalAdded": "2026-04-19T07:56:29Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2017-07-30T22:17:14Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1734,
+        "people": [
+          "http://localhost/person/e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1",
+          "http://localhost/person/2ae11694-5c83-4074-a402-c5318fce587e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Compton, Elizabeth, 1694-1741",
+        "started_date_gregorian_sort": "1734-05-11T00:00:00Z",
+        "started_date_sort": "1734-05-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-19T07:56:55.475Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c1ed9837-3cf7-4483-ab88-d91109a94f3b",
+        "uuid": "c1ed9837-3cf7-4483-ab88-d91109a94f3b",
+        "uuid_related": [
+          "e0c3ff2f-bf83-4e1a-b4c0-8a8faa4af6b1",
+          "2ae11694-5c83-4074-a402-c5318fce587e",
+          "39d64802-79fb-4900-bfe1-b48d707e1b60",
+          "65bddf46-c36a-42af-b093-823ca22355ad"
+        ]
+      }
+    ],
+    "numFound": 122,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 2,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1700-01-01T00:00:00Z TO 1760-12-31T23:59:59Z] AND person-author-gender:(male) AND person-recipient-gender:(female) AND location-origin:(London)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
