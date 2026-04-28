@@ -1,0 +1,2290 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Artists' Letters. Rome and Europe 1750–1850",
+        25, "Montagu, Mary Wortley",
+        2, "Gamba collection",
+        1, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0],
+      "destination_sort": [
+        "Florence, Tuscany, Italy",
+        21, "Naples, Campania, Italy",
+        4, "Venice, Veneto, Italy",
+        3, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+        25, "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+        2, "http://localhost/person/ef30fc92-fd02-449b-900b-526f3ab67c6e",
+        1, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0, "http://localhost/person/00086f8c-d6b0-4807-b6a0-e5c10137ae1d",
+        0, "http://localhost/person/000e0be1-7955-4cb3-a8c5-b2955f734f70",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd",
+        21, "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035",
+        2, "http://localhost/person/a4df7e0a-3b33-4673-9565-676af6f415b9",
+        2, "http://localhost/person/8bf13c20-cc0e-4408-95cb-4cf81636463d",
+        1, "http://localhost/person/a081dfe2-11d9-4324-ac20-a48bc175b30b",
+        1, "http://localhost/person/dab8cb28-37e0-49ba-9f3d-fbac00c43d7e",
+        1, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0, "http://localhost/person/001f0d96-5aac-4de4-a2ec-ec0c97824640",
+        0, "http://localhost/person/001fc99e-9ea5-4de6-aa02-fb04be137877",
+        0, "http://localhost/person/002b6bb0-ed3b-4d33-b302-27d893c50b3b",
+        0],
+      "origin_sort": [
+        "Rome, Latium, Italy",
+        25, "Livorno, Tuscany, Italy",
+        1, "Padua, Veneto, Italy",
+        1, "Vicenza, Veneto, Italy",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0],
+      "ox_started-ox_year": [
+        "1792",
+        8, "1793",
+        8, "1789",
+        2, "1795",
+        2, "1796",
+        2, "1741",
+        1, "1758",
+        1, "1771",
+        1, "1790",
+        1, "1794",
+        1]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_066372eb-4353-40c2-ba73-6f68dc74afaa": {
+
+    },
+    "uuid_0ff2d152-e867-4024-9233-467bdc3bcd50": {
+
+    },
+    "uuid_1352a28c-9d07-42fb-bea7-13a21837ca7d": {
+
+    },
+    "uuid_1516dde1-8cbf-45f4-a9df-d252c458d211": {
+
+    },
+    "uuid_29021e5b-2aa7-456e-93a1-039d86278675": {
+
+    },
+    "uuid_2e32b9dc-86c9-46be-b076-47aaca18672a": {
+
+    },
+    "uuid_45541578-c14c-444e-b21c-d61ee87f8963": {
+
+    },
+    "uuid_5799f222-7bf0-433c-a6d1-2e0f17a8b785": {
+
+    },
+    "uuid_59a45b56-d01f-4ba6-b9b7-36867c44bd8c": {
+
+    },
+    "uuid_5b6b8472-3d41-4ffd-b00a-d1c19bc2807c": {
+
+    },
+    "uuid_65182e77-bdea-4fe5-a147-b452122c209b": {
+
+    },
+    "uuid_6f1262e1-6c60-4b10-bb16-18f06060f1eb": {
+
+    },
+    "uuid_75689087-00fd-4c8d-8c1e-3c88c8493e5f": {
+
+    },
+    "uuid_7ccbb02c-953b-4b2e-883a-713103669b80": {
+
+    },
+    "uuid_860cf097-8ca1-46b0-9243-14542fd53574": {
+
+    },
+    "uuid_8cafabcc-677c-4b7f-90c8-c189c7bf3430": {
+
+    },
+    "uuid_8f5a97ed-774a-4547-8b37-a633ea2caccf": {
+
+    },
+    "uuid_a389c937-916a-409e-b114-89fdc5adc9ec": {
+
+    },
+    "uuid_af56531d-e6ac-414d-a909-80e1c2c7e354": {
+
+    },
+    "uuid_b3615f41-cdf7-4a56-8bbc-4b20701026bb": {
+
+    },
+    "uuid_b6d94542-a0cc-438f-aff0-ed61eeb0ac2f": {
+
+    },
+    "uuid_c2219f62-5cd7-452c-992f-735a80ecfe34": {
+
+    },
+    "uuid_cac38392-d649-46a3-8ef9-bf78c63959b6": {
+
+    },
+    "uuid_de14f3c9-9679-48fd-8f83-01e4394cbbe1": {
+
+    },
+    "uuid_e494fa3d-e8d3-425b-86d0-a5f91c9baf71": {
+
+    },
+    "uuid_f1a100ad-d23f-4a13-bce5-1dee4c4702c0": {
+
+    },
+    "uuid_f67eca40-6cc5-4b26-9329-8b358b6ab75d": {
+
+    },
+    "uuid_faf6c224-8b79-4fb8-87c8-b9838037551e": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609797244366356e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/50f30b9e-68ac-41ef-ad47-a2796316510d"
+        ],
+        "dcterms_description": "25 Feb 1741: Montagu, Mary Wortley (Lady), 1689-1762 (Livorno, Tuscany, Italy) to Michiel, Chiara, d.1780 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991438",
+        "dcterms_identifier-editi_": "editi_991438",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8cafabcc-677c-4b7f-90c8-c189c7bf3430",
+        "dcterms_identifier-uuid_": "uuid_8cafabcc-677c-4b7f-90c8-c189c7bf3430",
+        "dcterms_language": "French",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/47c43869-4713-455f-923b-919c411ae60e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_8cafabcc-677c-4b7f-90c8-c189c7bf3430",
+        "locations": [
+          "http://localhost/location/3744959b-e2e8-417d-b540-2e6dbab559d8",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_addressees-rdf_value": "A S. E. La Signora Chiara Michielli Bragadini",
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-rdf_value": "Venetia.",
+        "mail_origin-location": [
+          "http://localhost/location/3744959b-e2e8-417d-b540-2e6dbab559d8"
+        ],
+        "mail_origin-rdf_value": "Livourne",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/47c43869-4713-455f-923b-919c411ae60e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Livorno, Tuscany, Italy",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/50f30b9e-68ac-41ef-ad47-a2796316510d"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Feb. 25.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2019-04-04T18:08:24Z",
+        "ox_internalModified": "2019-04-04T18:08:24Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 4 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1741,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f0836a7c-4aa3-4d96-91cd-5bf9f5587791"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/f0836a7c-4aa3-4d96-91cd-5bf9f5587791"
+        ],
+        "started_date_gregorian_sort": "1741-02-25T00:00:00Z",
+        "started_date_sort": "1741-02-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:00.292Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8cafabcc-677c-4b7f-90c8-c189c7bf3430",
+        "uuid": "8cafabcc-677c-4b7f-90c8-c189c7bf3430",
+        "uuid_related": [
+          "47c43869-4713-455f-923b-919c411ae60e",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "3744959b-e2e8-417d-b540-2e6dbab559d8",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "50f30b9e-68ac-41ef-ad47-a2796316510d",
+          "f0836a7c-4aa3-4d96-91cd-5bf9f5587791"
+        ]
+      },
+      {
+        "_version_": 1.8609797252104847e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/d596e920-0f41-4fb6-b239-bfcd40b15f56"
+        ],
+        "dcterms_description": "11 Aug 1758: Montagu, Mary Wortley (Lady), 1689-1762 (Padua, Veneto, Italy) to Michiel, Chiara, d.1780 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991774",
+        "dcterms_identifier-editi_": "editi_991774",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8f5a97ed-774a-4547-8b37-a633ea2caccf",
+        "dcterms_identifier-uuid_": "uuid_8f5a97ed-774a-4547-8b37-a633ea2caccf",
+        "dcterms_language": "French",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/180301e1-ec0a-4b94-8636-a1bd1425fd50"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_8f5a97ed-774a-4547-8b37-a633ea2caccf",
+        "locations": [
+          "http://localhost/location/f890d861-0f88-4b0e-a03d-62b589cd07cb",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_addressees-rdf_value": "A S. E. La Signora Signora Chiara Michielli Bragadini",
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-rdf_value": "Venezia",
+        "mail_origin-location": [
+          "http://localhost/location/f890d861-0f88-4b0e-a03d-62b589cd07cb"
+        ],
+        "mail_origin-rdf_value": "Padoue",
+        "mail_recipient-person": [
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/180301e1-ec0a-4b94-8636-a1bd1425fd50"
+        ],
+        "object_type": "work",
+        "origin_sort": "Padua, Veneto, Italy",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/d596e920-0f41-4fb6-b239-bfcd40b15f56"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "ce 11 d'Août",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2019-04-05T21:30:44Z",
+        "ox_internalModified": "2019-04-05T21:30:44Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1758,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/18632b86-f38c-4420-a125-d804afe00035"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/7a4b3e20-b836-496f-bb47-088fc978e9b0"
+        ],
+        "recipient_sort": "Michiel, Chiara, d.1780",
+        "resources": [
+          "http://localhost/resource/7a4b3e20-b836-496f-bb47-088fc978e9b0"
+        ],
+        "started_date_gregorian_sort": "1758-08-11T00:00:00Z",
+        "started_date_sort": "1758-08-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:00.809Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8f5a97ed-774a-4547-8b37-a633ea2caccf",
+        "uuid": "8f5a97ed-774a-4547-8b37-a633ea2caccf",
+        "uuid_related": [
+          "180301e1-ec0a-4b94-8636-a1bd1425fd50",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "18632b86-f38c-4420-a125-d804afe00035",
+          "f890d861-0f88-4b0e-a03d-62b589cd07cb",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "d596e920-0f41-4fb6-b239-bfcd40b15f56",
+          "7a4b3e20-b836-496f-bb47-088fc978e9b0"
+        ]
+      },
+      {
+        "_version_": 1.8609797707176346e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "18 Sep 1789: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sachsen-Weimar-Eisenach, Anna Amalia von, 1739-1807 (Naples, Campania, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006372",
+        "dcterms_identifier-editi_": "editi_1006372",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c2219f62-5cd7-452c-992f-735a80ecfe34",
+        "dcterms_identifier-uuid_": "uuid_c2219f62-5cd7-452c-992f-735a80ecfe34",
+        "dcterms_references-person": [
+          "http://localhost/person/4433d2b6-389b-4229-8b73-817ca1ee9018",
+          "http://localhost/person/2ad3e82b-8fa4-418d-9db2-bcdca97cbaf8",
+          "http://localhost/person/eddeae9e-6d60-43c9-b3dc-3bdee04bc853"
+        ],
+        "destination_sort": "Naples, Campania, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/69d40a00-e6ae-468e-ac4e-bebc0689a87c"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_c2219f62-5cd7-452c-992f-735a80ecfe34",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a4df7e0a-3b33-4673-9565-676af6f415b9"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/69d40a00-e6ae-468e-ac4e-bebc0689a87c"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:02Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "viaggio a Napoli; opere in lavorazione; Tivoli",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1789,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/a4df7e0a-3b33-4673-9565-676af6f415b9"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sachsen-Weimar-Eisenach, Anna Amalia von, 1739-1807",
+        "started_date_gregorian_sort": "1789-09-18T00:00:00Z",
+        "started_date_sort": "1789-09-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c2219f62-5cd7-452c-992f-735a80ecfe34",
+        "uuid": "c2219f62-5cd7-452c-992f-735a80ecfe34",
+        "uuid_related": [
+          "69d40a00-e6ae-468e-ac4e-bebc0689a87c",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "a4df7e0a-3b33-4673-9565-676af6f415b9",
+          "4433d2b6-389b-4229-8b73-817ca1ee9018",
+          "2ad3e82b-8fa4-418d-9db2-bcdca97cbaf8",
+          "eddeae9e-6d60-43c9-b3dc-3bdee04bc853",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ]
+      },
+      {
+        "_version_": 1.8609797707176346e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/e22fda7d-11a3-4f82-a5ad-0acd4e61668b"
+        ],
+        "dcterms_description": "11 Dec 1789: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sachsen-Weimar-Eisenach, Anna Amalia von, 1739-1807 (Naples, Campania, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006373",
+        "dcterms_identifier-editi_": "editi_1006373",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/59a45b56-d01f-4ba6-b9b7-36867c44bd8c",
+        "dcterms_identifier-uuid_": "uuid_59a45b56-d01f-4ba6-b9b7-36867c44bd8c",
+        "dcterms_references-person": [
+          "http://localhost/person/8e1804bc-7722-489b-bfd5-a07650b4c104",
+          "http://localhost/person/86dc00ce-7d2f-403a-9d07-2c4c23bb4356"
+        ],
+        "destination_sort": "Naples, Campania, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/59026cbc-efe0-4ce5-b16e-9c21dd45c01d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_59a45b56-d01f-4ba6-b9b7-36867c44bd8c",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a4df7e0a-3b33-4673-9565-676af6f415b9"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/59026cbc-efe0-4ce5-b16e-9c21dd45c01d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:02Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/e22fda7d-11a3-4f82-a5ad-0acd4e61668b"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "lutto",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1789,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/a4df7e0a-3b33-4673-9565-676af6f415b9"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sachsen-Weimar-Eisenach, Anna Amalia von, 1739-1807",
+        "started_date_gregorian_sort": "1789-12-11T00:00:00Z",
+        "started_date_sort": "1789-12-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/59a45b56-d01f-4ba6-b9b7-36867c44bd8c",
+        "uuid": "59a45b56-d01f-4ba6-b9b7-36867c44bd8c",
+        "uuid_related": [
+          "59026cbc-efe0-4ce5-b16e-9c21dd45c01d",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "a4df7e0a-3b33-4673-9565-676af6f415b9",
+          "8e1804bc-7722-489b-bfd5-a07650b4c104",
+          "86dc00ce-7d2f-403a-9d07-2c4c23bb4356",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "4783945c-e15d-47c7-877e-5f2fe2d6ca62",
+          "e22fda7d-11a3-4f82-a5ad-0acd4e61668b"
+        ]
+      },
+      {
+        "_version_": 1.8609797707249746e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/ffd857f2-8a44-4dea-b5fa-6a1332c2fbf6"
+        ],
+        "dcterms_description": "5 Jan 1790: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Filangieri, Carolina, 1750-1828 (Naples, Campania, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006387",
+        "dcterms_identifier-editi_": "editi_1006387",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e494fa3d-e8d3-425b-86d0-a5f91c9baf71",
+        "dcterms_identifier-uuid_": "uuid_e494fa3d-e8d3-425b-86d0-a5f91c9baf71",
+        "dcterms_references-person": [
+          "http://localhost/person/2e3705d3-8c6e-44be-8ecc-550f81f043a3",
+          "http://localhost/person/f1f5739d-d30c-4ada-8fe9-eaa663ea3350"
+        ],
+        "destination_sort": "Naples, Campania, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ad7d3097-2be1-46f3-bfe9-5a060fb60002"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_e494fa3d-e8d3-425b-86d0-a5f91c9baf71",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a081dfe2-11d9-4324-ac20-a48bc175b30b"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ad7d3097-2be1-46f3-bfe9-5a060fb60002"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:04Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/ffd857f2-8a44-4dea-b5fa-6a1332c2fbf6"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "pagamento; incisioni",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1790,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/a081dfe2-11d9-4324-ac20-a48bc175b30b"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Filangieri, Carolina, 1750-1828",
+        "started_date_gregorian_sort": "1790-01-05T00:00:00Z",
+        "started_date_sort": "1790-01-05T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e494fa3d-e8d3-425b-86d0-a5f91c9baf71",
+        "uuid": "e494fa3d-e8d3-425b-86d0-a5f91c9baf71",
+        "uuid_related": [
+          "ad7d3097-2be1-46f3-bfe9-5a060fb60002",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "a081dfe2-11d9-4324-ac20-a48bc175b30b",
+          "2e3705d3-8c6e-44be-8ecc-550f81f043a3",
+          "f1f5739d-d30c-4ada-8fe9-eaa663ea3350",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "4783945c-e15d-47c7-877e-5f2fe2d6ca62",
+          "ffd857f2-8a44-4dea-b5fa-6a1332c2fbf6"
+        ]
+      },
+      {
+        "_version_": 1.860979770729169e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "25 May 1792: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006397",
+        "dcterms_identifier-editi_": "editi_1006397",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/de14f3c9-9679-48fd-8f83-01e4394cbbe1",
+        "dcterms_identifier-uuid_": "uuid_de14f3c9-9679-48fd-8f83-01e4394cbbe1",
+        "dcterms_references-person": [
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/9131fcef-d8d1-498a-8c97-187a257bca7d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_de14f3c9-9679-48fd-8f83-01e4394cbbe1",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/9131fcef-d8d1-498a-8c97-187a257bca7d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:06Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "ritratto di Fortunata Sulgher Fantastici; poesia; amicizia",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1792,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1792-05-25T00:00:00Z",
+        "started_date_sort": "1792-05-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/de14f3c9-9679-48fd-8f83-01e4394cbbe1",
+        "uuid": "de14f3c9-9679-48fd-8f83-01e4394cbbe1",
+        "uuid_related": [
+          "9131fcef-d8d1-498a-8c97-187a257bca7d",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797707302175e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "18 Aug 1792: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006398",
+        "dcterms_identifier-editi_": "editi_1006398",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2e32b9dc-86c9-46be-b076-47aaca18672a",
+        "dcterms_identifier-uuid_": "uuid_2e32b9dc-86c9-46be-b076-47aaca18672a",
+        "dcterms_references-person": [
+          "http://localhost/person/a8d9cc96-5568-4b08-a1c3-05b7773ce984"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/80efc778-d34b-4833-a364-f3c6cca4f743"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_2e32b9dc-86c9-46be-b076-47aaca18672a",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/80efc778-d34b-4833-a364-f3c6cca4f743"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:07Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "ritratto di Fortunata Sulgher Fantastici; amicizia",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1792,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1792-08-18T00:00:00Z",
+        "started_date_sort": "1792-08-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2e32b9dc-86c9-46be-b076-47aaca18672a",
+        "uuid": "2e32b9dc-86c9-46be-b076-47aaca18672a",
+        "uuid_related": [
+          "80efc778-d34b-4833-a364-f3c6cca4f743",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "a8d9cc96-5568-4b08-a1c3-05b7773ce984",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797707302175e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "22 Sep 1792: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006399",
+        "dcterms_identifier-editi_": "editi_1006399",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1352a28c-9d07-42fb-bea7-13a21837ca7d",
+        "dcterms_identifier-uuid_": "uuid_1352a28c-9d07-42fb-bea7-13a21837ca7d",
+        "dcterms_references-person": [
+          "http://localhost/person/a8d9cc96-5568-4b08-a1c3-05b7773ce984",
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af",
+          "http://localhost/person/ebb4a2eb-3df3-44e7-8e4a-c388036616fa"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a7b610ac-bd5d-4cce-9f3c-2423acd3a2b9"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_1352a28c-9d07-42fb-bea7-13a21837ca7d",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a7b610ac-bd5d-4cce-9f3c-2423acd3a2b9"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:07Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; salotti; teoria delle arti",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1792,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1792-09-22T00:00:00Z",
+        "started_date_sort": "1792-09-22T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1352a28c-9d07-42fb-bea7-13a21837ca7d",
+        "uuid": "1352a28c-9d07-42fb-bea7-13a21837ca7d",
+        "uuid_related": [
+          "a7b610ac-bd5d-4cce-9f3c-2423acd3a2b9",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "a8d9cc96-5568-4b08-a1c3-05b7773ce984",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "ebb4a2eb-3df3-44e7-8e4a-c388036616fa",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797707302175e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "12 Oct 1792: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006400",
+        "dcterms_identifier-editi_": "editi_1006400",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/65182e77-bdea-4fe5-a147-b452122c209b",
+        "dcterms_identifier-uuid_": "uuid_65182e77-bdea-4fe5-a147-b452122c209b",
+        "dcterms_references-person": [
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af",
+          "http://localhost/person/752c3fb7-7eac-41c0-b380-a17e90ec3e20"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0eafdc35-d43d-4c60-a333-c64fc988b61d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_65182e77-bdea-4fe5-a147-b452122c209b",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0eafdc35-d43d-4c60-a333-c64fc988b61d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:07Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; ritratto di Fortunata Sulgher Fantastici",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1792,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1792-10-12T00:00:00Z",
+        "started_date_sort": "1792-10-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/65182e77-bdea-4fe5-a147-b452122c209b",
+        "uuid": "65182e77-bdea-4fe5-a147-b452122c209b",
+        "uuid_related": [
+          "0eafdc35-d43d-4c60-a333-c64fc988b61d",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "752c3fb7-7eac-41c0-b380-a17e90ec3e20",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.860979770731266e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "27 Oct 1792: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006401",
+        "dcterms_identifier-editi_": "editi_1006401",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/faf6c224-8b79-4fb8-87c8-b9838037551e",
+        "dcterms_identifier-uuid_": "uuid_faf6c224-8b79-4fb8-87c8-b9838037551e",
+        "dcterms_references-person": [
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af",
+          "http://localhost/person/752c3fb7-7eac-41c0-b380-a17e90ec3e20"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4ea13837-a182-4fd4-99e8-a45a399d1f02"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_faf6c224-8b79-4fb8-87c8-b9838037551e",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4ea13837-a182-4fd4-99e8-a45a399d1f02"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:07Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; ritratto di Fortunata Sulgher Fantastici",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 27,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1792,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1792-10-27T00:00:00Z",
+        "started_date_sort": "1792-10-27T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/faf6c224-8b79-4fb8-87c8-b9838037551e",
+        "uuid": "faf6c224-8b79-4fb8-87c8-b9838037551e",
+        "uuid_related": [
+          "4ea13837-a182-4fd4-99e8-a45a399d1f02",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "752c3fb7-7eac-41c0-b380-a17e90ec3e20",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.860979770731266e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "10 Nov 1792: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006402",
+        "dcterms_identifier-editi_": "editi_1006402",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b3615f41-cdf7-4a56-8bbc-4b20701026bb",
+        "dcterms_identifier-uuid_": "uuid_b3615f41-cdf7-4a56-8bbc-4b20701026bb",
+        "dcterms_references-person": [
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a42a087d-1fea-4c0a-b86d-a33c489eefc3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_b3615f41-cdf7-4a56-8bbc-4b20701026bb",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a42a087d-1fea-4c0a-b86d-a33c489eefc3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:07Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; ritratto di Fortunata Sulgher Fantastici",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1792,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1792-11-10T00:00:00Z",
+        "started_date_sort": "1792-11-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b3615f41-cdf7-4a56-8bbc-4b20701026bb",
+        "uuid": "b3615f41-cdf7-4a56-8bbc-4b20701026bb",
+        "uuid_related": [
+          "a42a087d-1fea-4c0a-b86d-a33c489eefc3",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797707323146e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "1 Dec 1792: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006403",
+        "dcterms_identifier-editi_": "editi_1006403",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/af56531d-e6ac-414d-a909-80e1c2c7e354",
+        "dcterms_identifier-uuid_": "uuid_af56531d-e6ac-414d-a909-80e1c2c7e354",
+        "dcterms_references-person": [
+          "http://localhost/person/a8d9cc96-5568-4b08-a1c3-05b7773ce984",
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/2aae9e2d-2646-4619-8022-dca190763d3f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_af56531d-e6ac-414d-a909-80e1c2c7e354",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/2aae9e2d-2646-4619-8022-dca190763d3f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:08Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; salute",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1792,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1792-12-01T00:00:00Z",
+        "started_date_sort": "1792-12-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/af56531d-e6ac-414d-a909-80e1c2c7e354",
+        "uuid": "af56531d-e6ac-414d-a909-80e1c2c7e354",
+        "uuid_related": [
+          "2aae9e2d-2646-4619-8022-dca190763d3f",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "a8d9cc96-5568-4b08-a1c3-05b7773ce984",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797707323146e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "28 Dec 1792: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006404",
+        "dcterms_identifier-editi_": "editi_1006404",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cac38392-d649-46a3-8ef9-bf78c63959b6",
+        "dcterms_identifier-uuid_": "uuid_cac38392-d649-46a3-8ef9-bf78c63959b6",
+        "dcterms_references-person": [
+          "http://localhost/person/2e3705d3-8c6e-44be-8ecc-550f81f043a3",
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4799c1f5-f926-419d-ae57-60899a26417d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_cac38392-d649-46a3-8ef9-bf78c63959b6",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4799c1f5-f926-419d-ae57-60899a26417d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:08Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; poesia; componimenti",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 28,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1792,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1792-12-28T00:00:00Z",
+        "started_date_sort": "1792-12-28T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cac38392-d649-46a3-8ef9-bf78c63959b6",
+        "uuid": "cac38392-d649-46a3-8ef9-bf78c63959b6",
+        "uuid_related": [
+          "4799c1f5-f926-419d-ae57-60899a26417d",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "2e3705d3-8c6e-44be-8ecc-550f81f043a3",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797707344118e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/4518b81f-cf18-49f5-9236-97f1b92d98a6"
+        ],
+        "dcterms_description": "17 Jan 1793: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006408",
+        "dcterms_identifier-editi_": "editi_1006408",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7ccbb02c-953b-4b2e-883a-713103669b80",
+        "dcterms_identifier-uuid_": "uuid_7ccbb02c-953b-4b2e-883a-713103669b80",
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3665d46a-7794-47d4-bd8d-b81287f3488f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_7ccbb02c-953b-4b2e-883a-713103669b80",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3665d46a-7794-47d4-bd8d-b81287f3488f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:08Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/4518b81f-cf18-49f5-9236-97f1b92d98a6"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; raccomadazione",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1793,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1793-01-17T00:00:00Z",
+        "started_date_sort": "1793-01-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7ccbb02c-953b-4b2e-883a-713103669b80",
+        "uuid": "7ccbb02c-953b-4b2e-883a-713103669b80",
+        "uuid_related": [
+          "3665d46a-7794-47d4-bd8d-b81287f3488f",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f",
+          "4518b81f-cf18-49f5-9236-97f1b92d98a6"
+        ]
+      },
+      {
+        "_version_": 1.8609797707344118e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "24 Feb 1793: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006409",
+        "dcterms_identifier-editi_": "editi_1006409",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f67eca40-6cc5-4b26-9329-8b358b6ab75d",
+        "dcterms_identifier-uuid_": "uuid_f67eca40-6cc5-4b26-9329-8b358b6ab75d",
+        "dcterms_references-person": [
+          "http://localhost/person/2e3705d3-8c6e-44be-8ecc-550f81f043a3"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/43a3b44f-8b16-4c38-8352-73968b386fa6"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_f67eca40-6cc5-4b26-9329-8b358b6ab75d",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/43a3b44f-8b16-4c38-8352-73968b386fa6"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:09Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 24,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1793,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1793-02-24T00:00:00Z",
+        "started_date_sort": "1793-02-24T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f67eca40-6cc5-4b26-9329-8b358b6ab75d",
+        "uuid": "f67eca40-6cc5-4b26-9329-8b358b6ab75d",
+        "uuid_related": [
+          "43a3b44f-8b16-4c38-8352-73968b386fa6",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "2e3705d3-8c6e-44be-8ecc-550f81f043a3",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797707354604e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "30 Mar 1793: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006410",
+        "dcterms_identifier-editi_": "editi_1006410",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b6d94542-a0cc-438f-aff0-ed61eeb0ac2f",
+        "dcterms_identifier-uuid_": "uuid_b6d94542-a0cc-438f-aff0-ed61eeb0ac2f",
+        "dcterms_references-person": [
+          "http://localhost/person/3d9fa564-4d6e-47cd-ba33-39d234861bbb"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/8a246de4-4f1c-421b-9730-bfb307ca2bb2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_b6d94542-a0cc-438f-aff0-ed61eeb0ac2f",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/8a246de4-4f1c-421b-9730-bfb307ca2bb2"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:09Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; saluti",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 30,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1793,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1793-03-30T00:00:00Z",
+        "started_date_sort": "1793-03-30T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b6d94542-a0cc-438f-aff0-ed61eeb0ac2f",
+        "uuid": "b6d94542-a0cc-438f-aff0-ed61eeb0ac2f",
+        "uuid_related": [
+          "8a246de4-4f1c-421b-9730-bfb307ca2bb2",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "3d9fa564-4d6e-47cd-ba33-39d234861bbb",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797710122844e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "11 May 1793: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006411",
+        "dcterms_identifier-editi_": "editi_1006411",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/860cf097-8ca1-46b0-9243-14542fd53574",
+        "dcterms_identifier-uuid_": "uuid_860cf097-8ca1-46b0-9243-14542fd53574",
+        "dcterms_references-person": [
+          "http://localhost/person/cbd8446d-f097-4292-90f9-1cea1d839bdf"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/68a6c109-36fe-4738-b7e0-30d91eb047ca"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_860cf097-8ca1-46b0-9243-14542fd53574",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/68a6c109-36fe-4738-b7e0-30d91eb047ca"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:09Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "Amore e Psiche; amicizia",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1793,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1793-05-11T00:00:00Z",
+        "started_date_sort": "1793-05-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/860cf097-8ca1-46b0-9243-14542fd53574",
+        "uuid": "860cf097-8ca1-46b0-9243-14542fd53574",
+        "uuid_related": [
+          "68a6c109-36fe-4738-b7e0-30d91eb047ca",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "cbd8446d-f097-4292-90f9-1cea1d839bdf",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.860979771013333e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "25 May 1793: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006412",
+        "dcterms_identifier-editi_": "editi_1006412",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1516dde1-8cbf-45f4-a9df-d252c458d211",
+        "dcterms_identifier-uuid_": "uuid_1516dde1-8cbf-45f4-a9df-d252c458d211",
+        "dcterms_references-person": [
+          "http://localhost/person/cbd8446d-f097-4292-90f9-1cea1d839bdf"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a361c281-52dc-4716-97cd-e30f48a2faef"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_1516dde1-8cbf-45f4-a9df-d252c458d211",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a361c281-52dc-4716-97cd-e30f48a2faef"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:09Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1793,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1793-05-25T00:00:00Z",
+        "started_date_sort": "1793-05-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1516dde1-8cbf-45f4-a9df-d252c458d211",
+        "uuid": "1516dde1-8cbf-45f4-a9df-d252c458d211",
+        "uuid_related": [
+          "a361c281-52dc-4716-97cd-e30f48a2faef",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "cbd8446d-f097-4292-90f9-1cea1d839bdf",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.860979771013333e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "10 Sep 1793: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006413",
+        "dcterms_identifier-editi_": "editi_1006413",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/75689087-00fd-4c8d-8c1e-3c88c8493e5f",
+        "dcterms_identifier-uuid_": "uuid_75689087-00fd-4c8d-8c1e-3c88c8493e5f",
+        "dcterms_references-person": [
+          "http://localhost/person/215ed54e-f21d-425f-b6ee-08bc91906a8a",
+          "http://localhost/person/a8d9cc96-5568-4b08-a1c3-05b7773ce984",
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/1f2011ec-1518-472e-8cf2-32be390c2a59"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_75689087-00fd-4c8d-8c1e-3c88c8493e5f",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/1f2011ec-1518-472e-8cf2-32be390c2a59"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:09Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "notizie ; salute; Ossian; poesia",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1793,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1793-09-10T00:00:00Z",
+        "started_date_sort": "1793-09-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/75689087-00fd-4c8d-8c1e-3c88c8493e5f",
+        "uuid": "75689087-00fd-4c8d-8c1e-3c88c8493e5f",
+        "uuid_related": [
+          "1f2011ec-1518-472e-8cf2-32be390c2a59",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "215ed54e-f21d-425f-b6ee-08bc91906a8a",
+          "a8d9cc96-5568-4b08-a1c3-05b7773ce984",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797710143816e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "6 Dec 1793: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006414",
+        "dcterms_identifier-editi_": "editi_1006414",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/066372eb-4353-40c2-ba73-6f68dc74afaa",
+        "dcterms_identifier-uuid_": "uuid_066372eb-4353-40c2-ba73-6f68dc74afaa",
+        "dcterms_references-person": [
+          "http://localhost/person/d94a9329-a6a9-4165-b716-e3f45e869390"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c679ef8e-3b0b-41e0-87d9-50bd5ea51b26"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_066372eb-4353-40c2-ba73-6f68dc74afaa",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c679ef8e-3b0b-41e0-87d9-50bd5ea51b26"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:10Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "lettera di presentazione",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1793,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1793-12-06T00:00:00Z",
+        "started_date_sort": "1793-12-06T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/066372eb-4353-40c2-ba73-6f68dc74afaa",
+        "uuid": "066372eb-4353-40c2-ba73-6f68dc74afaa",
+        "uuid_related": [
+          "c679ef8e-3b0b-41e0-87d9-50bd5ea51b26",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "d94a9329-a6a9-4165-b716-e3f45e869390",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797707333632e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "31 Dec 1793: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Hamilton, Emma, 1765-1815 (Naples, Campania, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006407",
+        "dcterms_identifier-editi_": "editi_1006407",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/29021e5b-2aa7-456e-93a1-039d86278675",
+        "dcterms_identifier-uuid_": "uuid_29021e5b-2aa7-456e-93a1-039d86278675",
+        "dcterms_references-person": [
+          "http://localhost/person/dd79cfc2-e98a-422e-a810-4b613f06bfd2",
+          "http://localhost/person/cb57f208-c4eb-4580-9446-6d549cbddfe5"
+        ],
+        "destination_sort": "Naples, Campania, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/86d2dc43-e5c7-4117-9754-85162871f614"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_29021e5b-2aa7-456e-93a1-039d86278675",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/dab8cb28-37e0-49ba-9f3d-fbac00c43d7e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/86d2dc43-e5c7-4117-9754-85162871f614"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:08Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "viaggio a Napoli; raccomadazione",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 31,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1793,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/dab8cb28-37e0-49ba-9f3d-fbac00c43d7e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Hamilton, Emma, 1765-1815",
+        "started_date_gregorian_sort": "1793-12-31T00:00:00Z",
+        "started_date_sort": "1793-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/29021e5b-2aa7-456e-93a1-039d86278675",
+        "uuid": "29021e5b-2aa7-456e-93a1-039d86278675",
+        "uuid_related": [
+          "86d2dc43-e5c7-4117-9754-85162871f614",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "dab8cb28-37e0-49ba-9f3d-fbac00c43d7e",
+          "dd79cfc2-e98a-422e-a810-4b613f06bfd2",
+          "cb57f208-c4eb-4580-9446-6d549cbddfe5",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ]
+      },
+      {
+        "_version_": 1.8609797710164787e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/33b07cd3-de28-4548-8225-fd615a10c334"
+        ],
+        "dcterms_description": "29 May 1794: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006418",
+        "dcterms_identifier-editi_": "editi_1006418",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a389c937-916a-409e-b114-89fdc5adc9ec",
+        "dcterms_identifier-uuid_": "uuid_a389c937-916a-409e-b114-89fdc5adc9ec",
+        "dcterms_references-person": [
+          "http://localhost/person/d384509d-b8ea-4e04-9935-a1362ac21c3c",
+          "http://localhost/person/a8d9cc96-5568-4b08-a1c3-05b7773ce984"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/8ff8a4de-d234-41df-8c6b-25b4eb7d1321"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_a389c937-916a-409e-b114-89fdc5adc9ec",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/8ff8a4de-d234-41df-8c6b-25b4eb7d1321"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:10Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/33b07cd3-de28-4548-8225-fd615a10c334"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; raccomadazione",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1794,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1794-05-29T00:00:00Z",
+        "started_date_sort": "1794-05-29T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a389c937-916a-409e-b114-89fdc5adc9ec",
+        "uuid": "a389c937-916a-409e-b114-89fdc5adc9ec",
+        "uuid_related": [
+          "8ff8a4de-d234-41df-8c6b-25b4eb7d1321",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "d384509d-b8ea-4e04-9935-a1362ac21c3c",
+          "a8d9cc96-5568-4b08-a1c3-05b7773ce984",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f",
+          "33b07cd3-de28-4548-8225-fd615a10c334"
+        ]
+      },
+      {
+        "_version_": 1.860979771018576e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "29 Jan 1795: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006423",
+        "dcterms_identifier-editi_": "editi_1006423",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/5799f222-7bf0-433c-a6d1-2e0f17a8b785",
+        "dcterms_identifier-uuid_": "uuid_5799f222-7bf0-433c-a6d1-2e0f17a8b785",
+        "dcterms_references-person": [
+          "http://localhost/person/a8d9cc96-5568-4b08-a1c3-05b7773ce984"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/87085dd5-60e4-4b10-abbc-af5493b73fe3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_5799f222-7bf0-433c-a6d1-2e0f17a8b785",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/87085dd5-60e4-4b10-abbc-af5493b73fe3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:12Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1795,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1795-01-29T00:00:00Z",
+        "started_date_sort": "1795-01-29T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/5799f222-7bf0-433c-a6d1-2e0f17a8b785",
+        "uuid": "5799f222-7bf0-433c-a6d1-2e0f17a8b785",
+        "uuid_related": [
+          "87085dd5-60e4-4b10-abbc-af5493b73fe3",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "a8d9cc96-5568-4b08-a1c3-05b7773ce984",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797710196244e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "21 Jul 1795: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006424",
+        "dcterms_identifier-editi_": "editi_1006424",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f1a100ad-d23f-4a13-bce5-1dee4c4702c0",
+        "dcterms_identifier-uuid_": "uuid_f1a100ad-d23f-4a13-bce5-1dee4c4702c0",
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/94c95e48-9515-47c3-967b-cde90a659be9"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_f1a100ad-d23f-4a13-bce5-1dee4c4702c0",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/94c95e48-9515-47c3-967b-cde90a659be9"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:12Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1795,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1795-07-21T00:00:00Z",
+        "started_date_sort": "1795-07-21T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f1a100ad-d23f-4a13-bce5-1dee4c4702c0",
+        "uuid": "f1a100ad-d23f-4a13-bce5-1dee4c4702c0",
+        "uuid_related": [
+          "94c95e48-9515-47c3-967b-cde90a659be9",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609795902975508e+18,
+        "author_sort": "Caminer Turra, Elisabetta, 1751-1796",
+        "cito_Catalog": "Gamba collection",
+        "dcterms_abstract": "Caminer asks Vadori to let her have a number of portraits of friends they have in common, because Caminer wants to renovate her bedroom and, instead of English wallpaper, she is planning to use portraits of all her friends to decorate the walls.",
+        "dcterms_description": "1 Jan 1771 to 1 Jan 1796: Caminer Turra, Elisabetta, 1751-1796 (Vicenza, Veneto, Italy) to Vadori Tonati, Elisabetta, fl. 1760-1800 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000941461",
+        "dcterms_identifier-editi_": "editi_941461",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6f1262e1-6c60-4b10-bb16-18f06060f1eb",
+        "dcterms_identifier-uuid_": "uuid_6f1262e1-6c60-4b10-bb16-18f06060f1eb",
+        "dcterms_language": "Italian",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ccb5e6f0-a030-4701-9ee5-33efea409058"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ef30fc92-fd02-449b-900b-526f3ab67c6e"
+        ],
+        "id": "uuid_6f1262e1-6c60-4b10-bb16-18f06060f1eb",
+        "locations": [
+          "http://localhost/location/5ffb02f7-10a3-4184-9b2a-b47f5ff66058",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_addressees-rdf_value": "Bettina Vadori Tonati",
+        "mail_authors-rdf_value": "Elisabetta Caminer-Turra",
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-rdf_value": "Venezia",
+        "mail_origin-location": [
+          "http://localhost/location/5ffb02f7-10a3-4184-9b2a-b47f5ff66058"
+        ],
+        "mail_origin-rdf_value": "Vicenza",
+        "mail_recipient-person": [
+          "http://localhost/person/8bf13c20-cc0e-4408-95cb-4cf81636463d"
+        ],
+        "manifestation-institution-place": [
+          "Oesterreichische Nationalbibliothek",
+          "Österreichische Nationalbibliothek\nAustrian National Library\nOsterreichische Nationalbibliothek",
+          "Vienna",
+          "Wien",
+          "Austria",
+          "Österreich"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ccb5e6f0-a030-4701-9ee5-33efea409058"
+        ],
+        "object_type": "work",
+        "origin_sort": "Vicenza, Veneto, Italy",
+        "ox_completed-ox_day": 1,
+        "ox_completed-ox_month": 1,
+        "ox_completed-ox_year": 1796,
+        "ox_dateIsRange": true,
+        "ox_dateMarked": "Unmarked",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-10-14T17:24:06Z",
+        "ox_internalModified": "2015-10-15T16:41:48Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_keywords": "late-eighteenth century interior decoration taste",
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Vittoria Feola, in association with the Austrian National Library, the Medical University of Vienna, the Biblioteca Museo Civico di Bassano del Grappa, and the University of Padua, 14 October 2015",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1771,
+        "people": [
+          "http://localhost/person/ef30fc92-fd02-449b-900b-526f3ab67c6e",
+          "http://localhost/person/8bf13c20-cc0e-4408-95cb-4cf81636463d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/0e4bf92c-15f7-4fdd-8e0f-3b4d9987ea5c"
+        ],
+        "recipient_sort": "Vadori Tonati, Elisabetta, fl. 1760-1800",
+        "resources": [
+          "http://localhost/resource/0e4bf92c-15f7-4fdd-8e0f-3b4d9987ea5c"
+        ],
+        "started_date_gregorian_sort": "1796-01-01T00:00:00Z",
+        "started_date_sort": "1796-01-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:55.365Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6f1262e1-6c60-4b10-bb16-18f06060f1eb",
+        "uuid": "6f1262e1-6c60-4b10-bb16-18f06060f1eb",
+        "uuid_related": [
+          "ccb5e6f0-a030-4701-9ee5-33efea409058",
+          "ef30fc92-fd02-449b-900b-526f3ab67c6e",
+          "8bf13c20-cc0e-4408-95cb-4cf81636463d",
+          "5ffb02f7-10a3-4184-9b2a-b47f5ff66058",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "0e4bf92c-15f7-4fdd-8e0f-3b4d9987ea5c"
+        ]
+      },
+      {
+        "_version_": 1.8609797710227702e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/5d7e5d53-9fa3-41ac-b73f-479feeeab623"
+        ],
+        "dcterms_description": "14 Jan 1796: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006430",
+        "dcterms_identifier-editi_": "editi_1006430",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/45541578-c14c-444e-b21c-d61ee87f8963",
+        "dcterms_identifier-uuid_": "uuid_45541578-c14c-444e-b21c-d61ee87f8963",
+        "dcterms_references-person": [
+          "http://localhost/person/eddeae9e-6d60-43c9-b3dc-3bdee04bc853"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/48dacd70-8f43-4e6f-b5f3-7414c604c82d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_45541578-c14c-444e-b21c-d61ee87f8963",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/48dacd70-8f43-4e6f-b5f3-7414c604c82d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:13Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/5d7e5d53-9fa3-41ac-b73f-479feeeab623"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "lutto",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1796,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1796-01-14T00:00:00Z",
+        "started_date_sort": "1796-01-14T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/45541578-c14c-444e-b21c-d61ee87f8963",
+        "uuid": "45541578-c14c-444e-b21c-d61ee87f8963",
+        "uuid_related": [
+          "48dacd70-8f43-4e6f-b5f3-7414c604c82d",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "eddeae9e-6d60-43c9-b3dc-3bdee04bc853",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f",
+          "5d7e5d53-9fa3-41ac-b73f-479feeeab623"
+        ]
+      },
+      {
+        "_version_": 1.8609797710238188e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "19 Nov 1796: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006431",
+        "dcterms_identifier-editi_": "editi_1006431",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/5b6b8472-3d41-4ffd-b00a-d1c19bc2807c",
+        "dcterms_identifier-uuid_": "uuid_5b6b8472-3d41-4ffd-b00a-d1c19bc2807c",
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/49fac9cb-c7c7-4517-a66d-ab27d3f44c79"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_5b6b8472-3d41-4ffd-b00a-d1c19bc2807c",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/49fac9cb-c7c7-4517-a66d-ab27d3f44c79"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:13Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 19,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1796,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1796-11-19T00:00:00Z",
+        "started_date_sort": "1796-11-19T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/5b6b8472-3d41-4ffd-b00a-d1c19bc2807c",
+        "uuid": "5b6b8472-3d41-4ffd-b00a-d1c19bc2807c",
+        "uuid_related": [
+          "49fac9cb-c7c7-4517-a66d-ab27d3f44c79",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797710269645e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/45641564-16cb-4fb7-bb94-cbb1ba57aea0"
+        ],
+        "dcterms_description": "29 Dec 1797: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Sulgher Fantastici, Fortunata, 1755-1824 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006440",
+        "dcterms_identifier-editi_": "editi_1006440",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0ff2d152-e867-4024-9233-467bdc3bcd50",
+        "dcterms_identifier-uuid_": "uuid_0ff2d152-e867-4024-9233-467bdc3bcd50",
+        "dcterms_references-person": [
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af"
+        ],
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/9df0b667-7952-4815-80a6-88d954522de2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_0ff2d152-e867-4024-9233-467bdc3bcd50",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/9df0b667-7952-4815-80a6-88d954522de2"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:15Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/45641564-16cb-4fb7-bb94-cbb1ba57aea0"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; critica letteraria",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1797,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/bee45699-a39f-4a51-abd3-6e53717c77cd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Sulgher Fantastici, Fortunata, 1755-1824",
+        "started_date_gregorian_sort": "1797-12-29T00:00:00Z",
+        "started_date_sort": "1797-12-29T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0ff2d152-e867-4024-9233-467bdc3bcd50",
+        "uuid": "0ff2d152-e867-4024-9233-467bdc3bcd50",
+        "uuid_related": [
+          "9df0b667-7952-4815-80a6-88d954522de2",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "bee45699-a39f-4a51-abd3-6e53717c77cd",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f",
+          "45641564-16cb-4fb7-bb94-cbb1ba57aea0"
+        ]
+      }
+    ],
+    "numFound": 28,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 1,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1700-01-01T00:00:00Z TO 1799-12-31T23:59:59Z] AND (person-author-gender:(female) OR person-recipient-gender:(female) OR person-mentioned-gender:(female)) AND person-author-gender:(female) AND person-recipient-gender:(female) AND location-origin:(Rome, Latium, Italy) AND location-destination:(Rome, Latium, Italy)",
+      "rows": "28",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
