@@ -1,0 +1,1030 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Hartlib, Samuel",
+        8, "Bodleian card catalogue",
+        1, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0, "Arias Montano, Benito",
+        0],
+      "destination_sort": [
+        "London, England, United Kingdom",
+        8, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0, "Abergavenny, Monmouthshire, Wales",
+        0, "Abingdon Street, Westminster, London, England, United Kingdom",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+        8, "http://localhost/person/30734b10-916f-4555-b496-cbc9eda45af6",
+        1, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0, "http://localhost/person/00086f8c-d6b0-4807-b6a0-e5c10137ae1d",
+        0, "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+        0, "http://localhost/person/000e0be1-7955-4cb3-a8c5-b2955f734f70",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef",
+        8, "http://localhost/person/40bd0ea8-0aae-4b44-a356-41e1b8c0a91d",
+        1, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0, "http://localhost/person/001f0d96-5aac-4de4-a2ec-ec0c97824640",
+        0, "http://localhost/person/001fc99e-9ea5-4de6-aa02-fb04be137877",
+        0, "http://localhost/person/002b6bb0-ed3b-4d33-b302-27d893c50b3b",
+        0, "http://localhost/person/002b6db0-3d93-4ec1-b3b5-1ad8467602a9",
+        0, "http://localhost/person/0031ef2b-30c0-4650-b2c9-ad2a849da419",
+        0, "http://localhost/person/003428b3-27e1-4798-8a40-df0f4768096f",
+        0, "http://localhost/person/0037f13b-5dd2-4785-82f7-2121c1a28f5d",
+        0],
+      "origin_sort": [
+        "Rotterdam, South Holland, Netherlands",
+        3, "The Hague, South Holland, Netherlands",
+        3, "Delft, South Holland, Netherlands",
+        1, "Netherlands",
+        1, "Oxford, Oxfordshire, England",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0],
+      "ox_started-ox_year": [
+        "1645",
+        6, "1642",
+        1, "1644",
+        1, "1650",
+        1, "1475",
+        0, "1484",
+        0, "1487",
+        0, "1488",
+        0, "1489",
+        0, "1491",
+        0]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_0abcf37e-317d-4be5-9b9f-bd065d20d5c4": {
+
+    },
+    "uuid_32e2fd4d-9d04-4b66-95a9-456252cbeb34": {
+
+    },
+    "uuid_6b7d1e46-2ccb-4098-95e6-a6a708108765": {
+
+    },
+    "uuid_7d767a23-b766-453c-bec0-d83c24411bda": {
+
+    },
+    "uuid_cef609b4-2f15-4ec2-a979-1fdfd23f2cb8": {
+
+    },
+    "uuid_de77d1d1-f19e-4852-b4de-2c0839cf395c": {
+
+    },
+    "uuid_e0e89bb7-84c9-4482-9067-45724b057d37": {
+
+    },
+    "uuid_f063f3e4-83b6-4f9c-b9cc-8e202707c203": {
+
+    },
+    "uuid_f6f40545-fe01-4240-bc78-18d6e6366f66": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609793954217984e+18,
+        "author_sort": "Henrietta Maria, Queen consort of Charles I, 1609-1669",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "All I can decipher is to the effect that she thanks her\nand begs her to persist in service to her and assures her\nshe has not forgotten her promise to speak to the King\non Sieur de Heenvliet's affair.",
+        "dcterms_description": "14 Feb 1642: Henrietta Maria, Queen consort of Charles I, 1609-1669 (Oxford, Oxfordshire, England) to Stanhope, Katherine, 1609-1667",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000025774",
+        "dcterms_identifier-editi_": "editi_25774",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0abcf37e-317d-4be5-9b9f-bd065d20d5c4",
+        "dcterms_identifier-uuid_": "uuid_0abcf37e-317d-4be5-9b9f-bd065d20d5c4",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f7ff9254-185c-4b0c-8ade-abb87dd0ef78"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/30734b10-916f-4555-b496-cbc9eda45af6"
+        ],
+        "id": "uuid_0abcf37e-317d-4be5-9b9f-bd065d20d5c4",
+        "locations": [
+          "http://localhost/location/6c07b3b4-c9dd-4347-9fc1-7b98bad424cc"
+        ],
+        "mail_addressees-rdf_value": "Katherine, Lady Stanhope",
+        "mail_authors-rdf_value": "Queen Henrietta Marie 1609-1669",
+        "mail_origin-location": [
+          "http://localhost/location/6c07b3b4-c9dd-4347-9fc1-7b98bad424cc"
+        ],
+        "mail_origin-rdf_value": "Oxford",
+        "mail_recipient-person": [
+          "http://localhost/person/40bd0ea8-0aae-4b44-a356-41e1b8c0a91d"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f7ff9254-185c-4b0c-8ade-abb87dd0ef78"
+        ],
+        "object_type": "work",
+        "origin_sort": "Oxford, Oxfordshire, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "14 Feb 1642 ?",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2012-06-01T13:04:03Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 20 February 2010",
+        "ox_started-indef_uncertain": true,
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1642,
+        "people": [
+          "http://localhost/person/30734b10-916f-4555-b496-cbc9eda45af6",
+          "http://localhost/person/40bd0ea8-0aae-4b44-a356-41e1b8c0a91d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Stanhope, Katherine, 1609-1667",
+        "started_date_gregorian_sort": "1642-02-14T00:00:00Z",
+        "started_date_sort": "1642-02-14T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:57:08.972Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0abcf37e-317d-4be5-9b9f-bd065d20d5c4",
+        "uuid": "0abcf37e-317d-4be5-9b9f-bd065d20d5c4",
+        "uuid_related": [
+          "30734b10-916f-4555-b496-cbc9eda45af6",
+          "6c07b3b4-c9dd-4347-9fc1-7b98bad424cc",
+          "f7ff9254-185c-4b0c-8ade-abb87dd0ef78",
+          "40bd0ea8-0aae-4b44-a356-41e1b8c0a91d"
+        ]
+      },
+      {
+        "_version_": 1.8609794648972984e+18,
+        "author_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "cito_Catalog": "Hartlib, Samuel",
+        "comments": [
+          "http://localhost/comment/14734def-3554-425f-80a8-b6acff6e8826",
+          "http://localhost/comment/315decc2-6f60-46ea-9d87-103d8f478e3c",
+          "http://localhost/comment/d5c07a9a-d70a-4d85-8568-34fc2f9ee7f1"
+        ],
+        "dcterms_description": "13 Apr 1644: Dury, Dorothy Moore (née King), 1612-1664 (Delft, South Holland, Netherlands) to Jones, Katherine, 1614-1691 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_hartlib-row_id:000002087",
+        "dcterms_identifier-editi_": "editi_302087",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7d767a23-b766-453c-bec0-d83c24411bda",
+        "dcterms_identifier-uuid_": "uuid_7d767a23-b766-453c-bec0-d83c24411bda",
+        "dcterms_language": "English",
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e7b9c7a6-491b-4628-826e-14aa4feac41b",
+          "http://localhost/manifestation/cc083cf3-8522-47ab-b21f-2f0dbda19966"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "id": "uuid_7d767a23-b766-453c-bec0-d83c24411bda",
+        "locations": [
+          "http://localhost/location/5d07f9ea-f84e-479a-b467-c1d348214d81",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/5d07f9ea-f84e-479a-b467-c1d348214d81"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "manifestation-institution-place": [
+          "Sheffield University Library",
+          "SUL",
+          "Sheffield",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e7b9c7a6-491b-4628-826e-14aa4feac41b",
+          "http://localhost/manifestation/cc083cf3-8522-47ab-b21f-2f0dbda19966"
+        ],
+        "object_type": "work",
+        "origin_sort": "Delft, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2010-09-03T17:39:30Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/14734def-3554-425f-80a8-b6acff6e8826",
+          "http://localhost/comment/315decc2-6f60-46ea-9d87-103d8f478e3c",
+          "http://localhost/comment/d5c07a9a-d70a-4d85-8568-34fc2f9ee7f1"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Leigh Penman, 03 Sep 2010",
+        "ox_started-ox_day": 13,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1644,
+        "ox_urlOfTranscription": [
+          "https://www.dhi.ac.uk/hartlib/browse.jsp?id=8/52/1a-2b"
+        ],
+        "people": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c4fd95bb-1fdb-4918-bf5d-1558e0a24e37"
+        ],
+        "recipient_sort": "Jones, Katherine, 1614-1691",
+        "resources": [
+          "http://localhost/resource/c4fd95bb-1fdb-4918-bf5d-1558e0a24e37"
+        ],
+        "started_date_gregorian_sort": "1644-04-13T00:00:00Z",
+        "started_date_sort": "1644-04-13T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:57:50.481Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7d767a23-b766-453c-bec0-d83c24411bda",
+        "uuid": "7d767a23-b766-453c-bec0-d83c24411bda",
+        "uuid_related": [
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "189bd394-afbe-40e6-a0b9-a965120beeef",
+          "5d07f9ea-f84e-479a-b467-c1d348214d81",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "e7b9c7a6-491b-4628-826e-14aa4feac41b",
+          "cc083cf3-8522-47ab-b21f-2f0dbda19966",
+          "14734def-3554-425f-80a8-b6acff6e8826",
+          "315decc2-6f60-46ea-9d87-103d8f478e3c",
+          "d5c07a9a-d70a-4d85-8568-34fc2f9ee7f1",
+          "c4fd95bb-1fdb-4918-bf5d-1558e0a24e37"
+        ]
+      },
+      {
+        "_version_": 1.860979463016153e+18,
+        "author_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "cito_Catalog": "Hartlib, Samuel",
+        "comments": [
+          "http://localhost/comment/7a44ba30-ec11-4e10-b2e3-843f0192533c",
+          "http://localhost/comment/84801c60-4387-4b9d-9b33-8fdfd5be1733",
+          "http://localhost/comment/f31bdef5-5acd-40a3-bf77-091be87cca4e"
+        ],
+        "dcterms_description": "23 Jan 1645: Dury, Dorothy Moore (née King), 1612-1664 (Rotterdam, South Holland, Netherlands) to Jones, Katherine, 1614-1691 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_hartlib-row_id:000001421",
+        "dcterms_identifier-editi_": "editi_301421",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f063f3e4-83b6-4f9c-b9cc-8e202707c203",
+        "dcterms_identifier-uuid_": "uuid_f063f3e4-83b6-4f9c-b9cc-8e202707c203",
+        "dcterms_language": "English",
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/8372421d-e12d-44f7-a3b4-2672f8e4ddf4",
+          "http://localhost/manifestation/0354cf9f-3cc2-4baa-b01f-57adfd7f5830"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "id": "uuid_f063f3e4-83b6-4f9c-b9cc-8e202707c203",
+        "locations": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_addressees-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "manifestation-institution-place": [
+          "Sheffield University Library",
+          "SUL",
+          "Sheffield",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/8372421d-e12d-44f7-a3b4-2672f8e4ddf4",
+          "http://localhost/manifestation/0354cf9f-3cc2-4baa-b01f-57adfd7f5830"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rotterdam, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "13/23 Jan 1645",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2010-09-03T17:39:30Z",
+        "ox_internalModified": "2022-10-09T21:40:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/7a44ba30-ec11-4e10-b2e3-843f0192533c",
+          "http://localhost/comment/84801c60-4387-4b9d-9b33-8fdfd5be1733",
+          "http://localhost/comment/f31bdef5-5acd-40a3-bf77-091be87cca4e"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Leigh Penman, 03 Sep 2010",
+        "ox_started-ox_day": 23,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1645,
+        "ox_urlOfTranscription": [
+          "https://www.dhi.ac.uk/hartlib/browse.jsp?id=21/7/5a-6b"
+        ],
+        "people": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/99fd775d-ad2f-48fe-8642-91b72637dbc6"
+        ],
+        "recipient_sort": "Jones, Katherine, 1614-1691",
+        "resources": [
+          "http://localhost/resource/99fd775d-ad2f-48fe-8642-91b72637dbc6"
+        ],
+        "started_date_gregorian_sort": "1645-01-23T00:00:00Z",
+        "started_date_sort": "1645-01-23T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:57:49.961Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f063f3e4-83b6-4f9c-b9cc-8e202707c203",
+        "uuid": "f063f3e4-83b6-4f9c-b9cc-8e202707c203",
+        "uuid_related": [
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "189bd394-afbe-40e6-a0b9-a965120beeef",
+          "6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "8372421d-e12d-44f7-a3b4-2672f8e4ddf4",
+          "0354cf9f-3cc2-4baa-b01f-57adfd7f5830",
+          "7a44ba30-ec11-4e10-b2e3-843f0192533c",
+          "84801c60-4387-4b9d-9b33-8fdfd5be1733",
+          "f31bdef5-5acd-40a3-bf77-091be87cca4e",
+          "99fd775d-ad2f-48fe-8642-91b72637dbc6"
+        ]
+      },
+      {
+        "_version_": 1.8609794693044634e+18,
+        "author_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "cito_Catalog": "Hartlib, Samuel",
+        "comments": [
+          "http://localhost/comment/dba9e886-18d6-4af5-88f3-94e83e025467",
+          "http://localhost/comment/2fb463c8-ae85-4c66-95a2-4b60a294c98b",
+          "http://localhost/comment/5d788648-eebf-4e45-a5a7-29a7791ea0e0"
+        ],
+        "dcterms_description": "12 Feb 1645: Dury, Dorothy Moore (née King), 1612-1664 (The Hague, South Holland, Netherlands) to Jones, Katherine, 1614-1691 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_hartlib-row_id:000003703",
+        "dcterms_identifier-editi_": "editi_303703",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/32e2fd4d-9d04-4b66-95a9-456252cbeb34",
+        "dcterms_identifier-uuid_": "uuid_32e2fd4d-9d04-4b66-95a9-456252cbeb34",
+        "dcterms_language": "English",
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/5f6f6489-2fc5-4922-9808-daaf9ae9b37d",
+          "http://localhost/manifestation/716e0561-3a46-47e4-bf52-09cc7a37400d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "id": "uuid_32e2fd4d-9d04-4b66-95a9-456252cbeb34",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "manifestation-institution-place": [
+          "Sheffield University Library",
+          "SUL",
+          "Sheffield",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/5f6f6489-2fc5-4922-9808-daaf9ae9b37d",
+          "http://localhost/manifestation/716e0561-3a46-47e4-bf52-09cc7a37400d"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2010-09-03T17:39:30Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/dba9e886-18d6-4af5-88f3-94e83e025467",
+          "http://localhost/comment/2fb463c8-ae85-4c66-95a2-4b60a294c98b",
+          "http://localhost/comment/5d788648-eebf-4e45-a5a7-29a7791ea0e0"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Leigh Penman, 03 Sep 2010",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1645,
+        "ox_urlOfTranscription": [
+          "https://www.dhi.ac.uk/hartlib/browse.jsp?id=7/33/1a-2b"
+        ],
+        "people": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/170674a4-8e15-443a-ba80-dc9708379216"
+        ],
+        "recipient_sort": "Jones, Katherine, 1614-1691",
+        "resources": [
+          "http://localhost/resource/170674a4-8e15-443a-ba80-dc9708379216"
+        ],
+        "started_date_gregorian_sort": "1645-02-12T00:00:00Z",
+        "started_date_sort": "1645-02-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:57:50.975Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/32e2fd4d-9d04-4b66-95a9-456252cbeb34",
+        "uuid": "32e2fd4d-9d04-4b66-95a9-456252cbeb34",
+        "uuid_related": [
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "189bd394-afbe-40e6-a0b9-a965120beeef",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "5f6f6489-2fc5-4922-9808-daaf9ae9b37d",
+          "716e0561-3a46-47e4-bf52-09cc7a37400d",
+          "dba9e886-18d6-4af5-88f3-94e83e025467",
+          "2fb463c8-ae85-4c66-95a2-4b60a294c98b",
+          "5d788648-eebf-4e45-a5a7-29a7791ea0e0",
+          "170674a4-8e15-443a-ba80-dc9708379216"
+        ]
+      },
+      {
+        "_version_": 1.860979465173074e+18,
+        "author_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "cito_Catalog": "Hartlib, Samuel",
+        "comments": [
+          "http://localhost/comment/811b7fe5-7fc0-4de5-b2ad-7489239efa7d",
+          "http://localhost/comment/d8c8935d-594f-4950-b409-cb9775ae3045",
+          "http://localhost/comment/82c2190d-078a-41b1-b14b-62c1c1f821a1",
+          "http://localhost/comment/e8aa924d-1152-4b8a-813d-675951f0b644"
+        ],
+        "dcterms_description": "21 Feb 1645: Dury, Dorothy Moore (née King), 1612-1664 (The Hague, South Holland, Netherlands) to Jones, Katherine, 1614-1691 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_hartlib-row_id:000002228",
+        "dcterms_identifier-editi_": "editi_302228",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/de77d1d1-f19e-4852-b4de-2c0839cf395c",
+        "dcterms_identifier-uuid_": "uuid_de77d1d1-f19e-4852-b4de-2c0839cf395c",
+        "dcterms_language": "English",
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d59e900b-87b6-44fa-897f-74b3a2c9d9c9",
+          "http://localhost/manifestation/6148b42e-6327-4640-907b-edd51985dd67"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "id": "uuid_de77d1d1-f19e-4852-b4de-2c0839cf395c",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "manifestation-institution-place": [
+          "Sheffield University Library",
+          "SUL",
+          "Sheffield",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d59e900b-87b6-44fa-897f-74b3a2c9d9c9",
+          "http://localhost/manifestation/6148b42e-6327-4640-907b-edd51985dd67"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2010-09-03T17:39:30Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/811b7fe5-7fc0-4de5-b2ad-7489239efa7d",
+          "http://localhost/comment/d8c8935d-594f-4950-b409-cb9775ae3045",
+          "http://localhost/comment/82c2190d-078a-41b1-b14b-62c1c1f821a1",
+          "http://localhost/comment/e8aa924d-1152-4b8a-813d-675951f0b644"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Leigh Penman, 03 Sep 2010",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1645,
+        "ox_urlOfTranscription": [
+          "https://www.dhi.ac.uk/hartlib/view?docset=main&docname=7B_033"
+        ],
+        "people": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d05beea7-442e-49cd-a6fb-d271286d9ca2"
+        ],
+        "recipient_sort": "Jones, Katherine, 1614-1691",
+        "resources": [
+          "http://localhost/resource/d05beea7-442e-49cd-a6fb-d271286d9ca2"
+        ],
+        "started_date_gregorian_sort": "1645-02-21T00:00:00Z",
+        "started_date_sort": "1645-02-21T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:57:50.481Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/de77d1d1-f19e-4852-b4de-2c0839cf395c",
+        "uuid": "de77d1d1-f19e-4852-b4de-2c0839cf395c",
+        "uuid_related": [
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "189bd394-afbe-40e6-a0b9-a965120beeef",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "d59e900b-87b6-44fa-897f-74b3a2c9d9c9",
+          "6148b42e-6327-4640-907b-edd51985dd67",
+          "811b7fe5-7fc0-4de5-b2ad-7489239efa7d",
+          "d8c8935d-594f-4950-b409-cb9775ae3045",
+          "82c2190d-078a-41b1-b14b-62c1c1f821a1",
+          "e8aa924d-1152-4b8a-813d-675951f0b644",
+          "d05beea7-442e-49cd-a6fb-d271286d9ca2"
+        ]
+      },
+      {
+        "_version_": 1.8609794689678705e+18,
+        "author_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "cito_Catalog": "Hartlib, Samuel",
+        "comments": [
+          "http://localhost/comment/770804c2-0d44-4821-bfba-d2680cffa934",
+          "http://localhost/comment/b38fd084-47dd-4224-bf43-82579fcc66a4",
+          "http://localhost/comment/5de53af4-d409-4568-9b2a-d41a6343f1ac"
+        ],
+        "dcterms_description": "21 Feb 1645: Dury, Dorothy Moore (née King), 1612-1664 (The Hague, South Holland, Netherlands) to Jones, Katherine, 1614-1691 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_hartlib-row_id:000003544",
+        "dcterms_identifier-editi_": "editi_303544",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e0e89bb7-84c9-4482-9067-45724b057d37",
+        "dcterms_identifier-uuid_": "uuid_e0e89bb7-84c9-4482-9067-45724b057d37",
+        "dcterms_language": "English",
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/207ec0e0-a850-4dcd-a8d0-68a2005b828e",
+          "http://localhost/manifestation/562073a8-3836-44a7-814d-a71f1354d6fe",
+          "http://localhost/manifestation/9178600c-fa35-48e4-be85-e0e729dc901c"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "id": "uuid_e0e89bb7-84c9-4482-9067-45724b057d37",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "manifestation-institution-place": [
+          "Sheffield University Library",
+          "SUL",
+          "Sheffield",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/207ec0e0-a850-4dcd-a8d0-68a2005b828e",
+          "http://localhost/manifestation/562073a8-3836-44a7-814d-a71f1354d6fe",
+          "http://localhost/manifestation/9178600c-fa35-48e4-be85-e0e729dc901c"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2010-09-03T17:39:30Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/770804c2-0d44-4821-bfba-d2680cffa934",
+          "http://localhost/comment/b38fd084-47dd-4224-bf43-82579fcc66a4",
+          "http://localhost/comment/5de53af4-d409-4568-9b2a-d41a6343f1ac"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Leigh Penman, 03 Sep 2010",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1645,
+        "ox_urlOfTranscription": [
+          "https://www.dhi.ac.uk/hartlib/browse.jsp?id=3/2/95a"
+        ],
+        "people": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/36796152-87f0-4323-90e1-bddde31fc95b"
+        ],
+        "recipient_sort": "Jones, Katherine, 1614-1691",
+        "resources": [
+          "http://localhost/resource/36796152-87f0-4323-90e1-bddde31fc95b"
+        ],
+        "started_date_gregorian_sort": "1645-02-21T00:00:00Z",
+        "started_date_sort": "1645-02-21T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:57:50.975Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e0e89bb7-84c9-4482-9067-45724b057d37",
+        "uuid": "e0e89bb7-84c9-4482-9067-45724b057d37",
+        "uuid_related": [
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "189bd394-afbe-40e6-a0b9-a965120beeef",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "207ec0e0-a850-4dcd-a8d0-68a2005b828e",
+          "562073a8-3836-44a7-814d-a71f1354d6fe",
+          "9178600c-fa35-48e4-be85-e0e729dc901c",
+          "770804c2-0d44-4821-bfba-d2680cffa934",
+          "b38fd084-47dd-4224-bf43-82579fcc66a4",
+          "5de53af4-d409-4568-9b2a-d41a6343f1ac",
+          "36796152-87f0-4323-90e1-bddde31fc95b"
+        ]
+      },
+      {
+        "_version_": 1.8609794665320284e+18,
+        "author_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "cito_Catalog": "Hartlib, Samuel",
+        "comments": [
+          "http://localhost/comment/7f1ac5ea-7238-4c34-945d-70f21031a990",
+          "http://localhost/comment/770e597f-8463-428d-b9d4-917dde7b17ed",
+          "http://localhost/comment/78e7ccc3-d77a-4611-9550-ced3330fff39"
+        ],
+        "dcterms_description": "5 May 1645: Dury, Dorothy Moore (née King), 1612-1664 (Rotterdam, South Holland, Netherlands) to Jones, Katherine, 1614-1691 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_hartlib-row_id:000002735",
+        "dcterms_identifier-editi_": "editi_302735",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cef609b4-2f15-4ec2-a979-1fdfd23f2cb8",
+        "dcterms_identifier-uuid_": "uuid_cef609b4-2f15-4ec2-a979-1fdfd23f2cb8",
+        "dcterms_language": "English",
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7373db8a-598b-42d4-b130-b0547c2e0669",
+          "http://localhost/manifestation/8b189a53-f14e-46ff-bd8c-244c64316ecd",
+          "http://localhost/manifestation/714bea3e-88a5-46fe-9ff6-25b1168ff392"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "id": "uuid_cef609b4-2f15-4ec2-a979-1fdfd23f2cb8",
+        "locations": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "manifestation-institution-place": [
+          "Sheffield University Library",
+          "SUL",
+          "Sheffield",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7373db8a-598b-42d4-b130-b0547c2e0669",
+          "http://localhost/manifestation/8b189a53-f14e-46ff-bd8c-244c64316ecd",
+          "http://localhost/manifestation/714bea3e-88a5-46fe-9ff6-25b1168ff392"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rotterdam, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2010-09-03T17:39:30Z",
+        "ox_internalModified": "2022-10-09T21:40:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/7f1ac5ea-7238-4c34-945d-70f21031a990",
+          "http://localhost/comment/770e597f-8463-428d-b9d4-917dde7b17ed",
+          "http://localhost/comment/78e7ccc3-d77a-4611-9550-ced3330fff39"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Leigh Penman, 03 Sep 2010",
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1645,
+        "ox_urlOfTranscription": [
+          "https://www.dhi.ac.uk/hartlib/browse.jsp?id=3/2/118a-121b"
+        ],
+        "people": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e36a3450-79d5-40b0-865c-2456c3b0e0a8"
+        ],
+        "recipient_sort": "Jones, Katherine, 1614-1691",
+        "resources": [
+          "http://localhost/resource/e36a3450-79d5-40b0-865c-2456c3b0e0a8"
+        ],
+        "started_date_gregorian_sort": "1645-05-05T00:00:00Z",
+        "started_date_sort": "1645-05-05T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:57:50.481Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cef609b4-2f15-4ec2-a979-1fdfd23f2cb8",
+        "uuid": "cef609b4-2f15-4ec2-a979-1fdfd23f2cb8",
+        "uuid_related": [
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "189bd394-afbe-40e6-a0b9-a965120beeef",
+          "6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "7373db8a-598b-42d4-b130-b0547c2e0669",
+          "8b189a53-f14e-46ff-bd8c-244c64316ecd",
+          "714bea3e-88a5-46fe-9ff6-25b1168ff392",
+          "7f1ac5ea-7238-4c34-945d-70f21031a990",
+          "770e597f-8463-428d-b9d4-917dde7b17ed",
+          "78e7ccc3-d77a-4611-9550-ced3330fff39",
+          "e36a3450-79d5-40b0-865c-2456c3b0e0a8"
+        ]
+      },
+      {
+        "_version_": 1.8609794665288827e+18,
+        "author_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "cito_Catalog": "Hartlib, Samuel",
+        "comments": [
+          "http://localhost/comment/6c49d63a-c745-460b-b123-0f89ad347c43",
+          "http://localhost/comment/3febd4fb-8e42-4245-8e51-8f7c52e2c494",
+          "http://localhost/comment/3d4cb0ae-938f-44fa-945f-08e9ce1927a9"
+        ],
+        "dcterms_description": "12 Jun 1645: Dury, Dorothy Moore (née King), 1612-1664 (Rotterdam, South Holland, Netherlands) to Jones, Katherine, 1614-1691 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_hartlib-row_id:000002728",
+        "dcterms_identifier-editi_": "editi_302728",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f6f40545-fe01-4240-bc78-18d6e6366f66",
+        "dcterms_identifier-uuid_": "uuid_f6f40545-fe01-4240-bc78-18d6e6366f66",
+        "dcterms_language": "English",
+        "dcterms_references-person": [
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/37ac4241-dd21-4aaf-9e3b-c3725869b2e0",
+          "http://localhost/manifestation/ef545cd3-97b9-410c-907e-da4da0b44155"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "id": "uuid_f6f40545-fe01-4240-bc78-18d6e6366f66",
+        "locations": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "manifestation-institution-place": [
+          "Sheffield University Library",
+          "SUL",
+          "Sheffield",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/37ac4241-dd21-4aaf-9e3b-c3725869b2e0",
+          "http://localhost/manifestation/ef545cd3-97b9-410c-907e-da4da0b44155"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rotterdam, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "2/12 Jun 1645",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2010-09-03T17:39:30Z",
+        "ox_internalModified": "2022-10-09T21:40:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/6c49d63a-c745-460b-b123-0f89ad347c43",
+          "http://localhost/comment/3febd4fb-8e42-4245-8e51-8f7c52e2c494",
+          "http://localhost/comment/3d4cb0ae-938f-44fa-945f-08e9ce1927a9"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Leigh Penman, 03 Sep 2010",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1645,
+        "ox_urlOfTranscription": [
+          "https://www.dhi.ac.uk/hartlib/browse.jsp?id=3/2/131a-132b"
+        ],
+        "people": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4451101d-2bc6-4326-8c19-fd050d3c5990"
+        ],
+        "recipient_sort": "Jones, Katherine, 1614-1691",
+        "resources": [
+          "http://localhost/resource/4451101d-2bc6-4326-8c19-fd050d3c5990"
+        ],
+        "started_date_gregorian_sort": "1645-06-12T00:00:00Z",
+        "started_date_sort": "1645-06-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:57:50.481Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f6f40545-fe01-4240-bc78-18d6e6366f66",
+        "uuid": "f6f40545-fe01-4240-bc78-18d6e6366f66",
+        "uuid_related": [
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "189bd394-afbe-40e6-a0b9-a965120beeef",
+          "6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "37ac4241-dd21-4aaf-9e3b-c3725869b2e0",
+          "ef545cd3-97b9-410c-907e-da4da0b44155",
+          "6c49d63a-c745-460b-b123-0f89ad347c43",
+          "3febd4fb-8e42-4245-8e51-8f7c52e2c494",
+          "3d4cb0ae-938f-44fa-945f-08e9ce1927a9",
+          "4451101d-2bc6-4326-8c19-fd050d3c5990",
+          "452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ]
+      },
+      {
+        "_version_": 1.8609794712579604e+18,
+        "author_sort": "Dury, Dorothy Moore (née King), 1612-1664",
+        "cito_Catalog": "Hartlib, Samuel",
+        "comments": [
+          "http://localhost/comment/8c457daf-c6d5-4307-ab0a-eff58fbecd42",
+          "http://localhost/comment/eae8b124-63a8-47d3-8eba-bfe055938e59"
+        ],
+        "dcterms_abstract": "Moore (Dury) writes on the education of girls, specifically the undesirable nature of teaching dance",
+        "dcterms_description": "1650: Dury, Dorothy Moore (née King), 1612-1664 (Netherlands) to Jones, Katherine, 1614-1691 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_hartlib-row_id:000004383",
+        "dcterms_identifier-editi_": "editi_304383",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6b7d1e46-2ccb-4098-95e6-a6a708108765",
+        "dcterms_identifier-uuid_": "uuid_6b7d1e46-2ccb-4098-95e6-a6a708108765",
+        "dcterms_language": "English",
+        "dcterms_references-person": [
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/963043cf-bde0-4845-b11c-a189b16e081c",
+          "http://localhost/manifestation/9ea279e4-7c13-4a7c-85f7-1ca57218db0a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267"
+        ],
+        "id": "uuid_6b7d1e46-2ccb-4098-95e6-a6a708108765",
+        "locations": [
+          "http://localhost/location/766b9d1d-54aa-4e29-9f0b-2f480ab07a07",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/766b9d1d-54aa-4e29-9f0b-2f480ab07a07"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "manifestation-institution-place": [
+          "British Library, Manuscript Collections",
+          "BL\nBritish Museum\nB.M.\nThe British Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/963043cf-bde0-4845-b11c-a189b16e081c",
+          "http://localhost/manifestation/9ea279e4-7c13-4a7c-85f7-1ca57218db0a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Netherlands",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "[c.1650]",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2010-09-03T17:39:30Z",
+        "ox_internalModified": "2021-06-10T17:29:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/8c457daf-c6d5-4307-ab0a-eff58fbecd42",
+          "http://localhost/comment/eae8b124-63a8-47d3-8eba-bfe055938e59"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Leigh Penman, 03 Sep 2010",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "http://localhost/person/189bd394-afbe-40e6-a0b9-a965120beeef"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Jones, Katherine, 1614-1691",
+        "started_date_gregorian_sort": "1650-12-31T00:00:00Z",
+        "started_date_sort": "1650-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:57:55.906Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6b7d1e46-2ccb-4098-95e6-a6a708108765",
+        "uuid": "6b7d1e46-2ccb-4098-95e6-a6a708108765",
+        "uuid_related": [
+          "9fc8f7fb-7fc4-4cf1-8da1-472ad142b267",
+          "189bd394-afbe-40e6-a0b9-a965120beeef",
+          "766b9d1d-54aa-4e29-9f0b-2f480ab07a07",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "963043cf-bde0-4845-b11c-a189b16e081c",
+          "9ea279e4-7c13-4a7c-85f7-1ca57218db0a",
+          "8c457daf-c6d5-4307-ab0a-eff58fbecd42",
+          "eae8b124-63a8-47d3-8eba-bfe055938e59",
+          "189bd394-afbe-40e6-a0b9-a965120beeef"
+        ]
+      }
+    ],
+    "numFound": 9,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 0,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1642-01-01T00:00:00Z TO 1651-12-31T23:59:59Z] AND person-author-gender:(female) AND person-recipient-gender:(female) AND (location-origin:(England) OR location-destination:(England) OR location-mentioned:(England))",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
