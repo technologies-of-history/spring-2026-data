@@ -1,0 +1,4015 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Witt, Johan de",
+        222, "Stuart, Mary (Princess Royal and Princess of Orange)",
+        175, "Huygens, Constantijn",
+        152, "Solms-Braunfels, Amalia von",
+        141, "Oranje-Nassau, Albertine Agnes van",
+        33, "Bodleian card catalogue",
+        26, "Lister, Martin",
+        21, "Winthrop letters",
+        20, "Pley, Constance",
+        19, "Schurman, Anna Maria van",
+        17],
+      "destination_sort": [
+        "The Hague, South Holland, Netherlands",
+        177, "Paris, Île-de-France, France",
+        115, "Leeuwarden, Friesland, (United Provinces) Netherlands",
+        18, "Cambridge, Cambridgeshire, England, United Kingdom",
+        17, "London, England, United Kingdom",
+        17, "Westminster, London, England, United Kingdom",
+        10, "Amsterdam, North Holland, (United Provinces) Netherlands",
+        8, "Orange, Provence-Alpes-Côte d'Azur, France",
+        8, "New London, Connecticut, United States",
+        6, "Breda, North Brabant, Netherlands",
+        5],
+      "frbr_creator-person": [
+        "http://localhost/person/41d626f5-d98b-4e78-a67f-0138c655dafd",
+        275, "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+        197, "http://localhost/person/a0343151-9ab3-4bb5-b9ea-ce8135dc725e",
+        46, "http://localhost/person/3064ff5a-9f95-41ed-81a3-3cfe1f91b784",
+        35, "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+        25, "http://localhost/person/7f7f1a20-70f1-42bd-8708-a20ff6d817f8",
+        22, "http://localhost/person/8997ec67-9f9f-4485-a357-78dea51e98a4",
+        19, "http://localhost/person/063c3d8b-a87c-413d-a015-3f42132a9b96",
+        15, "http://localhost/person/1738eee3-bc62-4516-92d4-ab374f3f8795",
+        14, "http://localhost/person/5ff84cd5-a05b-4013-93ef-a8d26c1fd882",
+        14],
+      "mail_recipient-person": [
+        "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+        290, "http://localhost/person/b8b7e427-5e14-4de8-9d32-8956315a0eb8",
+        229, "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28",
+        47, "http://localhost/person/96eb67df-642f-4919-8c0b-6247209caed4",
+        21, "http://localhost/person/e65e7a09-ccd5-401e-b37f-fe26abe3d61d",
+        19, "http://localhost/person/5f859d91-9b7a-4ac7-befd-d3ec08042e23",
+        17, "http://localhost/person/de37599f-ed9e-4cf1-a2a7-7c4202de1ece",
+        17, "http://localhost/person/5c5f3c41-46b7-4aa4-af17-428640d55099",
+        15, "http://localhost/person/1a2d52ef-169c-44b4-9d6b-eaffd64f17b9",
+        11, "http://localhost/person/83c0ab57-57f6-4bae-a9f5-8171568e54f8",
+        8],
+      "origin_sort": [
+        "The Hague, South Holland, Netherlands",
+        476, "Amsterdam, North Holland, (United Provinces) Netherlands",
+        78, "Dordrecht, South Holland, Netherlands",
+        73, "Breda, North Brabant, Netherlands",
+        54, "Utrecht, Utrecht, Netherlands",
+        27, "London, England, United Kingdom",
+        25, "Leeuwarden, Friesland, (United Provinces) Netherlands",
+        21, "Burwell, Lincolnshire, England",
+        19, "Portsmouth, Hampshire, England",
+        18, "Rotterdam, South Holland, Netherlands",
+        13],
+      "ox_started-ox_year": [
+        "1665",
+        96, "1663",
+        92, "1662",
+        84, "1664",
+        84, "1651",
+        80, "1658",
+        70, "1668",
+        41, "1666",
+        37, "1657",
+        36, "1661",
+        34]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_0b867b4d-2bf4-4ccb-a1d7-401523759f34": {
+
+    },
+    "uuid_12d0be0c-d075-414d-9cd1-2bd611c218eb": {
+
+    },
+    "uuid_12d31eab-ae78-4811-844e-d9649ed4e625": {
+
+    },
+    "uuid_13836ccb-c908-4950-8d20-2769b050c968": {
+
+    },
+    "uuid_185588de-2f06-423f-bf81-2a7d1514fb11": {
+
+    },
+    "uuid_19f637fa-f045-47d0-bae0-079d946cf3db": {
+
+    },
+    "uuid_1cb7f189-05a2-446d-9fa1-63d0cb98ce39": {
+
+    },
+    "uuid_226c9eb8-6b2c-4817-a6c4-605f529d20c3": {
+
+    },
+    "uuid_30f59fe0-0ce7-43f8-8e99-14071f6c17e7": {
+
+    },
+    "uuid_3c5d00d4-bf88-49cf-89aa-23cf8af7c623": {
+
+    },
+    "uuid_3fdab5ff-3f02-41dc-9409-2cc63de4964a": {
+
+    },
+    "uuid_406b6259-e432-45c1-882c-103eb4b4440e": {
+
+    },
+    "uuid_42b385c0-f0ba-4f5f-8af3-ec787462a8ab": {
+
+    },
+    "uuid_45b33ca7-fc7f-493f-9bfa-99f19de6a950": {
+
+    },
+    "uuid_483996d2-8665-4d3f-9d7b-be1bdb925ce4": {
+
+    },
+    "uuid_49419fae-b90f-48c5-860f-95b1f4fe7816": {
+
+    },
+    "uuid_4bdf87f1-bb2b-465e-b3bc-a207f334ec5e": {
+
+    },
+    "uuid_52ec7973-f177-41e6-91b2-8708a5f78a6b": {
+
+    },
+    "uuid_6673f475-160d-4887-91c9-0120e214fc37": {
+
+    },
+    "uuid_669e7273-b950-45be-8712-696a3a6a0b5c": {
+
+    },
+    "uuid_6770b763-19c1-4748-83da-a8a7fe733d18": {
+
+    },
+    "uuid_69f522c6-8ed5-4acd-bf9e-359aab35dd86": {
+
+    },
+    "uuid_6c17f72a-ac4f-46c4-964f-48ce0ef28514": {
+
+    },
+    "uuid_6dcb49c7-ebf3-4983-bf80-cde3a61b1e00": {
+
+    },
+    "uuid_7829fdb4-0113-432e-bb85-eb767f9c004f": {
+
+    },
+    "uuid_7b8d007a-cde8-4e3c-83e3-7241a94e75b6": {
+
+    },
+    "uuid_84924c09-6d2b-48dc-912f-b6d946f40599": {
+
+    },
+    "uuid_8964b3c4-b72b-41c4-9fa1-9954ec9e579a": {
+
+    },
+    "uuid_8aa53128-e276-4c17-99cb-9a31e3736381": {
+
+    },
+    "uuid_9001546b-1479-4604-8b9e-e918b442f35b": {
+
+    },
+    "uuid_93387869-a8e4-4aac-9a36-478c809ef61e": {
+
+    },
+    "uuid_98adad77-ac18-44d4-9f8d-978585376a84": {
+
+    },
+    "uuid_99d7a192-ed36-4946-b2b4-68b381ad3b55": {
+
+    },
+    "uuid_9c4f7e08-e025-43a9-95c1-9ed482b06763": {
+
+    },
+    "uuid_a40aa774-e0d3-43b2-ae0e-a20897a5e1d2": {
+
+    },
+    "uuid_b73e3e41-563c-402b-9c71-4b53a9684dd7": {
+
+    },
+    "uuid_ba51dac8-9659-45dd-b16d-e9db431c0079": {
+
+    },
+    "uuid_bdd79964-5bd2-4c8b-83db-fe3863a8e372": {
+
+    },
+    "uuid_c153edaf-66fb-4d07-8826-a7235f6f62be": {
+
+    },
+    "uuid_c1a0ca29-6a26-40ac-a93f-4ae8b7ffc1eb": {
+
+    },
+    "uuid_c51f884e-4ead-4168-94bf-49d22a0ccdae": {
+
+    },
+    "uuid_c6b18584-b954-4a67-b1d8-ccdd7b275017": {
+
+    },
+    "uuid_c732145c-3ec5-45b3-8c0e-efc0a90616cb": {
+
+    },
+    "uuid_c7b45554-a4df-49b6-9ded-ab336c2f2790": {
+
+    },
+    "uuid_d4949509-98eb-4626-916f-7c250afeaae2": {
+
+    },
+    "uuid_dc526609-2294-4703-9d70-beead21bf4ce": {
+
+    },
+    "uuid_e336eebf-ea14-4a98-af7f-760cc351510c": {
+
+    },
+    "uuid_e6973917-0111-4ddf-abbe-1ad5afefd54c": {
+
+    },
+    "uuid_e70fc4af-26c9-4e87-8b22-3036d0ee88d5": {
+
+    },
+    "uuid_f6d1a00a-19d9-4e81-8f2f-fe7cbcc8e2a6": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8618252601075958e+18,
+        "author_sort": "Lyon, Martha Johana, 1630-1654",
+        "cito_Catalog": "Winthrop letters",
+        "dcterms_description": "23 Jan 1650: Lyon, Martha Johana, 1630-1654 (Stamford, Connecticut, United States) to Winthrop, John, 1606-1676 (New London, Connecticut, United States)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000973371",
+        "dcterms_identifier-editi_": "editi_973371",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/19f637fa-f045-47d0-bae0-079d946cf3db",
+        "dcterms_identifier-uuid_": "uuid_19f637fa-f045-47d0-bae0-079d946cf3db",
+        "dcterms_language": "English",
+        "destination_sort": "New London, Connecticut, United States",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3d662117-df2d-4b27-b5af-aa899728f0be"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/b0957114-7835-4d7a-a0b8-c5d3041d31e9"
+        ],
+        "id": "uuid_19f637fa-f045-47d0-bae0-079d946cf3db",
+        "locations": [
+          "http://localhost/location/9cec7707-4fb5-4457-9682-6ac5a02bea0d",
+          "http://localhost/location/dcebfd6a-b5a7-4349-9373-eae7f1de62ba"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/dcebfd6a-b5a7-4349-9373-eae7f1de62ba"
+        ],
+        "mail_destination-rdf_value": "Pequod",
+        "mail_origin-location": [
+          "http://localhost/location/9cec7707-4fb5-4457-9682-6ac5a02bea0d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e65e7a09-ccd5-401e-b37f-fe26abe3d61d"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3d662117-df2d-4b27-b5af-aa899728f0be"
+        ],
+        "object_type": "work",
+        "origin_sort": "Stamford, Connecticut, United States",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "11 Month. 23. 1649",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2018-06-19T18:55:13Z",
+        "ox_internalModified": "2018-06-26T10:56:24Z",
+        "ox_internalModifiedByUser": "Alex Hitchman",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 19 June 2018",
+        "ox_started-ox_day": 23,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/b0957114-7835-4d7a-a0b8-c5d3041d31e9",
+          "http://localhost/person/e65e7a09-ccd5-401e-b37f-fe26abe3d61d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Winthrop, John, 1606-1676",
+        "started_date_gregorian_sort": "1650-02-02T00:00:00Z",
+        "started_date_sort": "1650-01-23T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:40.470Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/19f637fa-f045-47d0-bae0-079d946cf3db",
+        "uuid": "19f637fa-f045-47d0-bae0-079d946cf3db",
+        "uuid_related": [
+          "3d662117-df2d-4b27-b5af-aa899728f0be",
+          "b0957114-7835-4d7a-a0b8-c5d3041d31e9",
+          "e65e7a09-ccd5-401e-b37f-fe26abe3d61d",
+          "9cec7707-4fb5-4457-9682-6ac5a02bea0d",
+          "dcebfd6a-b5a7-4349-9373-eae7f1de62ba"
+        ]
+      },
+      {
+        "_version_": 1.8618252508371354e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "4 Feb 1650: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Rivet, André, 1572-1651 (Breda, North Brabant, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970562",
+        "dcterms_identifier-editi_": "editi_970562",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c51f884e-4ead-4168-94bf-49d22a0ccdae",
+        "dcterms_identifier-uuid_": "uuid_c51f884e-4ead-4168-94bf-49d22a0ccdae",
+        "dcterms_language": "French",
+        "destination_sort": "Breda, North Brabant, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0afa3d63-cec1-4076-bd79-d73afff9dabb",
+          "http://localhost/manifestation/0a421ffa-3d7a-4f16-ad8c-c30c9ab53de8"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_c51f884e-4ead-4168-94bf-49d22a0ccdae",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0afa3d63-cec1-4076-bd79-d73afff9dabb",
+          "http://localhost/manifestation/0a421ffa-3d7a-4f16-ad8c-c30c9ab53de8"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Vostre derniere lettre m'a esté un grande consolation, tant pour la gravité de sa matiere,",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2018-04-26T17:46:06Z",
+        "ox_internalModified": "2023-05-09T11:43:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Rivet, André, 1572-1651",
+        "started_date_gregorian_sort": "1650-02-04T00:00:00Z",
+        "started_date_sort": "1650-02-04T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:39.119Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c51f884e-4ead-4168-94bf-49d22a0ccdae",
+        "uuid": "c51f884e-4ead-4168-94bf-49d22a0ccdae",
+        "uuid_related": [
+          "0afa3d63-cec1-4076-bd79-d73afff9dabb",
+          "0a421ffa-3d7a-4f16-ad8c-c30c9ab53de8",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "452ce8bf-d8d5-47fc-9e32-89c692bca847",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "ebf72787-7564-4bf1-9620-539c0e81842f"
+        ]
+      },
+      {
+        "_version_": 1.8618255315713393e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Rivet, André",
+        "dcterms_description": "4 Feb 1650: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Rivet, André, 1572-1651 (Breda, North Brabant, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001061928",
+        "dcterms_identifier-editi_": "editi_1061928",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/49419fae-b90f-48c5-860f-95b1f4fe7816",
+        "dcterms_identifier-uuid_": "uuid_49419fae-b90f-48c5-860f-95b1f4fe7816",
+        "destination_sort": "Breda, North Brabant, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c78c26a2-fd1a-43d9-8110-e35c6230e2f1"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_49419fae-b90f-48c5-860f-95b1f4fe7816",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c78c26a2-fd1a-43d9-8110-e35c6230e2f1"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Vostre derniere lettre m'a esté en grande consolation",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2024-12-19T17:14:34Z",
+        "ox_internalModified": "2024-12-19T17:14:34Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from Paul Dibon, ‘Inventaire de la correspondance d’André Rivet (1595–1650)’ (The Hague, 1971), 19 December 2024",
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Rivet, André, 1572-1651",
+        "started_date_gregorian_sort": "1650-02-04T00:00:00Z",
+        "started_date_sort": "1650-02-04T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T15:01:42.766Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/49419fae-b90f-48c5-860f-95b1f4fe7816",
+        "uuid": "49419fae-b90f-48c5-860f-95b1f4fe7816",
+        "uuid_related": [
+          "c78c26a2-fd1a-43d9-8110-e35c6230e2f1",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "452ce8bf-d8d5-47fc-9e32-89c692bca847",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "ebf72787-7564-4bf1-9620-539c0e81842f"
+        ]
+      },
+      {
+        "_version_": 1.861825260109693e+18,
+        "author_sort": "Winthrop, Elizabeth, 1610-1673",
+        "cito_Catalog": "Winthrop letters",
+        "dcterms_description": "12 Feb 1650: Winthrop, Elizabeth, 1610-1673 (Greenwich, Connecticut, United States) to Winthrop, John, 1606-1676 (New London, Connecticut, United States)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000973376",
+        "dcterms_identifier-editi_": "editi_973376",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6770b763-19c1-4748-83da-a8a7fe733d18",
+        "dcterms_identifier-uuid_": "uuid_6770b763-19c1-4748-83da-a8a7fe733d18",
+        "dcterms_language": "English",
+        "destination_sort": "New London, Connecticut, United States",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d3dca3e8-eab0-48a3-b805-7029936a6132"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/f6bd98ee-d37a-48cb-bc1f-3e3bb268545a"
+        ],
+        "id": "uuid_6770b763-19c1-4748-83da-a8a7fe733d18",
+        "locations": [
+          "http://localhost/location/c47ceadb-8685-457b-88f3-814178af26fc",
+          "http://localhost/location/dcebfd6a-b5a7-4349-9373-eae7f1de62ba"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/dcebfd6a-b5a7-4349-9373-eae7f1de62ba"
+        ],
+        "mail_destination-rdf_value": "Pequit",
+        "mail_origin-location": [
+          "http://localhost/location/c47ceadb-8685-457b-88f3-814178af26fc"
+        ],
+        "mail_origin-rdf_value": "Gren",
+        "mail_recipient-person": [
+          "http://localhost/person/e65e7a09-ccd5-401e-b37f-fe26abe3d61d"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d3dca3e8-eab0-48a3-b805-7029936a6132"
+        ],
+        "object_type": "work",
+        "origin_sort": "Greenwich, Connecticut, United States",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "12 of feb 1649",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2018-06-19T18:55:15Z",
+        "ox_internalModified": "2018-06-19T18:55:15Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 19 June 2018",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/f6bd98ee-d37a-48cb-bc1f-3e3bb268545a",
+          "http://localhost/person/e65e7a09-ccd5-401e-b37f-fe26abe3d61d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Winthrop, John, 1606-1676",
+        "started_date_gregorian_sort": "1650-02-22T00:00:00Z",
+        "started_date_sort": "1650-02-12T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:40.470Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6770b763-19c1-4748-83da-a8a7fe733d18",
+        "uuid": "6770b763-19c1-4748-83da-a8a7fe733d18",
+        "uuid_related": [
+          "d3dca3e8-eab0-48a3-b805-7029936a6132",
+          "f6bd98ee-d37a-48cb-bc1f-3e3bb268545a",
+          "e65e7a09-ccd5-401e-b37f-fe26abe3d61d",
+          "c47ceadb-8685-457b-88f3-814178af26fc",
+          "dcebfd6a-b5a7-4349-9373-eae7f1de62ba"
+        ]
+      },
+      {
+        "_version_": 1.8618252601128387e+18,
+        "author_sort": "Greenwood, Elizabeth, fl. 1648",
+        "cito_Catalog": "Winthrop letters",
+        "dcterms_description": "15 Mar 1650: Greenwood, Elizabeth, fl. 1648 (Groton, Suffolk, England) to Winthrop, John, 1606-1676",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000973384",
+        "dcterms_identifier-editi_": "editi_973384",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/669e7273-b950-45be-8712-696a3a6a0b5c",
+        "dcterms_identifier-uuid_": "uuid_669e7273-b950-45be-8712-696a3a6a0b5c",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/331b6228-0ab0-4c6b-8c76-3e52b00de8f3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/408bb2bf-82d1-4666-a78c-9bca12f9ef13"
+        ],
+        "id": "uuid_669e7273-b950-45be-8712-696a3a6a0b5c",
+        "locations": [
+          "http://localhost/location/52707b7f-fe77-43d9-a9db-b7ad4218fda6"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/52707b7f-fe77-43d9-a9db-b7ad4218fda6"
+        ],
+        "mail_origin-rdf_value": "Grotton",
+        "mail_recipient-person": [
+          "http://localhost/person/e65e7a09-ccd5-401e-b37f-fe26abe3d61d"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/331b6228-0ab0-4c6b-8c76-3e52b00de8f3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Groton, Suffolk, England",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "15th. march 1649",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2018-06-19T18:55:18Z",
+        "ox_internalModified": "2018-06-26T10:59:11Z",
+        "ox_internalModifiedByUser": "Alex Hitchman",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 19 June 2018",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/408bb2bf-82d1-4666-a78c-9bca12f9ef13",
+          "http://localhost/person/e65e7a09-ccd5-401e-b37f-fe26abe3d61d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Winthrop, John, 1606-1676",
+        "started_date_gregorian_sort": "1650-03-25T00:00:00Z",
+        "started_date_sort": "1650-03-15T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:40.470Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/669e7273-b950-45be-8712-696a3a6a0b5c",
+        "uuid": "669e7273-b950-45be-8712-696a3a6a0b5c",
+        "uuid_related": [
+          "331b6228-0ab0-4c6b-8c76-3e52b00de8f3",
+          "408bb2bf-82d1-4666-a78c-9bca12f9ef13",
+          "e65e7a09-ccd5-401e-b37f-fe26abe3d61d",
+          "52707b7f-fe77-43d9-a9db-b7ad4218fda6"
+        ]
+      },
+      {
+        "_version_": 1.8618249892006461e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Calendared in Clarendon State Papers ii p.447",
+        "dcterms_description": "10 Apr 1650: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (Breda, North Brabant, Netherlands) to Polyander van den Kerckhove, Johannes, 1594-1660",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000033234",
+        "dcterms_identifier-editi_": "editi_33234",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/13836ccb-c908-4950-8d20-2769b050c968",
+        "dcterms_identifier-uuid_": "uuid_13836ccb-c908-4950-8d20-2769b050c968",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6533ae3b-88d7-4dc0-a77e-7e9df48a4516"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_13836ccb-c908-4950-8d20-2769b050c968",
+        "locations": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_addressees-rdf_value": "De Heenvliet \nJohn Polyander Kerckhoven",
+        "mail_authors-rdf_value": "Marie, Princess of Orange 1631-1660",
+        "mail_origin-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-rdf_value": "Breda",
+        "mail_recipient-person": [
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6533ae3b-88d7-4dc0-a77e-7e9df48a4516"
+        ],
+        "object_type": "work",
+        "origin_sort": "Breda, North Brabant, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "April 10 1650",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2023-05-09T11:43:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 21 February 2010",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28",
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Polyander van den Kerckhove, Johannes, 1594-1660",
+        "started_date_gregorian_sort": "1650-04-10T00:00:00Z",
+        "started_date_sort": "1650-04-10T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:57:19.864Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/13836ccb-c908-4950-8d20-2769b050c968",
+        "uuid": "13836ccb-c908-4950-8d20-2769b050c968",
+        "uuid_related": [
+          "68147964-970d-4eb9-a38d-deee9b8caf28",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "ebf72787-7564-4bf1-9620-539c0e81842f",
+          "6533ae3b-88d7-4dc0-a77e-7e9df48a4516"
+        ]
+      },
+      {
+        "_version_": 1.8618252047689974e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "10 Apr 1650: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (Breda, North Brabant, Netherlands) to Polyander van den Kerckhove, Johannes, 1594-1660",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000954282",
+        "dcterms_identifier-editi_": "editi_954282",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/dc526609-2294-4703-9d70-beead21bf4ce",
+        "dcterms_identifier-uuid_": "uuid_dc526609-2294-4703-9d70-beead21bf4ce",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/622a6c78-441c-413b-8240-87453f720707"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_dc526609-2294-4703-9d70-beead21bf4ce",
+        "locations": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/622a6c78-441c-413b-8240-87453f720707"
+        ],
+        "object_type": "work",
+        "origin_sort": "Breda, North Brabant, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-07-26T19:09:58Z",
+        "ox_internalModified": "2023-05-09T11:43:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 26 July 2016",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Polyander van den Kerckhove, Johannes, 1594-1660",
+        "started_date_gregorian_sort": "1650-04-10T00:00:00Z",
+        "started_date_sort": "1650-04-10T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:17.015Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/dc526609-2294-4703-9d70-beead21bf4ce",
+        "uuid": "dc526609-2294-4703-9d70-beead21bf4ce",
+        "uuid_related": [
+          "622a6c78-441c-413b-8240-87453f720707",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "68147964-970d-4eb9-a38d-deee9b8caf28",
+          "ebf72787-7564-4bf1-9620-539c0e81842f"
+        ]
+      },
+      {
+        "_version_": 1.8618252990171054e+18,
+        "author_sort": "Witt, Johanna de, 1617-1692",
+        "cito_Catalog": "Witt, Johan de",
+        "dcterms_description": "23 Apr 1650: Witt, Johanna de, 1617-1692 (Dordrecht, South Holland, Netherlands) to Witt, Johan de, 1625-1672 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000987356",
+        "dcterms_identifier-editi_": "editi_987356",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6dcb49c7-ebf3-4983-bf80-cde3a61b1e00",
+        "dcterms_identifier-uuid_": "uuid_6dcb49c7-ebf3-4983-bf80-cde3a61b1e00",
+        "dcterms_language": "Dutch",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7cb45d7e-f735-484a-bb25-3a6c2c12b015"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/a0343151-9ab3-4bb5-b9ea-ce8135dc725e"
+        ],
+        "id": "uuid_6dcb49c7-ebf3-4983-bf80-cde3a61b1e00",
+        "locations": [
+          "http://localhost/location/be269343-1c38-429a-8292-d8a0473d63b5",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/be269343-1c38-429a-8292-d8a0473d63b5"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/b8b7e427-5e14-4de8-9d32-8956315a0eb8"
+        ],
+        "manifestation-institution-place": [
+          "Nationaal Archief",
+          "National Archives of the Netherlands\nThe Hague, National Archives\nAlgemeen Rijksarchief\nDutch National Archives",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7cb45d7e-f735-484a-bb25-3a6c2c12b015"
+        ],
+        "object_type": "work",
+        "origin_sort": "Dordrecht, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2019-01-04T11:34:03Z",
+        "ox_internalModified": "2021-03-22T23:14:42Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_keywords": "Personal",
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Johan de Witt project, Huygens ING, under the direction of Ineke Huysman, 4 January 2019",
+        "ox_started-ox_day": 23,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/a0343151-9ab3-4bb5-b9ea-ce8135dc725e",
+          "http://localhost/person/b8b7e427-5e14-4de8-9d32-8956315a0eb8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/18916048-0020-4d55-9101-17d074c091be",
+          "http://localhost/resource/dff04c4d-e3cf-4bc1-874b-94bf3c90a98e"
+        ],
+        "recipient_sort": "Witt, Johan de, 1625-1672",
+        "resources": [
+          "http://localhost/resource/18916048-0020-4d55-9101-17d074c091be",
+          "http://localhost/resource/dff04c4d-e3cf-4bc1-874b-94bf3c90a98e"
+        ],
+        "started_date_gregorian_sort": "1650-04-23T00:00:00Z",
+        "started_date_sort": "1650-04-23T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:58.786Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6dcb49c7-ebf3-4983-bf80-cde3a61b1e00",
+        "uuid": "6dcb49c7-ebf3-4983-bf80-cde3a61b1e00",
+        "uuid_related": [
+          "7cb45d7e-f735-484a-bb25-3a6c2c12b015",
+          "a0343151-9ab3-4bb5-b9ea-ce8135dc725e",
+          "b8b7e427-5e14-4de8-9d32-8956315a0eb8",
+          "be269343-1c38-429a-8292-d8a0473d63b5",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "18916048-0020-4d55-9101-17d074c091be",
+          "dff04c4d-e3cf-4bc1-874b-94bf3c90a98e"
+        ]
+      },
+      {
+        "_version_": 1.8618249892289577e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Calendared in Clarendon State papers ii p.447",
+        "dcterms_description": "1 May 1650: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (Breda, North Brabant, Netherlands) to Willem II, Prince of Orange, 1626-1650 ~ Polyander van den Kerckhove, Johannes, 1594-1660",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000033292",
+        "dcterms_identifier-editi_": "editi_33292",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/69f522c6-8ed5-4acd-bf9e-359aab35dd86",
+        "dcterms_identifier-uuid_": "uuid_69f522c6-8ed5-4acd-bf9e-359aab35dd86",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/eabbfcee-dada-4f8d-a5e5-250b79f78a6a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_69f522c6-8ed5-4acd-bf9e-359aab35dd86",
+        "locations": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_addressees-rdf_value": "William, Prince of Orange, John Polyander Kerckhoven",
+        "mail_authors-rdf_value": "Marie, Princess of Orange 1631-1660",
+        "mail_origin-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-rdf_value": "Breda",
+        "mail_recipient-person": [
+          "http://localhost/person/17f89ac6-1d0c-44d4-af21-420b0d1cde99",
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/eabbfcee-dada-4f8d-a5e5-250b79f78a6a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Breda, North Brabant, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "May 1st 1650",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2023-05-09T11:43:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 21 February 2010",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/17f89ac6-1d0c-44d4-af21-420b0d1cde99",
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28",
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Polyander van den Kerckhove, Johannes, 1594-1660; Willem II, Prince of Orange, 1626-1650",
+        "started_date_gregorian_sort": "1650-05-01T00:00:00Z",
+        "started_date_sort": "1650-05-01T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:57:19.864Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/69f522c6-8ed5-4acd-bf9e-359aab35dd86",
+        "uuid": "69f522c6-8ed5-4acd-bf9e-359aab35dd86",
+        "uuid_related": [
+          "17f89ac6-1d0c-44d4-af21-420b0d1cde99",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "ebf72787-7564-4bf1-9620-539c0e81842f",
+          "eabbfcee-dada-4f8d-a5e5-250b79f78a6a",
+          "68147964-970d-4eb9-a38d-deee9b8caf28"
+        ]
+      },
+      {
+        "_version_": 1.8618255318481633e+18,
+        "author_sort": "Stuart, Elizabeth, Queen of Bohemia, 1596-1662",
+        "cito_Catalog": "Rivet, André",
+        "dcterms_description": "30 May 1650: Stuart, Elizabeth, Queen of Bohemia, 1596-1662 (The Hague, South Holland, Netherlands) to Rivet, André, 1572-1651 (Breda, North Brabant, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001061963",
+        "dcterms_identifier-editi_": "editi_1061963",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/45b33ca7-fc7f-493f-9bfa-99f19de6a950",
+        "dcterms_identifier-uuid_": "uuid_45b33ca7-fc7f-493f-9bfa-99f19de6a950",
+        "destination_sort": "Breda, North Brabant, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/cf2349c6-a886-4d30-9800-ddbcbe328ef6"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb"
+        ],
+        "id": "uuid_45b33ca7-fc7f-493f-9bfa-99f19de6a950",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/cf2349c6-a886-4d30-9800-ddbcbe328ef6"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "La vesve de feu Guillaume Schortis, mon tailleur et valet",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2024-12-19T17:14:54Z",
+        "ox_internalModified": "2024-12-19T17:14:54Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from Paul Dibon, ‘Inventaire de la correspondance d’André Rivet (1595–1650)’ (The Hague, 1971), 19 December 2024",
+        "ox_started-ox_day": 30,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Rivet, André, 1572-1651",
+        "started_date_gregorian_sort": "1650-05-30T00:00:00Z",
+        "started_date_sort": "1650-05-30T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T15:01:42.766Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/45b33ca7-fc7f-493f-9bfa-99f19de6a950",
+        "uuid": "45b33ca7-fc7f-493f-9bfa-99f19de6a950",
+        "uuid_related": [
+          "cf2349c6-a886-4d30-9800-ddbcbe328ef6",
+          "d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "452ce8bf-d8d5-47fc-9e32-89c692bca847",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "ebf72787-7564-4bf1-9620-539c0e81842f"
+        ]
+      },
+      {
+        "_version_": 1.8618249892289577e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Calendared in Clarendon State papers ii p.447",
+        "dcterms_description": "May 1650: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (Breda, North Brabant, Netherlands) to Willem II, Prince of Orange, 1626-1650",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000033291",
+        "dcterms_identifier-editi_": "editi_33291",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c732145c-3ec5-45b3-8c0e-efc0a90616cb",
+        "dcterms_identifier-uuid_": "uuid_c732145c-3ec5-45b3-8c0e-efc0a90616cb",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fe44ad98-5c71-4ddb-9aa0-a4fc07814e6d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_c732145c-3ec5-45b3-8c0e-efc0a90616cb",
+        "locations": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_addressees-rdf_value": "William, Prince of Orange",
+        "mail_authors-rdf_value": "Marie, Princess of Orange 1631-1660",
+        "mail_origin-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-rdf_value": "Breda",
+        "mail_recipient-person": [
+          "http://localhost/person/17f89ac6-1d0c-44d4-af21-420b0d1cde99"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fe44ad98-5c71-4ddb-9aa0-a4fc07814e6d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Breda, North Brabant, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "May 1650",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2023-05-09T11:43:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 21 February 2010",
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/17f89ac6-1d0c-44d4-af21-420b0d1cde99",
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Willem II, Prince of Orange, 1626-1650",
+        "started_date_gregorian_sort": "1650-05-31T00:00:00Z",
+        "started_date_sort": "1650-05-31T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:57:19.864Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c732145c-3ec5-45b3-8c0e-efc0a90616cb",
+        "uuid": "c732145c-3ec5-45b3-8c0e-efc0a90616cb",
+        "uuid_related": [
+          "17f89ac6-1d0c-44d4-af21-420b0d1cde99",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "ebf72787-7564-4bf1-9620-539c0e81842f",
+          "fe44ad98-5c71-4ddb-9aa0-a4fc07814e6d"
+        ]
+      },
+      {
+        "_version_": 1.8618252506001572e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Schurman, Anna Maria van",
+        "dcterms_description": "12 Jun 1650: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Rivet, André, 1572-1651 (Breda, North Brabant, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000970534",
+        "dcterms_identifier-editi_": "editi_970534",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a40aa774-e0d3-43b2-ae0e-a20897a5e1d2",
+        "dcterms_identifier-uuid_": "uuid_a40aa774-e0d3-43b2-ae0e-a20897a5e1d2",
+        "dcterms_language": "French",
+        "destination_sort": "Breda, North Brabant, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/cf260672-4a1a-46b6-bc5b-4ed6245f94a3",
+          "http://localhost/manifestation/b2faabac-f53e-4170-97f6-40717d3b443e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_a40aa774-e0d3-43b2-ae0e-a20897a5e1d2",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/cf260672-4a1a-46b6-bc5b-4ed6245f94a3",
+          "http://localhost/manifestation/b2faabac-f53e-4170-97f6-40717d3b443e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je n'ose pas vous amuser long temps, n'ayant pas de matiere digne de vre loisir, puis que ma lettre precedente, et celle que vous m'avez fait l'honneur",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2018-04-26T17:45:54Z",
+        "ox_internalModified": "2023-05-09T11:43:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Samantha Sint Nicolaas with the SKILLNET project, under the supervision of Dirk van Miert, 26 April 2018",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Rivet, André, 1572-1651",
+        "started_date_gregorian_sort": "1650-06-12T00:00:00Z",
+        "started_date_sort": "1650-06-12T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:39.119Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a40aa774-e0d3-43b2-ae0e-a20897a5e1d2",
+        "uuid": "a40aa774-e0d3-43b2-ae0e-a20897a5e1d2",
+        "uuid_related": [
+          "cf260672-4a1a-46b6-bc5b-4ed6245f94a3",
+          "b2faabac-f53e-4170-97f6-40717d3b443e",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "452ce8bf-d8d5-47fc-9e32-89c692bca847",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "ebf72787-7564-4bf1-9620-539c0e81842f"
+        ]
+      },
+      {
+        "_version_": 1.861825531851309e+18,
+        "author_sort": "Schurman, Anna Maria van, 1607-1678",
+        "cito_Catalog": "Rivet, André",
+        "dcterms_description": "12 Jun 1650: Schurman, Anna Maria van, 1607-1678 (Utrecht, Utrecht, Netherlands) to Rivet, André, 1572-1651 (Breda, North Brabant, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001061971",
+        "dcterms_identifier-editi_": "editi_1061971",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3fdab5ff-3f02-41dc-9409-2cc63de4964a",
+        "dcterms_identifier-uuid_": "uuid_3fdab5ff-3f02-41dc-9409-2cc63de4964a",
+        "destination_sort": "Breda, North Brabant, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fb358e40-f2f6-45b8-aa29-781a09fd3eeb"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a"
+        ],
+        "id": "uuid_3fdab5ff-3f02-41dc-9409-2cc63de4964a",
+        "locations": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ebf72787-7564-4bf1-9620-539c0e81842f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/d4df9d5e-a62c-47d5-b730-0a589b976555"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fb358e40-f2f6-45b8-aa29-781a09fd3eeb"
+        ],
+        "object_type": "work",
+        "origin_sort": "Utrecht, Utrecht, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je n'ose pas vous amuser long temps,",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2024-12-19T17:14:59Z",
+        "ox_internalModified": "2024-12-19T17:14:59Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from Paul Dibon, ‘Inventaire de la correspondance d’André Rivet (1595–1650)’ (The Hague, 1971), 19 December 2024",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "http://localhost/person/452ce8bf-d8d5-47fc-9e32-89c692bca847"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Rivet, André, 1572-1651",
+        "started_date_gregorian_sort": "1650-06-12T00:00:00Z",
+        "started_date_sort": "1650-06-12T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T15:01:42.766Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3fdab5ff-3f02-41dc-9409-2cc63de4964a",
+        "uuid": "3fdab5ff-3f02-41dc-9409-2cc63de4964a",
+        "uuid_related": [
+          "fb358e40-f2f6-45b8-aa29-781a09fd3eeb",
+          "158f1ce5-8b2e-4c4f-9a0a-b29e9738144a",
+          "452ce8bf-d8d5-47fc-9e32-89c692bca847",
+          "d4df9d5e-a62c-47d5-b730-0a589b976555",
+          "ebf72787-7564-4bf1-9620-539c0e81842f"
+        ]
+      },
+      {
+        "_version_": 1.8618249271228498e+18,
+        "author_sort": "Solms-Braunfels, Amalia von, 1602-1675",
+        "cito_Catalog": "Bodleian card catalogue",
+        "dcterms_abstract": "Calendared in Clarendon State Papers ii p.448",
+        "dcterms_description": "2 Jul 1650: Solms-Braunfels, Amalia von, 1602-1675 (The Hague, South Holland, Netherlands) to Polyander van den Kerckhove, Johannes, 1594-1660",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_import_ead-ead_c01_id:000000632",
+        "dcterms_identifier-editi_": "editi_632",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c1a0ca29-6a26-40ac-a93f-4ae8b7ffc1eb",
+        "dcterms_identifier-uuid_": "uuid_c1a0ca29-6a26-40ac-a93f-4ae8b7ffc1eb",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/018dda0b-5bb9-4715-b7c3-c7ca70613536"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/41d626f5-d98b-4e78-a67f-0138c655dafd"
+        ],
+        "id": "uuid_c1a0ca29-6a26-40ac-a93f-4ae8b7ffc1eb",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_addressees-rdf_value": "De Heenvliet, John Polyander Kerckhoven",
+        "mail_authors-rdf_value": "Amalie, Princess Dowager 1602-1675",
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-rdf_value": "The Hague",
+        "mail_recipient-person": [
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/018dda0b-5bb9-4715-b7c3-c7ca70613536"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/185588de-2f06-423f-bf81-2a7d1514fb11"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "2 July 1650",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2010-02-24T00:00:00Z",
+        "ox_internalModified": "2021-07-27T10:57:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Bodleian card catalogue bulk import 19 February 2010",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/41d626f5-d98b-4e78-a67f-0138c655dafd",
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Polyander van den Kerckhove, Johannes, 1594-1660",
+        "started_date_gregorian_sort": "1650-07-02T00:00:00Z",
+        "started_date_sort": "1650-07-02T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:56:42.379Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c1a0ca29-6a26-40ac-a93f-4ae8b7ffc1eb",
+        "uuid": "c1a0ca29-6a26-40ac-a93f-4ae8b7ffc1eb",
+        "uuid_related": [
+          "41d626f5-d98b-4e78-a67f-0138c655dafd",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "018dda0b-5bb9-4715-b7c3-c7ca70613536",
+          "68147964-970d-4eb9-a38d-deee9b8caf28",
+          "185588de-2f06-423f-bf81-2a7d1514fb11"
+        ]
+      },
+      {
+        "_version_": 1.8618252050217042e+18,
+        "author_sort": "Solms-Braunfels, Amalia von, 1602-1675",
+        "cito_Catalog": "Solms-Braunfels, Amalia von",
+        "dcterms_description": "2 Jul 1650: Solms-Braunfels, Amalia von, 1602-1675 (The Hague, South Holland, Netherlands) to Polyander van den Kerckhove, Johannes, 1594-1660 (Buren, Gelderland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000954356",
+        "dcterms_identifier-editi_": "editi_954356",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/185588de-2f06-423f-bf81-2a7d1514fb11",
+        "dcterms_identifier-uuid_": "uuid_185588de-2f06-423f-bf81-2a7d1514fb11",
+        "dcterms_language": "French",
+        "destination_sort": "Buren, Gelderland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d261ed4c-902d-4877-937d-72b5916f81e7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/41d626f5-d98b-4e78-a67f-0138c655dafd"
+        ],
+        "id": "uuid_185588de-2f06-423f-bf81-2a7d1514fb11",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/95b5667b-f3ce-4141-9f3a-b8a9ec958cc4"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/95b5667b-f3ce-4141-9f3a-b8a9ec958cc4"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28"
+        ],
+        "manifestation-institution-place": [
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d261ed4c-902d-4877-937d-72b5916f81e7"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/c1a0ca29-6a26-40ac-a93f-4ae8b7ffc1eb"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-07-26T19:30:12Z",
+        "ox_internalModified": "2025-12-01T15:36:25Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 26 July 2016",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/41d626f5-d98b-4e78-a67f-0138c655dafd",
+          "http://localhost/person/68147964-970d-4eb9-a38d-deee9b8caf28"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Polyander van den Kerckhove, Johannes, 1594-1660",
+        "started_date_gregorian_sort": "1650-07-02T00:00:00Z",
+        "started_date_sort": "1650-07-02T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:17.015Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/185588de-2f06-423f-bf81-2a7d1514fb11",
+        "uuid": "185588de-2f06-423f-bf81-2a7d1514fb11",
+        "uuid_related": [
+          "d261ed4c-902d-4877-937d-72b5916f81e7",
+          "41d626f5-d98b-4e78-a67f-0138c655dafd",
+          "68147964-970d-4eb9-a38d-deee9b8caf28",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "95b5667b-f3ce-4141-9f3a-b8a9ec958cc4",
+          "c1a0ca29-6a26-40ac-a93f-4ae8b7ffc1eb"
+        ]
+      },
+      {
+        "_version_": 1.8618254762180608e+18,
+        "author_sort": "Horst, Ewout van der, b.1627; Verschuer, Maria, b.1630",
+        "cito_Catalog": "Witt, Johan de",
+        "comments": [
+          "http://localhost/comment/f0da1a6b-7e1e-43fd-b6f2-dbbf3c3581ad"
+        ],
+        "dcterms_description": "14 Jul 1650: Horst, Ewout van der, b.1627 ~ Verschuer, Maria, b.1630 (Rotterdam, South Holland, Netherlands) to Witt, Johan de, 1625-1672 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001045058",
+        "dcterms_identifier-editi_": "editi_1045058",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7829fdb4-0113-432e-bb85-eb767f9c004f",
+        "dcterms_identifier-uuid_": "uuid_7829fdb4-0113-432e-bb85-eb767f9c004f",
+        "dcterms_language": "Dutch",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/22947ee6-782e-4269-ae81-c548c3a2b662"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4a9cef43-8ccb-4f3c-a118-f265010b3961",
+          "http://localhost/person/ac7a6c29-322b-4493-8b7c-8ccfebbc1acb"
+        ],
+        "id": "uuid_7829fdb4-0113-432e-bb85-eb767f9c004f",
+        "locations": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-rdf_value": "ten huijse van de heer Advocaet van den Andel",
+        "mail_origin-location": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/b8b7e427-5e14-4de8-9d32-8956315a0eb8"
+        ],
+        "manifestation-institution-place": [
+          "Nationaal Archief",
+          "National Archives of the Netherlands\nThe Hague, National Archives\nAlgemeen Rijksarchief\nDutch National Archives",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/22947ee6-782e-4269-ae81-c548c3a2b662"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rotterdam, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2023-09-01T15:06:25Z",
+        "ox_internalModified": "2023-09-01T15:06:25Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/f0da1a6b-7e1e-43fd-b6f2-dbbf3c3581ad"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "Personal",
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Johan de Witt project, Huygens ING, under the direction of Ineke Huysman, 29 August 2023",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/4a9cef43-8ccb-4f3c-a118-f265010b3961",
+          "http://localhost/person/ac7a6c29-322b-4493-8b7c-8ccfebbc1acb",
+          "http://localhost/person/b8b7e427-5e14-4de8-9d32-8956315a0eb8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3ed9d152-14ab-4de3-9f87-1ab9dd06e265",
+          "http://localhost/resource/76dddaad-da4d-4a5b-8a1d-bab546a9a8d1"
+        ],
+        "recipient_sort": "Witt, Johan de, 1625-1672",
+        "resources": [
+          "http://localhost/resource/3ed9d152-14ab-4de3-9f87-1ab9dd06e265",
+          "http://localhost/resource/76dddaad-da4d-4a5b-8a1d-bab546a9a8d1"
+        ],
+        "started_date_gregorian_sort": "1650-07-14T00:00:00Z",
+        "started_date_sort": "1650-07-14T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T15:01:21.756Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7829fdb4-0113-432e-bb85-eb767f9c004f",
+        "uuid": "7829fdb4-0113-432e-bb85-eb767f9c004f",
+        "uuid_related": [
+          "22947ee6-782e-4269-ae81-c548c3a2b662",
+          "4a9cef43-8ccb-4f3c-a118-f265010b3961",
+          "ac7a6c29-322b-4493-8b7c-8ccfebbc1acb",
+          "b8b7e427-5e14-4de8-9d32-8956315a0eb8",
+          "6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "f0da1a6b-7e1e-43fd-b6f2-dbbf3c3581ad",
+          "3ed9d152-14ab-4de3-9f87-1ab9dd06e265",
+          "76dddaad-da4d-4a5b-8a1d-bab546a9a8d1"
+        ]
+      },
+      {
+        "_version_": 1.8618253818441236e+18,
+        "author_sort": "Defet, Maria, fl. 1650",
+        "cito_Catalog": "Dutch Church in London archive (Hessels)",
+        "comments": [
+          "http://localhost/comment/60e84971-fe02-4821-bc72-b158d562b04d"
+        ],
+        "dcterms_description": "31 Oct 1650: Defet, Maria, fl. 1650 (London, England, United Kingdom) to Godeschalck, Joos, fl. 1636-1650 (London, England, United Kingdom)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001015279",
+        "dcterms_identifier-editi_": "editi_1015279",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6c17f72a-ac4f-46c4-964f-48ce0ef28514",
+        "dcterms_identifier-uuid_": "uuid_6c17f72a-ac4f-46c4-964f-48ce0ef28514",
+        "dcterms_language": "Dutch",
+        "destination_sort": "London, England, United Kingdom",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fd21de15-8a23-492b-b871-c4c63b030731"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/2184b927-4b75-48d2-99e2-d1e2d86ad7a7"
+        ],
+        "id": "uuid_6c17f72a-ac4f-46c4-964f-48ce0ef28514",
+        "locations": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860",
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/283a71a7-cf68-4832-a381-9bf5388e1860"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/53448fdd-a314-49de-8843-46a8c7e271fd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fd21de15-8a23-492b-b871-c4c63b030731"
+        ],
+        "object_type": "work",
+        "origin_sort": "London, England, United Kingdom",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2021-06-21T18:45:50Z",
+        "ox_internalModified": "2021-06-21T18:45:50Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/60e84971-fe02-4821-bc72-b158d562b04d"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 21 June 2021",
+        "ox_started-ox_day": 31,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/2184b927-4b75-48d2-99e2-d1e2d86ad7a7",
+          "http://localhost/person/53448fdd-a314-49de-8843-46a8c7e271fd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/7e0421e5-6c95-49ff-aa32-8366914d652a"
+        ],
+        "recipient_sort": "Godeschalck, Joos, fl. 1636-1650",
+        "resources": [
+          "http://localhost/resource/7e0421e5-6c95-49ff-aa32-8366914d652a"
+        ],
+        "started_date_gregorian_sort": "1650-11-10T00:00:00Z",
+        "started_date_sort": "1650-10-31T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T15:00:40.053Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6c17f72a-ac4f-46c4-964f-48ce0ef28514",
+        "uuid": "6c17f72a-ac4f-46c4-964f-48ce0ef28514",
+        "uuid_related": [
+          "fd21de15-8a23-492b-b871-c4c63b030731",
+          "2184b927-4b75-48d2-99e2-d1e2d86ad7a7",
+          "53448fdd-a314-49de-8843-46a8c7e271fd",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "283a71a7-cf68-4832-a381-9bf5388e1860",
+          "60e84971-fe02-4821-bc72-b158d562b04d",
+          "7e0421e5-6c95-49ff-aa32-8366914d652a"
+        ]
+      },
+      {
+        "_version_": 1.8618251738695598e+18,
+        "author_sort": "Vossius, Elizabeth, 1585-1659",
+        "cito_Catalog": "Vossius, Isaac",
+        "dcterms_description": "22 Nov 1650: Vossius, Elizabeth, 1585-1659 (Amsterdam, North Holland, (United Provinces) Netherlands) to Vossius, Isaac, 1618-1689 (Stockholm, Stockholm Municipality, Sweden)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000942000",
+        "dcterms_identifier-editi_": "editi_942000",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9c4f7e08-e025-43a9-95c1-9ed482b06763",
+        "dcterms_identifier-uuid_": "uuid_9c4f7e08-e025-43a9-95c1-9ed482b06763",
+        "dcterms_language": "Dutch",
+        "destination_sort": "Stockholm, Stockholm Municipality, Sweden",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ee606aa2-59cf-469f-be56-c8937878ae35"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83"
+        ],
+        "id": "uuid_9c4f7e08-e025-43a9-95c1-9ed482b06763",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/3e381062-e4f8-48b4-a60f-b521b06bc818"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/3e381062-e4f8-48b4-a60f-b521b06bc818"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ee606aa2-59cf-469f-be56-c8937878ae35"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Ick hebbe uEd de voorgange",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2015-11-11T21:28:05Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Robin Buning, 11 November 2015",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Vossius, Isaac, 1618-1689",
+        "started_date_gregorian_sort": "1650-11-22T00:00:00Z",
+        "started_date_sort": "1650-11-22T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:00.034Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9c4f7e08-e025-43a9-95c1-9ed482b06763",
+        "uuid": "9c4f7e08-e025-43a9-95c1-9ed482b06763",
+        "uuid_related": [
+          "ee606aa2-59cf-469f-be56-c8937878ae35",
+          "d59cd695-7c67-4730-832c-b8d270adbf83",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "3e381062-e4f8-48b4-a60f-b521b06bc818"
+        ]
+      },
+      {
+        "_version_": 1.8618254847786353e+18,
+        "author_sort": "Witt, Johanna de, 1617-1692",
+        "cito_Catalog": "Witt, Johan de",
+        "comments": [
+          "http://localhost/comment/94d50972-6669-4397-be10-0e3ebfe46bca"
+        ],
+        "dcterms_description": "14 Jan 1650 to 14 Dec 1650: Witt, Johanna de, 1617-1692 (Dordrecht, South Holland, Netherlands) to Witt, Johan de, 1625-1672 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001047817",
+        "dcterms_identifier-editi_": "editi_1047817",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8aa53128-e276-4c17-99cb-9a31e3736381",
+        "dcterms_identifier-uuid_": "uuid_8aa53128-e276-4c17-99cb-9a31e3736381",
+        "dcterms_language": "Dutch",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/375ccb9a-787e-484e-8bab-aa81982dc7d7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/a0343151-9ab3-4bb5-b9ea-ce8135dc725e"
+        ],
+        "id": "uuid_8aa53128-e276-4c17-99cb-9a31e3736381",
+        "locations": [
+          "http://localhost/location/be269343-1c38-429a-8292-d8a0473d63b5",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-rdf_value": "ten huijse van heer advocaet Van Andel in Sgraven Hage",
+        "mail_origin-location": [
+          "http://localhost/location/be269343-1c38-429a-8292-d8a0473d63b5"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/b8b7e427-5e14-4de8-9d32-8956315a0eb8"
+        ],
+        "manifestation-institution-place": [
+          "Nationaal Archief",
+          "National Archives of the Netherlands\nThe Hague, National Archives\nAlgemeen Rijksarchief\nDutch National Archives",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/375ccb9a-787e-484e-8bab-aa81982dc7d7"
+        ],
+        "object_type": "work",
+        "origin_sort": "Dordrecht, South Holland, Netherlands",
+        "ox_completed-ox_day": 14,
+        "ox_completed-ox_month": 12,
+        "ox_completed-ox_year": 1650,
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/94d50972-6669-4397-be10-0e3ebfe46bca"
+        ],
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2023-09-01T17:50:56Z",
+        "ox_internalModified": "2023-09-01T17:50:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_keywords": "Family; personal",
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Johan de Witt project, Huygens ING, under the direction of Ineke Huysman, 31 August 2023",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/a0343151-9ab3-4bb5-b9ea-ce8135dc725e",
+          "http://localhost/person/b8b7e427-5e14-4de8-9d32-8956315a0eb8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e4974a93-cc9f-4905-83ce-70fee57b5d96",
+          "http://localhost/resource/faa1f22e-6a23-4d91-8fc9-2c9a7500da02"
+        ],
+        "recipient_sort": "Witt, Johan de, 1625-1672",
+        "resources": [
+          "http://localhost/resource/e4974a93-cc9f-4905-83ce-70fee57b5d96",
+          "http://localhost/resource/faa1f22e-6a23-4d91-8fc9-2c9a7500da02"
+        ],
+        "started_date_gregorian_sort": "1650-12-14T00:00:00Z",
+        "started_date_sort": "1650-12-14T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T15:01:23.243Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8aa53128-e276-4c17-99cb-9a31e3736381",
+        "uuid": "8aa53128-e276-4c17-99cb-9a31e3736381",
+        "uuid_related": [
+          "375ccb9a-787e-484e-8bab-aa81982dc7d7",
+          "a0343151-9ab3-4bb5-b9ea-ce8135dc725e",
+          "b8b7e427-5e14-4de8-9d32-8956315a0eb8",
+          "be269343-1c38-429a-8292-d8a0473d63b5",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "94d50972-6669-4397-be10-0e3ebfe46bca",
+          "e4974a93-cc9f-4905-83ce-70fee57b5d96",
+          "faa1f22e-6a23-4d91-8fc9-2c9a7500da02"
+        ]
+      },
+      {
+        "_version_": 1.8618251849246966e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "28 Jan 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Ker, William, 1622-1675",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946538",
+        "dcterms_identifier-editi_": "editi_946538",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/99d7a192-ed36-4946-b2b4-68b381ad3b55",
+        "dcterms_identifier-uuid_": "uuid_99d7a192-ed36-4946-b2b4-68b381ad3b55",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/dc189aa2-12c7-455d-bd45-96dd217099ca"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_99d7a192-ed36-4946-b2b4-68b381ad3b55",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/d8c9c7d8-7bd6-4b25-85d9-1d7de8828126"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/dc189aa2-12c7-455d-bd45-96dd217099ca"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:53Z",
+        "ox_internalModified": "2018-04-11T18:35:46Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 28,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/d8c9c7d8-7bd6-4b25-85d9-1d7de8828126"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2985c9da-4926-44cd-b834-0c1b03b013a9"
+        ],
+        "recipient_sort": "Ker, William, 1622-1675",
+        "resources": [
+          "http://localhost/resource/2985c9da-4926-44cd-b834-0c1b03b013a9"
+        ],
+        "started_date_gregorian_sort": "1651-01-28T00:00:00Z",
+        "started_date_sort": "1651-01-28T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/99d7a192-ed36-4946-b2b4-68b381ad3b55",
+        "uuid": "99d7a192-ed36-4946-b2b4-68b381ad3b55",
+        "uuid_related": [
+          "dc189aa2-12c7-455d-bd45-96dd217099ca",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "d8c9c7d8-7bd6-4b25-85d9-1d7de8828126",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "2985c9da-4926-44cd-b834-0c1b03b013a9"
+        ]
+      },
+      {
+        "_version_": 1.8618251849142108e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "7 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Friedrich Wilhelm I, Elector of Brandenburg, 1620-1688",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946517",
+        "dcterms_identifier-editi_": "editi_946517",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/226c9eb8-6b2c-4817-a6c4-605f529d20c3",
+        "dcterms_identifier-uuid_": "uuid_226c9eb8-6b2c-4817-a6c4-605f529d20c3",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/91aa2494-f697-4b4a-9411-ca71cb03afe6"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_226c9eb8-6b2c-4817-a6c4-605f529d20c3",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/48c18cd8-5737-48e3-97c4-428bbd434774"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/91aa2494-f697-4b4a-9411-ca71cb03afe6"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:38Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/48c18cd8-5737-48e3-97c4-428bbd434774"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/936aa8ad-95c8-4e57-bba2-8ea2180be3b8"
+        ],
+        "recipient_sort": "Friedrich Wilhelm I, Elector of Brandenburg, 1620-1688",
+        "resources": [
+          "http://localhost/resource/936aa8ad-95c8-4e57-bba2-8ea2180be3b8"
+        ],
+        "started_date_gregorian_sort": "1651-02-07T00:00:00Z",
+        "started_date_sort": "1651-02-07T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/226c9eb8-6b2c-4817-a6c4-605f529d20c3",
+        "uuid": "226c9eb8-6b2c-4817-a6c4-605f529d20c3",
+        "uuid_related": [
+          "91aa2494-f697-4b4a-9411-ca71cb03afe6",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "48c18cd8-5737-48e3-97c4-428bbd434774",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "936aa8ad-95c8-4e57-bba2-8ea2180be3b8"
+        ]
+      },
+      {
+        "_version_": 1.8618251849152594e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Zimmern (Duke of), fl. 1651",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946518",
+        "dcterms_identifier-editi_": "editi_946518",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/483996d2-8665-4d3f-9d7b-be1bdb925ce4",
+        "dcterms_identifier-uuid_": "uuid_483996d2-8665-4d3f-9d7b-be1bdb925ce4",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fe99cc22-225e-4a5d-afc3-4f0c1361ee52"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_483996d2-8665-4d3f-9d7b-be1bdb925ce4",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/b4997f71-03e7-4c0c-82e8-9b706b2e22d9"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fe99cc22-225e-4a5d-afc3-4f0c1361ee52"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:42Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/b4997f71-03e7-4c0c-82e8-9b706b2e22d9"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/53a11c66-472a-4fb7-92a6-466ce52401fb"
+        ],
+        "recipient_sort": "Zimmern (Duke of), fl. 1651",
+        "resources": [
+          "http://localhost/resource/53a11c66-472a-4fb7-92a6-466ce52401fb"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/483996d2-8665-4d3f-9d7b-be1bdb925ce4",
+        "uuid": "483996d2-8665-4d3f-9d7b-be1bdb925ce4",
+        "uuid_related": [
+          "fe99cc22-225e-4a5d-afc3-4f0c1361ee52",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "b4997f71-03e7-4c0c-82e8-9b706b2e22d9",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "53a11c66-472a-4fb7-92a6-466ce52401fb"
+        ]
+      },
+      {
+        "_version_": 1.8618251849152594e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Emanuel, prince of Portugal, 1600-1666",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946519",
+        "dcterms_identifier-editi_": "editi_946519",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1cb7f189-05a2-446d-9fa1-63d0cb98ce39",
+        "dcterms_identifier-uuid_": "uuid_1cb7f189-05a2-446d-9fa1-63d0cb98ce39",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a6e53553-0633-40ff-ae95-390de7163f98"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_1cb7f189-05a2-446d-9fa1-63d0cb98ce39",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7257e646-ee50-4fbb-bf54-42d25d4c57b6"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a6e53553-0633-40ff-ae95-390de7163f98"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:43Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/7257e646-ee50-4fbb-bf54-42d25d4c57b6"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4d1b3e60-e4f3-4720-a281-426fdfaaf8ff"
+        ],
+        "recipient_sort": "Emanuel, prince of Portugal, 1600-1666",
+        "resources": [
+          "http://localhost/resource/4d1b3e60-e4f3-4720-a281-426fdfaaf8ff"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1cb7f189-05a2-446d-9fa1-63d0cb98ce39",
+        "uuid": "1cb7f189-05a2-446d-9fa1-63d0cb98ce39",
+        "uuid_related": [
+          "a6e53553-0633-40ff-ae95-390de7163f98",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "7257e646-ee50-4fbb-bf54-42d25d4c57b6",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "4d1b3e60-e4f3-4720-a281-426fdfaaf8ff"
+        ]
+      },
+      {
+        "_version_": 1.861825184916308e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to La Trémouille, Henri de, 1599-1674",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946520",
+        "dcterms_identifier-editi_": "editi_946520",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/12d0be0c-d075-414d-9cd1-2bd611c218eb",
+        "dcterms_identifier-uuid_": "uuid_12d0be0c-d075-414d-9cd1-2bd611c218eb",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c96777e9-5519-4b79-8ec5-deaa57ea6395"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_12d0be0c-d075-414d-9cd1-2bd611c218eb",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/dd5deade-db6e-46b0-92d0-bfd99ff291b8"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c96777e9-5519-4b79-8ec5-deaa57ea6395"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:43Z",
+        "ox_internalModified": "2017-03-09T15:23:29Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/dd5deade-db6e-46b0-92d0-bfd99ff291b8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2c17f6d5-ca9f-4ae5-8791-01f642d728d6"
+        ],
+        "recipient_sort": "La Trémouille, Henri de, 1599-1674",
+        "resources": [
+          "http://localhost/resource/2c17f6d5-ca9f-4ae5-8791-01f642d728d6"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/12d0be0c-d075-414d-9cd1-2bd611c218eb",
+        "uuid": "12d0be0c-d075-414d-9cd1-2bd611c218eb",
+        "uuid_related": [
+          "c96777e9-5519-4b79-8ec5-deaa57ea6395",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "dd5deade-db6e-46b0-92d0-bfd99ff291b8",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "2c17f6d5-ca9f-4ae5-8791-01f642d728d6"
+        ]
+      },
+      {
+        "_version_": 1.861825184916308e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Nassau-Hadamar, Johann Ludwig von, 1590-1653",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946521",
+        "dcterms_identifier-editi_": "editi_946521",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f6d1a00a-19d9-4e81-8f2f-fe7cbcc8e2a6",
+        "dcterms_identifier-uuid_": "uuid_f6d1a00a-19d9-4e81-8f2f-fe7cbcc8e2a6",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0fb6c55a-91c5-4c8d-934e-2169cbca2eca"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_f6d1a00a-19d9-4e81-8f2f-fe7cbcc8e2a6",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/36da030a-5e33-4bf4-aad8-60f19df8780c"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0fb6c55a-91c5-4c8d-934e-2169cbca2eca"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:44Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/36da030a-5e33-4bf4-aad8-60f19df8780c"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/07bb363e-4698-4ecd-a30d-7e3b575f23a7"
+        ],
+        "recipient_sort": "Nassau-Hadamar, Johann Ludwig von, 1590-1653",
+        "resources": [
+          "http://localhost/resource/07bb363e-4698-4ecd-a30d-7e3b575f23a7"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f6d1a00a-19d9-4e81-8f2f-fe7cbcc8e2a6",
+        "uuid": "f6d1a00a-19d9-4e81-8f2f-fe7cbcc8e2a6",
+        "uuid_related": [
+          "0fb6c55a-91c5-4c8d-934e-2169cbca2eca",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "36da030a-5e33-4bf4-aad8-60f19df8780c",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "07bb363e-4698-4ecd-a30d-7e3b575f23a7"
+        ]
+      },
+      {
+        "_version_": 1.8618251849173565e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Ligne, Jean Frederic, de, fl. 1651",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946522",
+        "dcterms_identifier-editi_": "editi_946522",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8964b3c4-b72b-41c4-9fa1-9954ec9e579a",
+        "dcterms_identifier-uuid_": "uuid_8964b3c4-b72b-41c4-9fa1-9954ec9e579a",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/db16194d-c7a4-4b4c-8c9e-761fb9412e9e"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_8964b3c4-b72b-41c4-9fa1-9954ec9e579a",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/658d7b36-9350-47cd-ad8b-b6d8e4ad4a39"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/db16194d-c7a4-4b4c-8c9e-761fb9412e9e"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:44Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/658d7b36-9350-47cd-ad8b-b6d8e4ad4a39"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9fd78bb6-d830-4b85-9196-2fd15844de5e"
+        ],
+        "recipient_sort": "Ligne, Jean Frederic, de, fl. 1651",
+        "resources": [
+          "http://localhost/resource/9fd78bb6-d830-4b85-9196-2fd15844de5e"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8964b3c4-b72b-41c4-9fa1-9954ec9e579a",
+        "uuid": "8964b3c4-b72b-41c4-9fa1-9954ec9e579a",
+        "uuid_related": [
+          "db16194d-c7a4-4b4c-8c9e-761fb9412e9e",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "658d7b36-9350-47cd-ad8b-b6d8e4ad4a39",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "9fd78bb6-d830-4b85-9196-2fd15844de5e"
+        ]
+      },
+      {
+        "_version_": 1.8618251849173565e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to La Tour d'Auvergne, Godefroy Maurice de, 1636-1721",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946523",
+        "dcterms_identifier-editi_": "editi_946523",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e6973917-0111-4ddf-abbe-1ad5afefd54c",
+        "dcterms_identifier-uuid_": "uuid_e6973917-0111-4ddf-abbe-1ad5afefd54c",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/642508e0-3285-4089-a637-305ca6813aaf"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_e6973917-0111-4ddf-abbe-1ad5afefd54c",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/0fdc7571-90c7-47fd-8ffd-335e697fb36b"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/642508e0-3285-4089-a637-305ca6813aaf"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:45Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/0fdc7571-90c7-47fd-8ffd-335e697fb36b"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/cae33ec1-035b-4736-9719-78f90adbd4dc"
+        ],
+        "recipient_sort": "La Tour d'Auvergne, Godefroy Maurice de, 1636-1721",
+        "resources": [
+          "http://localhost/resource/cae33ec1-035b-4736-9719-78f90adbd4dc"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e6973917-0111-4ddf-abbe-1ad5afefd54c",
+        "uuid": "e6973917-0111-4ddf-abbe-1ad5afefd54c",
+        "uuid_related": [
+          "642508e0-3285-4089-a637-305ca6813aaf",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "0fdc7571-90c7-47fd-8ffd-335e697fb36b",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "cae33ec1-035b-4736-9719-78f90adbd4dc"
+        ]
+      },
+      {
+        "_version_": 1.861825184918405e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Pfalz-Zweibrücken, Friedrich Ludwig von, 1619-1681",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946524",
+        "dcterms_identifier-editi_": "editi_946524",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7b8d007a-cde8-4e3c-83e3-7241a94e75b6",
+        "dcterms_identifier-uuid_": "uuid_7b8d007a-cde8-4e3c-83e3-7241a94e75b6",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0a006c79-e71f-4aa9-ac72-d998e0fb3b86"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_7b8d007a-cde8-4e3c-83e3-7241a94e75b6",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/05365318-9d6d-491c-9e13-5e6720248134"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0a006c79-e71f-4aa9-ac72-d998e0fb3b86"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:45Z",
+        "ox_internalModified": "2018-04-21T11:02:32Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/05365318-9d6d-491c-9e13-5e6720248134"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/5c7d7189-ac6f-45f1-ab7c-85e8fc2686a0"
+        ],
+        "recipient_sort": "Pfalz-Zweibrücken, Friedrich Ludwig von, 1619-1681",
+        "resources": [
+          "http://localhost/resource/5c7d7189-ac6f-45f1-ab7c-85e8fc2686a0"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7b8d007a-cde8-4e3c-83e3-7241a94e75b6",
+        "uuid": "7b8d007a-cde8-4e3c-83e3-7241a94e75b6",
+        "uuid_related": [
+          "0a006c79-e71f-4aa9-ac72-d998e0fb3b86",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "05365318-9d6d-491c-9e13-5e6720248134",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "5c7d7189-ac6f-45f1-ab7c-85e8fc2686a0"
+        ]
+      },
+      {
+        "_version_": 1.861825184918405e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Nassau-Dietz, Willem Frederik von, 1613-1664",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946525",
+        "dcterms_identifier-editi_": "editi_946525",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e70fc4af-26c9-4e87-8b22-3036d0ee88d5",
+        "dcterms_identifier-uuid_": "uuid_e70fc4af-26c9-4e87-8b22-3036d0ee88d5",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/78e63fd1-d99c-4849-9abe-21617c87ff47"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_e70fc4af-26c9-4e87-8b22-3036d0ee88d5",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/83c0ab57-57f6-4bae-a9f5-8171568e54f8"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/78e63fd1-d99c-4849-9abe-21617c87ff47"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:46Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/83c0ab57-57f6-4bae-a9f5-8171568e54f8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/fbed679c-a11b-4404-a54c-bdc0ad30f88c"
+        ],
+        "recipient_sort": "Nassau-Dietz, Willem Frederik von, 1613-1664",
+        "resources": [
+          "http://localhost/resource/fbed679c-a11b-4404-a54c-bdc0ad30f88c"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e70fc4af-26c9-4e87-8b22-3036d0ee88d5",
+        "uuid": "e70fc4af-26c9-4e87-8b22-3036d0ee88d5",
+        "uuid_related": [
+          "78e63fd1-d99c-4849-9abe-21617c87ff47",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "83c0ab57-57f6-4bae-a9f5-8171568e54f8",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "fbed679c-a11b-4404-a54c-bdc0ad30f88c"
+        ]
+      },
+      {
+        "_version_": 1.861825184918405e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to La Tour d'Auvergne, Henri de, 1611-1675",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946526",
+        "dcterms_identifier-editi_": "editi_946526",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e336eebf-ea14-4a98-af7f-760cc351510c",
+        "dcterms_identifier-uuid_": "uuid_e336eebf-ea14-4a98-af7f-760cc351510c",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/cd9326af-eb2a-41a9-ad5c-5f668ba2e64a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_e336eebf-ea14-4a98-af7f-760cc351510c",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a7b4185f-4176-4f7a-8f7a-06f3b63afb78"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/cd9326af-eb2a-41a9-ad5c-5f668ba2e64a"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:47Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/a7b4185f-4176-4f7a-8f7a-06f3b63afb78"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/5b53e4d2-908a-434e-ba0d-691a4b64827e"
+        ],
+        "recipient_sort": "La Tour d'Auvergne, Henri de, 1611-1675",
+        "resources": [
+          "http://localhost/resource/5b53e4d2-908a-434e-ba0d-691a4b64827e"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e336eebf-ea14-4a98-af7f-760cc351510c",
+        "uuid": "e336eebf-ea14-4a98-af7f-760cc351510c",
+        "uuid_related": [
+          "cd9326af-eb2a-41a9-ad5c-5f668ba2e64a",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "a7b4185f-4176-4f7a-8f7a-06f3b63afb78",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "5b53e4d2-908a-434e-ba0d-691a4b64827e"
+        ]
+      },
+      {
+        "_version_": 1.8618251849194537e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Nassau-Dillenburg, Georg Ludwig von, 1618-1656",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946527",
+        "dcterms_identifier-editi_": "editi_946527",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d4949509-98eb-4626-916f-7c250afeaae2",
+        "dcterms_identifier-uuid_": "uuid_d4949509-98eb-4626-916f-7c250afeaae2",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7009d11c-8728-467f-8656-e6d66e6d7a38"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_d4949509-98eb-4626-916f-7c250afeaae2",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/cecf7158-8d87-44e0-be70-3c48690c2e47"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7009d11c-8728-467f-8656-e6d66e6d7a38"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:47Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/cecf7158-8d87-44e0-be70-3c48690c2e47"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/907c959d-68dd-4039-bb4d-da659428c657"
+        ],
+        "recipient_sort": "Nassau-Dillenburg, Georg Ludwig von, 1618-1656",
+        "resources": [
+          "http://localhost/resource/907c959d-68dd-4039-bb4d-da659428c657"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d4949509-98eb-4626-916f-7c250afeaae2",
+        "uuid": "d4949509-98eb-4626-916f-7c250afeaae2",
+        "uuid_related": [
+          "7009d11c-8728-467f-8656-e6d66e6d7a38",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "cecf7158-8d87-44e0-be70-3c48690c2e47",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "907c959d-68dd-4039-bb4d-da659428c657"
+        ]
+      },
+      {
+        "_version_": 1.8618251849194537e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Nassau-Siegen, Georg Frederik van, 1606-1674",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946528",
+        "dcterms_identifier-editi_": "editi_946528",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b73e3e41-563c-402b-9c71-4b53a9684dd7",
+        "dcterms_identifier-uuid_": "uuid_b73e3e41-563c-402b-9c71-4b53a9684dd7",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b26d3fd5-744b-4787-9766-4499e3a0a5ae"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_b73e3e41-563c-402b-9c71-4b53a9684dd7",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/ca7a4bcf-2d84-4501-8705-cd21ec8dfeb8"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b26d3fd5-744b-4787-9766-4499e3a0a5ae"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:48Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/ca7a4bcf-2d84-4501-8705-cd21ec8dfeb8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b0d45b5e-4b53-4577-ace8-ccefab4fce9e"
+        ],
+        "recipient_sort": "Nassau-Siegen, Georg Frederik van, 1606-1674",
+        "resources": [
+          "http://localhost/resource/b0d45b5e-4b53-4577-ace8-ccefab4fce9e"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b73e3e41-563c-402b-9c71-4b53a9684dd7",
+        "uuid": "b73e3e41-563c-402b-9c71-4b53a9684dd7",
+        "uuid_related": [
+          "b26d3fd5-744b-4787-9766-4499e3a0a5ae",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "ca7a4bcf-2d84-4501-8705-cd21ec8dfeb8",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "b0d45b5e-4b53-4577-ace8-ccefab4fce9e"
+        ]
+      },
+      {
+        "_version_": 1.8618251849205023e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Nassau-Siegen, Hendrik of, 1611-1652",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946529",
+        "dcterms_identifier-editi_": "editi_946529",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c7b45554-a4df-49b6-9ded-ab336c2f2790",
+        "dcterms_identifier-uuid_": "uuid_c7b45554-a4df-49b6-9ded-ab336c2f2790",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c6cb2545-5ba4-450f-936d-6684ffcfbceb"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_c7b45554-a4df-49b6-9ded-ab336c2f2790",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/672d68a2-9b83-4a09-a016-46b56f5a9fb4"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c6cb2545-5ba4-450f-936d-6684ffcfbceb"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:48Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/672d68a2-9b83-4a09-a016-46b56f5a9fb4"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/a9984d34-42f8-4f2b-bcee-27c1052d3aeb"
+        ],
+        "recipient_sort": "Nassau-Siegen, Hendrik of, 1611-1652",
+        "resources": [
+          "http://localhost/resource/a9984d34-42f8-4f2b-bcee-27c1052d3aeb"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c7b45554-a4df-49b6-9ded-ab336c2f2790",
+        "uuid": "c7b45554-a4df-49b6-9ded-ab336c2f2790",
+        "uuid_related": [
+          "c6cb2545-5ba4-450f-936d-6684ffcfbceb",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "672d68a2-9b83-4a09-a016-46b56f5a9fb4",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "a9984d34-42f8-4f2b-bcee-27c1052d3aeb"
+        ]
+      },
+      {
+        "_version_": 1.8618251849205023e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Solms-Braunfels, Hendrik Trajectinus von, 1636-1693",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946530",
+        "dcterms_identifier-editi_": "editi_946530",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/84924c09-6d2b-48dc-912f-b6d946f40599",
+        "dcterms_identifier-uuid_": "uuid_84924c09-6d2b-48dc-912f-b6d946f40599",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7ba89229-86d9-4784-a52c-2826f8fa16f2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_84924c09-6d2b-48dc-912f-b6d946f40599",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/dec89ac3-4028-4176-b741-4c5eb0c787ed"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7ba89229-86d9-4784-a52c-2826f8fa16f2"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:49Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/dec89ac3-4028-4176-b741-4c5eb0c787ed"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/af9ce5ce-ce3e-46c9-8fe6-1f760945ec82"
+        ],
+        "recipient_sort": "Solms-Braunfels, Hendrik Trajectinus von, 1636-1693",
+        "resources": [
+          "http://localhost/resource/af9ce5ce-ce3e-46c9-8fe6-1f760945ec82"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/84924c09-6d2b-48dc-912f-b6d946f40599",
+        "uuid": "84924c09-6d2b-48dc-912f-b6d946f40599",
+        "uuid_related": [
+          "7ba89229-86d9-4784-a52c-2826f8fa16f2",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "dec89ac3-4028-4176-b741-4c5eb0c787ed",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "af9ce5ce-ce3e-46c9-8fe6-1f760945ec82"
+        ]
+      },
+      {
+        "_version_": 1.8618251849215508e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Limburg-Stirum, Otto von, 1620-1679",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946531",
+        "dcterms_identifier-editi_": "editi_946531",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3c5d00d4-bf88-49cf-89aa-23cf8af7c623",
+        "dcterms_identifier-uuid_": "uuid_3c5d00d4-bf88-49cf-89aa-23cf8af7c623",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fc679199-6f69-419e-8e9f-21c9f9fe7260"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_3c5d00d4-bf88-49cf-89aa-23cf8af7c623",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/8ea830bd-94ad-42b6-bcb0-2eae4375bfa9"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fc679199-6f69-419e-8e9f-21c9f9fe7260"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:49Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/8ea830bd-94ad-42b6-bcb0-2eae4375bfa9"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/cb02d656-34b2-4b85-9cad-c84517b78cb5"
+        ],
+        "recipient_sort": "Limburg-Stirum, Otto von, 1620-1679",
+        "resources": [
+          "http://localhost/resource/cb02d656-34b2-4b85-9cad-c84517b78cb5"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3c5d00d4-bf88-49cf-89aa-23cf8af7c623",
+        "uuid": "3c5d00d4-bf88-49cf-89aa-23cf8af7c623",
+        "uuid_related": [
+          "fc679199-6f69-419e-8e9f-21c9f9fe7260",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "8ea830bd-94ad-42b6-bcb0-2eae4375bfa9",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "cb02d656-34b2-4b85-9cad-c84517b78cb5"
+        ]
+      },
+      {
+        "_version_": 1.8618251849215508e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Salm-Neufville, Frederik Magnus von, 1606-1673",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946532",
+        "dcterms_identifier-editi_": "editi_946532",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/42b385c0-f0ba-4f5f-8af3-ec787462a8ab",
+        "dcterms_identifier-uuid_": "uuid_42b385c0-f0ba-4f5f-8af3-ec787462a8ab",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6cf030c3-7b35-41f0-864d-6ec9463ff7e7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_42b385c0-f0ba-4f5f-8af3-ec787462a8ab",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/2279be55-ee2b-4670-a99d-e6fb6d932c5a"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6cf030c3-7b35-41f0-864d-6ec9463ff7e7"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:50Z",
+        "ox_internalModified": "2017-04-10T15:43:18Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/2279be55-ee2b-4670-a99d-e6fb6d932c5a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c2233963-0356-4704-8d30-d802f4e936fb"
+        ],
+        "recipient_sort": "Salm-Neufville, Frederik Magnus von, 1606-1673",
+        "resources": [
+          "http://localhost/resource/c2233963-0356-4704-8d30-d802f4e936fb"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/42b385c0-f0ba-4f5f-8af3-ec787462a8ab",
+        "uuid": "42b385c0-f0ba-4f5f-8af3-ec787462a8ab",
+        "uuid_related": [
+          "6cf030c3-7b35-41f0-864d-6ec9463ff7e7",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "2279be55-ee2b-4670-a99d-e6fb6d932c5a",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "c2233963-0356-4704-8d30-d802f4e936fb"
+        ]
+      },
+      {
+        "_version_": 1.8618251849215508e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Limburg Stirum, Georg Ernst van, 1593-1661",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946533",
+        "dcterms_identifier-editi_": "editi_946533",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/30f59fe0-0ce7-43f8-8e99-14071f6c17e7",
+        "dcterms_identifier-uuid_": "uuid_30f59fe0-0ce7-43f8-8e99-14071f6c17e7",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/11136832-7c1b-4441-a2d1-24a9c4898fab"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_30f59fe0-0ce7-43f8-8e99-14071f6c17e7",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/6104e7e3-6473-4e92-a035-6c606f0abbbd"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/11136832-7c1b-4441-a2d1-24a9c4898fab"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:50Z",
+        "ox_internalModified": "2018-10-02T20:44:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/6104e7e3-6473-4e92-a035-6c606f0abbbd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/afaf2d2a-6d04-47ed-a390-114c7ad0462f"
+        ],
+        "recipient_sort": "Limburg Stirum, Georg Ernst van, 1593-1661",
+        "resources": [
+          "http://localhost/resource/afaf2d2a-6d04-47ed-a390-114c7ad0462f"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/30f59fe0-0ce7-43f8-8e99-14071f6c17e7",
+        "uuid": "30f59fe0-0ce7-43f8-8e99-14071f6c17e7",
+        "uuid_related": [
+          "11136832-7c1b-4441-a2d1-24a9c4898fab",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "6104e7e3-6473-4e92-a035-6c606f0abbbd",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "afaf2d2a-6d04-47ed-a390-114c7ad0462f"
+        ]
+      },
+      {
+        "_version_": 1.8618251849225994e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "11 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Oost-Friesland, Enno Lodewijk van, 1632-1660",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946534",
+        "dcterms_identifier-editi_": "editi_946534",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c6b18584-b954-4a67-b1d8-ccdd7b275017",
+        "dcterms_identifier-uuid_": "uuid_c6b18584-b954-4a67-b1d8-ccdd7b275017",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/264d4234-2e50-4e09-9741-4c8b5730cdfe"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_c6b18584-b954-4a67-b1d8-ccdd7b275017",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/772de687-7dbe-4081-b32d-7b42170553b0"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/264d4234-2e50-4e09-9741-4c8b5730cdfe"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:51Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/772de687-7dbe-4081-b32d-7b42170553b0"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2dfeeef3-257d-4503-ac58-9e057dfe6fd1"
+        ],
+        "recipient_sort": "Oost-Friesland, Enno Lodewijk van, 1632-1660",
+        "resources": [
+          "http://localhost/resource/2dfeeef3-257d-4503-ac58-9e057dfe6fd1"
+        ],
+        "started_date_gregorian_sort": "1651-02-11T00:00:00Z",
+        "started_date_sort": "1651-02-11T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c6b18584-b954-4a67-b1d8-ccdd7b275017",
+        "uuid": "c6b18584-b954-4a67-b1d8-ccdd7b275017",
+        "uuid_related": [
+          "264d4234-2e50-4e09-9741-4c8b5730cdfe",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "772de687-7dbe-4081-b32d-7b42170553b0",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "2dfeeef3-257d-4503-ac58-9e057dfe6fd1"
+        ]
+      },
+      {
+        "_version_": 1.861825260131713e+18,
+        "author_sort": "Lyon, Martha Johana, 1630-1654",
+        "cito_Catalog": "Winthrop letters",
+        "dcterms_description": "19 Feb 1651: Lyon, Martha Johana, 1630-1654 (Stamford, Connecticut, United States) to Winthrop, John, 1606-1676 (New London, Connecticut, United States)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000973432",
+        "dcterms_identifier-editi_": "editi_973432",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/4bdf87f1-bb2b-465e-b3bc-a207f334ec5e",
+        "dcterms_identifier-uuid_": "uuid_4bdf87f1-bb2b-465e-b3bc-a207f334ec5e",
+        "dcterms_language": "English",
+        "destination_sort": "New London, Connecticut, United States",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0acef2ac-e5b8-4c15-88cb-a526f7a3767f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/b0957114-7835-4d7a-a0b8-c5d3041d31e9"
+        ],
+        "id": "uuid_4bdf87f1-bb2b-465e-b3bc-a207f334ec5e",
+        "locations": [
+          "http://localhost/location/9cec7707-4fb5-4457-9682-6ac5a02bea0d",
+          "http://localhost/location/dcebfd6a-b5a7-4349-9373-eae7f1de62ba"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/dcebfd6a-b5a7-4349-9373-eae7f1de62ba"
+        ],
+        "mail_destination-rdf_value": "Pequot",
+        "mail_origin-location": [
+          "http://localhost/location/9cec7707-4fb5-4457-9682-6ac5a02bea0d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e65e7a09-ccd5-401e-b37f-fe26abe3d61d"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0acef2ac-e5b8-4c15-88cb-a526f7a3767f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Stamford, Connecticut, United States",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "19 Febua 1650",
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2018-06-19T18:55:36Z",
+        "ox_internalModified": "2018-06-19T18:55:36Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, 19 June 2018",
+        "ox_started-ox_day": 19,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/b0957114-7835-4d7a-a0b8-c5d3041d31e9",
+          "http://localhost/person/e65e7a09-ccd5-401e-b37f-fe26abe3d61d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Winthrop, John, 1606-1676",
+        "started_date_gregorian_sort": "1651-03-01T00:00:00Z",
+        "started_date_sort": "1651-02-19T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:40.470Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/4bdf87f1-bb2b-465e-b3bc-a207f334ec5e",
+        "uuid": "4bdf87f1-bb2b-465e-b3bc-a207f334ec5e",
+        "uuid_related": [
+          "0acef2ac-e5b8-4c15-88cb-a526f7a3767f",
+          "b0957114-7835-4d7a-a0b8-c5d3041d31e9",
+          "e65e7a09-ccd5-401e-b37f-fe26abe3d61d",
+          "9cec7707-4fb5-4457-9682-6ac5a02bea0d",
+          "dcebfd6a-b5a7-4349-9373-eae7f1de62ba"
+        ]
+      },
+      {
+        "_version_": 1.8618251849225994e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "21 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Nassau-Dietz, Willem Frederik von, 1613-1664",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946535",
+        "dcterms_identifier-editi_": "editi_946535",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/bdd79964-5bd2-4c8b-83db-fe3863a8e372",
+        "dcterms_identifier-uuid_": "uuid_bdd79964-5bd2-4c8b-83db-fe3863a8e372",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/722813a1-764e-49f8-b732-11787a47c0f9"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_bdd79964-5bd2-4c8b-83db-fe3863a8e372",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/83c0ab57-57f6-4bae-a9f5-8171568e54f8"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/722813a1-764e-49f8-b732-11787a47c0f9"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:51Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/83c0ab57-57f6-4bae-a9f5-8171568e54f8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/291d93ff-acf8-45fd-9013-9302db819027"
+        ],
+        "recipient_sort": "Nassau-Dietz, Willem Frederik von, 1613-1664",
+        "resources": [
+          "http://localhost/resource/291d93ff-acf8-45fd-9013-9302db819027"
+        ],
+        "started_date_gregorian_sort": "1651-02-21T00:00:00Z",
+        "started_date_sort": "1651-02-21T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/bdd79964-5bd2-4c8b-83db-fe3863a8e372",
+        "uuid": "bdd79964-5bd2-4c8b-83db-fe3863a8e372",
+        "uuid_related": [
+          "722813a1-764e-49f8-b732-11787a47c0f9",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "83c0ab57-57f6-4bae-a9f5-8171568e54f8",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "291d93ff-acf8-45fd-9013-9302db819027"
+        ]
+      },
+      {
+        "_version_": 1.861825184923648e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "24 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Maximilian Heinrich von Bayern, 1621-1688",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946536",
+        "dcterms_identifier-editi_": "editi_946536",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6673f475-160d-4887-91c9-0120e214fc37",
+        "dcterms_identifier-uuid_": "uuid_6673f475-160d-4887-91c9-0120e214fc37",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ac62baf1-0241-43da-a8e4-652e45374a84"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_6673f475-160d-4887-91c9-0120e214fc37",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/11aa7e57-a4cc-4a3e-900f-b551940885ee"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ac62baf1-0241-43da-a8e4-652e45374a84"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:52Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 24,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/11aa7e57-a4cc-4a3e-900f-b551940885ee"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/973f3cab-1b33-4437-99b4-4e9dbdde3ee8"
+        ],
+        "recipient_sort": "Maximilian Heinrich von Bayern, 1621-1688",
+        "resources": [
+          "http://localhost/resource/973f3cab-1b33-4437-99b4-4e9dbdde3ee8"
+        ],
+        "started_date_gregorian_sort": "1651-02-24T00:00:00Z",
+        "started_date_sort": "1651-02-24T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6673f475-160d-4887-91c9-0120e214fc37",
+        "uuid": "6673f475-160d-4887-91c9-0120e214fc37",
+        "uuid_related": [
+          "ac62baf1-0241-43da-a8e4-652e45374a84",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "11aa7e57-a4cc-4a3e-900f-b551940885ee",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "973f3cab-1b33-4437-99b4-4e9dbdde3ee8"
+        ]
+      },
+      {
+        "_version_": 1.861825184923648e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "28 Feb 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Vere, Aubrey de, 1627-1703",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946537",
+        "dcterms_identifier-editi_": "editi_946537",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/12d31eab-ae78-4811-844e-d9649ed4e625",
+        "dcterms_identifier-uuid_": "uuid_12d31eab-ae78-4811-844e-d9649ed4e625",
+        "dcterms_language": "English",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/41738b1f-1710-4d29-ba1c-b4925087a0d2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_12d31eab-ae78-4811-844e-d9649ed4e625",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/913e1559-d33f-4e22-ad8a-efd4509f0f36"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/41738b1f-1710-4d29-ba1c-b4925087a0d2"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:53Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 28,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/913e1559-d33f-4e22-ad8a-efd4509f0f36"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e06a25ce-f8dd-4b36-8ed9-36f416c93d7b"
+        ],
+        "recipient_sort": "Vere, Aubrey de, 1627-1703",
+        "resources": [
+          "http://localhost/resource/e06a25ce-f8dd-4b36-8ed9-36f416c93d7b"
+        ],
+        "started_date_gregorian_sort": "1651-02-28T00:00:00Z",
+        "started_date_sort": "1651-02-28T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/12d31eab-ae78-4811-844e-d9649ed4e625",
+        "uuid": "12d31eab-ae78-4811-844e-d9649ed4e625",
+        "uuid_related": [
+          "41738b1f-1710-4d29-ba1c-b4925087a0d2",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "913e1559-d33f-4e22-ad8a-efd4509f0f36",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "e06a25ce-f8dd-4b36-8ed9-36f416c93d7b"
+        ]
+      },
+      {
+        "_version_": 1.8618251849246966e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "14 Apr 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to France, Gaston Jean-Baptiste de, 1608-1660",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946539",
+        "dcterms_identifier-editi_": "editi_946539",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/93387869-a8e4-4aac-9a36-478c809ef61e",
+        "dcterms_identifier-uuid_": "uuid_93387869-a8e4-4aac-9a36-478c809ef61e",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ca219d92-6ee0-4723-be81-a80c75a815fc"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_93387869-a8e4-4aac-9a36-478c809ef61e",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a300dcdd-bae9-4765-9839-bdefc82dec67"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ca219d92-6ee0-4723-be81-a80c75a815fc"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:54Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/a300dcdd-bae9-4765-9839-bdefc82dec67"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3e10e330-e404-4605-9a36-4e6c3548929c"
+        ],
+        "recipient_sort": "France, Gaston Jean-Baptiste de, 1608-1660",
+        "resources": [
+          "http://localhost/resource/3e10e330-e404-4605-9a36-4e6c3548929c"
+        ],
+        "started_date_gregorian_sort": "1651-04-14T00:00:00Z",
+        "started_date_sort": "1651-04-14T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/93387869-a8e4-4aac-9a36-478c809ef61e",
+        "uuid": "93387869-a8e4-4aac-9a36-478c809ef61e",
+        "uuid_related": [
+          "ca219d92-6ee0-4723-be81-a80c75a815fc",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "a300dcdd-bae9-4765-9839-bdefc82dec67",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "3e10e330-e404-4605-9a36-4e6c3548929c"
+        ]
+      },
+      {
+        "_version_": 1.861825184928891e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "21 Apr 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Dohna, Frederick von, 1621-1688",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946548",
+        "dcterms_identifier-editi_": "editi_946548",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/406b6259-e432-45c1-882c-103eb4b4440e",
+        "dcterms_identifier-uuid_": "uuid_406b6259-e432-45c1-882c-103eb4b4440e",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/bc416773-fc88-4622-ae97-8892d3000619"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_406b6259-e432-45c1-882c-103eb4b4440e",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7a9be32f-568e-4eb6-a0c8-876c97282d6e"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/bc416773-fc88-4622-ae97-8892d3000619"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:58Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/7a9be32f-568e-4eb6-a0c8-876c97282d6e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f88921a9-16dd-4965-adc9-aaa5e30f6a61"
+        ],
+        "recipient_sort": "Dohna, Frederick von, 1621-1688",
+        "resources": [
+          "http://localhost/resource/f88921a9-16dd-4965-adc9-aaa5e30f6a61"
+        ],
+        "started_date_gregorian_sort": "1651-04-21T00:00:00Z",
+        "started_date_sort": "1651-04-21T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/406b6259-e432-45c1-882c-103eb4b4440e",
+        "uuid": "406b6259-e432-45c1-882c-103eb4b4440e",
+        "uuid_related": [
+          "bc416773-fc88-4622-ae97-8892d3000619",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "7a9be32f-568e-4eb6-a0c8-876c97282d6e",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "f88921a9-16dd-4965-adc9-aaa5e30f6a61"
+        ]
+      },
+      {
+        "_version_": 1.861825184936231e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "21 Apr 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Raffélis, Olivier, fl. 1639-1641",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946567",
+        "dcterms_identifier-editi_": "editi_946567",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ba51dac8-9659-45dd-b16d-e9db431c0079",
+        "dcterms_identifier-uuid_": "uuid_ba51dac8-9659-45dd-b16d-e9db431c0079",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fe26c789-04cc-407e-af15-d04a4533e2fe"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_ba51dac8-9659-45dd-b16d-e9db431c0079",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/08c5d775-e831-4b11-81f9-cc92615c6954"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fe26c789-04cc-407e-af15-d04a4533e2fe"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:31:08Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/08c5d775-e831-4b11-81f9-cc92615c6954"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f95e729e-3674-4f2f-ad79-24e37254a1a7"
+        ],
+        "recipient_sort": "Raffélis, Olivier, fl. 1639-1641",
+        "resources": [
+          "http://localhost/resource/f95e729e-3674-4f2f-ad79-24e37254a1a7"
+        ],
+        "started_date_gregorian_sort": "1651-04-21T00:00:00Z",
+        "started_date_sort": "1651-04-21T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ba51dac8-9659-45dd-b16d-e9db431c0079",
+        "uuid": "ba51dac8-9659-45dd-b16d-e9db431c0079",
+        "uuid_related": [
+          "fe26c789-04cc-407e-af15-d04a4533e2fe",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "08c5d775-e831-4b11-81f9-cc92615c6954",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "f95e729e-3674-4f2f-ad79-24e37254a1a7"
+        ]
+      },
+      {
+        "_version_": 1.8618251849278423e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "22 Apr 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Jonquières, consuls of",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946546",
+        "dcterms_identifier-editi_": "editi_946546",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9001546b-1479-4604-8b9e-e918b442f35b",
+        "dcterms_identifier-uuid_": "uuid_9001546b-1479-4604-8b9e-e918b442f35b",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/feb2bce2-d6ed-4b9b-88f4-e4f518200b2f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_9001546b-1479-4604-8b9e-e918b442f35b",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/34ee6a90-f0d7-42bb-ad86-bed4fcbdbc5f"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/feb2bce2-d6ed-4b9b-88f4-e4f518200b2f"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:57Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/34ee6a90-f0d7-42bb-ad86-bed4fcbdbc5f"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b097328e-03d5-43b8-8bc2-4a2e8fa630e4"
+        ],
+        "recipient_sort": "Jonquières, consuls of",
+        "resources": [
+          "http://localhost/resource/b097328e-03d5-43b8-8bc2-4a2e8fa630e4"
+        ],
+        "started_date_gregorian_sort": "1651-04-22T00:00:00Z",
+        "started_date_sort": "1651-04-22T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9001546b-1479-4604-8b9e-e918b442f35b",
+        "uuid": "9001546b-1479-4604-8b9e-e918b442f35b",
+        "uuid_related": [
+          "feb2bce2-d6ed-4b9b-88f4-e4f518200b2f",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "34ee6a90-f0d7-42bb-ad86-bed4fcbdbc5f",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "b097328e-03d5-43b8-8bc2-4a2e8fa630e4"
+        ]
+      },
+      {
+        "_version_": 1.861825184930988e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "22 Apr 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Bichi, Alessandro, 1596-1657",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946555",
+        "dcterms_identifier-editi_": "editi_946555",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c153edaf-66fb-4d07-8826-a7235f6f62be",
+        "dcterms_identifier-uuid_": "uuid_c153edaf-66fb-4d07-8826-a7235f6f62be",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/580fafb2-8fd2-4406-aa39-95787b65bb99"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_c153edaf-66fb-4d07-8826-a7235f6f62be",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bb384a99-10c7-4943-8ffe-3d22432043ce"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/580fafb2-8fd2-4406-aa39-95787b65bb99"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:31:02Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/bb384a99-10c7-4943-8ffe-3d22432043ce"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/601e951c-ebcc-4a66-8b27-39b1130def53"
+        ],
+        "recipient_sort": "Bichi, Alessandro, 1596-1657",
+        "resources": [
+          "http://localhost/resource/601e951c-ebcc-4a66-8b27-39b1130def53"
+        ],
+        "started_date_gregorian_sort": "1651-04-22T00:00:00Z",
+        "started_date_sort": "1651-04-22T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c153edaf-66fb-4d07-8826-a7235f6f62be",
+        "uuid": "c153edaf-66fb-4d07-8826-a7235f6f62be",
+        "uuid_related": [
+          "580fafb2-8fd2-4406-aa39-95787b65bb99",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "bb384a99-10c7-4943-8ffe-3d22432043ce",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "601e951c-ebcc-4a66-8b27-39b1130def53"
+        ]
+      },
+      {
+        "_version_": 1.8618251849320366e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "22 Apr 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Langes de Montmirail, Louis de, 1593-1657",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946556",
+        "dcterms_identifier-editi_": "editi_946556",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/98adad77-ac18-44d4-9f8d-978585376a84",
+        "dcterms_identifier-uuid_": "uuid_98adad77-ac18-44d4-9f8d-978585376a84",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/9649d8b3-cbbe-4300-9b86-d633921ee95a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_98adad77-ac18-44d4-9f8d-978585376a84",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/85a38da5-f210-4c9c-b2c1-1fdaa471c271"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/9649d8b3-cbbe-4300-9b86-d633921ee95a"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:31:02Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/85a38da5-f210-4c9c-b2c1-1fdaa471c271"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/7536ba29-bd81-4a0c-bde2-8ce40b185f3f"
+        ],
+        "recipient_sort": "Langes de Montmirail, Louis de, 1593-1657",
+        "resources": [
+          "http://localhost/resource/7536ba29-bd81-4a0c-bde2-8ce40b185f3f"
+        ],
+        "started_date_gregorian_sort": "1651-04-22T00:00:00Z",
+        "started_date_sort": "1651-04-22T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/98adad77-ac18-44d4-9f8d-978585376a84",
+        "uuid": "98adad77-ac18-44d4-9f8d-978585376a84",
+        "uuid_related": [
+          "9649d8b3-cbbe-4300-9b86-d633921ee95a",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "85a38da5-f210-4c9c-b2c1-1fdaa471c271",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "7536ba29-bd81-4a0c-bde2-8ce40b185f3f"
+        ]
+      },
+      {
+        "_version_": 1.8618251849372795e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "22 Apr 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to de Keerman, fl. 1651",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946568",
+        "dcterms_identifier-editi_": "editi_946568",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0b867b4d-2bf4-4ccb-a1d7-401523759f34",
+        "dcterms_identifier-uuid_": "uuid_0b867b4d-2bf4-4ccb-a1d7-401523759f34",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e2238b7b-77c5-4745-8363-3472c43b372d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_0b867b4d-2bf4-4ccb-a1d7-401523759f34",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/92bd1adc-ec6f-4a6d-88b6-5e3ffb008d3d"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e2238b7b-77c5-4745-8363-3472c43b372d"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:31:08Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/92bd1adc-ec6f-4a6d-88b6-5e3ffb008d3d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/0dc59399-be51-42b7-8e25-0ac822f3f7e4"
+        ],
+        "recipient_sort": "de Keerman, fl. 1651",
+        "resources": [
+          "http://localhost/resource/0dc59399-be51-42b7-8e25-0ac822f3f7e4"
+        ],
+        "started_date_gregorian_sort": "1651-04-22T00:00:00Z",
+        "started_date_sort": "1651-04-22T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0b867b4d-2bf4-4ccb-a1d7-401523759f34",
+        "uuid": "0b867b4d-2bf4-4ccb-a1d7-401523759f34",
+        "uuid_related": [
+          "e2238b7b-77c5-4745-8363-3472c43b372d",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "92bd1adc-ec6f-4a6d-88b6-5e3ffb008d3d",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "0dc59399-be51-42b7-8e25-0ac822f3f7e4"
+        ]
+      },
+      {
+        "_version_": 1.861825184928891e+18,
+        "author_sort": "Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660",
+        "cito_Catalog": "Stuart, Mary (Princess Royal and Princess of Orange)",
+        "dcterms_description": "Apr 1651: Stuart, Mary (Princess Royal and Princess of Orange), 1631-1660 (The Hague, South Holland, Netherlands) to Saint-Sauveur, fl. 1651",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946549",
+        "dcterms_identifier-editi_": "editi_946549",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/52ec7973-f177-41e6-91b2-8708a5f78a6b",
+        "dcterms_identifier-uuid_": "uuid_52ec7973-f177-41e6-91b2-8708a5f78a6b",
+        "dcterms_language": "French",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/30eb8757-1187-4101-a78a-4ec7e0c15bc9"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126"
+        ],
+        "id": "uuid_52ec7973-f177-41e6-91b2-8708a5f78a6b",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3e9cd1d0-5aaa-4084-b0f3-fd925f76ff0e"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Verzamelingen Den Haag",
+          "Royal Collections The Netherlands\nRoyal Archive\nKoninklijke Verzamelingen\nKoninklijk Huisarchief\nKoninklijk Huisarchief, 's-Gravenhage",
+          "The Hague",
+          "Den Haag",
+          "Netherlands"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/30eb8757-1187-4101-a78a-4ec7e0c15bc9"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-04-07T14:56:40Z",
+        "ox_internalCreated": "2016-03-12T18:30:59Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Ineke Huysman, Huygens ING, 12 March 2016",
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "http://localhost/person/3e9cd1d0-5aaa-4084-b0f3-fd925f76ff0e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/78ce6bd6-6498-49f5-8542-52d2f7c8d3a3"
+        ],
+        "recipient_sort": "Saint-Sauveur, fl. 1651",
+        "resources": [
+          "http://localhost/resource/78ce6bd6-6498-49f5-8542-52d2f7c8d3a3"
+        ],
+        "started_date_gregorian_sort": "1651-04-30T00:00:00Z",
+        "started_date_sort": "1651-04-30T00:00:00Z",
+        "timestamp_indexed": "2026-04-07T14:59:05.655Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/52ec7973-f177-41e6-91b2-8708a5f78a6b",
+        "uuid": "52ec7973-f177-41e6-91b2-8708a5f78a6b",
+        "uuid_related": [
+          "30eb8757-1187-4101-a78a-4ec7e0c15bc9",
+          "cff80428-62e3-46c9-ba9c-c182f6a57126",
+          "3e9cd1d0-5aaa-4084-b0f3-fd925f76ff0e",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "78ce6bd6-6498-49f5-8542-52d2f7c8d3a3"
+        ]
+      }
+    ],
+    "numFound": 907,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 1,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1650-01-01T00:00:00Z TO 1670-12-31T23:59:59Z] AND person-author-gender:(female) AND person-recipient-gender:(male) AND location-origin:(London, England, United Kingdom)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
