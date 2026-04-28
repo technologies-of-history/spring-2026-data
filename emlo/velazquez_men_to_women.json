@@ -1,0 +1,2451 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Huygens, Constantijn",
+        6, "Peiresc, Nicolas-Claude Fabri de",
+        6, "Kircher, Athanasius",
+        4, "Malpighi, Marcello",
+        3, "Steno, Nicolaus",
+        2, "Bayle, Pierre",
+        1, "Czech students in Protestant universities (Hrubý)",
+        1, "Dodington, John",
+        1, "Groot, Hugo de",
+        1, "Redi, Francesco",
+        1],
+      "destination_sort": [
+        "Rome, Latium, Italy",
+        10, "The Hague, South Holland, Netherlands",
+        6, "Lucca, Tuscany, Italy",
+        2, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+        6, "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a",
+        6, "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d",
+        4, "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df",
+        3, "http://localhost/person/e5b37eb9-2ca8-42d6-aacc-09443ea8a275",
+        2, "http://localhost/person/19724c07-7a28-4425-9a78-611ea0cabc06",
+        1, "http://localhost/person/1bb84843-ed56-4bd2-9c8e-2b223e860cf8",
+        1, "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+        1, "http://localhost/person/69457caf-f368-44e6-9fd0-ccb72419c489",
+        1, "http://localhost/person/6b2c4f87-f0ad-417c-adeb-ab9a4d4feae4",
+        1],
+      "mail_recipient-person": [
+        "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5",
+        6, "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+        5, "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397",
+        5, "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556",
+        5, "http://localhost/person/2d7d07f6-12ef-4baa-a45a-df522260bbbc",
+        2, "http://localhost/person/2e77df65-4a72-47fc-8df3-f63ac9a9bf88",
+        1, "http://localhost/person/43b0ccf4-f7dd-4008-b296-9376fe60eba8",
+        1, "http://localhost/person/57f62df8-f10d-4c3b-ac39-93bd50b8e0bd",
+        1, "http://localhost/person/5f2492c1-ac99-4099-b2f0-389f25cb14b2",
+        1, "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52",
+        1],
+      "origin_sort": [
+        "Paris, Île-de-France, France",
+        7, "Venice, Veneto, Italy",
+        6, "Rome, Latium, Italy",
+        4, "Florence, Tuscany, Italy",
+        2, "Ronchi di Corticella, Bologna, Italy",
+        2, "Bologna, Emilia-Romagna, Italy",
+        1, "Livorno, Tuscany, Italy",
+        1, "Rotterdam, South Holland, Netherlands",
+        1, "Siena, Tuscany, Italy",
+        1, "Tusculum, Lazio, Italy",
+        1],
+      "ox_started-ox_year": [
+        "1620",
+        6, "1686",
+        4, "1621",
+        3, "1622",
+        3, "1667",
+        3, "1601",
+        1, "1608",
+        1, "1624",
+        1, "1649",
+        1, "1651",
+        1]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_0b382ef7-5052-4ef4-89bb-8a01f57bb0d2": {
+
+    },
+    "uuid_0f27466e-1c65-424e-92fc-fd222d88a803": {
+
+    },
+    "uuid_17af2ce0-677e-4e75-ac01-b0e757dd64b0": {
+
+    },
+    "uuid_1ff86f04-c222-4dea-95e5-34e19f4086b0": {
+
+    },
+    "uuid_2115b0f1-27cf-4f80-ab32-0f447601e804": {
+
+    },
+    "uuid_2e0b9ddd-e397-4e1a-aceb-f8a3bb6fec82": {
+
+    },
+    "uuid_379a4b7d-9d5b-4964-9ed1-e541c3fb7e18": {
+
+    },
+    "uuid_39fc31e4-8833-40ac-9910-27f68591378f": {
+
+    },
+    "uuid_3fab7b0f-ce04-4d02-80dc-b54da1b92bad": {
+
+    },
+    "uuid_6ccd2ed8-e116-44f8-bc88-1d8284950f4e": {
+
+    },
+    "uuid_7776ffa5-7b15-42dc-b3ae-e514ae3c1488": {
+
+    },
+    "uuid_77bfd80c-daa7-434d-9c1b-2b41708ace66": {
+
+    },
+    "uuid_8a2cd678-713d-4e7f-aa5a-166994f88329": {
+
+    },
+    "uuid_a29d3ebd-ff65-4a14-bbe4-9d6ed68f2624": {
+
+    },
+    "uuid_a44439d2-077e-4c53-8306-98e4f149154b": {
+
+    },
+    "uuid_aa3403df-7039-47af-a07a-212c06b4bf0b": {
+
+    },
+    "uuid_aa92d663-243a-42ca-9b1e-760a1a4be5ec": {
+
+    },
+    "uuid_b718bbf3-d427-4d24-8397-df4c09f644ff": {
+
+    },
+    "uuid_ba698c06-3467-4431-a113-ba3235b68cea": {
+
+    },
+    "uuid_c54cfaf3-4875-4eb2-aafc-29ca4d692e4b": {
+
+    },
+    "uuid_d380a5fc-c15f-4b54-a7ea-5216a11a0eae": {
+
+    },
+    "uuid_e35026b7-40cb-4414-ac0c-34fe7f3215e6": {
+
+    },
+    "uuid_e44df2b9-0ad4-42b6-97bf-96f5f31ceacd": {
+
+    },
+    "uuid_e6f0ac69-d9ac-4988-bf07-638a4431d24e": {
+
+    },
+    "uuid_ebc45bff-4352-467d-81cd-ac4a4653c145": {
+
+    },
+    "uuid_ef4fb4f9-4020-415d-b4f3-6c16e1702e3e": {
+
+    },
+    "uuid_f4f0f413-4dfb-42b2-a019-0e7feb137129": {
+
+    },
+    "uuid_f566b69c-8dce-41f8-b8ae-ba1958ff794c": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609795925928837e+18,
+        "author_sort": "Ropal of Ryfmberk, Adam, fl. 1598-1602",
+        "cito_Catalog": "Czech students in Protestant universities (Hrubý)",
+        "dcterms_description": "12 Dec 1601: Ropal of Ryfmberk, Adam, fl. 1598-1602 (Siena, Tuscany, Italy) to Valdštejn, Kateřina Anna of, fl. 1601",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000942285",
+        "dcterms_identifier-editi_": "editi_942285",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0b382ef7-5052-4ef4-89bb-8a01f57bb0d2",
+        "dcterms_identifier-uuid_": "uuid_0b382ef7-5052-4ef4-89bb-8a01f57bb0d2",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b1ea344c-1386-41f3-adb8-1ca2140d0051"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/19724c07-7a28-4425-9a78-611ea0cabc06"
+        ],
+        "id": "uuid_0b382ef7-5052-4ef4-89bb-8a01f57bb0d2",
+        "locations": [
+          "http://localhost/location/3e0ef694-2cf9-4f99-be72-6af34db63206"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3e0ef694-2cf9-4f99-be72-6af34db63206"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/bba32822-85de-48a6-9c4f-6acf24732c3e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b1ea344c-1386-41f3-adb8-1ca2140d0051"
+        ],
+        "object_type": "work",
+        "origin_sort": "Siena, Tuscany, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-11-17T13:44:49Z",
+        "ox_internalModified": "2015-11-23T09:28:31Z",
+        "ox_internalModifiedByUser": "Iva Lelkova",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge and the Digital Library of the Faculty of Arts, Masaryk University, Brno, 17 November 2015",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1601,
+        "people": [
+          "http://localhost/person/19724c07-7a28-4425-9a78-611ea0cabc06",
+          "http://localhost/person/bba32822-85de-48a6-9c4f-6acf24732c3e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/14b07cb0-8b40-43b6-b60b-6e3f64afe777"
+        ],
+        "recipient_sort": "Valdštejn, Kateřina Anna of, fl. 1601",
+        "resources": [
+          "http://localhost/resource/14b07cb0-8b40-43b6-b60b-6e3f64afe777"
+        ],
+        "started_date_gregorian_sort": "1601-12-12T00:00:00Z",
+        "started_date_sort": "1601-12-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:55.844Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0b382ef7-5052-4ef4-89bb-8a01f57bb0d2",
+        "uuid": "0b382ef7-5052-4ef4-89bb-8a01f57bb0d2",
+        "uuid_related": [
+          "b1ea344c-1386-41f3-adb8-1ca2140d0051",
+          "19724c07-7a28-4425-9a78-611ea0cabc06",
+          "bba32822-85de-48a6-9c4f-6acf24732c3e",
+          "3e0ef694-2cf9-4f99-be72-6af34db63206",
+          "14b07cb0-8b40-43b6-b60b-6e3f64afe777"
+        ]
+      },
+      {
+        "_version_": 1.860979601517314e+18,
+        "author_sort": "Magni, Giovanni, fl. 1606",
+        "cito_Catalog": "Rubens, Peter Paul",
+        "dcterms_description": "2 Feb 1608: Magni, Giovanni, fl. 1606 (Rome, Latium, Italy) to Medici, Eleonora de', 1567-1611",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000946170",
+        "dcterms_identifier-editi_": "editi_946170",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1ff86f04-c222-4dea-95e5-34e19f4086b0",
+        "dcterms_identifier-uuid_": "uuid_1ff86f04-c222-4dea-95e5-34e19f4086b0",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d9ca486d-8637-43c2-bf9c-4b14a9f484bb"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/6b2c4f87-f0ad-417c-adeb-ab9a4d4feae4"
+        ],
+        "id": "uuid_1ff86f04-c222-4dea-95e5-34e19f4086b0",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e179a88c-5395-4729-9a83-b3b156b1ac4b"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d9ca486d-8637-43c2-bf9c-4b14a9f484bb"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2016-02-23T18:13:32Z",
+        "ox_internalModified": "2018-02-06T11:29:32Z",
+        "ox_internalModifiedByUser": "Charlotte Marique",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Cultures of Knowledge, 23 February 2016",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1608,
+        "people": [
+          "http://localhost/person/6b2c4f87-f0ad-417c-adeb-ab9a4d4feae4",
+          "http://localhost/person/e179a88c-5395-4729-9a83-b3b156b1ac4b"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/52fa1be6-0763-4324-a306-120e5b737bc6"
+        ],
+        "recipient_sort": "Medici, Eleonora de', 1567-1611",
+        "resources": [
+          "http://localhost/resource/52fa1be6-0763-4324-a306-120e5b737bc6"
+        ],
+        "started_date_gregorian_sort": "1608-02-02T00:00:00Z",
+        "started_date_sort": "1608-02-02T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:01.409Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1ff86f04-c222-4dea-95e5-34e19f4086b0",
+        "uuid": "1ff86f04-c222-4dea-95e5-34e19f4086b0",
+        "uuid_related": [
+          "d9ca486d-8637-43c2-bf9c-4b14a9f484bb",
+          "6b2c4f87-f0ad-417c-adeb-ab9a4d4feae4",
+          "e179a88c-5395-4729-9a83-b3b156b1ac4b",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "52fa1be6-0763-4324-a306-120e5b737bc6"
+        ]
+      },
+      {
+        "_version_": 1.8609795308453888e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "11 Jun 1620: Huygens, Constantijn, 1596-1687 (Vicenza, Veneto, Italy) to Huygens, Christiaan, 1551-1624 ~ Hoefnagel, Susanna, 1561-1633 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000919501",
+        "dcterms_identifier-editi_": "editi_919501",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e35026b7-40cb-4414-ac0c-34fe7f3215e6",
+        "dcterms_identifier-uuid_": "uuid_e35026b7-40cb-4414-ac0c-34fe7f3215e6",
+        "dcterms_language": "French",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6d2d4ce9-1bfe-439d-be4b-1ea44ef348a9",
+          "http://localhost/manifestation/fcdc8230-0f22-444d-b666-f86ba5ba0266"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_e35026b7-40cb-4414-ac0c-34fe7f3215e6",
+        "locations": [
+          "http://localhost/location/5ffb02f7-10a3-4184-9b2a-b47f5ff66058",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/5ffb02f7-10a3-4184-9b2a-b47f5ff66058"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6d2d4ce9-1bfe-439d-be4b-1ea44ef348a9",
+          "http://localhost/manifestation/fcdc8230-0f22-444d-b666-f86ba5ba0266"
+        ],
+        "object_type": "work",
+        "origin_sort": "Vicenza, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-11T11:08:30Z",
+        "ox_internalModified": "2021-12-13T17:23:55Z",
+        "ox_internalModifiedByUser": "CofK Digital Fellow",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 11 November 2014",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1620,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/0082"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d0c2777e-c30d-4d13-ba35-b9e69c24405f",
+          "http://localhost/resource/978c6bbb-2fae-4452-a42b-123aedbd68b3"
+        ],
+        "recipient_sort": "Hoefnagel, Susanna, 1561-1633; Huygens, Christiaan, 1551-1624",
+        "resources": [
+          "http://localhost/resource/d0c2777e-c30d-4d13-ba35-b9e69c24405f",
+          "http://localhost/resource/978c6bbb-2fae-4452-a42b-123aedbd68b3"
+        ],
+        "started_date_gregorian_sort": "1620-06-11T00:00:00Z",
+        "started_date_sort": "1620-06-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:26.296Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e35026b7-40cb-4414-ac0c-34fe7f3215e6",
+        "uuid": "e35026b7-40cb-4414-ac0c-34fe7f3215e6",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "5ffb02f7-10a3-4184-9b2a-b47f5ff66058",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "d0c2777e-c30d-4d13-ba35-b9e69c24405f",
+          "978c6bbb-2fae-4452-a42b-123aedbd68b3",
+          "ce89e4c3-7f02-4175-933c-ec070725f556",
+          "6d2d4ce9-1bfe-439d-be4b-1ea44ef348a9",
+          "fcdc8230-0f22-444d-b666-f86ba5ba0266"
+        ]
+      },
+      {
+        "_version_": 1.8609795308453888e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "18 Jun 1620: Huygens, Constantijn, 1596-1687 (Venice, Veneto, Italy) to Huygens, Christiaan, 1551-1624 ~ Hoefnagel, Susanna, 1561-1633 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000919502",
+        "dcterms_identifier-editi_": "editi_919502",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/b718bbf3-d427-4d24-8397-df4c09f644ff",
+        "dcterms_identifier-uuid_": "uuid_b718bbf3-d427-4d24-8397-df4c09f644ff",
+        "dcterms_language": "French",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/edd31971-cbe6-46d9-a3a2-d8a4a9a12874",
+          "http://localhost/manifestation/b306211c-b4b7-4e13-b119-633819f198d9",
+          "http://localhost/manifestation/c240ff21-6bef-4d76-9252-a5358f1540b4"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_b718bbf3-d427-4d24-8397-df4c09f644ff",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/edd31971-cbe6-46d9-a3a2-d8a4a9a12874",
+          "http://localhost/manifestation/b306211c-b4b7-4e13-b119-633819f198d9",
+          "http://localhost/manifestation/c240ff21-6bef-4d76-9252-a5358f1540b4"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-11T11:08:30Z",
+        "ox_internalModified": "2021-12-13T17:24:31Z",
+        "ox_internalModifiedByUser": "CofK Digital Fellow",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 11 November 2014",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1620,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/0083"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/bfb5c2aa-5717-487c-9f69-5bf1ce31b34e",
+          "http://localhost/resource/c09e40ca-5379-440d-982e-8ef7046c4a66"
+        ],
+        "recipient_sort": "Hoefnagel, Susanna, 1561-1633; Huygens, Christiaan, 1551-1624",
+        "resources": [
+          "http://localhost/resource/bfb5c2aa-5717-487c-9f69-5bf1ce31b34e",
+          "http://localhost/resource/c09e40ca-5379-440d-982e-8ef7046c4a66"
+        ],
+        "started_date_gregorian_sort": "1620-06-18T00:00:00Z",
+        "started_date_sort": "1620-06-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:26.296Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/b718bbf3-d427-4d24-8397-df4c09f644ff",
+        "uuid": "b718bbf3-d427-4d24-8397-df4c09f644ff",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "bfb5c2aa-5717-487c-9f69-5bf1ce31b34e",
+          "c09e40ca-5379-440d-982e-8ef7046c4a66",
+          "ce89e4c3-7f02-4175-933c-ec070725f556",
+          "edd31971-cbe6-46d9-a3a2-d8a4a9a12874",
+          "b306211c-b4b7-4e13-b119-633819f198d9",
+          "c240ff21-6bef-4d76-9252-a5358f1540b4"
+        ]
+      },
+      {
+        "_version_": 1.8609795308464374e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "18 Jun 1620: Huygens, Constantijn, 1596-1687 (Venice, Veneto, Italy) to Dorp, Dorothée, 1593-1657 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000919503",
+        "dcterms_identifier-editi_": "editi_919503",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3fab7b0f-ce04-4d02-80dc-b54da1b92bad",
+        "dcterms_identifier-uuid_": "uuid_3fab7b0f-ce04-4d02-80dc-b54da1b92bad",
+        "dcterms_language": "French",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c93368fd-4931-45b5-b0e5-f855373be1d2",
+          "http://localhost/manifestation/d09a4121-8d81-4531-902d-f05a608d9c8e",
+          "http://localhost/manifestation/019efed6-151d-4a66-9cc2-8b7c014e47f6"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_3fab7b0f-ce04-4d02-80dc-b54da1b92bad",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/2e77df65-4a72-47fc-8df3-f63ac9a9bf88"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c93368fd-4931-45b5-b0e5-f855373be1d2",
+          "http://localhost/manifestation/d09a4121-8d81-4531-902d-f05a608d9c8e",
+          "http://localhost/manifestation/019efed6-151d-4a66-9cc2-8b7c014e47f6"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-11T11:08:31Z",
+        "ox_internalModified": "2021-12-13T17:24:53Z",
+        "ox_internalModifiedByUser": "CofK Digital Fellow",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 11 November 2014",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1620,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/0084"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/2e77df65-4a72-47fc-8df3-f63ac9a9bf88"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f4eb4aa7-a7ef-4e9b-87c4-d6f6d7f4c206",
+          "http://localhost/resource/6339c58f-7e4e-4615-bc67-c28f0c57e5a6"
+        ],
+        "recipient_sort": "Dorp, Dorothée, 1593-1657",
+        "resources": [
+          "http://localhost/resource/f4eb4aa7-a7ef-4e9b-87c4-d6f6d7f4c206",
+          "http://localhost/resource/6339c58f-7e4e-4615-bc67-c28f0c57e5a6"
+        ],
+        "started_date_gregorian_sort": "1620-06-18T00:00:00Z",
+        "started_date_sort": "1620-06-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:26.296Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3fab7b0f-ce04-4d02-80dc-b54da1b92bad",
+        "uuid": "3fab7b0f-ce04-4d02-80dc-b54da1b92bad",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "2e77df65-4a72-47fc-8df3-f63ac9a9bf88",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "f4eb4aa7-a7ef-4e9b-87c4-d6f6d7f4c206",
+          "6339c58f-7e4e-4615-bc67-c28f0c57e5a6",
+          "c93368fd-4931-45b5-b0e5-f855373be1d2",
+          "d09a4121-8d81-4531-902d-f05a608d9c8e",
+          "019efed6-151d-4a66-9cc2-8b7c014e47f6"
+        ]
+      },
+      {
+        "_version_": 1.8609795308464374e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "25 Jun 1620: Huygens, Constantijn, 1596-1687 (Venice, Veneto, Italy) to Huygens, Christiaan, 1551-1624 ~ Hoefnagel, Susanna, 1561-1633 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000919504",
+        "dcterms_identifier-editi_": "editi_919504",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e44df2b9-0ad4-42b6-97bf-96f5f31ceacd",
+        "dcterms_identifier-uuid_": "uuid_e44df2b9-0ad4-42b6-97bf-96f5f31ceacd",
+        "dcterms_language": "French",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ac7f1130-94c7-40e1-b9aa-d14295464a4f",
+          "http://localhost/manifestation/21554cc7-26ba-47bb-a790-89906f0acbf7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_e44df2b9-0ad4-42b6-97bf-96f5f31ceacd",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ac7f1130-94c7-40e1-b9aa-d14295464a4f",
+          "http://localhost/manifestation/21554cc7-26ba-47bb-a790-89906f0acbf7"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-11T11:08:32Z",
+        "ox_internalModified": "2021-12-13T17:25:15Z",
+        "ox_internalModifiedByUser": "CofK Digital Fellow",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 11 November 2014",
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1620,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/0085"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/8200b03c-c175-48b0-a7bf-f791b33ad9ac",
+          "http://localhost/resource/558d5f4d-d61e-4119-a69c-df73e49885a0"
+        ],
+        "recipient_sort": "Hoefnagel, Susanna, 1561-1633; Huygens, Christiaan, 1551-1624",
+        "resources": [
+          "http://localhost/resource/8200b03c-c175-48b0-a7bf-f791b33ad9ac",
+          "http://localhost/resource/558d5f4d-d61e-4119-a69c-df73e49885a0"
+        ],
+        "started_date_gregorian_sort": "1620-06-25T00:00:00Z",
+        "started_date_sort": "1620-06-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:26.296Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e44df2b9-0ad4-42b6-97bf-96f5f31ceacd",
+        "uuid": "e44df2b9-0ad4-42b6-97bf-96f5f31ceacd",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "8200b03c-c175-48b0-a7bf-f791b33ad9ac",
+          "558d5f4d-d61e-4119-a69c-df73e49885a0",
+          "ce89e4c3-7f02-4175-933c-ec070725f556",
+          "ac7f1130-94c7-40e1-b9aa-d14295464a4f",
+          "21554cc7-26ba-47bb-a790-89906f0acbf7"
+        ]
+      },
+      {
+        "_version_": 1.860979530847486e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "2 Jul 1620: Huygens, Constantijn, 1596-1687 (Venice, Veneto, Italy) to Huygens, Christiaan, 1551-1624 ~ Hoefnagel, Susanna, 1561-1633 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000919505",
+        "dcterms_identifier-editi_": "editi_919505",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a44439d2-077e-4c53-8306-98e4f149154b",
+        "dcterms_identifier-uuid_": "uuid_a44439d2-077e-4c53-8306-98e4f149154b",
+        "dcterms_language": "French",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fa7873ca-04a2-4665-9e9a-89e6e84d7e44",
+          "http://localhost/manifestation/3d3d1753-78db-436a-a610-14020b846c8f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_a44439d2-077e-4c53-8306-98e4f149154b",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fa7873ca-04a2-4665-9e9a-89e6e84d7e44",
+          "http://localhost/manifestation/3d3d1753-78db-436a-a610-14020b846c8f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-11T11:08:32Z",
+        "ox_internalModified": "2021-12-13T17:25:35Z",
+        "ox_internalModifiedByUser": "CofK Digital Fellow",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 11 November 2014",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1620,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/0086"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3dfa4f6d-0df7-457f-a32d-cee9468f8428",
+          "http://localhost/resource/1e336506-07cf-4cc0-87f9-d16fe1817b19"
+        ],
+        "recipient_sort": "Hoefnagel, Susanna, 1561-1633; Huygens, Christiaan, 1551-1624",
+        "resources": [
+          "http://localhost/resource/3dfa4f6d-0df7-457f-a32d-cee9468f8428",
+          "http://localhost/resource/1e336506-07cf-4cc0-87f9-d16fe1817b19"
+        ],
+        "started_date_gregorian_sort": "1620-07-02T00:00:00Z",
+        "started_date_sort": "1620-07-02T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:26.296Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a44439d2-077e-4c53-8306-98e4f149154b",
+        "uuid": "a44439d2-077e-4c53-8306-98e4f149154b",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "3dfa4f6d-0df7-457f-a32d-cee9468f8428",
+          "1e336506-07cf-4cc0-87f9-d16fe1817b19",
+          "ce89e4c3-7f02-4175-933c-ec070725f556",
+          "fa7873ca-04a2-4665-9e9a-89e6e84d7e44",
+          "3d3d1753-78db-436a-a610-14020b846c8f"
+        ]
+      },
+      {
+        "_version_": 1.8609795308485345e+18,
+        "author_sort": "Huygens, Constantijn, 1596-1687",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "4 Jul 1620: Huygens, Constantijn, 1596-1687 (Venice, Veneto, Italy) to Huygens, Christiaan, 1551-1624 ~ Hoefnagel, Susanna, 1561-1633 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000919507",
+        "dcterms_identifier-editi_": "editi_919507",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f566b69c-8dce-41f8-b8ae-ba1958ff794c",
+        "dcterms_identifier-uuid_": "uuid_f566b69c-8dce-41f8-b8ae-ba1958ff794c",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/54a6ca1d-d96f-4e0a-99e5-bbe9430c0dc1",
+          "http://localhost/manifestation/2e9825dd-92b8-4663-a517-6e741c1b506b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "id": "uuid_f566b69c-8dce-41f8-b8ae-ba1958ff794c",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "manifestation-institution-place": [
+          "Koninklijke Bibliotheek",
+          "KB\nNational Library of the Netherlands\nRoyal Library of the Netherland\nRoyal Library, The Hague",
+          "The Hague",
+          "Den Haag",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/54a6ca1d-d96f-4e0a-99e5-bbe9430c0dc1",
+          "http://localhost/manifestation/2e9825dd-92b8-4663-a517-6e741c1b506b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-11T11:08:33Z",
+        "ox_internalModified": "2021-11-30T14:14:16Z",
+        "ox_internalModifiedByUser": "Charlotte Marique",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 11 November 2014",
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1620,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/0088"
+        ],
+        "people": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+          "http://localhost/person/13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "http://localhost/person/ce89e4c3-7f02-4175-933c-ec070725f556"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2972eb35-5d87-423c-a4c8-64021abaac71",
+          "http://localhost/resource/fac6213e-0e3d-469e-a766-c9fedeae30da"
+        ],
+        "recipient_sort": "Hoefnagel, Susanna, 1561-1633; Huygens, Christiaan, 1551-1624",
+        "resources": [
+          "http://localhost/resource/2972eb35-5d87-423c-a4c8-64021abaac71",
+          "http://localhost/resource/fac6213e-0e3d-469e-a766-c9fedeae30da"
+        ],
+        "started_date_gregorian_sort": "1620-07-04T00:00:00Z",
+        "started_date_sort": "1620-07-04T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:26.296Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f566b69c-8dce-41f8-b8ae-ba1958ff794c",
+        "uuid": "f566b69c-8dce-41f8-b8ae-ba1958ff794c",
+        "uuid_related": [
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "13dacac0-dabc-4ef5-9c0a-dac9c6f88b7b",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "2972eb35-5d87-423c-a4c8-64021abaac71",
+          "fac6213e-0e3d-469e-a766-c9fedeae30da",
+          "ce89e4c3-7f02-4175-933c-ec070725f556",
+          "54a6ca1d-d96f-4e0a-99e5-bbe9430c0dc1",
+          "2e9825dd-92b8-4663-a517-6e741c1b506b"
+        ]
+      },
+      {
+        "_version_": 1.860979581221077e+18,
+        "author_sort": "Peiresc, Nicolas-Claude Fabri de, 1580-1637",
+        "cito_Catalog": "Peiresc, Nicolas-Claude Fabri de",
+        "dcterms_description": "5 Oct 1621: Peiresc, Nicolas-Claude Fabri de, 1580-1637 (Paris, Île-de-France, France) to Barclay (Madamoiselle), fl. 1621-1622 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000938456",
+        "dcterms_identifier-editi_": "editi_938456",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/379a4b7d-9d5b-4964-9ed1-e541c3fb7e18",
+        "dcterms_identifier-uuid_": "uuid_379a4b7d-9d5b-4964-9ed1-e541c3fb7e18",
+        "dcterms_language": "French",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/bee40ce6-ff50-48b9-95fc-a80b9ad404f2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a"
+        ],
+        "id": "uuid_379a4b7d-9d5b-4964-9ed1-e541c3fb7e18",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/bee40ce6-ff50-48b9-95fc-a80b9ad404f2"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-07-22T16:44:51Z",
+        "ox_internalModified": "2015-07-22T16:44:51Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Peter N. Miller, 14 July 2015",
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1621,
+        "people": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/561bf149-d22e-4c66-945f-816a818eecf9"
+        ],
+        "recipient_sort": "Barclay (Madamoiselle), fl. 1621-1622",
+        "resources": [
+          "http://localhost/resource/561bf149-d22e-4c66-945f-816a818eecf9"
+        ],
+        "started_date_gregorian_sort": "1621-10-05T00:00:00Z",
+        "started_date_sort": "1621-10-05T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:49.886Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/379a4b7d-9d5b-4964-9ed1-e541c3fb7e18",
+        "uuid": "379a4b7d-9d5b-4964-9ed1-e541c3fb7e18",
+        "uuid_related": [
+          "bee40ce6-ff50-48b9-95fc-a80b9ad404f2",
+          "ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "7dd8d185-c125-4d29-8877-777e5af004d5",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "561bf149-d22e-4c66-945f-816a818eecf9"
+        ]
+      },
+      {
+        "_version_": 1.8609795812221256e+18,
+        "author_sort": "Peiresc, Nicolas-Claude Fabri de, 1580-1637",
+        "cito_Catalog": "Peiresc, Nicolas-Claude Fabri de",
+        "dcterms_description": "20 Oct 1621: Peiresc, Nicolas-Claude Fabri de, 1580-1637 (Paris, Île-de-France, France) to Barclay (Madamoiselle), fl. 1621-1622 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000938457",
+        "dcterms_identifier-editi_": "editi_938457",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0f27466e-1c65-424e-92fc-fd222d88a803",
+        "dcterms_identifier-uuid_": "uuid_0f27466e-1c65-424e-92fc-fd222d88a803",
+        "dcterms_language": "French",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/61b98903-a17d-4400-aee1-7cb35631bb85"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a"
+        ],
+        "id": "uuid_0f27466e-1c65-424e-92fc-fd222d88a803",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/61b98903-a17d-4400-aee1-7cb35631bb85"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-07-22T16:44:52Z",
+        "ox_internalModified": "2015-07-22T16:44:52Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Peter N. Miller, 14 July 2015",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1621,
+        "people": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3d79acba-9761-4d28-83e0-00e64ce23eba"
+        ],
+        "recipient_sort": "Barclay (Madamoiselle), fl. 1621-1622",
+        "resources": [
+          "http://localhost/resource/3d79acba-9761-4d28-83e0-00e64ce23eba"
+        ],
+        "started_date_gregorian_sort": "1621-10-20T00:00:00Z",
+        "started_date_sort": "1621-10-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:49.886Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0f27466e-1c65-424e-92fc-fd222d88a803",
+        "uuid": "0f27466e-1c65-424e-92fc-fd222d88a803",
+        "uuid_related": [
+          "61b98903-a17d-4400-aee1-7cb35631bb85",
+          "ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "7dd8d185-c125-4d29-8877-777e5af004d5",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "3d79acba-9761-4d28-83e0-00e64ce23eba"
+        ]
+      },
+      {
+        "_version_": 1.8609795812221256e+18,
+        "author_sort": "Peiresc, Nicolas-Claude Fabri de, 1580-1637",
+        "cito_Catalog": "Peiresc, Nicolas-Claude Fabri de",
+        "dcterms_description": "14 Dec 1621: Peiresc, Nicolas-Claude Fabri de, 1580-1637 (Paris, Île-de-France, France) to Barclay (Madamoiselle), fl. 1621-1622 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000938458",
+        "dcterms_identifier-editi_": "editi_938458",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2115b0f1-27cf-4f80-ab32-0f447601e804",
+        "dcterms_identifier-uuid_": "uuid_2115b0f1-27cf-4f80-ab32-0f447601e804",
+        "dcterms_language": "French",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a1121c2f-953c-4d84-a281-bab058ed84ba"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a"
+        ],
+        "id": "uuid_2115b0f1-27cf-4f80-ab32-0f447601e804",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a1121c2f-953c-4d84-a281-bab058ed84ba"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-07-22T16:44:53Z",
+        "ox_internalModified": "2015-07-22T16:44:53Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Peter N. Miller, 14 July 2015",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1621,
+        "people": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c7097260-03d4-4834-9d57-28046628a6c7"
+        ],
+        "recipient_sort": "Barclay (Madamoiselle), fl. 1621-1622",
+        "resources": [
+          "http://localhost/resource/c7097260-03d4-4834-9d57-28046628a6c7"
+        ],
+        "started_date_gregorian_sort": "1621-12-14T00:00:00Z",
+        "started_date_sort": "1621-12-14T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:49.886Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2115b0f1-27cf-4f80-ab32-0f447601e804",
+        "uuid": "2115b0f1-27cf-4f80-ab32-0f447601e804",
+        "uuid_related": [
+          "a1121c2f-953c-4d84-a281-bab058ed84ba",
+          "ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "7dd8d185-c125-4d29-8877-777e5af004d5",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "c7097260-03d4-4834-9d57-28046628a6c7"
+        ]
+      },
+      {
+        "_version_": 1.8609795812221256e+18,
+        "author_sort": "Peiresc, Nicolas-Claude Fabri de, 1580-1637",
+        "cito_Catalog": "Peiresc, Nicolas-Claude Fabri de",
+        "dcterms_description": "6 Apr 1622: Peiresc, Nicolas-Claude Fabri de, 1580-1637 (Paris, Île-de-France, France) to Barclay (Madamoiselle), fl. 1621-1622 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000938459",
+        "dcterms_identifier-editi_": "editi_938459",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ef4fb4f9-4020-415d-b4f3-6c16e1702e3e",
+        "dcterms_identifier-uuid_": "uuid_ef4fb4f9-4020-415d-b4f3-6c16e1702e3e",
+        "dcterms_language": "French",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d2d9c427-1d17-4fbd-a1b8-78dbb373e93f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a"
+        ],
+        "id": "uuid_ef4fb4f9-4020-415d-b4f3-6c16e1702e3e",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d2d9c427-1d17-4fbd-a1b8-78dbb373e93f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-07-22T16:44:54Z",
+        "ox_internalModified": "2015-07-22T16:44:54Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Peter N. Miller, 14 July 2015",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1622,
+        "people": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c520b5c9-2613-48a9-b7d4-94e61ede8ad3"
+        ],
+        "recipient_sort": "Barclay (Madamoiselle), fl. 1621-1622",
+        "resources": [
+          "http://localhost/resource/c520b5c9-2613-48a9-b7d4-94e61ede8ad3"
+        ],
+        "started_date_gregorian_sort": "1622-04-06T00:00:00Z",
+        "started_date_sort": "1622-04-06T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:49.886Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ef4fb4f9-4020-415d-b4f3-6c16e1702e3e",
+        "uuid": "ef4fb4f9-4020-415d-b4f3-6c16e1702e3e",
+        "uuid_related": [
+          "d2d9c427-1d17-4fbd-a1b8-78dbb373e93f",
+          "ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "7dd8d185-c125-4d29-8877-777e5af004d5",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "c520b5c9-2613-48a9-b7d4-94e61ede8ad3"
+        ]
+      },
+      {
+        "_version_": 1.8609795812231741e+18,
+        "author_sort": "Peiresc, Nicolas-Claude Fabri de, 1580-1637",
+        "cito_Catalog": "Peiresc, Nicolas-Claude Fabri de",
+        "comments": [
+          "http://localhost/comment/1827ea20-a019-436a-bc52-ad04aaf841ca"
+        ],
+        "dcterms_description": "29 Apr 1622: Peiresc, Nicolas-Claude Fabri de, 1580-1637 (Paris, Île-de-France, France) to Barclay (Madamoiselle), fl. 1621-1622 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000938460",
+        "dcterms_identifier-editi_": "editi_938460",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d380a5fc-c15f-4b54-a7ea-5216a11a0eae",
+        "dcterms_identifier-uuid_": "uuid_d380a5fc-c15f-4b54-a7ea-5216a11a0eae",
+        "dcterms_language": "French",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/28e0dcf8-193e-4b22-9c17-ed9d55c2f09f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a"
+        ],
+        "id": "uuid_d380a5fc-c15f-4b54-a7ea-5216a11a0eae",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/28e0dcf8-193e-4b22-9c17-ed9d55c2f09f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/1827ea20-a019-436a-bc52-ad04aaf841ca"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-07-22T16:44:55Z",
+        "ox_internalModified": "2015-07-22T16:44:55Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Peter N. Miller, 14 July 2015",
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1622,
+        "people": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3bf0568f-a412-4789-9d84-43d51f5643f5"
+        ],
+        "recipient_sort": "Barclay (Madamoiselle), fl. 1621-1622",
+        "resources": [
+          "http://localhost/resource/3bf0568f-a412-4789-9d84-43d51f5643f5"
+        ],
+        "started_date_gregorian_sort": "1622-04-29T00:00:00Z",
+        "started_date_sort": "1622-04-29T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:49.886Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d380a5fc-c15f-4b54-a7ea-5216a11a0eae",
+        "uuid": "d380a5fc-c15f-4b54-a7ea-5216a11a0eae",
+        "uuid_related": [
+          "28e0dcf8-193e-4b22-9c17-ed9d55c2f09f",
+          "ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "7dd8d185-c125-4d29-8877-777e5af004d5",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "1827ea20-a019-436a-bc52-ad04aaf841ca",
+          "3bf0568f-a412-4789-9d84-43d51f5643f5"
+        ]
+      },
+      {
+        "_version_": 1.8609795812231741e+18,
+        "author_sort": "Peiresc, Nicolas-Claude Fabri de, 1580-1637",
+        "cito_Catalog": "Peiresc, Nicolas-Claude Fabri de",
+        "dcterms_description": "22 Dec 1622: Peiresc, Nicolas-Claude Fabri de, 1580-1637 (Paris, Île-de-France, France) to Barclay (Madamoiselle), fl. 1621-1622 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000938461",
+        "dcterms_identifier-editi_": "editi_938461",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6ccd2ed8-e116-44f8-bc88-1d8284950f4e",
+        "dcterms_identifier-uuid_": "uuid_6ccd2ed8-e116-44f8-bc88-1d8284950f4e",
+        "dcterms_language": "French",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/264dba65-61c4-45c6-92fa-71b63b77f42a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a"
+        ],
+        "id": "uuid_6ccd2ed8-e116-44f8-bc88-1d8284950f4e",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/264dba65-61c4-45c6-92fa-71b63b77f42a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-07-22T16:44:56Z",
+        "ox_internalModified": "2015-07-22T16:44:56Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Peter N. Miller, 14 July 2015",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1622,
+        "people": [
+          "http://localhost/person/ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "http://localhost/person/7dd8d185-c125-4d29-8877-777e5af004d5"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/faefd85a-0835-45c1-9a03-0ba2bc0bbb50"
+        ],
+        "recipient_sort": "Barclay (Madamoiselle), fl. 1621-1622",
+        "resources": [
+          "http://localhost/resource/faefd85a-0835-45c1-9a03-0ba2bc0bbb50"
+        ],
+        "started_date_gregorian_sort": "1622-12-22T00:00:00Z",
+        "started_date_sort": "1622-12-22T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:49.886Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6ccd2ed8-e116-44f8-bc88-1d8284950f4e",
+        "uuid": "6ccd2ed8-e116-44f8-bc88-1d8284950f4e",
+        "uuid_related": [
+          "264dba65-61c4-45c6-92fa-71b63b77f42a",
+          "ce211265-d899-4adc-be55-1d1c311e7b5a",
+          "7dd8d185-c125-4d29-8877-777e5af004d5",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "faefd85a-0835-45c1-9a03-0ba2bc0bbb50"
+        ]
+      },
+      {
+        "_version_": 1.860979516092973e+18,
+        "author_sort": "Groot, Hugo de, 1583-1645",
+        "cito_Catalog": "Groot, Hugo de",
+        "dcterms_description": "May 1624: Groot, Hugo de, 1583-1645 (Paris, Île-de-France, France) to Barclay-Debonnaire, Louise, 1585-1652 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000912442",
+        "dcterms_identifier-editi_": "editi_912442",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e6f0ac69-d9ac-4988-bf07-638a4431d24e",
+        "dcterms_identifier-uuid_": "uuid_e6f0ac69-d9ac-4988-bf07-638a4431d24e",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_creator-person": [
+          "http://localhost/person/a5690f39-f824-4ab0-84a1-f33645d665b8"
+        ],
+        "id": "uuid_e6f0ac69-d9ac-4988-bf07-638a4431d24e",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/dd4dc9c7-a470-4db3-a11e-addf6d3d5b3a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-06T15:53:15Z",
+        "ox_internalModified": "2014-11-06T15:53:15Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 6 November 2014",
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1624,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=groo001/0897A"
+        ],
+        "people": [
+          "http://localhost/person/a5690f39-f824-4ab0-84a1-f33645d665b8",
+          "http://localhost/person/dd4dc9c7-a470-4db3-a11e-addf6d3d5b3a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/95103fc1-3fef-4dc5-b44e-07e02b8902b1"
+        ],
+        "recipient_sort": "Barclay-Debonnaire, Louise, 1585-1652",
+        "resources": [
+          "http://localhost/resource/95103fc1-3fef-4dc5-b44e-07e02b8902b1"
+        ],
+        "started_date_gregorian_sort": "1624-05-31T00:00:00Z",
+        "started_date_sort": "1624-05-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:15.795Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e6f0ac69-d9ac-4988-bf07-638a4431d24e",
+        "uuid": "e6f0ac69-d9ac-4988-bf07-638a4431d24e",
+        "uuid_related": [
+          "a5690f39-f824-4ab0-84a1-f33645d665b8",
+          "dd4dc9c7-a470-4db3-a11e-addf6d3d5b3a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "95103fc1-3fef-4dc5-b44e-07e02b8902b1"
+        ]
+      },
+      {
+        "_version_": 1.8609794895503688e+18,
+        "author_sort": "Kircher, Athanasius, 1601-1680",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "3 Jun 1649: Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy) to Christina, Queen of Sweden, 1626-1689",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000900838",
+        "dcterms_identifier-editi_": "editi_900838",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8a2cd678-713d-4e7f-aa5a-166994f88329",
+        "dcterms_identifier-uuid_": "uuid_8a2cd678-713d-4e7f-aa5a-166994f88329",
+        "dcterms_language": "Latin",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/90888531-e749-4bfa-8418-6842cf822967"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "id": "uuid_8a2cd678-713d-4e7f-aa5a-166994f88329",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/90888531-e749-4bfa-8418-6842cf822967"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-11-04T11:17:42Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1649,
+        "people": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d",
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b865c0c9-00f1-4a5b-87f3-e30a8476e77a"
+        ],
+        "recipient_sort": "Christina, Queen of Sweden, 1626-1689",
+        "resources": [
+          "http://localhost/resource/b865c0c9-00f1-4a5b-87f3-e30a8476e77a"
+        ],
+        "started_date_gregorian_sort": "1649-06-03T00:00:00Z",
+        "started_date_sort": "1649-06-03T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:03.433Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8a2cd678-713d-4e7f-aa5a-166994f88329",
+        "uuid": "8a2cd678-713d-4e7f-aa5a-166994f88329",
+        "uuid_related": [
+          "90888531-e749-4bfa-8418-6842cf822967",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "c338c97b-db98-4c0a-b511-32aee4f59397",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "b865c0c9-00f1-4a5b-87f3-e30a8476e77a"
+        ]
+      },
+      {
+        "_version_": 1.8609794895503688e+18,
+        "author_sort": "Kircher, Athanasius, 1601-1680",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "11 Nov 1651: Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy) to Christina, Queen of Sweden, 1626-1689",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000900837",
+        "dcterms_identifier-editi_": "editi_900837",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ebc45bff-4352-467d-81cd-ac4a4653c145",
+        "dcterms_identifier-uuid_": "uuid_ebc45bff-4352-467d-81cd-ac4a4653c145",
+        "dcterms_language": "Latin",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0801bc95-f891-4a09-babe-2ac989f8349a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "id": "uuid_ebc45bff-4352-467d-81cd-ac4a4653c145",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0801bc95-f891-4a09-babe-2ac989f8349a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-11-04T11:17:41Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1651,
+        "people": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d",
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9638ff31-0ba0-44a0-8c7b-60f5ee3f2f20"
+        ],
+        "recipient_sort": "Christina, Queen of Sweden, 1626-1689",
+        "resources": [
+          "http://localhost/resource/9638ff31-0ba0-44a0-8c7b-60f5ee3f2f20"
+        ],
+        "started_date_gregorian_sort": "1651-11-11T00:00:00Z",
+        "started_date_sort": "1651-11-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:03.433Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ebc45bff-4352-467d-81cd-ac4a4653c145",
+        "uuid": "ebc45bff-4352-467d-81cd-ac4a4653c145",
+        "uuid_related": [
+          "0801bc95-f891-4a09-babe-2ac989f8349a",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "c338c97b-db98-4c0a-b511-32aee4f59397",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "9638ff31-0ba0-44a0-8c7b-60f5ee3f2f20"
+        ]
+      },
+      {
+        "_version_": 1.860979489567146e+18,
+        "author_sort": "Kircher, Athanasius, 1601-1680",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "20 Feb 1667: Kircher, Athanasius, 1601-1680 (Tusculum, Lazio, Italy) to Bernitz, Sophie Anna von",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000900876",
+        "dcterms_identifier-editi_": "editi_900876",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c54cfaf3-4875-4eb2-aafc-29ca4d692e4b",
+        "dcterms_identifier-uuid_": "uuid_c54cfaf3-4875-4eb2-aafc-29ca4d692e4b",
+        "dcterms_language": "Latin",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/47127bb0-9be7-4594-9d97-ac269c1dd928"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "id": "uuid_c54cfaf3-4875-4eb2-aafc-29ca4d692e4b",
+        "locations": [
+          "http://localhost/location/4cb65e33-a55e-4ea9-ba21-413723d8db2a"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/4cb65e33-a55e-4ea9-ba21-413723d8db2a"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/47127bb0-9be7-4594-9d97-ac269c1dd928"
+        ],
+        "object_type": "work",
+        "origin_sort": "Tusculum, Lazio, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-11-04T11:18:03Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1667,
+        "people": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d",
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/37d95818-cea9-4ed2-b402-3ae6f8e75289"
+        ],
+        "recipient_sort": "Bernitz, Sophie Anna von",
+        "resources": [
+          "http://localhost/resource/37d95818-cea9-4ed2-b402-3ae6f8e75289"
+        ],
+        "started_date_gregorian_sort": "1667-02-20T00:00:00Z",
+        "started_date_sort": "1667-02-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:03.433Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c54cfaf3-4875-4eb2-aafc-29ca4d692e4b",
+        "uuid": "c54cfaf3-4875-4eb2-aafc-29ca4d692e4b",
+        "uuid_related": [
+          "47127bb0-9be7-4594-9d97-ac269c1dd928",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "97a37859-a4ac-4c9a-b70a-899229792a52",
+          "4cb65e33-a55e-4ea9-ba21-413723d8db2a",
+          "37d95818-cea9-4ed2-b402-3ae6f8e75289"
+        ]
+      },
+      {
+        "_version_": 1.8609794895692431e+18,
+        "author_sort": "Kircher, Athanasius, 1601-1680",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "23 Mar 1667: Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy) to Puebla de los Angeles, nuns of",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000900879",
+        "dcterms_identifier-editi_": "editi_900879",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f4f0f413-4dfb-42b2-a019-0e7feb137129",
+        "dcterms_identifier-uuid_": "uuid_f4f0f413-4dfb-42b2-a019-0e7feb137129",
+        "dcterms_language": "Latin",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c4a18036-ae08-493d-96b6-734c9cef07a5"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "id": "uuid_f4f0f413-4dfb-42b2-a019-0e7feb137129",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/43b0ccf4-f7dd-4008-b296-9376fe60eba8"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c4a18036-ae08-493d-96b6-734c9cef07a5"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-11-04T11:18:07Z",
+        "ox_internalModified": "2023-12-04T17:39:05Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 23,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1667,
+        "people": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d",
+          "http://localhost/person/43b0ccf4-f7dd-4008-b296-9376fe60eba8"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/088aede3-fe8b-4a40-a5a8-dd7806ac32cb"
+        ],
+        "recipient_sort": "Puebla de los Angeles, nuns of",
+        "resources": [
+          "http://localhost/resource/088aede3-fe8b-4a40-a5a8-dd7806ac32cb"
+        ],
+        "started_date_gregorian_sort": "1667-03-23T00:00:00Z",
+        "started_date_sort": "1667-03-23T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:03.433Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f4f0f413-4dfb-42b2-a019-0e7feb137129",
+        "uuid": "f4f0f413-4dfb-42b2-a019-0e7feb137129",
+        "uuid_related": [
+          "c4a18036-ae08-493d-96b6-734c9cef07a5",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "43b0ccf4-f7dd-4008-b296-9376fe60eba8",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "088aede3-fe8b-4a40-a5a8-dd7806ac32cb"
+        ]
+      },
+      {
+        "_version_": 1.860979975070417e+18,
+        "author_sort": "Redi, Francesco, 1626-1697",
+        "cito_Catalog": "Steno, Nicolaus",
+        "dcterms_description": "11 Apr 1667: Redi, Francesco, 1626-1697 (Livorno, Tuscany, Italy) to Arnolfini, Lavinia, d.1631, fl. 1710 (Lucca, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001073691",
+        "dcterms_identifier-editi_": "editi_1073691",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ba698c06-3467-4431-a113-ba3235b68cea",
+        "dcterms_identifier-uuid_": "uuid_ba698c06-3467-4431-a113-ba3235b68cea",
+        "dcterms_references-person": [
+          "http://localhost/person/1bb84843-ed56-4bd2-9c8e-2b223e860cf8"
+        ],
+        "destination_sort": "Lucca, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b10c43ed-47b7-4f3b-af0b-30ca528c78b9",
+          "http://localhost/manifestation/556b405f-a254-418e-9aad-a9830260a88f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/e5b37eb9-2ca8-42d6-aacc-09443ea8a275"
+        ],
+        "id": "uuid_ba698c06-3467-4431-a113-ba3235b68cea",
+        "locations": [
+          "http://localhost/location/3744959b-e2e8-417d-b540-2e6dbab559d8",
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3744959b-e2e8-417d-b540-2e6dbab559d8"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/2d7d07f6-12ef-4baa-a45a-df522260bbbc"
+        ],
+        "manifestation-institution-place": [
+          "Biblioteca Marucelliana",
+          "Biblioteca Marucelliana di Firenze",
+          "Florence",
+          "Italy",
+          "Italia"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b10c43ed-47b7-4f3b-af0b-30ca528c78b9",
+          "http://localhost/manifestation/556b405f-a254-418e-9aad-a9830260a88f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Livorno, Tuscany, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-11-13T13:35:21Z",
+        "ox_internalModified": "2025-11-13T13:35:21Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Nuno Castel-Branco, 13 November 2025",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1667,
+        "people": [
+          "http://localhost/person/e5b37eb9-2ca8-42d6-aacc-09443ea8a275",
+          "http://localhost/person/2d7d07f6-12ef-4baa-a45a-df522260bbbc"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Arnolfini, Lavinia, d.1631, fl. 1710",
+        "started_date_gregorian_sort": "1667-04-11T00:00:00Z",
+        "started_date_sort": "1667-04-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:53.659Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ba698c06-3467-4431-a113-ba3235b68cea",
+        "uuid": "ba698c06-3467-4431-a113-ba3235b68cea",
+        "uuid_related": [
+          "b10c43ed-47b7-4f3b-af0b-30ca528c78b9",
+          "556b405f-a254-418e-9aad-a9830260a88f",
+          "e5b37eb9-2ca8-42d6-aacc-09443ea8a275",
+          "2d7d07f6-12ef-4baa-a45a-df522260bbbc",
+          "1bb84843-ed56-4bd2-9c8e-2b223e860cf8",
+          "3744959b-e2e8-417d-b540-2e6dbab559d8",
+          "f08c69af-282c-4a19-bf14-2d45fff33179"
+        ]
+      },
+      {
+        "_version_": 1.8609799751039713e+18,
+        "author_sort": "Steno, Nicolaus, 1638-1686",
+        "cito_Catalog": "Steno, Nicolaus",
+        "dcterms_description": "Jun 1668: Steno, Nicolaus, 1638-1686 (Florence, Tuscany, Italy) to Arnolfini, Lavinia, d.1631, fl. 1710 (Lucca, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001073746",
+        "dcterms_identifier-editi_": "editi_1073746",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/17af2ce0-677e-4e75-ac01-b0e757dd64b0",
+        "dcterms_identifier-uuid_": "uuid_17af2ce0-677e-4e75-ac01-b0e757dd64b0",
+        "destination_sort": "Lucca, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c4626e99-9596-46f4-a4fb-04671f5207b6",
+          "http://localhost/manifestation/d8fd3365-06fd-45cc-a8e0-555513d2ba6b",
+          "http://localhost/manifestation/4ba10dee-da9f-48c6-a70e-96c1c1d4ab60"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/1bb84843-ed56-4bd2-9c8e-2b223e860cf8"
+        ],
+        "id": "uuid_17af2ce0-677e-4e75-ac01-b0e757dd64b0",
+        "locations": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f",
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_origin-indef_uncertain": true,
+        "mail_origin-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/2d7d07f6-12ef-4baa-a45a-df522260bbbc"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c4626e99-9596-46f4-a4fb-04671f5207b6",
+          "http://localhost/manifestation/d8fd3365-06fd-45cc-a8e0-555513d2ba6b",
+          "http://localhost/manifestation/4ba10dee-da9f-48c6-a70e-96c1c1d4ab60"
+        ],
+        "object_type": "work",
+        "origin_sort": "Florence, Tuscany, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-11-13T13:35:34Z",
+        "ox_internalModified": "2025-11-17T08:49:03Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Nuno Castel-Branco, 13 November 2025",
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1668,
+        "people": [
+          "http://localhost/person/1bb84843-ed56-4bd2-9c8e-2b223e860cf8",
+          "http://localhost/person/2d7d07f6-12ef-4baa-a45a-df522260bbbc"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Arnolfini, Lavinia, d.1631, fl. 1710",
+        "started_date_gregorian_sort": "1668-06-30T00:00:00Z",
+        "started_date_sort": "1668-06-30T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:53.659Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/17af2ce0-677e-4e75-ac01-b0e757dd64b0",
+        "uuid": "17af2ce0-677e-4e75-ac01-b0e757dd64b0",
+        "uuid_related": [
+          "c4626e99-9596-46f4-a4fb-04671f5207b6",
+          "d8fd3365-06fd-45cc-a8e0-555513d2ba6b",
+          "4ba10dee-da9f-48c6-a70e-96c1c1d4ab60",
+          "1bb84843-ed56-4bd2-9c8e-2b223e860cf8",
+          "2d7d07f6-12ef-4baa-a45a-df522260bbbc",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f",
+          "f08c69af-282c-4a19-bf14-2d45fff33179"
+        ]
+      },
+      {
+        "_version_": 1.8609796252916777e+18,
+        "author_sort": "Dodington, John, 1628-1673",
+        "cito_Catalog": "Dodington, John",
+        "comments": [
+          "http://localhost/comment/637bf312-aeba-4185-a60e-8ea85e3a5664"
+        ],
+        "dcterms_abstract": "Order for a payment.",
+        "dcterms_description": "4 Apr 1672: Dodington, John, 1628-1673 (Venice, Veneto, Italy) to Dodington, Hester, d.1691",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000955784",
+        "dcterms_identifier-editi_": "editi_955784",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a29d3ebd-ff65-4a14-bbe4-9d6ed68f2624",
+        "dcterms_identifier-uuid_": "uuid_a29d3ebd-ff65-4a14-bbe4-9d6ed68f2624",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b45bd453-a183-4f66-8588-2c098a87fada"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/81233a2c-7f0a-466f-8634-bbfd1dbd1fd3"
+        ],
+        "id": "uuid_a29d3ebd-ff65-4a14-bbe4-9d6ed68f2624",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/f3c33476-8ff7-4c8e-962d-b08696596e49"
+        ],
+        "manifestation-institution-place": [
+          "Huntington Library",
+          "The Huntington",
+          "San Marino, CA",
+          "United States of America",
+          "USA"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b45bd453-a183-4f66-8588-2c098a87fada"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "4 April 1672",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2016-09-22T11:00:56Z",
+        "ox_internalModified": "2017-11-24T23:50:28Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/637bf312-aeba-4185-a60e-8ea85e3a5664"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Alexandre J. Tessier, 22 September 2016",
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1672,
+        "people": [
+          "http://localhost/person/81233a2c-7f0a-466f-8634-bbfd1dbd1fd3",
+          "http://localhost/person/f3c33476-8ff7-4c8e-962d-b08696596e49"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Dodington, Hester, d.1691",
+        "started_date_gregorian_sort": "1672-04-04T00:00:00Z",
+        "started_date_sort": "1672-04-04T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:13.591Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a29d3ebd-ff65-4a14-bbe4-9d6ed68f2624",
+        "uuid": "a29d3ebd-ff65-4a14-bbe4-9d6ed68f2624",
+        "uuid_related": [
+          "b45bd453-a183-4f66-8588-2c098a87fada",
+          "81233a2c-7f0a-466f-8634-bbfd1dbd1fd3",
+          "f3c33476-8ff7-4c8e-962d-b08696596e49",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "637bf312-aeba-4185-a60e-8ea85e3a5664"
+        ]
+      },
+      {
+        "_version_": 1.8609798259041894e+18,
+        "author_sort": "Malpighi, Marcello, 1628-1694",
+        "cito_Catalog": "Malpighi, Marcello",
+        "comments": [
+          "http://localhost/comment/c6e1e9aa-6bdc-435f-af58-4b5023626b7a"
+        ],
+        "dcterms_abstract": "Malpighi advises that if the present constitution of the weather continues the plain of Bologna would be a more suitable place than Meldola for the princess to spend the summer, and he lists a number of remedies she should use. [Howard B. Adelmann]",
+        "dcterms_description": "Jun 1686: Malpighi, Marcello, 1628-1694 (Ronchi di Corticella, Bologna, Italy) to Facchinetti Pamphilj, Violante, 1649-1716",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001026280",
+        "dcterms_identifier-editi_": "editi_1026280",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/39fc31e4-8833-40ac-9910-27f68591378f",
+        "dcterms_identifier-uuid_": "uuid_39fc31e4-8833-40ac-9910-27f68591378f",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/8f9c0e9b-504c-4627-a422-6a5b78f31033"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "id": "uuid_39fc31e4-8833-40ac-9910-27f68591378f",
+        "locations": [
+          "http://localhost/location/8078c7b2-47a6-43f2-8a81-ee20684029fc"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-indef_uncertain": true,
+        "mail_origin-location": [
+          "http://localhost/location/8078c7b2-47a6-43f2-8a81-ee20684029fc"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/5f2492c1-ac99-4099-b2f0-389f25cb14b2"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/8f9c0e9b-504c-4627-a422-6a5b78f31033"
+        ],
+        "object_type": "work",
+        "origin_sort": "Ronchi di Corticella, Bologna, Italy",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/c6e1e9aa-6bdc-435f-af58-4b5023626b7a"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-07-05T15:17:26Z",
+        "ox_internalModified": "2022-07-05T17:04:05Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata compiled from 'The Correspondence of Marcello Malpighi', ed. Howard B. Adelmann, 5 vols (Ithaca and London: Cornell University Press, 1975), 5 July 2022",
+        "ox_started-indef_inferred": true,
+        "ox_started-indef_uncertain": true,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1686,
+        "people": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df",
+          "http://localhost/person/5f2492c1-ac99-4099-b2f0-389f25cb14b2"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/3289472c-5906-4dcc-938e-48a3189afefd"
+        ],
+        "recipient_sort": "Facchinetti Pamphilj, Violante, 1649-1716",
+        "resources": [
+          "http://localhost/resource/3289472c-5906-4dcc-938e-48a3189afefd"
+        ],
+        "started_date_gregorian_sort": "1686-06-30T00:00:00Z",
+        "started_date_sort": "1686-06-30T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.287Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/39fc31e4-8833-40ac-9910-27f68591378f",
+        "uuid": "39fc31e4-8833-40ac-9910-27f68591378f",
+        "uuid_related": [
+          "8f9c0e9b-504c-4627-a422-6a5b78f31033",
+          "4426d685-6c1c-4324-901c-9cd1354292df",
+          "5f2492c1-ac99-4099-b2f0-389f25cb14b2",
+          "8078c7b2-47a6-43f2-8a81-ee20684029fc",
+          "c6e1e9aa-6bdc-435f-af58-4b5023626b7a",
+          "3289472c-5906-4dcc-938e-48a3189afefd"
+        ]
+      },
+      {
+        "_version_": 1.8609798261317304e+18,
+        "author_sort": "Malpighi, Marcello, 1628-1694",
+        "cito_Catalog": "Malpighi, Marcello",
+        "comments": [
+          "http://localhost/comment/9c3f3fdd-a1b3-412d-890d-d74549c1939d"
+        ],
+        "dcterms_abstract": "Malpighi gives his correspondent advice on her treatment. [Howard B. Adelmann]",
+        "dcterms_description": "Oct 1686: Malpighi, Marcello, 1628-1694 (Ronchi di Corticella, Bologna, Italy) to Tingoli, Maria Francesca, fl.  until 1712",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001026299",
+        "dcterms_identifier-editi_": "editi_1026299",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/77bfd80c-daa7-434d-9c1b-2b41708ace66",
+        "dcterms_identifier-uuid_": "uuid_77bfd80c-daa7-434d-9c1b-2b41708ace66",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/955b1d95-97a3-4564-8c49-cca102f10bdd"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "id": "uuid_77bfd80c-daa7-434d-9c1b-2b41708ace66",
+        "locations": [
+          "http://localhost/location/8078c7b2-47a6-43f2-8a81-ee20684029fc"
+        ],
+        "mail_addressees-indef_inferred": true,
+        "mail_origin-indef_inferred": true,
+        "mail_origin-indef_uncertain": true,
+        "mail_origin-location": [
+          "http://localhost/location/8078c7b2-47a6-43f2-8a81-ee20684029fc"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a759aad0-285a-4c39-8ce0-c60917d2cd44"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/955b1d95-97a3-4564-8c49-cca102f10bdd"
+        ],
+        "object_type": "work",
+        "origin_sort": "Ronchi di Corticella, Bologna, Italy",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/9c3f3fdd-a1b3-412d-890d-d74549c1939d"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-07-05T15:17:31Z",
+        "ox_internalModified": "2022-07-05T15:49:09Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata compiled from 'The Correspondence of Marcello Malpighi', ed. Howard B. Adelmann, 5 vols (Ithaca and London: Cornell University Press, 1975), 5 July 2022",
+        "ox_started-indef_inferred": true,
+        "ox_started-indef_uncertain": true,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1686,
+        "people": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df",
+          "http://localhost/person/a759aad0-285a-4c39-8ce0-c60917d2cd44"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9e1dfcfc-2d41-4737-b020-5f9546c4ff1a"
+        ],
+        "recipient_sort": "Tingoli, Maria Francesca, fl.  until 1712",
+        "resources": [
+          "http://localhost/resource/9e1dfcfc-2d41-4737-b020-5f9546c4ff1a"
+        ],
+        "started_date_gregorian_sort": "1686-10-31T00:00:00Z",
+        "started_date_sort": "1686-10-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.287Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/77bfd80c-daa7-434d-9c1b-2b41708ace66",
+        "uuid": "77bfd80c-daa7-434d-9c1b-2b41708ace66",
+        "uuid_related": [
+          "955b1d95-97a3-4564-8c49-cca102f10bdd",
+          "4426d685-6c1c-4324-901c-9cd1354292df",
+          "a759aad0-285a-4c39-8ce0-c60917d2cd44",
+          "8078c7b2-47a6-43f2-8a81-ee20684029fc",
+          "9c3f3fdd-a1b3-412d-890d-d74549c1939d",
+          "9e1dfcfc-2d41-4737-b020-5f9546c4ff1a"
+        ]
+      },
+      {
+        "_version_": 1.8609796079293563e+18,
+        "author_sort": "Bayle, Pierre, 1647-1706",
+        "cito_Catalog": "Bayle, Pierre",
+        "dcterms_description": "14 Nov 1686: Bayle, Pierre, 1647-1706 (Rotterdam, South Holland, Netherlands) to Christina, Queen of Sweden, 1626-1689 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000948489",
+        "dcterms_identifier-editi_": "editi_948489",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7776ffa5-7b15-42dc-b3ae-e514ae3c1488",
+        "dcterms_identifier-uuid_": "uuid_7776ffa5-7b15-42dc-b3ae-e514ae3c1488",
+        "dcterms_language": "French",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a5164b54-7c74-4365-bb85-df4510b730eb",
+          "http://localhost/manifestation/e6fa0ea8-d367-4a98-99fc-39eead0172eb",
+          "http://localhost/manifestation/d3ce32ee-df27-4ad2-ae3c-370885e46492",
+          "http://localhost/manifestation/638e1936-c0be-4e46-98d6-575303a76acf",
+          "http://localhost/manifestation/760f6c5f-71db-4d09-a49d-557019389220",
+          "http://localhost/manifestation/f6234970-cfcc-4bf6-94c9-a981352dfe38",
+          "http://localhost/manifestation/647d2a1c-700f-447b-909b-5c7ded55f4b8",
+          "http://localhost/manifestation/c177e1f0-22fd-4b91-9b8f-803fe9e3f2ec",
+          "http://localhost/manifestation/e5708fa6-f986-4a6d-a939-124ede37ba7a",
+          "http://localhost/manifestation/9591a470-5e0a-4812-a22b-7f5aac930ace",
+          "http://localhost/manifestation/49813222-3d93-40ef-8d6b-e80cd6b946a8"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/69457caf-f368-44e6-9fd0-ccb72419c489"
+        ],
+        "id": "uuid_7776ffa5-7b15-42dc-b3ae-e514ae3c1488",
+        "locations": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "manifestation-institution-place": [
+          "Bibliothèque municipale de Lyon",
+          "Bibliotheque municipale de Lyon\nBibliothèque de la Ville\nBML\nLa Bibliothèque municipale de Lyon",
+          "Lyon",
+          "France",
+          "British Library, Manuscript Collections",
+          "BL\nBritish Museum\nB.M.\nThe British Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a5164b54-7c74-4365-bb85-df4510b730eb",
+          "http://localhost/manifestation/e6fa0ea8-d367-4a98-99fc-39eead0172eb",
+          "http://localhost/manifestation/d3ce32ee-df27-4ad2-ae3c-370885e46492",
+          "http://localhost/manifestation/638e1936-c0be-4e46-98d6-575303a76acf",
+          "http://localhost/manifestation/760f6c5f-71db-4d09-a49d-557019389220",
+          "http://localhost/manifestation/f6234970-cfcc-4bf6-94c9-a981352dfe38",
+          "http://localhost/manifestation/647d2a1c-700f-447b-909b-5c7ded55f4b8",
+          "http://localhost/manifestation/c177e1f0-22fd-4b91-9b8f-803fe9e3f2ec",
+          "http://localhost/manifestation/e5708fa6-f986-4a6d-a939-124ede37ba7a",
+          "http://localhost/manifestation/9591a470-5e0a-4812-a22b-7f5aac930ace",
+          "http://localhost/manifestation/49813222-3d93-40ef-8d6b-e80cd6b946a8"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rotterdam, South Holland, Netherlands",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2016-04-09T23:20:08Z",
+        "ox_internalModified": "2022-10-09T21:40:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "'Correspondance de Pierre Bayle', ed. †E. Labrousse, Antony McKenna, et al., 15 vols (Oxford: Voltaire Foundation, 1999–2016), 9 April 2016",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1686,
+        "people": [
+          "http://localhost/person/69457caf-f368-44e6-9fd0-ccb72419c489",
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f9459f7b-54c6-4906-bd91-197fb6a301d8"
+        ],
+        "recipient_sort": "Christina, Queen of Sweden, 1626-1689",
+        "resources": [
+          "http://localhost/resource/f9459f7b-54c6-4906-bd91-197fb6a301d8"
+        ],
+        "started_date_gregorian_sort": "1686-11-14T00:00:00Z",
+        "started_date_sort": "1686-11-14T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:02.339Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7776ffa5-7b15-42dc-b3ae-e514ae3c1488",
+        "uuid": "7776ffa5-7b15-42dc-b3ae-e514ae3c1488",
+        "uuid_related": [
+          "a5164b54-7c74-4365-bb85-df4510b730eb",
+          "e6fa0ea8-d367-4a98-99fc-39eead0172eb",
+          "69457caf-f368-44e6-9fd0-ccb72419c489",
+          "c338c97b-db98-4c0a-b511-32aee4f59397",
+          "6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "f9459f7b-54c6-4906-bd91-197fb6a301d8",
+          "d3ce32ee-df27-4ad2-ae3c-370885e46492",
+          "638e1936-c0be-4e46-98d6-575303a76acf",
+          "760f6c5f-71db-4d09-a49d-557019389220",
+          "f6234970-cfcc-4bf6-94c9-a981352dfe38",
+          "647d2a1c-700f-447b-909b-5c7ded55f4b8",
+          "c177e1f0-22fd-4b91-9b8f-803fe9e3f2ec",
+          "e5708fa6-f986-4a6d-a939-124ede37ba7a",
+          "9591a470-5e0a-4812-a22b-7f5aac930ace",
+          "49813222-3d93-40ef-8d6b-e80cd6b946a8"
+        ]
+      },
+      {
+        "_version_": 1.860979591175209e+18,
+        "author_sort": "Vossius, Isaac, 1618-1689",
+        "cito_Catalog": "Vossius, Isaac",
+        "dcterms_abstract": "Review of Matthias Wasmuth's Annalium caeli & temporum restitutorum, sive Operis astro-chronologici cum novis tabulis motuum perpetuis & organo revolutionum armonico ab orgine mundi sciagraphia rerum & ordinis (1686).",
+        "dcterms_description": "1686: Vossius, Isaac, 1618-1689 to Christina, Queen of Sweden, 1626-1689 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000941786",
+        "dcterms_identifier-editi_": "editi_941786",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/aa92d663-243a-42ca-9b1e-760a1a4be5ec",
+        "dcterms_identifier-uuid_": "uuid_aa92d663-243a-42ca-9b1e-760a1a4be5ec",
+        "dcterms_language": "Latin",
+        "dcterms_references-person": [
+          "http://localhost/person/743724ec-b686-4f8a-a18b-9e2fb00c9080"
+        ],
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0663156a-b565-4999-98e4-85c16bfbd38b",
+          "http://localhost/manifestation/b7cc53bc-9e75-40ef-a0f1-682b756bd58a",
+          "http://localhost/manifestation/e4c44087-e595-49e4-85fe-cead801252ef"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "id": "uuid_aa92d663-243a-42ca-9b1e-760a1a4be5ec",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "manifestation-institution-place": [
+          "Universiteitsbibliotheek Leiden",
+          "Leiden University Library\nUniversiteitsbibliotheek, Leiden\nLeiden University Libraries\nBibliotheek der Rijksuniversiteit, Leiden",
+          "Leiden",
+          "Netherlands",
+          "Nederland\nHolland",
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland",
+          "Bodleian Library, University of Oxford",
+          "Bodl.\nBodl\nBOD.\nBodley\nBodleian Libraries",
+          "Oxford",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0663156a-b565-4999-98e4-85c16bfbd38b",
+          "http://localhost/manifestation/b7cc53bc-9e75-40ef-a0f1-682b756bd58a",
+          "http://localhost/manifestation/e4c44087-e595-49e4-85fe-cead801252ef"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Cum ante 15 abhinc annis",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-11-06T20:09:26Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Robin Buning, 6 November 2015",
+        "ox_started-ox_year": 1686,
+        "people": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Christina, Queen of Sweden, 1626-1689",
+        "started_date_gregorian_sort": "1686-12-31T00:00:00Z",
+        "started_date_sort": "1686-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:55.365Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/aa92d663-243a-42ca-9b1e-760a1a4be5ec",
+        "uuid": "aa92d663-243a-42ca-9b1e-760a1a4be5ec",
+        "uuid_related": [
+          "0663156a-b565-4999-98e4-85c16bfbd38b",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "c338c97b-db98-4c0a-b511-32aee4f59397",
+          "743724ec-b686-4f8a-a18b-9e2fb00c9080",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "b7cc53bc-9e75-40ef-a0f1-682b756bd58a",
+          "e4c44087-e595-49e4-85fe-cead801252ef"
+        ]
+      },
+      {
+        "_version_": 1.8609798264410604e+18,
+        "author_sort": "Malpighi, Marcello, 1628-1694",
+        "cito_Catalog": "Malpighi, Marcello",
+        "dcterms_abstract": "Malpighi advises Princess Bonelli on the management of her indispositions. [Howard B. Adelmann]",
+        "dcterms_description": "Feb 1689: Malpighi, Marcello, 1628-1694 (Bologna, Emilia-Romagna, Italy) to Bonelli, Flavia, d.1691",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001026448",
+        "dcterms_identifier-editi_": "editi_1026448",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2e0b9ddd-e397-4e1a-aceb-f8a3bb6fec82",
+        "dcterms_identifier-uuid_": "uuid_2e0b9ddd-e397-4e1a-aceb-f8a3bb6fec82",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/232415da-157c-43db-88a3-ccd86cd187cc"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "id": "uuid_2e0b9ddd-e397-4e1a-aceb-f8a3bb6fec82",
+        "locations": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5"
+        ],
+        "mail_origin-indef_inferred": true,
+        "mail_origin-location": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/57f62df8-f10d-4c3b-ac39-93bd50b8e0bd"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/232415da-157c-43db-88a3-ccd86cd187cc"
+        ],
+        "object_type": "work",
+        "origin_sort": "Bologna, Emilia-Romagna, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-08-08T11:54:14Z",
+        "ox_internalModified": "2022-08-08T11:54:14Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata compiled from 'The Correspondence of Marcello Malpighi', ed. Howard B. Adelmann, 5 vols (Ithaca and London: Cornell University Press, 1975), 8 August 2022",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1689,
+        "people": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df",
+          "http://localhost/person/57f62df8-f10d-4c3b-ac39-93bd50b8e0bd"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/ac607117-e399-4904-9cef-f11497a821a3"
+        ],
+        "recipient_sort": "Bonelli, Flavia, d.1691",
+        "resources": [
+          "http://localhost/resource/ac607117-e399-4904-9cef-f11497a821a3"
+        ],
+        "started_date_gregorian_sort": "1689-02-28T00:00:00Z",
+        "started_date_sort": "1689-02-28T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.287Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2e0b9ddd-e397-4e1a-aceb-f8a3bb6fec82",
+        "uuid": "2e0b9ddd-e397-4e1a-aceb-f8a3bb6fec82",
+        "uuid_related": [
+          "232415da-157c-43db-88a3-ccd86cd187cc",
+          "4426d685-6c1c-4324-901c-9cd1354292df",
+          "57f62df8-f10d-4c3b-ac39-93bd50b8e0bd",
+          "754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "ac607117-e399-4904-9cef-f11497a821a3"
+        ]
+      },
+      {
+        "_version_": 1.8609799198083645e+18,
+        "author_sort": "Redi, Francesco, 1626-1697",
+        "cito_Catalog": "Redi, Francesco",
+        "dcterms_description": "1683 to 1689: Redi, Francesco, 1626-1697 (Florence, Tuscany, Italy) to Christina, Queen of Sweden, 1626-1689 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056363",
+        "dcterms_identifier-editi_": "editi_1056363",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/aa3403df-7039-47af-a07a-212c06b4bf0b",
+        "dcterms_identifier-uuid_": "uuid_aa3403df-7039-47af-a07a-212c06b4bf0b",
+        "dcterms_language": "Italian",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7be1fe81-6fd5-493a-8dc8-613fc3c9840b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/e5b37eb9-2ca8-42d6-aacc-09443ea8a275"
+        ],
+        "id": "uuid_aa3403df-7039-47af-a07a-212c06b4bf0b",
+        "locations": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-rdf_value": "Roma",
+        "mail_origin-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-rdf_value": "firenze",
+        "mail_recipient-person": [
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "manifestation-institution-place": [
+          "National Library of Medicine",
+          "NLM, Bethesda, Maryland",
+          "Bethesda",
+          "United States of America"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7be1fe81-6fd5-493a-8dc8-613fc3c9840b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Florence, Tuscany, Italy",
+        "ox_completed-ox_year": 1689,
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-09-06T18:40:43Z",
+        "ox_internalModified": "2024-09-06T18:40:43Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, 6 September 2024",
+        "ox_started-indef_approximate": true,
+        "ox_started-ox_year": 1683,
+        "people": [
+          "http://localhost/person/e5b37eb9-2ca8-42d6-aacc-09443ea8a275",
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/90f89937-f0e3-4afb-8133-3dc866b9771f"
+        ],
+        "recipient_sort": "Christina, Queen of Sweden, 1626-1689",
+        "resources": [
+          "http://localhost/resource/90f89937-f0e3-4afb-8133-3dc866b9771f"
+        ],
+        "started_date_gregorian_sort": "1689-12-31T00:00:00Z",
+        "started_date_sort": "1689-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/aa3403df-7039-47af-a07a-212c06b4bf0b",
+        "uuid": "aa3403df-7039-47af-a07a-212c06b4bf0b",
+        "uuid_related": [
+          "7be1fe81-6fd5-493a-8dc8-613fc3c9840b",
+          "e5b37eb9-2ca8-42d6-aacc-09443ea8a275",
+          "c338c97b-db98-4c0a-b511-32aee4f59397",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "90f89937-f0e3-4afb-8133-3dc866b9771f"
+        ]
+      }
+    ],
+    "numFound": 28,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 1,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1600-01-01T00:00:00Z TO 1699-12-31T23:59:59Z] AND person-author-gender:(male) AND person-recipient-gender:(female) AND (location-origin:(italy) OR location-destination:(italy) OR location-mentioned:(italy))",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
