@@ -1,0 +1,1230 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Catherine II of Russia",
+        15, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0, "Arias Montano, Benito",
+        0, "Artists' Letters. Rome and Europe 1750–1850",
+        0],
+      "destination_sort": [
+        "Paris, Île-de-France, France",
+        15, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0, "Abergavenny, Monmouthshire, Wales",
+        0, "Abingdon Street, Westminster, London, England, United Kingdom",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+        15, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0, "http://localhost/person/00086f8c-d6b0-4807-b6a0-e5c10137ae1d",
+        0, "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+        0, "http://localhost/person/000e0be1-7955-4cb3-a8c5-b2955f734f70",
+        0, "http://localhost/person/000e9fda-37e1-4fe4-8dfb-0c200a22ae4c",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a",
+        15, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0, "http://localhost/person/001f0d96-5aac-4de4-a2ec-ec0c97824640",
+        0, "http://localhost/person/001fc99e-9ea5-4de6-aa02-fb04be137877",
+        0, "http://localhost/person/002b6bb0-ed3b-4d33-b302-27d893c50b3b",
+        0, "http://localhost/person/002b6db0-3d93-4ec1-b3b5-1ad8467602a9",
+        0, "http://localhost/person/0031ef2b-30c0-4650-b2c9-ad2a849da419",
+        0, "http://localhost/person/003428b3-27e1-4798-8a40-df0f4768096f",
+        0, "http://localhost/person/0037f13b-5dd2-4785-82f7-2121c1a28f5d",
+        0, "http://localhost/person/003d6fc4-b57c-450f-ab05-dc22ef33913d",
+        0],
+      "origin_sort": [
+        "St Petersburg, Sankt-Peterburg, Russia",
+        4, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Aalter, Flanders, Belgium",
+        0, "Aardenburg, Zeeland, Netherlands",
+        0, "Aarschot, Flanders, Belgium",
+        0],
+      "ox_started-ox_year": [
+        "1765",
+        6, "1763",
+        3, "1766",
+        3, "1764",
+        2, "1768",
+        1, "1475",
+        0, "1484",
+        0, "1487",
+        0, "1488",
+        0, "1489",
+        0]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_03067eee-8f9f-4fdd-ae72-bd00ac2af3da": {
+
+    },
+    "uuid_062fd5e7-62af-4e36-9d40-d5707187f9c5": {
+
+    },
+    "uuid_142967d6-92e5-42de-870d-32ddf315ffad": {
+
+    },
+    "uuid_29193b9a-21fb-4d94-9e45-0b701a6a24b3": {
+
+    },
+    "uuid_420e1440-ad05-4457-93f4-8f67c8b28359": {
+
+    },
+    "uuid_51e3f129-df55-42e6-b70f-55886d0eaca5": {
+
+    },
+    "uuid_54906610-ada7-4e1e-99cb-92f6d3104722": {
+
+    },
+    "uuid_5dc6c8f6-0522-4a47-9777-c7a9f8195d58": {
+
+    },
+    "uuid_778469ac-bb73-42c0-804f-4e976e7a9d7b": {
+
+    },
+    "uuid_789ff643-b00d-4279-becb-efb5b14d88d3": {
+
+    },
+    "uuid_8f9d68c8-fb78-44d0-90ae-3b57914c6a90": {
+
+    },
+    "uuid_a567b957-f161-4b00-a9f7-3effceeb627d": {
+
+    },
+    "uuid_c7993fcf-1fc4-45a2-969a-d01a404e9642": {
+
+    },
+    "uuid_ee659c02-ab28-4afb-bbd2-29e2dcd7b353": {
+
+    },
+    "uuid_f1e49248-a17d-41e0-b99f-b21e75a0ca1b": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.860979818082861e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/e18aed04-55ec-47f5-8063-eac2c089b360"
+        ],
+        "dcterms_description": "1 Jan 1763 to 31 Dec 1763: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023824",
+        "dcterms_identifier-editi_": "editi_1023824",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/778469ac-bb73-42c0-804f-4e976e7a9d7b",
+        "dcterms_identifier-uuid_": "uuid_778469ac-bb73-42c0-804f-4e976e7a9d7b",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_778469ac-bb73-42c0-804f-4e976e7a9d7b",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_completed-ox_day": 31,
+        "ox_completed-ox_month": 12,
+        "ox_completed-ox_year": 1763,
+        "ox_dateIsRange": true,
+        "ox_incipit": "Le cher général dira à Mad. Geoffrin que persone ne vouloit plus",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:29Z",
+        "ox_internalModified": "2022-04-04T19:14:29Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/e18aed04-55ec-47f5-8063-eac2c089b360"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-indef_approximate": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1763,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/ea6ce609-14a8-4b42-9b45-c80fbcc1bb81"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/ea6ce609-14a8-4b42-9b45-c80fbcc1bb81"
+        ],
+        "started_date_gregorian_sort": "1764-01-11T00:00:00Z",
+        "started_date_sort": "1763-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/778469ac-bb73-42c0-804f-4e976e7a9d7b",
+        "uuid": "778469ac-bb73-42c0-804f-4e976e7a9d7b",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "e18aed04-55ec-47f5-8063-eac2c089b360",
+          "ea6ce609-14a8-4b42-9b45-c80fbcc1bb81"
+        ]
+      },
+      {
+        "_version_": 1.860979818082861e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/814c5f8c-af27-443a-812d-62e66f722cd0"
+        ],
+        "dcterms_description": "1 Jan 1763 to 31 Dec 1763: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023825",
+        "dcterms_identifier-editi_": "editi_1023825",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/29193b9a-21fb-4d94-9e45-0b701a6a24b3",
+        "dcterms_identifier-uuid_": "uuid_29193b9a-21fb-4d94-9e45-0b701a6a24b3",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_29193b9a-21fb-4d94-9e45-0b701a6a24b3",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_completed-ox_day": 31,
+        "ox_completed-ox_month": 12,
+        "ox_completed-ox_year": 1763,
+        "ox_dateIsRange": true,
+        "ox_incipit": "Levés Vous Madame, je n’aime point les prosternations",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:29Z",
+        "ox_internalModified": "2022-04-04T19:14:29Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/814c5f8c-af27-443a-812d-62e66f722cd0"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-indef_approximate": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1763,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d1e8b460-ce09-4117-8151-4f6268771d35"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/d1e8b460-ce09-4117-8151-4f6268771d35"
+        ],
+        "started_date_gregorian_sort": "1764-01-11T00:00:00Z",
+        "started_date_sort": "1763-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/29193b9a-21fb-4d94-9e45-0b701a6a24b3",
+        "uuid": "29193b9a-21fb-4d94-9e45-0b701a6a24b3",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "814c5f8c-af27-443a-812d-62e66f722cd0",
+          "d1e8b460-ce09-4117-8151-4f6268771d35"
+        ]
+      },
+      {
+        "_version_": 1.860979818082861e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/67e00bbe-b88f-4925-be81-fb8aedea232c"
+        ],
+        "dcterms_description": "1 Jan 1763 to 31 Dec 1763: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023826",
+        "dcterms_identifier-editi_": "editi_1023826",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f1e49248-a17d-41e0-b99f-b21e75a0ca1b",
+        "dcterms_identifier-uuid_": "uuid_f1e49248-a17d-41e0-b99f-b21e75a0ca1b",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_f1e49248-a17d-41e0-b99f-b21e75a0ca1b",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_completed-ox_day": 31,
+        "ox_completed-ox_month": 12,
+        "ox_completed-ox_year": 1763,
+        "ox_dateIsRange": true,
+        "ox_incipit": "Ne grondés pas, ne grondés pas injustement",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:29Z",
+        "ox_internalModified": "2022-04-04T19:14:29Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/67e00bbe-b88f-4925-be81-fb8aedea232c"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-indef_approximate": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1763,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/82d8a269-bf31-4f5c-ae81-543c3c77b98a"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/82d8a269-bf31-4f5c-ae81-543c3c77b98a"
+        ],
+        "started_date_gregorian_sort": "1764-01-11T00:00:00Z",
+        "started_date_sort": "1763-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f1e49248-a17d-41e0-b99f-b21e75a0ca1b",
+        "uuid": "f1e49248-a17d-41e0-b99f-b21e75a0ca1b",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "67e00bbe-b88f-4925-be81-fb8aedea232c",
+          "82d8a269-bf31-4f5c-ae81-543c3c77b98a"
+        ]
+      },
+      {
+        "_version_": 1.8609798180839096e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/720b4517-90e2-4710-8951-35f26bc6e9d3"
+        ],
+        "dcterms_description": "1 Oct 1764: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023827",
+        "dcterms_identifier-editi_": "editi_1023827",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/142967d6-92e5-42de-870d-32ddf315ffad",
+        "dcterms_identifier-uuid_": "uuid_142967d6-92e5-42de-870d-32ddf315ffad",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_142967d6-92e5-42de-870d-32ddf315ffad",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:29Z",
+        "ox_internalModified": "2022-04-04T19:14:29Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/720b4517-90e2-4710-8951-35f26bc6e9d3"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1764,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/ad5c87dc-a444-4c8e-aa51-c705512e84ea"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/ad5c87dc-a444-4c8e-aa51-c705512e84ea"
+        ],
+        "started_date_gregorian_sort": "1764-10-12T00:00:00Z",
+        "started_date_sort": "1764-10-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/142967d6-92e5-42de-870d-32ddf315ffad",
+        "uuid": "142967d6-92e5-42de-870d-32ddf315ffad",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "720b4517-90e2-4710-8951-35f26bc6e9d3",
+          "ad5c87dc-a444-4c8e-aa51-c705512e84ea"
+        ]
+      },
+      {
+        "_version_": 1.8609798180839096e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/2255fd13-d436-4852-a289-4538e71afcb3"
+        ],
+        "dcterms_description": "6 Nov 1764: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023828",
+        "dcterms_identifier-editi_": "editi_1023828",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/420e1440-ad05-4457-93f4-8f67c8b28359",
+        "dcterms_identifier-uuid_": "uuid_420e1440-ad05-4457-93f4-8f67c8b28359",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_420e1440-ad05-4457-93f4-8f67c8b28359",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:29Z",
+        "ox_internalModified": "2022-04-04T19:14:29Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/2255fd13-d436-4852-a289-4538e71afcb3"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1764,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/5c2c69d9-8129-45ca-9383-f1f45b4302b1"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/5c2c69d9-8129-45ca-9383-f1f45b4302b1"
+        ],
+        "started_date_gregorian_sort": "1764-11-17T00:00:00Z",
+        "started_date_sort": "1764-11-06T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/420e1440-ad05-4457-93f4-8f67c8b28359",
+        "uuid": "420e1440-ad05-4457-93f4-8f67c8b28359",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "2255fd13-d436-4852-a289-4538e71afcb3",
+          "5c2c69d9-8129-45ca-9383-f1f45b4302b1"
+        ]
+      },
+      {
+        "_version_": 1.8609798180849582e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/cd34bdaa-616d-4cb7-80c0-d85568a0cb5d"
+        ],
+        "dcterms_description": "11 Jan 1765: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023829",
+        "dcterms_identifier-editi_": "editi_1023829",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a567b957-f161-4b00-a9f7-3effceeb627d",
+        "dcterms_identifier-uuid_": "uuid_a567b957-f161-4b00-a9f7-3effceeb627d",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_a567b957-f161-4b00-a9f7-3effceeb627d",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:30Z",
+        "ox_internalModified": "2022-04-04T19:14:30Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/cd34bdaa-616d-4cb7-80c0-d85568a0cb5d"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1765,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/81ad4852-edf0-4685-8549-981ef1bdb0e3"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/81ad4852-edf0-4685-8549-981ef1bdb0e3"
+        ],
+        "started_date_gregorian_sort": "1765-01-22T00:00:00Z",
+        "started_date_sort": "1765-01-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a567b957-f161-4b00-a9f7-3effceeb627d",
+        "uuid": "a567b957-f161-4b00-a9f7-3effceeb627d",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "cd34bdaa-616d-4cb7-80c0-d85568a0cb5d",
+          "81ad4852-edf0-4685-8549-981ef1bdb0e3"
+        ]
+      },
+      {
+        "_version_": 1.8609798180849582e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/916b362b-ade7-4d31-b05a-7084b571be05"
+        ],
+        "dcterms_description": "20 Feb 1765: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023830",
+        "dcterms_identifier-editi_": "editi_1023830",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/54906610-ada7-4e1e-99cb-92f6d3104722",
+        "dcterms_identifier-uuid_": "uuid_54906610-ada7-4e1e-99cb-92f6d3104722",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_54906610-ada7-4e1e-99cb-92f6d3104722",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:30Z",
+        "ox_internalModified": "2022-04-04T19:14:30Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/916b362b-ade7-4d31-b05a-7084b571be05"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1765,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b3bbfc71-e34f-4e17-8281-9c7d7f3d2c6d"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/b3bbfc71-e34f-4e17-8281-9c7d7f3d2c6d"
+        ],
+        "started_date_gregorian_sort": "1765-03-03T00:00:00Z",
+        "started_date_sort": "1765-02-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/54906610-ada7-4e1e-99cb-92f6d3104722",
+        "uuid": "54906610-ada7-4e1e-99cb-92f6d3104722",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "916b362b-ade7-4d31-b05a-7084b571be05",
+          "b3bbfc71-e34f-4e17-8281-9c7d7f3d2c6d"
+        ]
+      },
+      {
+        "_version_": 1.8609798180860068e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/edc67944-1ab9-41e1-be0c-e4d92c82910b"
+        ],
+        "dcterms_description": "28 Mar 1765: Catherine II of Russia (Empress), 1729-1796 (St Petersburg, Sankt-Peterburg, Russia) to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023831",
+        "dcterms_identifier-editi_": "editi_1023831",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/062fd5e7-62af-4e36-9d40-d5707187f9c5",
+        "dcterms_identifier-uuid_": "uuid_062fd5e7-62af-4e36-9d40-d5707187f9c5",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_062fd5e7-62af-4e36-9d40-d5707187f9c5",
+        "locations": [
+          "http://localhost/location/724a8a54-5982-49cd-a4f5-8f149017f44d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/724a8a54-5982-49cd-a4f5-8f149017f44d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "origin_sort": "St Petersburg, Sankt-Peterburg, Russia",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:30Z",
+        "ox_internalModified": "2022-04-04T19:14:30Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/edc67944-1ab9-41e1-be0c-e4d92c82910b"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 28,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1765,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b47cc4aa-d027-4449-8f47-b8796dc97b3b"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/b47cc4aa-d027-4449-8f47-b8796dc97b3b"
+        ],
+        "started_date_gregorian_sort": "1765-04-08T00:00:00Z",
+        "started_date_sort": "1765-03-28T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/062fd5e7-62af-4e36-9d40-d5707187f9c5",
+        "uuid": "062fd5e7-62af-4e36-9d40-d5707187f9c5",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "724a8a54-5982-49cd-a4f5-8f149017f44d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "edc67944-1ab9-41e1-be0c-e4d92c82910b",
+          "b47cc4aa-d027-4449-8f47-b8796dc97b3b"
+        ]
+      },
+      {
+        "_version_": 1.8609798180860068e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/d728ecd9-bbcb-4859-be9b-a2aa74c1911f"
+        ],
+        "dcterms_description": "17 May 1765: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023832",
+        "dcterms_identifier-editi_": "editi_1023832",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8f9d68c8-fb78-44d0-90ae-3b57914c6a90",
+        "dcterms_identifier-uuid_": "uuid_8f9d68c8-fb78-44d0-90ae-3b57914c6a90",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_8f9d68c8-fb78-44d0-90ae-3b57914c6a90",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:30Z",
+        "ox_internalModified": "2022-04-04T19:14:30Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/d728ecd9-bbcb-4859-be9b-a2aa74c1911f"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1765,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/90d987d6-e349-41ab-a08a-0f90a49db13f"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/90d987d6-e349-41ab-a08a-0f90a49db13f"
+        ],
+        "started_date_gregorian_sort": "1765-05-28T00:00:00Z",
+        "started_date_sort": "1765-05-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8f9d68c8-fb78-44d0-90ae-3b57914c6a90",
+        "uuid": "8f9d68c8-fb78-44d0-90ae-3b57914c6a90",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "d728ecd9-bbcb-4859-be9b-a2aa74c1911f",
+          "90d987d6-e349-41ab-a08a-0f90a49db13f"
+        ]
+      },
+      {
+        "_version_": 1.8609798180870554e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/ad705e7b-535c-4c33-9de0-9894aa7cfa8f"
+        ],
+        "dcterms_description": "18 Jun 1765: Catherine II of Russia (Empress), 1729-1796 (St Petersburg, Sankt-Peterburg, Russia) to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023833",
+        "dcterms_identifier-editi_": "editi_1023833",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c7993fcf-1fc4-45a2-969a-d01a404e9642",
+        "dcterms_identifier-uuid_": "uuid_c7993fcf-1fc4-45a2-969a-d01a404e9642",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_c7993fcf-1fc4-45a2-969a-d01a404e9642",
+        "locations": [
+          "http://localhost/location/724a8a54-5982-49cd-a4f5-8f149017f44d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/724a8a54-5982-49cd-a4f5-8f149017f44d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "origin_sort": "St Petersburg, Sankt-Peterburg, Russia",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:30Z",
+        "ox_internalModified": "2022-04-04T19:14:30Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/ad705e7b-535c-4c33-9de0-9894aa7cfa8f"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 18,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1765,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4cf78174-ac6e-4f86-9bcb-5044b2bf0b79"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/4cf78174-ac6e-4f86-9bcb-5044b2bf0b79"
+        ],
+        "started_date_gregorian_sort": "1765-06-29T00:00:00Z",
+        "started_date_sort": "1765-06-18T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c7993fcf-1fc4-45a2-969a-d01a404e9642",
+        "uuid": "c7993fcf-1fc4-45a2-969a-d01a404e9642",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "724a8a54-5982-49cd-a4f5-8f149017f44d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "ad705e7b-535c-4c33-9de0-9894aa7cfa8f",
+          "4cf78174-ac6e-4f86-9bcb-5044b2bf0b79"
+        ]
+      },
+      {
+        "_version_": 1.8609798180870554e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/06052900-e061-49ef-ac72-d0dbe8c79f27"
+        ],
+        "dcterms_description": "16 Oct 1765: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023834",
+        "dcterms_identifier-editi_": "editi_1023834",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/51e3f129-df55-42e6-b70f-55886d0eaca5",
+        "dcterms_identifier-uuid_": "uuid_51e3f129-df55-42e6-b70f-55886d0eaca5",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_51e3f129-df55-42e6-b70f-55886d0eaca5",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:31Z",
+        "ox_internalModified": "2022-04-04T19:14:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/06052900-e061-49ef-ac72-d0dbe8c79f27"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 16,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1765,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/086289ef-18b2-4f02-86c9-904a043b4173"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/086289ef-18b2-4f02-86c9-904a043b4173"
+        ],
+        "started_date_gregorian_sort": "1765-10-27T00:00:00Z",
+        "started_date_sort": "1765-10-16T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/51e3f129-df55-42e6-b70f-55886d0eaca5",
+        "uuid": "51e3f129-df55-42e6-b70f-55886d0eaca5",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "06052900-e061-49ef-ac72-d0dbe8c79f27",
+          "086289ef-18b2-4f02-86c9-904a043b4173"
+        ]
+      },
+      {
+        "_version_": 1.8609798180870554e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/44bdc28e-264d-49bc-a089-8928cf95bc5e"
+        ],
+        "dcterms_description": "15 Jan 1766: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023835",
+        "dcterms_identifier-editi_": "editi_1023835",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/5dc6c8f6-0522-4a47-9777-c7a9f8195d58",
+        "dcterms_identifier-uuid_": "uuid_5dc6c8f6-0522-4a47-9777-c7a9f8195d58",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_5dc6c8f6-0522-4a47-9777-c7a9f8195d58",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:31Z",
+        "ox_internalModified": "2022-04-04T19:14:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/44bdc28e-264d-49bc-a089-8928cf95bc5e"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1766,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/04c7a54f-1500-4deb-ab67-a97c404e78c7"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/04c7a54f-1500-4deb-ab67-a97c404e78c7"
+        ],
+        "started_date_gregorian_sort": "1766-01-26T00:00:00Z",
+        "started_date_sort": "1766-01-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/5dc6c8f6-0522-4a47-9777-c7a9f8195d58",
+        "uuid": "5dc6c8f6-0522-4a47-9777-c7a9f8195d58",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "44bdc28e-264d-49bc-a089-8928cf95bc5e",
+          "04c7a54f-1500-4deb-ab67-a97c404e78c7"
+        ]
+      },
+      {
+        "_version_": 1.860979818088104e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/be58c690-c26f-4100-bd26-8d8d9e05cdd0"
+        ],
+        "dcterms_description": "6 Apr 1766: Catherine II of Russia (Empress), 1729-1796 (St Petersburg, Sankt-Peterburg, Russia) to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023836",
+        "dcterms_identifier-editi_": "editi_1023836",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ee659c02-ab28-4afb-bbd2-29e2dcd7b353",
+        "dcterms_identifier-uuid_": "uuid_ee659c02-ab28-4afb-bbd2-29e2dcd7b353",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_ee659c02-ab28-4afb-bbd2-29e2dcd7b353",
+        "locations": [
+          "http://localhost/location/724a8a54-5982-49cd-a4f5-8f149017f44d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/724a8a54-5982-49cd-a4f5-8f149017f44d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "origin_sort": "St Petersburg, Sankt-Peterburg, Russia",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:31Z",
+        "ox_internalModified": "2022-04-04T19:14:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/be58c690-c26f-4100-bd26-8d8d9e05cdd0"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1766,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/875683db-f2ae-44bf-b7fc-d84436d778c8"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/875683db-f2ae-44bf-b7fc-d84436d778c8"
+        ],
+        "started_date_gregorian_sort": "1766-04-17T00:00:00Z",
+        "started_date_sort": "1766-04-06T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ee659c02-ab28-4afb-bbd2-29e2dcd7b353",
+        "uuid": "ee659c02-ab28-4afb-bbd2-29e2dcd7b353",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "724a8a54-5982-49cd-a4f5-8f149017f44d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "be58c690-c26f-4100-bd26-8d8d9e05cdd0",
+          "875683db-f2ae-44bf-b7fc-d84436d778c8"
+        ]
+      },
+      {
+        "_version_": 1.860979818088104e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/f858ced3-9441-45ba-96de-6495f9479cd0"
+        ],
+        "dcterms_description": "21 Oct 1766: Catherine II of Russia (Empress), 1729-1796 (St Petersburg, Sankt-Peterburg, Russia) to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023837",
+        "dcterms_identifier-editi_": "editi_1023837",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/789ff643-b00d-4279-becb-efb5b14d88d3",
+        "dcterms_identifier-uuid_": "uuid_789ff643-b00d-4279-becb-efb5b14d88d3",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_789ff643-b00d-4279-becb-efb5b14d88d3",
+        "locations": [
+          "http://localhost/location/724a8a54-5982-49cd-a4f5-8f149017f44d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/724a8a54-5982-49cd-a4f5-8f149017f44d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "origin_sort": "St Petersburg, Sankt-Peterburg, Russia",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:31Z",
+        "ox_internalModified": "2022-04-04T19:14:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/f858ced3-9441-45ba-96de-6495f9479cd0"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-ox_day": 21,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1766,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/5f856f74-7af1-4579-8db1-7ddcefdc86e1"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/5f856f74-7af1-4579-8db1-7ddcefdc86e1"
+        ],
+        "started_date_gregorian_sort": "1766-11-01T00:00:00Z",
+        "started_date_sort": "1766-10-21T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/789ff643-b00d-4279-becb-efb5b14d88d3",
+        "uuid": "789ff643-b00d-4279-becb-efb5b14d88d3",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "724a8a54-5982-49cd-a4f5-8f149017f44d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "f858ced3-9441-45ba-96de-6495f9479cd0",
+          "5f856f74-7af1-4579-8db1-7ddcefdc86e1"
+        ]
+      },
+      {
+        "_version_": 1.8609798180891525e+18,
+        "author_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "cito_Catalog": "Catherine II of Russia",
+        "comments": [
+          "http://localhost/comment/56830060-8b5a-4d81-8c1b-496bb5b3fb09"
+        ],
+        "dcterms_description": "1 Jan 1768 to 31 Dec 1768: Catherine II of Russia (Empress), 1729-1796 to Rodet Geoffrin, Marie-Thérèse, 1699-1777 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001023838",
+        "dcterms_identifier-editi_": "editi_1023838",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/03067eee-8f9f-4fdd-ae72-bd00ac2af3da",
+        "dcterms_identifier-uuid_": "uuid_03067eee-8f9f-4fdd-ae72-bd00ac2af3da",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_creator-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "id": "uuid_03067eee-8f9f-4fdd-ae72-bd00ac2af3da",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "object_type": "work",
+        "ox_completed-ox_day": 31,
+        "ox_completed-ox_month": 12,
+        "ox_completed-ox_year": 1768,
+        "ox_dateIsRange": true,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-04-04T19:14:31Z",
+        "ox_internalModified": "2022-04-04T19:14:31Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/56830060-8b5a-4d81-8c1b-496bb5b3fb09"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Correspondence of Catherine the Great [CatCor], ed. Andrew Kahn and Kelsey Rubin-Detlev, 4 April 2022",
+        "ox_started-indef_approximate": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1768,
+        "people": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "http://localhost/person/56da0f59-4898-43ca-a579-28f31fd4677a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/47ce25ef-fb8a-4310-b9b9-b9197dad2dce"
+        ],
+        "recipient_sort": "Rodet Geoffrin, Marie-Thérèse, 1699-1777",
+        "resources": [
+          "http://localhost/resource/47ce25ef-fb8a-4310-b9b9-b9197dad2dce"
+        ],
+        "started_date_gregorian_sort": "1769-01-11T00:00:00Z",
+        "started_date_sort": "1768-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:48.247Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/03067eee-8f9f-4fdd-ae72-bd00ac2af3da",
+        "uuid": "03067eee-8f9f-4fdd-ae72-bd00ac2af3da",
+        "uuid_related": [
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "56da0f59-4898-43ca-a579-28f31fd4677a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "56830060-8b5a-4d81-8c1b-496bb5b3fb09",
+          "47ce25ef-fb8a-4310-b9b9-b9197dad2dce"
+        ]
+      }
+    ],
+    "numFound": 15,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 0,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "{!q.op=AND} person-author:(Catherine II of Russia (Empress), 1729-1796) AND person-recipient-gender:(female) AND location-destination:(Paris, Île-de-France, France)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
