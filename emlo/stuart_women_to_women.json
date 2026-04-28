@@ -1,0 +1,221 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "D'Alembert, Jean-Baptiste le Rond",
+        1, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0, "Arias Montano, Benito",
+        0, "Artists' Letters. Rome and Europe 1750–1850",
+        0],
+      "destination_sort": [
+        "Paris, Île-de-France, France",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0, "Abergavenny, Monmouthshire, Wales",
+        0, "Abingdon Street, Westminster, London, England, United Kingdom",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+        1, "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+        1, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0, "http://localhost/person/00086f8c-d6b0-4807-b6a0-e5c10137ae1d",
+        0, "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+        0, "http://localhost/person/000e0be1-7955-4cb3-a8c5-b2955f734f70",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/32b8ac74-a9c5-449a-af02-06a284288d7c",
+        1, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0, "http://localhost/person/001f0d96-5aac-4de4-a2ec-ec0c97824640",
+        0, "http://localhost/person/001fc99e-9ea5-4de6-aa02-fb04be137877",
+        0, "http://localhost/person/002b6bb0-ed3b-4d33-b302-27d893c50b3b",
+        0, "http://localhost/person/002b6db0-3d93-4ec1-b3b5-1ad8467602a9",
+        0, "http://localhost/person/0031ef2b-30c0-4650-b2c9-ad2a849da419",
+        0, "http://localhost/person/003428b3-27e1-4798-8a40-df0f4768096f",
+        0, "http://localhost/person/0037f13b-5dd2-4785-82f7-2121c1a28f5d",
+        0, "http://localhost/person/003d6fc4-b57c-450f-ab05-dc22ef33913d",
+        0],
+      "origin_sort": [
+        "Paris, Île-de-France, France",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Aalter, Flanders, Belgium",
+        0, "Aardenburg, Zeeland, Netherlands",
+        0, "Aarschot, Flanders, Belgium",
+        0],
+      "ox_started-ox_year": [
+        "1773",
+        1, "1475",
+        0, "1484",
+        0, "1487",
+        0, "1488",
+        0, "1489",
+        0, "1491",
+        0, "1493",
+        0, "1494",
+        0, "1495",
+        0]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_703c7b23-9c3e-4a5d-942b-622700a9a891": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609799470440776e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783; Lespinasse, Julie-Jeanne-Éléonore, 1732-1776",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Mlle de Lespinasse n’a pas besoin du carrosse de Mme Necker car elle ira avec l’ambassadeur de Naples. La santé de D’Al. ne lui permet pas de dîner, mais il ira la voir de bonne heure.",
+        "dcterms_description": "1773: Lespinasse, Julie-Jeanne-Éléonore, 1732-1776 ~ D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Necker, Suzanne Curchod, 1739-1794 (Paris, Île-de-France, France)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065414",
+        "dcterms_identifier-editi_": "editi_1065414",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "dcterms_identifier-uuid_": "uuid_703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "dcterms_language": "French",
+        "destination_sort": "Paris, Île-de-France, France",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/c732bd70-0016-4062-a0cb-7eb992f28c7b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/32b8ac74-a9c5-449a-af02-06a284288d7c"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/c732bd70-0016-4062-a0cb-7eb992f28c7b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Mlle de Lespinasse aura l’honneur d’aller diner demain vendredi chez Madame Necker, elle lui rend mille graces…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:52:45Z",
+        "ox_internalModified": "2025-04-04T17:52:45Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_year": 1773,
+        "people": [
+          "http://localhost/person/0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/32b8ac74-a9c5-449a-af02-06a284288d7c"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/bfadfe07-1f10-40a4-ba1a-1cee2d8d26fd",
+          "http://localhost/resource/6bd0d734-556b-4501-8349-0a3db072db82"
+        ],
+        "recipient_sort": "Necker, Suzanne Curchod, 1739-1794",
+        "resources": [
+          "http://localhost/resource/bfadfe07-1f10-40a4-ba1a-1cee2d8d26fd",
+          "http://localhost/resource/6bd0d734-556b-4501-8349-0a3db072db82"
+        ],
+        "started_date_gregorian_sort": "1773-12-31T00:00:00Z",
+        "started_date_sort": "1773-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "uuid": "703c7b23-9c3e-4a5d-942b-622700a9a891",
+        "uuid_related": [
+          "c732bd70-0016-4062-a0cb-7eb992f28c7b",
+          "0c3b4fd0-1022-474d-82cb-19946f9ff2f9",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "32b8ac74-a9c5-449a-af02-06a284288d7c",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "bfadfe07-1f10-40a4-ba1a-1cee2d8d26fd",
+          "6bd0d734-556b-4501-8349-0a3db072db82"
+        ]
+      }
+    ],
+    "numFound": 1,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 0,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1770-01-01T00:00:00Z TO 1810-12-31T23:59:59Z] AND (person-author-gender:(female) OR person-recipient-gender:(female) OR person-mentioned-gender:(female)) AND person-author-gender:(female) AND person-recipient-gender:(female) AND location-origin:(Paris, Île-de-France, France)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
