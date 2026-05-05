@@ -1,0 +1,495 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Artists' Letters. Rome and Europe 1750–1850",
+        4, "Montagu, Mary Wortley",
+        1, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0, "Arias Montano, Benito",
+        0],
+      "destination_sort": [
+        "Lucca, Tuscany, Italy",
+        4, "Padua, Veneto, Italy",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0, "Abergavenny, Monmouthshire, Wales",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/4c06ffd7-e0f8-4800-9e6e-899d077f303c",
+        4, "http://localhost/person/d5c936fc-ae08-4974-960c-c1c31e3c1e92",
+        1, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0, "http://localhost/person/00086f8c-d6b0-4807-b6a0-e5c10137ae1d",
+        0, "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+        0, "http://localhost/person/000e0be1-7955-4cb3-a8c5-b2955f734f70",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/3c7a6457-3da9-4075-a175-2b2e01023b6e",
+        4, "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+        1, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0, "http://localhost/person/001f0d96-5aac-4de4-a2ec-ec0c97824640",
+        0, "http://localhost/person/001fc99e-9ea5-4de6-aa02-fb04be137877",
+        0, "http://localhost/person/002b6bb0-ed3b-4d33-b302-27d893c50b3b",
+        0, "http://localhost/person/002b6db0-3d93-4ec1-b3b5-1ad8467602a9",
+        0, "http://localhost/person/0031ef2b-30c0-4650-b2c9-ad2a849da419",
+        0, "http://localhost/person/003428b3-27e1-4798-8a40-df0f4768096f",
+        0, "http://localhost/person/0037f13b-5dd2-4785-82f7-2121c1a28f5d",
+        0],
+      "origin_sort": [
+        "Rome, Latium, Italy",
+        4, "Bologna, Emilia-Romagna, Italy",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Aalter, Flanders, Belgium",
+        0, "Aardenburg, Zeeland, Netherlands",
+        0],
+      "ox_started-ox_year": [
+        "1794",
+        2, "1757",
+        1, "1793",
+        1, "1795",
+        1, "1475",
+        0, "1484",
+        0, "1487",
+        0, "1488",
+        0, "1489",
+        0, "1491",
+        0]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_117ffc02-aa91-45b9-871a-ff67490212c2": {
+
+    },
+    "uuid_288cccd6-947a-4783-81f2-7c19870d1395": {
+
+    },
+    "uuid_cbe3caa0-d18c-4102-8f46-7375d58e60e4": {
+
+    },
+    "uuid_cea71faa-d6d8-45fc-9f3e-4a6ddd7b47d5": {
+
+    },
+    "uuid_ddd48dad-0af5-4c4a-a1a7-28bae1288529": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609797251979018e+18,
+        "author_sort": "Algarotti, Francesco (Conte), 1712-1764",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "3 Mar 1757: Algarotti, Francesco (Conte), 1712-1764 (Bologna, Emilia-Romagna, Italy) to Montagu, Mary Wortley (Lady), 1689-1762 (Padua, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991743",
+        "dcterms_identifier-editi_": "editi_991743",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/117ffc02-aa91-45b9-871a-ff67490212c2",
+        "dcterms_identifier-uuid_": "uuid_117ffc02-aa91-45b9-871a-ff67490212c2",
+        "dcterms_language": "Italian",
+        "destination_sort": "Padua, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/008b12e7-6604-43b0-85af-be2af09dbb58"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d5c936fc-ae08-4974-960c-c1c31e3c1e92"
+        ],
+        "id": "uuid_117ffc02-aa91-45b9-871a-ff67490212c2",
+        "locations": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "http://localhost/location/f890d861-0f88-4b0e-a03d-62b589cd07cb"
+        ],
+        "mail_addressees-rdf_value": "A Milady Mans Wortley Mantaigu",
+        "mail_destination-location": [
+          "http://localhost/location/f890d861-0f88-4b0e-a03d-62b589cd07cb"
+        ],
+        "mail_destination-rdf_value": "Padova",
+        "mail_origin-location": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5"
+        ],
+        "mail_origin-rdf_value": "Bologna",
+        "mail_recipient-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/008b12e7-6604-43b0-85af-be2af09dbb58"
+        ],
+        "object_type": "work",
+        "origin_sort": "Bologna, Emilia-Romagna, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "3 Marzo 1757",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2019-04-05T21:30:32Z",
+        "ox_internalModified": "2019-04-05T21:30:32Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1757,
+        "people": [
+          "http://localhost/person/d5c936fc-ae08-4974-960c-c1c31e3c1e92",
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/0a665b9c-b980-4ec4-a59d-2178e762cdcf"
+        ],
+        "recipient_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "resources": [
+          "http://localhost/resource/0a665b9c-b980-4ec4-a59d-2178e762cdcf"
+        ],
+        "started_date_gregorian_sort": "1757-03-03T00:00:00Z",
+        "started_date_sort": "1757-03-03T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:00.292Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/117ffc02-aa91-45b9-871a-ff67490212c2",
+        "uuid": "117ffc02-aa91-45b9-871a-ff67490212c2",
+        "uuid_related": [
+          "008b12e7-6604-43b0-85af-be2af09dbb58",
+          "d5c936fc-ae08-4974-960c-c1c31e3c1e92",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "f890d861-0f88-4b0e-a03d-62b589cd07cb",
+          "0a665b9c-b980-4ec4-a59d-2178e762cdcf"
+        ]
+      },
+      {
+        "_version_": 1.8609798291495322e+18,
+        "author_sort": "Nocchi, Bernardino, 1741-1812",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "26 Oct 1793: Nocchi, Bernardino, 1741-1812 (Rome, Latium, Italy) to Nocchi, Teresa, fl. 1793-1806 (Lucca, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001027434",
+        "dcterms_identifier-editi_": "editi_1027434",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cea71faa-d6d8-45fc-9f3e-4a6ddd7b47d5",
+        "dcterms_identifier-uuid_": "uuid_cea71faa-d6d8-45fc-9f3e-4a6ddd7b47d5",
+        "destination_sort": "Lucca, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/492909b2-57b0-48ec-af3c-641155779bbc"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4c06ffd7-e0f8-4800-9e6e-899d077f303c"
+        ],
+        "id": "uuid_cea71faa-d6d8-45fc-9f3e-4a6ddd7b47d5",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3c7a6457-3da9-4075-a175-2b2e01023b6e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/492909b2-57b0-48ec-af3c-641155779bbc"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-08-17T09:42:55Z",
+        "ox_internalModified": "2022-08-17T09:42:55Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Maria Pia Donato (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 17 August 2022",
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1793,
+        "people": [
+          "http://localhost/person/4c06ffd7-e0f8-4800-9e6e-899d077f303c",
+          "http://localhost/person/3c7a6457-3da9-4075-a175-2b2e01023b6e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Nocchi, Teresa, fl. 1793-1806",
+        "started_date_gregorian_sort": "1793-10-26T00:00:00Z",
+        "started_date_sort": "1793-10-26T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.828Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cea71faa-d6d8-45fc-9f3e-4a6ddd7b47d5",
+        "uuid": "cea71faa-d6d8-45fc-9f3e-4a6ddd7b47d5",
+        "uuid_related": [
+          "492909b2-57b0-48ec-af3c-641155779bbc",
+          "4c06ffd7-e0f8-4800-9e6e-899d077f303c",
+          "3c7a6457-3da9-4075-a175-2b2e01023b6e",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "f08c69af-282c-4a19-bf14-2d45fff33179"
+        ]
+      },
+      {
+        "_version_": 1.8609798291505807e+18,
+        "author_sort": "Nocchi, Bernardino, 1741-1812",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "29 Sep 1794: Nocchi, Bernardino, 1741-1812 (Rome, Latium, Italy) to Nocchi, Teresa, fl. 1793-1806 (Lucca, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001027435",
+        "dcterms_identifier-editi_": "editi_1027435",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ddd48dad-0af5-4c4a-a1a7-28bae1288529",
+        "dcterms_identifier-uuid_": "uuid_ddd48dad-0af5-4c4a-a1a7-28bae1288529",
+        "destination_sort": "Lucca, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fc025ec1-a155-482e-9814-544969fe565a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4c06ffd7-e0f8-4800-9e6e-899d077f303c"
+        ],
+        "id": "uuid_ddd48dad-0af5-4c4a-a1a7-28bae1288529",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3c7a6457-3da9-4075-a175-2b2e01023b6e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fc025ec1-a155-482e-9814-544969fe565a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-08-17T09:42:55Z",
+        "ox_internalModified": "2022-08-17T09:42:55Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_keywords": "auguri per le feste; raccomandazione",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Maria Pia Donato (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 17 August 2022",
+        "ox_started-ox_day": 29,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1794,
+        "people": [
+          "http://localhost/person/4c06ffd7-e0f8-4800-9e6e-899d077f303c",
+          "http://localhost/person/3c7a6457-3da9-4075-a175-2b2e01023b6e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Nocchi, Teresa, fl. 1793-1806",
+        "started_date_gregorian_sort": "1794-09-29T00:00:00Z",
+        "started_date_sort": "1794-09-29T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.828Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ddd48dad-0af5-4c4a-a1a7-28bae1288529",
+        "uuid": "ddd48dad-0af5-4c4a-a1a7-28bae1288529",
+        "uuid_related": [
+          "fc025ec1-a155-482e-9814-544969fe565a",
+          "4c06ffd7-e0f8-4800-9e6e-899d077f303c",
+          "3c7a6457-3da9-4075-a175-2b2e01023b6e",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "f08c69af-282c-4a19-bf14-2d45fff33179"
+        ]
+      },
+      {
+        "_version_": 1.8609798291505807e+18,
+        "author_sort": "Nocchi, Bernardino, 1741-1812",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "12 Dec 1794: Nocchi, Bernardino, 1741-1812 (Rome, Latium, Italy) to Nocchi, Teresa, fl. 1793-1806 (Lucca, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001027436",
+        "dcterms_identifier-editi_": "editi_1027436",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/288cccd6-947a-4783-81f2-7c19870d1395",
+        "dcterms_identifier-uuid_": "uuid_288cccd6-947a-4783-81f2-7c19870d1395",
+        "dcterms_references-person": [
+          "http://localhost/person/f1dbce8b-d471-455c-89a9-8f727015d293"
+        ],
+        "destination_sort": "Lucca, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3037d30a-eed3-4437-b229-980a89520291"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4c06ffd7-e0f8-4800-9e6e-899d077f303c"
+        ],
+        "id": "uuid_288cccd6-947a-4783-81f2-7c19870d1395",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3c7a6457-3da9-4075-a175-2b2e01023b6e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3037d30a-eed3-4437-b229-980a89520291"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-08-17T09:42:55Z",
+        "ox_internalModified": "2022-08-17T09:42:55Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_keywords": "salute; notizie familiari",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Maria Pia Donato (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 17 August 2022",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1794,
+        "people": [
+          "http://localhost/person/4c06ffd7-e0f8-4800-9e6e-899d077f303c",
+          "http://localhost/person/3c7a6457-3da9-4075-a175-2b2e01023b6e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Nocchi, Teresa, fl. 1793-1806",
+        "started_date_gregorian_sort": "1794-12-12T00:00:00Z",
+        "started_date_sort": "1794-12-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.828Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/288cccd6-947a-4783-81f2-7c19870d1395",
+        "uuid": "288cccd6-947a-4783-81f2-7c19870d1395",
+        "uuid_related": [
+          "3037d30a-eed3-4437-b229-980a89520291",
+          "4c06ffd7-e0f8-4800-9e6e-899d077f303c",
+          "3c7a6457-3da9-4075-a175-2b2e01023b6e",
+          "f1dbce8b-d471-455c-89a9-8f727015d293",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "f08c69af-282c-4a19-bf14-2d45fff33179"
+        ]
+      },
+      {
+        "_version_": 1.8609798291505807e+18,
+        "author_sort": "Nocchi, Bernardino, 1741-1812",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "25 Dec 1795: Nocchi, Bernardino, 1741-1812 (Rome, Latium, Italy) to Nocchi, Teresa, fl. 1793-1806 (Lucca, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001027437",
+        "dcterms_identifier-editi_": "editi_1027437",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cbe3caa0-d18c-4102-8f46-7375d58e60e4",
+        "dcterms_identifier-uuid_": "uuid_cbe3caa0-d18c-4102-8f46-7375d58e60e4",
+        "destination_sort": "Lucca, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/723240ba-b0b1-40a6-8ef8-180ee689b602"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/4c06ffd7-e0f8-4800-9e6e-899d077f303c"
+        ],
+        "id": "uuid_cbe3caa0-d18c-4102-8f46-7375d58e60e4",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/f08c69af-282c-4a19-bf14-2d45fff33179"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/3c7a6457-3da9-4075-a175-2b2e01023b6e"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/723240ba-b0b1-40a6-8ef8-180ee689b602"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-08-17T09:42:55Z",
+        "ox_internalModified": "2022-08-17T09:42:55Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Maria Pia Donato (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 17 August 2022",
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1795,
+        "people": [
+          "http://localhost/person/4c06ffd7-e0f8-4800-9e6e-899d077f303c",
+          "http://localhost/person/3c7a6457-3da9-4075-a175-2b2e01023b6e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Nocchi, Teresa, fl. 1793-1806",
+        "started_date_gregorian_sort": "1795-12-25T00:00:00Z",
+        "started_date_sort": "1795-12-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.828Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cbe3caa0-d18c-4102-8f46-7375d58e60e4",
+        "uuid": "cbe3caa0-d18c-4102-8f46-7375d58e60e4",
+        "uuid_related": [
+          "723240ba-b0b1-40a6-8ef8-180ee689b602",
+          "4c06ffd7-e0f8-4800-9e6e-899d077f303c",
+          "3c7a6457-3da9-4075-a175-2b2e01023b6e",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "f08c69af-282c-4a19-bf14-2d45fff33179"
+        ]
+      }
+    ],
+    "numFound": 5,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 0,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1700-01-01T00:00:00Z TO 1799-12-31T23:59:59Z] AND (person-author-gender:(female) OR person-recipient-gender:(female) OR person-mentioned-gender:(female)) AND person-author-gender:(male) AND person-recipient-gender:(female) AND location-origin:(Rome, Latium, Italy) AND location-destination:(Rome, Latium, Italy)",
+      "rows": "5",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}

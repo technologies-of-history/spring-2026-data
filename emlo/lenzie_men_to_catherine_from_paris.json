@@ -1,0 +1,1281 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "D'Alembert, Jean-Baptiste le Rond",
+        14, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0, "Arias Montano, Benito",
+        0, "Artists' Letters. Rome and Europe 1750–1850",
+        0],
+      "destination_sort": [
+        "Moscow, Central, Russia",
+        14, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0, "Abberley, Worcestershire, England, United Kingdom",
+        0, "Abensberg, Bavaria, Germany",
+        0, "Aberdeen, Aberdeenshire, Scotland",
+        0, "Abergavenny, Monmouthshire, Wales",
+        0, "Abingdon Street, Westminster, London, England, United Kingdom",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+        14, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0, "http://localhost/person/00086f8c-d6b0-4807-b6a0-e5c10137ae1d",
+        0, "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+        0, "http://localhost/person/000e0be1-7955-4cb3-a8c5-b2955f734f70",
+        0, "http://localhost/person/000e9fda-37e1-4fe4-8dfb-0c200a22ae4c",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a",
+        14, "http://localhost/person/000e7a46-a004-4b68-a8e3-045fda540168",
+        0, "http://localhost/person/001f0d96-5aac-4de4-a2ec-ec0c97824640",
+        0, "http://localhost/person/001fc99e-9ea5-4de6-aa02-fb04be137877",
+        0, "http://localhost/person/002b6bb0-ed3b-4d33-b302-27d893c50b3b",
+        0, "http://localhost/person/002b6db0-3d93-4ec1-b3b5-1ad8467602a9",
+        0, "http://localhost/person/0031ef2b-30c0-4650-b2c9-ad2a849da419",
+        0, "http://localhost/person/003428b3-27e1-4798-8a40-df0f4768096f",
+        0, "http://localhost/person/0037f13b-5dd2-4785-82f7-2121c1a28f5d",
+        0, "http://localhost/person/003d6fc4-b57c-450f-ab05-dc22ef33913d",
+        0],
+      "origin_sort": [
+        "Paris, Île-de-France, France",
+        14, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Aalter, Flanders, Belgium",
+        0, "Aardenburg, Zeeland, Netherlands",
+        0, "Aarschot, Flanders, Belgium",
+        0],
+      "ox_started-ox_year": [
+        "1764",
+        4, "1763",
+        3, "1765",
+        2, "1766",
+        2, "1772",
+        2, "1767",
+        1, "1475",
+        0, "1484",
+        0, "1487",
+        0, "1488",
+        0]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_0113af9e-c0c8-4700-8fbb-778406e830af": {
+
+    },
+    "uuid_02300c1f-857d-4663-bf14-1ec6ba4cce2e": {
+
+    },
+    "uuid_16056da7-b256-4559-b27c-305f68e97240": {
+
+    },
+    "uuid_2401703f-586a-40bf-81f5-a719bea0c7a7": {
+
+    },
+    "uuid_24211887-43b2-494c-bcea-2600e0076951": {
+
+    },
+    "uuid_29525c0f-09b7-49f9-9894-f05d218a2193": {
+
+    },
+    "uuid_39ffda64-281f-4043-9849-6065940573ac": {
+
+    },
+    "uuid_3bea9ed7-2ed4-41eb-ae56-784c112dadc1": {
+
+    },
+    "uuid_5c676668-36e7-45eb-a752-a3b263f00935": {
+
+    },
+    "uuid_6adaa66e-f892-47c2-a4cf-032a6a92c285": {
+
+    },
+    "uuid_701df2ea-4d9f-47e9-989f-f35196ec7dda": {
+
+    },
+    "uuid_734091b0-79d4-45b1-a928-e2db8e4fa047": {
+
+    },
+    "uuid_7f7307db-6d55-4136-8be9-e12b848a69e6": {
+
+    },
+    "uuid_f9e6f515-d70e-4096-8cc5-7ebc96df21da": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609799441185505e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Rép. [à la l. du 13 novembre]. Espère que l’équité de [Cath. II] lui fera accepter les raisons de son refus. Il aurait été flatté de l’approcher, mais ne saurait éduquer un jeune prince. Santé fragile et amis aussi sédentaires que lui. Reste très honoré.",
+        "dcterms_description": "10 Jan 1763: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064481",
+        "dcterms_identifier-editi_": "editi_1064481",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/39ffda64-281f-4043-9849-6065940573ac",
+        "dcterms_identifier-uuid_": "uuid_39ffda64-281f-4043-9849-6065940573ac",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/746f08e9-8347-49d8-9631-b3a09b9c9e75"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_39ffda64-281f-4043-9849-6065940573ac",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/746f08e9-8347-49d8-9631-b3a09b9c9e75"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "La lettre dont Votre Majesté Impériale vient de m'honorer…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:45:01Z",
+        "ox_internalModified": "2025-04-04T17:45:01Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_approximate": true,
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1763,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d9a54f87-5320-4ecb-9394-1f4b86de4e3d",
+          "http://localhost/resource/0b1a6710-899e-4fef-acbd-fbda9a716871"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/d9a54f87-5320-4ecb-9394-1f4b86de4e3d",
+          "http://localhost/resource/0b1a6710-899e-4fef-acbd-fbda9a716871"
+        ],
+        "started_date_gregorian_sort": "1763-01-10T00:00:00Z",
+        "started_date_sort": "1763-01-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/39ffda64-281f-4043-9849-6065940573ac",
+        "uuid": "39ffda64-281f-4043-9849-6065940573ac",
+        "uuid_related": [
+          "746f08e9-8347-49d8-9631-b3a09b9c9e75",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "d9a54f87-5320-4ecb-9394-1f4b86de4e3d",
+          "0b1a6710-899e-4fef-acbd-fbda9a716871"
+        ]
+      },
+      {
+        "_version_": 1.860979944124842e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "comments": [
+          "http://localhost/comment/c02e1409-979d-4ec4-8761-4e4a75b72bf5"
+        ],
+        "dcterms_abstract": "Lui offre la nouvelle édition de ses Mélanges [4 vol. voir l. à Turgot du 12 janvier] et de ses Elémens de musique [1762]. Compliments accompagnant son refus. La lettre de Cath. II [du 13 novembre] insérée dans les registres de l’Acad. fr. [avec la mention de son refus]. Proposition de [Saltykov] après la l. de Cath. II.",
+        "dcterms_description": "Jan 1763: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064492",
+        "dcterms_identifier-editi_": "editi_1064492",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0113af9e-c0c8-4700-8fbb-778406e830af",
+        "dcterms_identifier-uuid_": "uuid_0113af9e-c0c8-4700-8fbb-778406e830af",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ecbbc58f-1de5-467b-815d-965d97b317b5"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_0113af9e-c0c8-4700-8fbb-778406e830af",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ecbbc58f-1de5-467b-815d-965d97b317b5"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/c02e1409-979d-4ec4-8761-4e4a75b72bf5"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "L'indulgence avec laquelle votre Majesté Impériale…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:45:03Z",
+        "ox_internalModified": "2025-04-04T17:45:03Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1763,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/7d8c4003-de4e-4049-81b9-2a5420c7e6d1",
+          "http://localhost/resource/b814c6fd-8f9a-4027-8e71-4ec02c2d124f"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/7d8c4003-de4e-4049-81b9-2a5420c7e6d1",
+          "http://localhost/resource/b814c6fd-8f9a-4027-8e71-4ec02c2d124f"
+        ],
+        "started_date_gregorian_sort": "1763-01-31T00:00:00Z",
+        "started_date_sort": "1763-01-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0113af9e-c0c8-4700-8fbb-778406e830af",
+        "uuid": "0113af9e-c0c8-4700-8fbb-778406e830af",
+        "uuid_related": [
+          "ecbbc58f-1de5-467b-815d-965d97b317b5",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "c02e1409-979d-4ec4-8761-4e4a75b72bf5",
+          "7d8c4003-de4e-4049-81b9-2a5420c7e6d1",
+          "b814c6fd-8f9a-4027-8e71-4ec02c2d124f"
+        ]
+      },
+      {
+        "_version_": 1.8609799444205404e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Rép. à la l. du [7/18 août], excuses et justifications de son refus, n’a pas les talents d’éducateur d’un roi. Sa l. enregistrée à l’Acad. fr. encourage et console les philosophes. La raison mise à mal. Fréd. II l’encourage à développer ses Elémens de philosophie, lui demande également son avis.",
+        "dcterms_description": "17 Oct 1763: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064559",
+        "dcterms_identifier-editi_": "editi_1064559",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/701df2ea-4d9f-47e9-989f-f35196ec7dda",
+        "dcterms_identifier-uuid_": "uuid_701df2ea-4d9f-47e9-989f-f35196ec7dda",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f7edb74f-7b06-4477-8b09-5163bbe86f42"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_701df2ea-4d9f-47e9-989f-f35196ec7dda",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f7edb74f-7b06-4477-8b09-5163bbe86f42"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Votre Majesté Impériale, malgré la bonne opinion…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:47:29Z",
+        "ox_internalModified": "2025-04-04T17:47:29Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1763,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/a1944523-9934-4762-bbf9-077ed80e892b",
+          "http://localhost/resource/cdb88882-afa4-46cd-bdb0-9c755cfd157c"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/a1944523-9934-4762-bbf9-077ed80e892b",
+          "http://localhost/resource/cdb88882-afa4-46cd-bdb0-9c755cfd157c"
+        ],
+        "started_date_gregorian_sort": "1763-10-17T00:00:00Z",
+        "started_date_sort": "1763-10-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/701df2ea-4d9f-47e9-989f-f35196ec7dda",
+        "uuid": "701df2ea-4d9f-47e9-989f-f35196ec7dda",
+        "uuid_related": [
+          "f7edb74f-7b06-4477-8b09-5163bbe86f42",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "a1944523-9934-4762-bbf9-077ed80e892b",
+          "cdb88882-afa4-46cd-bdb0-9c755cfd157c"
+        ]
+      },
+      {
+        "_version_": 1.860979944436269e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Sa l. [du 17 octobre 1763] remise à Golitsyn s’est peut-être perdue, il la lui renvoie. Elle et Fréd. II secouent le joug de la superstition, jésuites. Demande des conseils pour ses [Eclaircissements des Elémens de philosophie].",
+        "dcterms_description": "20 Mar 1764: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064586",
+        "dcterms_identifier-editi_": "editi_1064586",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/24211887-43b2-494c-bcea-2600e0076951",
+        "dcterms_identifier-uuid_": "uuid_24211887-43b2-494c-bcea-2600e0076951",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/88e55ed0-8992-4a2c-b8ae-cc0bc6c54d98"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_24211887-43b2-494c-bcea-2600e0076951",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/88e55ed0-8992-4a2c-b8ae-cc0bc6c54d98"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Il y a plus de cinq mois que j'ai eu l'honneur d'écrire…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:47:34Z",
+        "ox_internalModified": "2025-04-04T17:47:34Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1764,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/fcfdef46-9c55-4d85-8c32-4ae9d3aec52a",
+          "http://localhost/resource/a27cd40a-9198-4dcf-b652-f60c5a55a57f"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/fcfdef46-9c55-4d85-8c32-4ae9d3aec52a",
+          "http://localhost/resource/a27cd40a-9198-4dcf-b652-f60c5a55a57f"
+        ],
+        "started_date_gregorian_sort": "1764-03-20T00:00:00Z",
+        "started_date_sort": "1764-03-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/24211887-43b2-494c-bcea-2600e0076951",
+        "uuid": "24211887-43b2-494c-bcea-2600e0076951",
+        "uuid_related": [
+          "88e55ed0-8992-4a2c-b8ae-cc0bc6c54d98",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "fcfdef46-9c55-4d85-8c32-4ae9d3aec52a",
+          "a27cd40a-9198-4dcf-b652-f60c5a55a57f"
+        ]
+      },
+      {
+        "_version_": 1.860979944443609e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Remerciements pour la médaille de l'avènement [de Cath. II]. Espère que ses lettres lui sont parvenues.",
+        "dcterms_description": "7 Jun 1764: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064597",
+        "dcterms_identifier-editi_": "editi_1064597",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/29525c0f-09b7-49f9-9894-f05d218a2193",
+        "dcterms_identifier-uuid_": "uuid_29525c0f-09b7-49f9-9894-f05d218a2193",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4795db89-93b0-41eb-b93b-123cd65e3f94"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_29525c0f-09b7-49f9-9894-f05d218a2193",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4795db89-93b0-41eb-b93b-123cd65e3f94"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "M. le prince de Galitzin [Golitsyn] m'a remis ces jours derniers de la part de votre majesté…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:47:37Z",
+        "ox_internalModified": "2025-04-04T17:47:37Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 7,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1764,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/cb73a1e7-236d-44f7-b724-c63e05ce7785",
+          "http://localhost/resource/1a9f9fe4-138a-4e01-9f34-59aa571f4181"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/cb73a1e7-236d-44f7-b724-c63e05ce7785",
+          "http://localhost/resource/1a9f9fe4-138a-4e01-9f34-59aa571f4181"
+        ],
+        "started_date_gregorian_sort": "1764-06-07T00:00:00Z",
+        "started_date_sort": "1764-06-07T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/29525c0f-09b7-49f9-9894-f05d218a2193",
+        "uuid": "29525c0f-09b7-49f9-9894-f05d218a2193",
+        "uuid_related": [
+          "4795db89-93b0-41eb-b93b-123cd65e3f94",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "cb73a1e7-236d-44f7-b724-c63e05ce7785",
+          "1a9f9fe4-138a-4e01-9f34-59aa571f4181"
+        ]
+      },
+      {
+        "_version_": 1.860979944443609e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "A reçu sa l. [du 12/23 avril 1764], voudrait savoir s’il l’importune. N’a aucun talent d’éducateur de prince, écrire n’est pas enseigner, les sages comme les grands doivent être vus de loin, santé. Les Elémens de philosophie critiqués par Fréd. II, il lui a envoyé le ms. [des Eclaircissements]. Projet d’un catéchisme de morale. Jésuites du Nord et du Midi. Les grands en France bien en-dessous de la partie éclairée. Ne diffusera pas sa deuxième lettre.",
+        "dcterms_description": "15 Jun 1764: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064598",
+        "dcterms_identifier-editi_": "editi_1064598",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f9e6f515-d70e-4096-8cc5-7ebc96df21da",
+        "dcterms_identifier-uuid_": "uuid_f9e6f515-d70e-4096-8cc5-7ebc96df21da",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/adef0a85-b5ee-465b-ac09-1e5d7a390121"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_f9e6f515-d70e-4096-8cc5-7ebc96df21da",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/adef0a85-b5ee-465b-ac09-1e5d7a390121"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Votre Majesté Impériale me traite comme Auguste…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:47:37Z",
+        "ox_internalModified": "2025-04-04T17:47:37Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1764,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9b342261-3a07-4d34-b95f-27c89f118b80",
+          "http://localhost/resource/b13a7dcc-a153-4e53-9c00-d341a40f6669"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/9b342261-3a07-4d34-b95f-27c89f118b80",
+          "http://localhost/resource/b13a7dcc-a153-4e53-9c00-d341a40f6669"
+        ],
+        "started_date_gregorian_sort": "1764-06-15T00:00:00Z",
+        "started_date_sort": "1764-06-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f9e6f515-d70e-4096-8cc5-7ebc96df21da",
+        "uuid": "f9e6f515-d70e-4096-8cc5-7ebc96df21da",
+        "uuid_related": [
+          "adef0a85-b5ee-465b-ac09-1e5d7a390121",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "9b342261-3a07-4d34-b95f-27c89f118b80",
+          "b13a7dcc-a153-4e53-9c00-d341a40f6669"
+        ]
+      },
+      {
+        "_version_": 1.860979944461435e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Remerciements pour la médaille. Aurait de quoi faire deux nouveaux volumes [des Mélanges] mais craint la persécution. Réflexions sur le repos. Nourrir Chaumeix et les chenilles. N’a plus part à l’Enc. Règlements de l’académie [de Cath. II]. Ne rendra pas publiques les lettres [de Cath. II].",
+        "dcterms_description": "Nov 1764: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064627",
+        "dcterms_identifier-editi_": "editi_1064627",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/734091b0-79d4-45b1-a928-e2db8e4fa047",
+        "dcterms_identifier-uuid_": "uuid_734091b0-79d4-45b1-a928-e2db8e4fa047",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6bfba76c-f5b2-43c2-8f59-65ef0609cf2d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_734091b0-79d4-45b1-a928-e2db8e4fa047",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6bfba76c-f5b2-43c2-8f59-65ef0609cf2d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Les bontés multiples dont Votre Majesté Impériale…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:47:42Z",
+        "ox_internalModified": "2025-04-04T17:47:42Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1764,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/903986a5-1602-4cb7-8915-2637152ba567",
+          "http://localhost/resource/9e4790d8-7a6d-4eff-8224-fb99af1cd4ce"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/903986a5-1602-4cb7-8915-2637152ba567",
+          "http://localhost/resource/9e4790d8-7a6d-4eff-8224-fb99af1cd4ce"
+        ],
+        "started_date_gregorian_sort": "1764-11-30T00:00:00Z",
+        "started_date_sort": "1764-11-30T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/734091b0-79d4-45b1-a928-e2db8e4fa047",
+        "uuid": "734091b0-79d4-45b1-a928-e2db8e4fa047",
+        "uuid_related": [
+          "6bfba76c-f5b2-43c2-8f59-65ef0609cf2d",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "903986a5-1602-4cb7-8915-2637152ba567",
+          "9e4790d8-7a6d-4eff-8224-fb99af1cd4ce"
+        ]
+      },
+      {
+        "_version_": 1.860979944738259e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Est l’auteur de la Destruction des jésuites dont il lui fait hommage. Espère publier des ouvrages plus importants dans l’année.",
+        "dcterms_description": "15 Apr 1765: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064664",
+        "dcterms_identifier-editi_": "editi_1064664",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/16056da7-b256-4559-b27c-305f68e97240",
+        "dcterms_identifier-uuid_": "uuid_16056da7-b256-4559-b27c-305f68e97240",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/abfe4ffb-0209-466e-a877-06b952f80a7b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_16056da7-b256-4559-b27c-305f68e97240",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/abfe4ffb-0209-466e-a877-06b952f80a7b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Quoique des raisons particulières ne me permettent pas…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:47:49Z",
+        "ox_internalModified": "2025-04-04T17:47:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1765,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b548443c-28c7-4300-ba95-a1fec7ed2636",
+          "http://localhost/resource/478d11ef-ddac-481b-aed7-857e5c4ba2df"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/b548443c-28c7-4300-ba95-a1fec7ed2636",
+          "http://localhost/resource/478d11ef-ddac-481b-aed7-857e5c4ba2df"
+        ],
+        "started_date_gregorian_sort": "1765-04-15T00:00:00Z",
+        "started_date_sort": "1765-04-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/16056da7-b256-4559-b27c-305f68e97240",
+        "uuid": "16056da7-b256-4559-b27c-305f68e97240",
+        "uuid_related": [
+          "abfe4ffb-0209-466e-a877-06b952f80a7b",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "b548443c-28c7-4300-ba95-a1fec7ed2636",
+          "478d11ef-ddac-481b-aed7-857e5c4ba2df"
+        ]
+      },
+      {
+        "_version_": 1.8609799447634248e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Sa maladie. La réception flatteuse de la Destruction des jésuites, on lui refuse pourtant sa pension. Son attachement au roi ne s’étend pas jusqu’aux ministres. Son catéchisme. L’ouvrage Sur la législation que Cath. II lui annonce. Remerciements pour son ami Diderot.",
+        "dcterms_description": "26 Oct 1765: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064708",
+        "dcterms_identifier-editi_": "editi_1064708",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2401703f-586a-40bf-81f5-a719bea0c7a7",
+        "dcterms_identifier-uuid_": "uuid_2401703f-586a-40bf-81f5-a719bea0c7a7",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b76bf738-c464-485e-98a2-674efc522016"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_2401703f-586a-40bf-81f5-a719bea0c7a7",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b76bf738-c464-485e-98a2-674efc522016"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Une maladie dangereuse, qui m'a mis aux portes…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:47:58Z",
+        "ox_internalModified": "2025-04-04T17:47:58Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1765,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/109995b4-0d05-4fdf-badf-6c8529286453",
+          "http://localhost/resource/13aa2e81-40f2-412c-8de5-a788f3c84626"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/109995b4-0d05-4fdf-badf-6c8529286453",
+          "http://localhost/resource/13aa2e81-40f2-412c-8de5-a788f3c84626"
+        ],
+        "started_date_gregorian_sort": "1765-10-26T00:00:00Z",
+        "started_date_sort": "1765-10-26T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2401703f-586a-40bf-81f5-a719bea0c7a7",
+        "uuid": "2401703f-586a-40bf-81f5-a719bea0c7a7",
+        "uuid_related": [
+          "b76bf738-c464-485e-98a2-674efc522016",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "109995b4-0d05-4fdf-badf-6c8529286453",
+          "13aa2e81-40f2-412c-8de5-a788f3c84626"
+        ]
+      },
+      {
+        "_version_": 1.8609799450905805e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Si sa réponse à la question que Cath. II lui a posée dans une l. à Mme Geoffrin n’est pas suffisante, qu’elle demande des éclaircissements. Séjour de Mme Geoffrin à Varsovie chez le roi de Pologne. Les Euler chez elle. Atrocité de l’affaire La Barre.",
+        "dcterms_description": "11 Aug 1766: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064777",
+        "dcterms_identifier-editi_": "editi_1064777",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7f7307db-6d55-4136-8be9-e12b848a69e6",
+        "dcterms_identifier-uuid_": "uuid_7f7307db-6d55-4136-8be9-e12b848a69e6",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4ad6aa48-6ac7-4829-97df-3eb077ff9393"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_7f7307db-6d55-4136-8be9-e12b848a69e6",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4ad6aa48-6ac7-4829-97df-3eb077ff9393"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je respecte depuis longtemps les occupations de…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:48:11Z",
+        "ox_internalModified": "2025-04-04T17:48:11Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1766,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f18f2b5a-c05b-4989-9694-be9312edab17",
+          "http://localhost/resource/45276206-e1c3-434f-a72a-0abe755bd068"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/f18f2b5a-c05b-4989-9694-be9312edab17",
+          "http://localhost/resource/45276206-e1c3-434f-a72a-0abe755bd068"
+        ],
+        "started_date_gregorian_sort": "1766-08-11T00:00:00Z",
+        "started_date_sort": "1766-08-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:43.579Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7f7307db-6d55-4136-8be9-e12b848a69e6",
+        "uuid": "7f7307db-6d55-4136-8be9-e12b848a69e6",
+        "uuid_related": [
+          "4ad6aa48-6ac7-4829-97df-3eb077ff9393",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "f18f2b5a-c05b-4989-9694-be9312edab17",
+          "45276206-e1c3-434f-a72a-0abe755bd068"
+        ]
+      },
+      {
+        "_version_": 1.8609799451126006e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Le vol. V des Mélanges, lui parviendra par Golitsyn. Lui demande ses critiques. Attend un ouvrage de Cath. II. La remercie pour ce qu’elle fait pour Diderot. Voyage de Mme Geoffrin. Sottises théologiques.",
+        "dcterms_description": "15 Dec 1766: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064817",
+        "dcterms_identifier-editi_": "editi_1064817",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/02300c1f-857d-4663-bf14-1ec6ba4cce2e",
+        "dcterms_identifier-uuid_": "uuid_02300c1f-857d-4663-bf14-1ec6ba4cce2e",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/fc988188-955b-4a73-b689-4be34abd92bb"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_02300c1f-857d-4663-bf14-1ec6ba4cce2e",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/fc988188-955b-4a73-b689-4be34abd92bb"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Votre Majesté Impériale a bien voulu recevoir il y a environ deux ans quatre volumes…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:48:19Z",
+        "ox_internalModified": "2025-04-04T17:48:19Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1766,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9f2dd125-237b-4fac-90b6-b0138b80344a",
+          "http://localhost/resource/968a9b40-2d74-48a7-a905-7f4203c7bfa7"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/9f2dd125-237b-4fac-90b6-b0138b80344a",
+          "http://localhost/resource/968a9b40-2d74-48a7-a905-7f4203c7bfa7"
+        ],
+        "started_date_gregorian_sort": "1766-12-15T00:00:00Z",
+        "started_date_sort": "1766-12-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/02300c1f-857d-4663-bf14-1ec6ba4cce2e",
+        "uuid": "02300c1f-857d-4663-bf14-1ec6ba4cce2e",
+        "uuid_related": [
+          "fc988188-955b-4a73-b689-4be34abd92bb",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "9f2dd125-237b-4fac-90b6-b0138b80344a",
+          "968a9b40-2d74-48a7-a905-7f4203c7bfa7"
+        ]
+      },
+      {
+        "_version_": 1.8609799454114447e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Diderot, [Marmontel]. Une collection d’estampes est à vendre à Berlin.",
+        "dcterms_description": "14 Aug 1767: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001064894",
+        "dcterms_identifier-editi_": "editi_1064894",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/5c676668-36e7-45eb-a752-a3b263f00935",
+        "dcterms_identifier-uuid_": "uuid_5c676668-36e7-45eb-a752-a3b263f00935",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d200224f-37c5-4f6e-8df9-e0dd23405eca"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_5c676668-36e7-45eb-a752-a3b263f00935",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d200224f-37c5-4f6e-8df9-e0dd23405eca"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Je respecte trop les occupations importantes de Votre…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:48:34Z",
+        "ox_internalModified": "2025-04-04T17:48:34Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1767,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/c512d039-d603-43d5-863a-4a5d67b417d9",
+          "http://localhost/resource/d1082288-64ad-4d29-a2f6-609caa41360e"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/c512d039-d603-43d5-863a-4a5d67b417d9",
+          "http://localhost/resource/d1082288-64ad-4d29-a2f6-609caa41360e"
+        ],
+        "started_date_gregorian_sort": "1767-08-14T00:00:00Z",
+        "started_date_sort": "1767-08-14T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/5c676668-36e7-45eb-a752-a3b263f00935",
+        "uuid": "5c676668-36e7-45eb-a752-a3b263f00935",
+        "uuid_related": [
+          "d200224f-37c5-4f6e-8df9-e0dd23405eca",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "c512d039-d603-43d5-863a-4a5d67b417d9",
+          "d1082288-64ad-4d29-a2f6-609caa41360e"
+        ]
+      },
+      {
+        "_version_": 1.8609799470189117e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "Renoue une correspondance pour implorer la grâce de huit officiers français faits prisonniers à Cracovie, au nom des gens de lettres. La philosophie éclairée réclame ses bontés, et exaltera sa générosité. La France et Cath. II. Il faut pardonner comme Fréd. II.",
+        "dcterms_description": "30 Oct 1772: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065372",
+        "dcterms_identifier-editi_": "editi_1065372",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6adaa66e-f892-47c2-a4cf-032a6a92c285",
+        "dcterms_identifier-uuid_": "uuid_6adaa66e-f892-47c2-a4cf-032a6a92c285",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7812848c-99ff-4db4-a294-544529a3a2d0"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_6adaa66e-f892-47c2-a4cf-032a6a92c285",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7812848c-99ff-4db4-a294-544529a3a2d0"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "Il y a longtemps, et trop longtemps…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:52:35Z",
+        "ox_internalModified": "2025-04-04T17:52:35Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-ox_day": 30,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1772,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e720b5bb-f860-42a6-a02b-ccca08c7577e",
+          "http://localhost/resource/bdaa711e-628e-411c-9de5-b8fbe0325a15"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/e720b5bb-f860-42a6-a02b-ccca08c7577e",
+          "http://localhost/resource/bdaa711e-628e-411c-9de5-b8fbe0325a15"
+        ],
+        "started_date_gregorian_sort": "1772-10-30T00:00:00Z",
+        "started_date_sort": "1772-10-30T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6adaa66e-f892-47c2-a4cf-032a6a92c285",
+        "uuid": "6adaa66e-f892-47c2-a4cf-032a6a92c285",
+        "uuid_related": [
+          "7812848c-99ff-4db4-a294-544529a3a2d0",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "e720b5bb-f860-42a6-a02b-ccca08c7577e",
+          "bdaa711e-628e-411c-9de5-b8fbe0325a15"
+        ]
+      },
+      {
+        "_version_": 1.860979947028349e+18,
+        "author_sort": "D'Alembert, Jean-Baptiste le Rond, 1717-1783",
+        "cito_Catalog": "D'Alembert, Jean-Baptiste le Rond",
+        "dcterms_abstract": "La nouvelle du mauvais traitement des prisonniers français venait de haut et d’une voie sûre, mais il n’accusait pas Cath. II. S’estime maintenant détrompé et le fera savoir. Demande à sa générosité et au nom de la philosophie de les libérer.",
+        "dcterms_description": "31 Dec 1772: D'Alembert, Jean-Baptiste le Rond, 1717-1783 (Paris, Île-de-France, France) to Catherine II of Russia (Empress), 1729-1796 (Moscow, Central, Russia)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001065389",
+        "dcterms_identifier-editi_": "editi_1065389",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/3bea9ed7-2ed4-41eb-ae56-784c112dadc1",
+        "dcterms_identifier-uuid_": "uuid_3bea9ed7-2ed4-41eb-ae56-784c112dadc1",
+        "dcterms_language": "French",
+        "destination_sort": "Moscow, Central, Russia",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/71522039-b59b-4b6e-9dfa-980063b52048"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66"
+        ],
+        "id": "uuid_3bea9ed7-2ed4-41eb-ae56-784c112dadc1",
+        "locations": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/1862e624-761a-4274-80a5-4c78a57c5b60"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d3cfe92-75a3-4ec3-b66e-3243ba783b6d"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/71522039-b59b-4b6e-9dfa-980063b52048"
+        ],
+        "object_type": "work",
+        "origin_sort": "Paris, Île-de-France, France",
+        "ox_dateIsRange": false,
+        "ox_incipit": "La philosophie qui connaît et qui révère…",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2025-04-04T17:52:39Z",
+        "ox_internalModified": "2025-04-04T17:52:39Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Irène Passeron and Alexandre Guilbaud, 4 April 2025",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 31,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1772,
+        "people": [
+          "http://localhost/person/8d27a5db-af39-475b-80ce-631f68744d66",
+          "http://localhost/person/a2ef94b5-c61b-4feb-8421-560e2692520a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/fc47aebf-a607-4444-be8e-ae0bb7323da4",
+          "http://localhost/resource/10704107-b116-4d76-a4d9-6459738eff50"
+        ],
+        "recipient_sort": "Catherine II of Russia (Empress), 1729-1796",
+        "resources": [
+          "http://localhost/resource/fc47aebf-a607-4444-be8e-ae0bb7323da4",
+          "http://localhost/resource/10704107-b116-4d76-a4d9-6459738eff50"
+        ],
+        "started_date_gregorian_sort": "1772-12-31T00:00:00Z",
+        "started_date_sort": "1772-12-31T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:44.171Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/3bea9ed7-2ed4-41eb-ae56-784c112dadc1",
+        "uuid": "3bea9ed7-2ed4-41eb-ae56-784c112dadc1",
+        "uuid_related": [
+          "71522039-b59b-4b6e-9dfa-980063b52048",
+          "8d27a5db-af39-475b-80ce-631f68744d66",
+          "a2ef94b5-c61b-4feb-8421-560e2692520a",
+          "0d3cfe92-75a3-4ec3-b66e-3243ba783b6d",
+          "1862e624-761a-4274-80a5-4c78a57c5b60",
+          "fc47aebf-a607-4444-be8e-ae0bb7323da4",
+          "10704107-b116-4d76-a4d9-6459738eff50"
+        ]
+      }
+    ],
+    "numFound": 14,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 2,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "{!q.op=AND} person-recipient:(Catherine II of Russia (Empress), 1729-1796) AND location-origin:(Paris, Île-de-France, France)",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}

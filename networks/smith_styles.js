@@ -2,36 +2,36 @@ var styles = [ {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.10.4",
   "target_cytoscapejs_version" : "~2.1",
-  "title" : "Big Labels",
+  "title" : "Directed",
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-color" : "rgb(0,0,0)",
-      "background-color" : "rgb(255,255,255)",
-      "font-size" : 12,
-      "height" : 5.0,
-      "width" : 5.0,
-      "shape" : "ellipse",
       "background-opacity" : 1.0,
+      "border-color" : "rgb(145,145,145)",
+      "text-opacity" : 1.0,
+      "height" : 45.0,
+      "font-size" : 8,
       "font-family" : "SansSerif",
       "font-weight" : "normal",
-      "border-width" : 0.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "color" : "rgb(51,51,51)",
-      "text-opacity" : 1.0,
+      "border-width" : 5.0,
+      "shape" : "ellipse",
       "border-opacity" : 1.0,
+      "width" : 45.0,
+      "color" : "rgb(51,153,255)",
+      "background-color" : "rgb(255,255,255)",
       "content" : "data(name)"
     }
   }, {
     "selector" : "node[Gender = 'Female']",
     "css" : {
-      "background-color" : "rgb(203,24,29)"
+      "background-color" : "rgb(29,145,192)"
     }
   }, {
     "selector" : "node[Gender = 'Male']",
     "css" : {
-      "background-color" : "rgb(34,94,168)"
+      "background-color" : "rgb(215,48,31)"
     }
   }, {
     "selector" : "node:selected",
@@ -41,20 +41,20 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "target-arrow-shape" : "none",
-      "content" : "",
-      "color" : "rgb(0,0,0)",
-      "text-opacity" : 1.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "width" : 1.0,
-      "source-arrow-shape" : "none",
-      "line-style" : "solid",
+      "line-color" : "rgb(204,204,204)",
       "opacity" : 1.0,
-      "font-size" : 10,
-      "line-color" : "rgb(183,183,183)",
-      "source-arrow-color" : "rgb(0,0,0)",
+      "target-arrow-color" : "rgb(204,204,204)",
+      "target-arrow-shape" : "triangle",
+      "source-arrow-color" : "rgb(204,204,204)",
+      "width" : 5.0,
+      "line-style" : "solid",
+      "text-opacity" : 1.0,
+      "font-size" : 12,
+      "source-arrow-shape" : "none",
+      "color" : "rgb(51,153,255)",
       "font-family" : "SansSerif",
-      "font-weight" : "normal"
+      "font-weight" : "normal",
+      "content" : "data(interaction)"
     }
   }, {
     "selector" : "edge:selected",

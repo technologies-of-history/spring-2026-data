@@ -1,0 +1,1421 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Artists' Letters. Rome and Europe 1750–1850",
+        9, "Montagu, Mary Wortley",
+        5, "Gamba collection",
+        2, "Adams, John",
+        0, "Aglionby, William",
+        0, "Agustín, Antonio",
+        0, "Amstelredamus, Alardus",
+        0, "Andreae, Johann Valentin",
+        0, "Anhalt-Dessau, Henriette Amalia von",
+        0, "Arbuthnot, John",
+        0],
+      "destination_sort": [
+        "Rome, Latium, Italy",
+        4, "Turin, Piedmont, Italy",
+        4, "Florence, Tuscany, Italy",
+        2, "Milan, Lombardy, Italy",
+        2, "Naples, Campania, Italy",
+        2, "Bologna, Emilia-Romagna, Italy",
+        1, "Osimo, The Marches, Italy",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+        8, "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+        5, "http://localhost/person/389b6f88-9100-4164-94d5-52ee569b6fa5",
+        1, "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3",
+        1, "http://localhost/person/f6cee5e8-f10d-424f-a6d2-3347d9086e2a",
+        1, "http://localhost/person/00046f63-03bc-4c0f-951a-b43de3bfea4f",
+        0, "http://localhost/person/0004e18a-4f2c-44ad-a655-8241b3f51de3",
+        0, "http://localhost/person/0006484b-80a3-4706-a343-585544332a53",
+        0, "http://localhost/person/000760d5-280c-464d-af6d-f5cc790ecef9",
+        0, "http://localhost/person/00086c18-a863-40e2-885c-daf898871692",
+        0],
+      "mail_recipient-person": [
+        "http://localhost/person/6881ef13-f5b0-4cc3-987a-2392ca5be991",
+        4, "http://localhost/person/4433d2b6-389b-4229-8b73-817ca1ee9018",
+        2, "http://localhost/person/cb0d6437-3eba-4d85-a7b7-9562f3559a64",
+        2, "http://localhost/person/28bd7873-a460-49ad-a33a-e86b8dad4786",
+        1, "http://localhost/person/690caa94-675c-4078-a731-e7bb6d74e653",
+        1, "http://localhost/person/9892b3fc-4f95-4370-aa73-a69a2ad13889",
+        1, "http://localhost/person/aa677fae-b971-4eb7-9227-59bd0478fa2e",
+        1, "http://localhost/person/ac3d4b69-c9d6-447d-86a0-a5084decc2d1",
+        1, "http://localhost/person/d5c936fc-ae08-4974-960c-c1c31e3c1e92",
+        1, "http://localhost/person/dd79cfc2-e98a-422e-a810-4b613f06bfd2",
+        1],
+      "origin_sort": [
+        "Rome, Latium, Italy",
+        8, "Venice, Veneto, Italy",
+        5, "Ariccia, Latium, Italy",
+        1, "Bologna, Emilia-Romagna, Italy",
+        1, "Padua, Veneto, Italy",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Gravenpolder, Zeeland, The Netherlands",
+        0, "'s-Gravenzande, South Holland, Netherlands",
+        0, "'s-Heerenberg, Gelderland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0],
+      "ox_started-ox_year": [
+        "1788",
+        5, "1759",
+        3, "1757",
+        1, "1761",
+        1, "1766",
+        1, "1774",
+        1, "1775",
+        1, "1784",
+        1, "1790",
+        1, "1796",
+        1]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_06843306-038c-4482-bd33-954aa71097d9": {
+
+    },
+    "uuid_126a7e47-4e63-425f-97fb-e9129da6475d": {
+
+    },
+    "uuid_2a422191-7f4d-4afc-b318-e70c844fda13": {
+
+    },
+    "uuid_2d1aa9ce-dd24-4b24-befa-4f5d8a461203": {
+
+    },
+    "uuid_427d0a08-a57a-420f-a538-43d15a595dc0": {
+
+    },
+    "uuid_6b59862d-a79c-40a3-8c62-4e25cd4321ce": {
+
+    },
+    "uuid_7d3a43f5-6c15-4d61-8062-a40f5d507a84": {
+
+    },
+    "uuid_855753c6-9c97-4b70-b147-cc2b658eb801": {
+
+    },
+    "uuid_8ba4a2fa-f6ba-432c-a889-60b146fe2469": {
+
+    },
+    "uuid_8be39db4-c43d-4850-8397-583e9d10287a": {
+
+    },
+    "uuid_a2cdcdf1-5806-4eef-b0dc-dcbad59fba41": {
+
+    },
+    "uuid_a7a083c4-3c6a-4a77-a62e-f084597a4ea7": {
+
+    },
+    "uuid_c9b76365-9ea2-4a1b-b7be-7409810a915b": {
+
+    },
+    "uuid_d9955d18-8029-4723-91b2-66718c04b105": {
+
+    },
+    "uuid_e07f86b3-c3c2-4ff1-b3af-954fa7ff53a8": {
+
+    },
+    "uuid_f4f4e905-5adb-4a51-83d6-c2299cb000f3": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609797251979018e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/e5ba101e-f5e7-4289-bb0b-812b4cb277bf"
+        ],
+        "dcterms_description": "12 Mar 1757: Montagu, Mary Wortley (Lady), 1689-1762 (Venice, Veneto, Italy) to Algarotti, Francesco (Conte), 1712-1764 (Bologna, Emilia-Romagna, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991744",
+        "dcterms_identifier-editi_": "editi_991744",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2d1aa9ce-dd24-4b24-befa-4f5d8a461203",
+        "dcterms_identifier-uuid_": "uuid_2d1aa9ce-dd24-4b24-befa-4f5d8a461203",
+        "dcterms_language": "French",
+        "destination_sort": "Bologna, Emilia-Romagna, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0e9f1421-715d-48fa-931d-1f2f264381f2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_2d1aa9ce-dd24-4b24-befa-4f5d8a461203",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5"
+        ],
+        "mail_addressees-rdf_value": "A Monsieur Monsieur le Comte Algarott",
+        "mail_destination-location": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5"
+        ],
+        "mail_destination-rdf_value": "Bologne",
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-rdf_value": "Venise",
+        "mail_recipient-person": [
+          "http://localhost/person/d5c936fc-ae08-4974-960c-c1c31e3c1e92"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0e9f1421-715d-48fa-931d-1f2f264381f2"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/e5ba101e-f5e7-4289-bb0b-812b4cb277bf"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "ce 12 de mars.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2019-04-05T21:30:32Z",
+        "ox_internalModified": "2019-04-05T21:30:32Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1757,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/d5c936fc-ae08-4974-960c-c1c31e3c1e92"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/7e4a91af-b111-4832-b69f-e3a3827b43b1"
+        ],
+        "recipient_sort": "Algarotti, Francesco (Conte), 1712-1764",
+        "resources": [
+          "http://localhost/resource/7e4a91af-b111-4832-b69f-e3a3827b43b1"
+        ],
+        "started_date_gregorian_sort": "1757-03-12T00:00:00Z",
+        "started_date_sort": "1757-03-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:00.292Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2d1aa9ce-dd24-4b24-befa-4f5d8a461203",
+        "uuid": "2d1aa9ce-dd24-4b24-befa-4f5d8a461203",
+        "uuid_related": [
+          "0e9f1421-715d-48fa-931d-1f2f264381f2",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "d5c936fc-ae08-4974-960c-c1c31e3c1e92",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "e5ba101e-f5e7-4289-bb0b-812b4cb277bf",
+          "7e4a91af-b111-4832-b69f-e3a3827b43b1"
+        ]
+      },
+      {
+        "_version_": 1.8609797254380257e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "11 Jan 1759: Montagu, Mary Wortley (Lady), 1689-1762 (Venice, Veneto, Italy) to Mackenzie, James Stuart, 1719-1800 (Turin, Piedmont, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991793",
+        "dcterms_identifier-editi_": "editi_991793",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/427d0a08-a57a-420f-a538-43d15a595dc0",
+        "dcterms_identifier-uuid_": "uuid_427d0a08-a57a-420f-a538-43d15a595dc0",
+        "dcterms_language": "English",
+        "destination_sort": "Turin, Piedmont, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/338a56bd-c973-4e9d-a017-0acda22c48fb"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_427d0a08-a57a-420f-a538-43d15a595dc0",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/baf692c8-a073-4f64-900f-d41aa8c5221a"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Monsieur Monsieur Mackensie Ministre de S.M. Brittanique",
+        "mail_destination-location": [
+          "http://localhost/location/baf692c8-a073-4f64-900f-d41aa8c5221a"
+        ],
+        "mail_destination-rdf_value": "la Cour de Turin.",
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-rdf_value": "Venice",
+        "mail_recipient-person": [
+          "http://localhost/person/6881ef13-f5b0-4cc3-987a-2392ca5be991"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/338a56bd-c973-4e9d-a017-0acda22c48fb"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Dec. [sic] 11",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2019-04-05T21:30:55Z",
+        "ox_internalModified": "2019-04-05T21:30:55Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1759,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/6881ef13-f5b0-4cc3-987a-2392ca5be991"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/fadadadd-7e2b-4f1e-a0f7-359bcbe0c32e"
+        ],
+        "recipient_sort": "Mackenzie, James Stuart, 1719-1800",
+        "resources": [
+          "http://localhost/resource/fadadadd-7e2b-4f1e-a0f7-359bcbe0c32e"
+        ],
+        "started_date_gregorian_sort": "1759-01-11T00:00:00Z",
+        "started_date_sort": "1759-01-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:00.809Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/427d0a08-a57a-420f-a538-43d15a595dc0",
+        "uuid": "427d0a08-a57a-420f-a538-43d15a595dc0",
+        "uuid_related": [
+          "338a56bd-c973-4e9d-a017-0acda22c48fb",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "6881ef13-f5b0-4cc3-987a-2392ca5be991",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "baf692c8-a073-4f64-900f-d41aa8c5221a",
+          "fadadadd-7e2b-4f1e-a0f7-359bcbe0c32e"
+        ]
+      },
+      {
+        "_version_": 1.860979725440123e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "comments": [
+          "http://localhost/comment/6afce998-f6d0-41a9-87dd-48f55e004fcc"
+        ],
+        "dcterms_description": "17 Feb 1759: Montagu, Mary Wortley (Lady), 1689-1762 (Venice, Veneto, Italy) to Mackenzie, James Stuart, 1719-1800 (Turin, Piedmont, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991797",
+        "dcterms_identifier-editi_": "editi_991797",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/6b59862d-a79c-40a3-8c62-4e25cd4321ce",
+        "dcterms_identifier-uuid_": "uuid_6b59862d-a79c-40a3-8c62-4e25cd4321ce",
+        "dcterms_language": "English",
+        "destination_sort": "Turin, Piedmont, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/5ec08a2b-6aed-4816-b270-c906b92c8cdd"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_6b59862d-a79c-40a3-8c62-4e25cd4321ce",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/baf692c8-a073-4f64-900f-d41aa8c5221a"
+        ],
+        "mail_addressees-rdf_value": "A Monsieur Monsieur Mackensie Ministre de S.M. Brittainique",
+        "mail_destination-location": [
+          "http://localhost/location/baf692c8-a073-4f64-900f-d41aa8c5221a"
+        ],
+        "mail_destination-rdf_value": "la Cour de Turin.",
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-rdf_value": "Venice",
+        "mail_recipient-person": [
+          "http://localhost/person/6881ef13-f5b0-4cc3-987a-2392ca5be991"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/5ec08a2b-6aed-4816-b270-c906b92c8cdd"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/6afce998-f6d0-41a9-87dd-48f55e004fcc"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "Feb. 17.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2019-04-05T21:30:57Z",
+        "ox_internalModified": "2019-04-05T21:30:57Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1759,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/6881ef13-f5b0-4cc3-987a-2392ca5be991"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/54c135fe-d9d7-447e-a459-f9a6838a372d"
+        ],
+        "recipient_sort": "Mackenzie, James Stuart, 1719-1800",
+        "resources": [
+          "http://localhost/resource/54c135fe-d9d7-447e-a459-f9a6838a372d"
+        ],
+        "started_date_gregorian_sort": "1759-02-17T00:00:00Z",
+        "started_date_sort": "1759-02-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:00.809Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/6b59862d-a79c-40a3-8c62-4e25cd4321ce",
+        "uuid": "6b59862d-a79c-40a3-8c62-4e25cd4321ce",
+        "uuid_related": [
+          "5ec08a2b-6aed-4816-b270-c906b92c8cdd",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "6881ef13-f5b0-4cc3-987a-2392ca5be991",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "baf692c8-a073-4f64-900f-d41aa8c5221a",
+          "6afce998-f6d0-41a9-87dd-48f55e004fcc",
+          "54c135fe-d9d7-447e-a459-f9a6838a372d"
+        ]
+      },
+      {
+        "_version_": 1.8609797254411715e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "17 Mar 1759: Montagu, Mary Wortley (Lady), 1689-1762 (Venice, Veneto, Italy) to Mackenzie, James Stuart, 1719-1800 (Turin, Piedmont, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991799",
+        "dcterms_identifier-editi_": "editi_991799",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a7a083c4-3c6a-4a77-a62e-f084597a4ea7",
+        "dcterms_identifier-uuid_": "uuid_a7a083c4-3c6a-4a77-a62e-f084597a4ea7",
+        "dcterms_language": "English",
+        "destination_sort": "Turin, Piedmont, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d6f1291a-b1ba-4ee3-b871-1393ccbe6dda"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_a7a083c4-3c6a-4a77-a62e-f084597a4ea7",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/baf692c8-a073-4f64-900f-d41aa8c5221a"
+        ],
+        "mail_addressees-rdf_value": "A S. E. Monsieur Monsieur Mackensie Ministre de S.M. Brittanique",
+        "mail_destination-location": [
+          "http://localhost/location/baf692c8-a073-4f64-900f-d41aa8c5221a"
+        ],
+        "mail_destination-rdf_value": "la Cour de Turin.",
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-rdf_value": "Venice",
+        "mail_recipient-person": [
+          "http://localhost/person/6881ef13-f5b0-4cc3-987a-2392ca5be991"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d6f1291a-b1ba-4ee3-b871-1393ccbe6dda"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "March 17. 1759.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2019-04-05T21:30:58Z",
+        "ox_internalModified": "2019-04-05T21:30:58Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1759,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/6881ef13-f5b0-4cc3-987a-2392ca5be991"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/b92a4054-f352-4df3-a8c2-36537fc7faec"
+        ],
+        "recipient_sort": "Mackenzie, James Stuart, 1719-1800",
+        "resources": [
+          "http://localhost/resource/b92a4054-f352-4df3-a8c2-36537fc7faec"
+        ],
+        "started_date_gregorian_sort": "1759-03-17T00:00:00Z",
+        "started_date_sort": "1759-03-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:00.809Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a7a083c4-3c6a-4a77-a62e-f084597a4ea7",
+        "uuid": "a7a083c4-3c6a-4a77-a62e-f084597a4ea7",
+        "uuid_related": [
+          "d6f1291a-b1ba-4ee3-b871-1393ccbe6dda",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "6881ef13-f5b0-4cc3-987a-2392ca5be991",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "baf692c8-a073-4f64-900f-d41aa8c5221a",
+          "b92a4054-f352-4df3-a8c2-36537fc7faec"
+        ]
+      },
+      {
+        "_version_": 1.860979725469483e+18,
+        "author_sort": "Montagu, Mary Wortley (Lady), 1689-1762",
+        "cito_Catalog": "Montagu, Mary Wortley",
+        "dcterms_description": "6 Jun 1761: Montagu, Mary Wortley (Lady), 1689-1762 (Venice, Veneto, Italy) to Mackenzie, James Stuart, 1719-1800 (Turin, Piedmont, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000991865",
+        "dcterms_identifier-editi_": "editi_991865",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d9955d18-8029-4723-91b2-66718c04b105",
+        "dcterms_identifier-uuid_": "uuid_d9955d18-8029-4723-91b2-66718c04b105",
+        "dcterms_language": "English",
+        "destination_sort": "Turin, Piedmont, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e6754bba-d918-4e82-b136-630a9246f0a5"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1"
+        ],
+        "id": "uuid_d9955d18-8029-4723-91b2-66718c04b105",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/baf692c8-a073-4f64-900f-d41aa8c5221a"
+        ],
+        "mail_addressees-rdf_value": "A Monsieur Monsieur Stuart Mackensie ministre de S M Brittanique",
+        "mail_destination-location": [
+          "http://localhost/location/baf692c8-a073-4f64-900f-d41aa8c5221a"
+        ],
+        "mail_destination-rdf_value": "la Cour de Turin",
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-rdf_value": "Venice",
+        "mail_recipient-person": [
+          "http://localhost/person/6881ef13-f5b0-4cc3-987a-2392ca5be991"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e6754bba-d918-4e82-b136-630a9246f0a5"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "May 28.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2019-04-05T21:31:32Z",
+        "ox_internalModified": "2019-04-05T21:31:32Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, with Oxford Scholarly Editions Online, 5 April 2019",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 6,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1761,
+        "people": [
+          "http://localhost/person/8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "http://localhost/person/6881ef13-f5b0-4cc3-987a-2392ca5be991"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/ef970a80-dafc-4c09-86d3-18c5eb2d84ad"
+        ],
+        "recipient_sort": "Mackenzie, James Stuart, 1719-1800",
+        "resources": [
+          "http://localhost/resource/ef970a80-dafc-4c09-86d3-18c5eb2d84ad"
+        ],
+        "started_date_gregorian_sort": "1761-06-06T00:00:00Z",
+        "started_date_sort": "1761-06-06T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:00.809Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d9955d18-8029-4723-91b2-66718c04b105",
+        "uuid": "d9955d18-8029-4723-91b2-66718c04b105",
+        "uuid_related": [
+          "e6754bba-d918-4e82-b136-630a9246f0a5",
+          "8bc7f747-9e3a-46d7-ac12-6225ddb42ed1",
+          "6881ef13-f5b0-4cc3-987a-2392ca5be991",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "baf692c8-a073-4f64-900f-d41aa8c5221a",
+          "ef970a80-dafc-4c09-86d3-18c5eb2d84ad"
+        ]
+      },
+      {
+        "_version_": 1.8609795902891622e+18,
+        "author_sort": "Bassi, Laura Maria Caterina, 1711-1788",
+        "cito_Catalog": "Gamba collection",
+        "dcterms_abstract": "Bassi thanks Preti for unspecified favours and denigrates her own abilities.",
+        "dcterms_description": "5 Mar 1766: Bassi, Laura Maria Caterina, 1711-1788 (Bologna, Emilia-Romagna, Italy) to Preti, Ludovico, fl. 1750-1767 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000941447",
+        "dcterms_identifier-editi_": "editi_941447",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/e07f86b3-c3c2-4ff1-b3af-954fa7ff53a8",
+        "dcterms_identifier-uuid_": "uuid_e07f86b3-c3c2-4ff1-b3af-954fa7ff53a8",
+        "dcterms_language": "Italian",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/1badaa53-3ad3-4e9a-9ef1-d5f894fed1be"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3"
+        ],
+        "id": "uuid_e07f86b3-c3c2-4ff1-b3af-954fa7ff53a8",
+        "locations": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_authors-rdf_value": "Laura M: Cat: Bassi Varatti",
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-rdf_value": "Unmarked.",
+        "mail_origin-location": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5"
+        ],
+        "mail_origin-rdf_value": "Bologna",
+        "mail_recipient-person": [
+          "http://localhost/person/aa677fae-b971-4eb7-9227-59bd0478fa2e"
+        ],
+        "manifestation-institution-place": [
+          "Oesterreichische Nationalbibliothek",
+          "Österreichische Nationalbibliothek\nAustrian National Library\nOsterreichische Nationalbibliothek",
+          "Vienna",
+          "Wien",
+          "Austria",
+          "Österreich"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/1badaa53-3ad3-4e9a-9ef1-d5f894fed1be"
+        ],
+        "object_type": "work",
+        "origin_sort": "Bologna, Emilia-Romagna, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "5 Marzo 1766",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-10-14T17:23:54Z",
+        "ox_internalModified": "2015-10-15T08:52:28Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_keywords": "Patronage; female self-denigration",
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Vittoria Feola, in association with the Austrian National Library, the Medical University of Vienna, the Biblioteca Museo Civico di Bassano del Grappa, and the University of Padua, 14 October 2015",
+        "ox_started-ox_day": 5,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1766,
+        "people": [
+          "http://localhost/person/9d5c9a09-0b69-49e9-b339-dfc36586f4f3",
+          "http://localhost/person/aa677fae-b971-4eb7-9227-59bd0478fa2e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/721bc5cc-15b4-4e8a-b1c1-8a6102113984"
+        ],
+        "recipient_sort": "Preti, Ludovico, fl. 1750-1767",
+        "resources": [
+          "http://localhost/resource/721bc5cc-15b4-4e8a-b1c1-8a6102113984"
+        ],
+        "started_date_gregorian_sort": "1766-03-05T00:00:00Z",
+        "started_date_sort": "1766-03-05T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:55.365Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/e07f86b3-c3c2-4ff1-b3af-954fa7ff53a8",
+        "uuid": "e07f86b3-c3c2-4ff1-b3af-954fa7ff53a8",
+        "uuid_related": [
+          "1badaa53-3ad3-4e9a-9ef1-d5f894fed1be",
+          "9d5c9a09-0b69-49e9-b339-dfc36586f4f3",
+          "aa677fae-b971-4eb7-9227-59bd0478fa2e",
+          "754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "721bc5cc-15b4-4e8a-b1c1-8a6102113984"
+        ]
+      },
+      {
+        "_version_": 1.8609795905680835e+18,
+        "author_sort": "Medici, Maria, fl. 1770-1780",
+        "cito_Catalog": "Gamba collection",
+        "dcterms_abstract": "Medici asks her correspondent to compose a poem in honour of their (unspecified) common friend, now deceased, Giannantonio Muscato.",
+        "dcterms_description": "25 Mar 1774: Medici, Maria, fl. 1770-1780 (Padua, Veneto, Italy) to Taleoni, Marc'Antonio, fl. 1774 (Osimo, The Marches, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000941483",
+        "dcterms_identifier-editi_": "editi_941483",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8ba4a2fa-f6ba-432c-a889-60b146fe2469",
+        "dcterms_identifier-uuid_": "uuid_8ba4a2fa-f6ba-432c-a889-60b146fe2469",
+        "dcterms_language": "Italian",
+        "destination_sort": "Osimo, The Marches, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0cc3e5f8-bb4a-4e05-be9e-2fb5942fe0ae"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/f6cee5e8-f10d-424f-a6d2-3347d9086e2a"
+        ],
+        "id": "uuid_8ba4a2fa-f6ba-432c-a889-60b146fe2469",
+        "locations": [
+          "http://localhost/location/f890d861-0f88-4b0e-a03d-62b589cd07cb",
+          "http://localhost/location/42fd210b-5692-45c0-b93f-ca115c0476d8"
+        ],
+        "mail_addressees-rdf_value": "Marc'Antonio Taleoni",
+        "mail_authors-rdf_value": "Maria Medici",
+        "mail_destination-location": [
+          "http://localhost/location/42fd210b-5692-45c0-b93f-ca115c0476d8"
+        ],
+        "mail_destination-rdf_value": "Osimo",
+        "mail_origin-location": [
+          "http://localhost/location/f890d861-0f88-4b0e-a03d-62b589cd07cb"
+        ],
+        "mail_origin-rdf_value": "Padova",
+        "mail_recipient-person": [
+          "http://localhost/person/fa99fb6a-9fa8-431a-956a-819081f4ed21"
+        ],
+        "manifestation-institution-place": [
+          "Oesterreichische Nationalbibliothek",
+          "Österreichische Nationalbibliothek\nAustrian National Library\nOsterreichische Nationalbibliothek",
+          "Vienna",
+          "Wien",
+          "Austria",
+          "Österreich"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0cc3e5f8-bb4a-4e05-be9e-2fb5942fe0ae"
+        ],
+        "object_type": "work",
+        "origin_sort": "Padua, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "25 Marzo 1774",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-10-14T17:24:21Z",
+        "ox_internalModified": "2016-03-14T22:16:33Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_keywords": "poetry",
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Vittoria Feola, in association with the Austrian National Library, the Medical University of Vienna, the Biblioteca Museo Civico di Bassano del Grappa, and the University of Padua, 14 October 2015",
+        "ox_started-ox_day": 25,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1774,
+        "people": [
+          "http://localhost/person/f6cee5e8-f10d-424f-a6d2-3347d9086e2a",
+          "http://localhost/person/fa99fb6a-9fa8-431a-956a-819081f4ed21"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f28f5f1c-3fb4-40d0-ae17-fcad68a1a328"
+        ],
+        "recipient_sort": "Taleoni, Marc'Antonio, fl. 1774",
+        "resources": [
+          "http://localhost/resource/f28f5f1c-3fb4-40d0-ae17-fcad68a1a328"
+        ],
+        "started_date_gregorian_sort": "1774-03-25T00:00:00Z",
+        "started_date_sort": "1774-03-25T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:55.365Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8ba4a2fa-f6ba-432c-a889-60b146fe2469",
+        "uuid": "8ba4a2fa-f6ba-432c-a889-60b146fe2469",
+        "uuid_related": [
+          "0cc3e5f8-bb4a-4e05-be9e-2fb5942fe0ae",
+          "f890d861-0f88-4b0e-a03d-62b589cd07cb",
+          "f6cee5e8-f10d-424f-a6d2-3347d9086e2a",
+          "fa99fb6a-9fa8-431a-956a-819081f4ed21",
+          "42fd210b-5692-45c0-b93f-ca115c0476d8",
+          "f28f5f1c-3fb4-40d0-ae17-fcad68a1a328"
+        ]
+      },
+      {
+        "_version_": 1.8609798281124905e+18,
+        "author_sort": "Mengs, Margarita, fl. 1778",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "16 Aug 1775: Mengs, Margarita, fl. 1778 (Ariccia, Latium, Italy) to Maron, Anton von, 1733-1808 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001027053",
+        "dcterms_identifier-editi_": "editi_1027053",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/2a422191-7f4d-4afc-b318-e70c844fda13",
+        "dcterms_identifier-uuid_": "uuid_2a422191-7f4d-4afc-b318-e70c844fda13",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/2909fdb2-8824-409d-99b8-90a951afea08"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/389b6f88-9100-4164-94d5-52ee569b6fa5"
+        ],
+        "id": "uuid_2a422191-7f4d-4afc-b318-e70c844fda13",
+        "locations": [
+          "http://localhost/location/6d72b3ad-e42d-4ec4-bd64-5c7b881a91d0",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/6d72b3ad-e42d-4ec4-bd64-5c7b881a91d0"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/690caa94-675c-4078-a731-e7bb6d74e653"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/2909fdb2-8824-409d-99b8-90a951afea08"
+        ],
+        "object_type": "work",
+        "origin_sort": "Ariccia, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-08-16T23:33:37Z",
+        "ox_internalModified": "2022-08-16T23:33:37Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_keywords": "relazioni familiari",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi and Susanne Meyer (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 17 August 2022",
+        "ox_started-ox_day": 16,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1775,
+        "people": [
+          "http://localhost/person/389b6f88-9100-4164-94d5-52ee569b6fa5",
+          "http://localhost/person/690caa94-675c-4078-a731-e7bb6d74e653"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Maron, Anton von, 1733-1808",
+        "started_date_gregorian_sort": "1775-08-16T00:00:00Z",
+        "started_date_sort": "1775-08-16T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.828Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/2a422191-7f4d-4afc-b318-e70c844fda13",
+        "uuid": "2a422191-7f4d-4afc-b318-e70c844fda13",
+        "uuid_related": [
+          "2909fdb2-8824-409d-99b8-90a951afea08",
+          "389b6f88-9100-4164-94d5-52ee569b6fa5",
+          "690caa94-675c-4078-a731-e7bb6d74e653",
+          "6d72b3ad-e42d-4ec4-bd64-5c7b881a91d0",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.8609797707061002e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/78bdf18d-fb0f-4c2e-94e8-d217304b47e1"
+        ],
+        "dcterms_description": "23 Mar 1784: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Caetani, Onorato, 1742-1797 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006348",
+        "dcterms_identifier-editi_": "editi_1006348",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/855753c6-9c97-4b70-b147-cc2b658eb801",
+        "dcterms_identifier-uuid_": "uuid_855753c6-9c97-4b70-b147-cc2b658eb801",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/8c00a103-9ce6-421b-b933-2c2ef6ff24c1"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_855753c6-9c97-4b70-b147-cc2b658eb801",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/9892b3fc-4f95-4370-aa73-a69a2ad13889"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/8c00a103-9ce6-421b-b933-2c2ef6ff24c1"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:41:50Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/78bdf18d-fb0f-4c2e-94e8-d217304b47e1"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "ritratto; commissione",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 23,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1784,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/9892b3fc-4f95-4370-aa73-a69a2ad13889"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Caetani, Onorato, 1742-1797",
+        "started_date_gregorian_sort": "1784-03-23T00:00:00Z",
+        "started_date_sort": "1784-03-23T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/855753c6-9c97-4b70-b147-cc2b658eb801",
+        "uuid": "855753c6-9c97-4b70-b147-cc2b658eb801",
+        "uuid_related": [
+          "8c00a103-9ce6-421b-b933-2c2ef6ff24c1",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "9892b3fc-4f95-4370-aa73-a69a2ad13889",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "78bdf18d-fb0f-4c2e-94e8-d217304b47e1"
+        ]
+      },
+      {
+        "_version_": 1.8609797707155374e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/64936d4c-d182-4d24-a960-b08832e29777"
+        ],
+        "dcterms_description": "10 May 1788: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Goethe, Johann Wolfgang von, 1749-1832 (Milan, Lombardy, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006367",
+        "dcterms_identifier-editi_": "editi_1006367",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/8be39db4-c43d-4850-8397-583e9d10287a",
+        "dcterms_identifier-uuid_": "uuid_8be39db4-c43d-4850-8397-583e9d10287a",
+        "dcterms_references-person": [
+          "http://localhost/person/2ad3e82b-8fa4-418d-9db2-bcdca97cbaf8",
+          "http://localhost/person/9f46e241-e7fa-42f8-a18c-9b75d6e14495",
+          "http://localhost/person/57a546b7-4419-4cfa-ba03-0e1d7974965f",
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af"
+        ],
+        "destination_sort": "Milan, Lombardy, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3ba4ad59-62ba-45d5-ba52-769a9f30da41"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_8be39db4-c43d-4850-8397-583e9d10287a",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e2360578-72bf-46a0-a35c-a5b7a3d95f07"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e2360578-72bf-46a0-a35c-a5b7a3d95f07"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4433d2b6-389b-4229-8b73-817ca1ee9018"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3ba4ad59-62ba-45d5-ba52-769a9f30da41"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:01Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/64936d4c-d182-4d24-a960-b08832e29777"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "amicizia; saluti; viaggio; commissione",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1788,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/4433d2b6-389b-4229-8b73-817ca1ee9018"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Goethe, Johann Wolfgang von, 1749-1832",
+        "started_date_gregorian_sort": "1788-05-10T00:00:00Z",
+        "started_date_sort": "1788-05-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/8be39db4-c43d-4850-8397-583e9d10287a",
+        "uuid": "8be39db4-c43d-4850-8397-583e9d10287a",
+        "uuid_related": [
+          "3ba4ad59-62ba-45d5-ba52-769a9f30da41",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "4433d2b6-389b-4229-8b73-817ca1ee9018",
+          "2ad3e82b-8fa4-418d-9db2-bcdca97cbaf8",
+          "9f46e241-e7fa-42f8-a18c-9b75d6e14495",
+          "57a546b7-4419-4cfa-ba03-0e1d7974965f",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e2360578-72bf-46a0-a35c-a5b7a3d95f07",
+          "64936d4c-d182-4d24-a960-b08832e29777"
+        ]
+      },
+      {
+        "_version_": 1.8609797707123917e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/e6143acb-24f5-47d0-bac7-500d5bcd5d27"
+        ],
+        "dcterms_description": "17 May 1788: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Goethe, Johann Wolfgang von, 1749-1832 (Milan, Lombardy, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006361",
+        "dcterms_identifier-editi_": "editi_1006361",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f4f4e905-5adb-4a51-83d6-c2299cb000f3",
+        "dcterms_identifier-uuid_": "uuid_f4f4e905-5adb-4a51-83d6-c2299cb000f3",
+        "dcterms_references-person": [
+          "http://localhost/person/2ad3e82b-8fa4-418d-9db2-bcdca97cbaf8",
+          "http://localhost/person/57a546b7-4419-4cfa-ba03-0e1d7974965f",
+          "http://localhost/person/560e9144-401e-4092-beba-842441ea08af"
+        ],
+        "destination_sort": "Milan, Lombardy, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/d21668a1-7089-41fe-beff-6efbf9df51be"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_f4f4e905-5adb-4a51-83d6-c2299cb000f3",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e2360578-72bf-46a0-a35c-a5b7a3d95f07"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e2360578-72bf-46a0-a35c-a5b7a3d95f07"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4433d2b6-389b-4229-8b73-817ca1ee9018"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/d21668a1-7089-41fe-beff-6efbf9df51be"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:41:59Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/e6143acb-24f5-47d0-bac7-500d5bcd5d27"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "Torquato Tasso, ; amicizia; viaggio",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1788,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/4433d2b6-389b-4229-8b73-817ca1ee9018"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Goethe, Johann Wolfgang von, 1749-1832",
+        "started_date_gregorian_sort": "1788-05-17T00:00:00Z",
+        "started_date_sort": "1788-05-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f4f4e905-5adb-4a51-83d6-c2299cb000f3",
+        "uuid": "f4f4e905-5adb-4a51-83d6-c2299cb000f3",
+        "uuid_related": [
+          "d21668a1-7089-41fe-beff-6efbf9df51be",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "4433d2b6-389b-4229-8b73-817ca1ee9018",
+          "2ad3e82b-8fa4-418d-9db2-bcdca97cbaf8",
+          "57a546b7-4419-4cfa-ba03-0e1d7974965f",
+          "560e9144-401e-4092-beba-842441ea08af",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e2360578-72bf-46a0-a35c-a5b7a3d95f07",
+          "e6143acb-24f5-47d0-bac7-500d5bcd5d27"
+        ]
+      },
+      {
+        "_version_": 1.860979770711343e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "4 Jun 1788: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Bencivenni Pelli, Giuseppe, 1729-1808 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006359",
+        "dcterms_identifier-editi_": "editi_1006359",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7d3a43f5-6c15-4d61-8062-a40f5d507a84",
+        "dcterms_identifier-uuid_": "uuid_7d3a43f5-6c15-4d61-8062-a40f5d507a84",
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/35f67bf8-ecbe-4626-9d0d-2f58a4f1468d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_7d3a43f5-6c15-4d61-8062-a40f5d507a84",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/cb0d6437-3eba-4d85-a7b7-9562f3559a64"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/35f67bf8-ecbe-4626-9d0d-2f58a4f1468d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:41:58Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "Autoritratto per la Galleria degli Uffizi",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 4,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1788,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/cb0d6437-3eba-4d85-a7b7-9562f3559a64"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Bencivenni Pelli, Giuseppe, 1729-1808",
+        "started_date_gregorian_sort": "1788-06-04T00:00:00Z",
+        "started_date_sort": "1788-06-04T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7d3a43f5-6c15-4d61-8062-a40f5d507a84",
+        "uuid": "7d3a43f5-6c15-4d61-8062-a40f5d507a84",
+        "uuid_related": [
+          "35f67bf8-ecbe-4626-9d0d-2f58a4f1468d",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "cb0d6437-3eba-4d85-a7b7-9562f3559a64",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.860979771040596e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "Jun 1788: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Bencivenni Pelli, Giuseppe, 1729-1808 (Florence, Tuscany, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006471",
+        "dcterms_identifier-editi_": "editi_1006471",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/06843306-038c-4482-bd33-954aa71097d9",
+        "dcterms_identifier-uuid_": "uuid_06843306-038c-4482-bd33-954aa71097d9",
+        "destination_sort": "Florence, Tuscany, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a6122a2a-e508-4051-9523-b1948e633907"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_06843306-038c-4482-bd33-954aa71097d9",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/cb0d6437-3eba-4d85-a7b7-9562f3559a64"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a6122a2a-e508-4051-9523-b1948e633907"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:23Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "Autoritratto per la Galleria degli Uffizi",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1788,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/cb0d6437-3eba-4d85-a7b7-9562f3559a64"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Bencivenni Pelli, Giuseppe, 1729-1808",
+        "started_date_gregorian_sort": "1788-06-30T00:00:00Z",
+        "started_date_sort": "1788-06-30T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/06843306-038c-4482-bd33-954aa71097d9",
+        "uuid": "06843306-038c-4482-bd33-954aa71097d9",
+        "uuid_related": [
+          "a6122a2a-e508-4051-9523-b1948e633907",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "cb0d6437-3eba-4d85-a7b7-9562f3559a64",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "e516929c-1183-45d7-a00b-48c174ce8d5f"
+        ]
+      },
+      {
+        "_version_": 1.8609797707102945e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "dcterms_description": "2 Sep 1788: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Salis-Marschlins, Carl Ulysses von, 1762-1818 (Naples, Campania, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006358",
+        "dcterms_identifier-editi_": "editi_1006358",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/126a7e47-4e63-425f-97fb-e9129da6475d",
+        "dcterms_identifier-uuid_": "uuid_126a7e47-4e63-425f-97fb-e9129da6475d",
+        "destination_sort": "Naples, Campania, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/949b5276-45ea-4176-b44b-98f9c77125e6"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_126a7e47-4e63-425f-97fb-e9129da6475d",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/ac3d4b69-c9d6-447d-86a0-a5084decc2d1"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/949b5276-45ea-4176-b44b-98f9c77125e6"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:41:58Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_keywords": "lettera di ringraziamento; raccomadazione",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 2,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1788,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/ac3d4b69-c9d6-447d-86a0-a5084decc2d1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Salis-Marschlins, Carl Ulysses von, 1762-1818",
+        "started_date_gregorian_sort": "1788-09-02T00:00:00Z",
+        "started_date_sort": "1788-09-02T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/126a7e47-4e63-425f-97fb-e9129da6475d",
+        "uuid": "126a7e47-4e63-425f-97fb-e9129da6475d",
+        "uuid_related": [
+          "949b5276-45ea-4176-b44b-98f9c77125e6",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "ac3d4b69-c9d6-447d-86a0-a5084decc2d1",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ]
+      },
+      {
+        "_version_": 1.8609797707270717e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/86e4d3e9-24a7-4a6f-a574-c674a53ead0f"
+        ],
+        "dcterms_description": "17 May 1790: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Hamilton, William (Sir), 1731-1803 (Naples, Campania, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006391",
+        "dcterms_identifier-editi_": "editi_1006391",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/c9b76365-9ea2-4a1b-b7be-7409810a915b",
+        "dcterms_identifier-uuid_": "uuid_c9b76365-9ea2-4a1b-b7be-7409810a915b",
+        "dcterms_references-person": [
+          "http://localhost/person/dab8cb28-37e0-49ba-9f3d-fbac00c43d7e"
+        ],
+        "destination_sort": "Naples, Campania, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/199feca2-2970-49cc-a54a-09f7c3d96e09"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_c9b76365-9ea2-4a1b-b7be-7409810a915b",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/4783945c-e15d-47c7-877e-5f2fe2d6ca62"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/dd79cfc2-e98a-422e-a810-4b613f06bfd2"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/199feca2-2970-49cc-a54a-09f7c3d96e09"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:05Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/86e4d3e9-24a7-4a6f-a574-c674a53ead0f"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "ritratti",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 17,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1790,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/dd79cfc2-e98a-422e-a810-4b613f06bfd2"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Hamilton, William (Sir), 1731-1803",
+        "started_date_gregorian_sort": "1790-05-17T00:00:00Z",
+        "started_date_sort": "1790-05-17T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/c9b76365-9ea2-4a1b-b7be-7409810a915b",
+        "uuid": "c9b76365-9ea2-4a1b-b7be-7409810a915b",
+        "uuid_related": [
+          "199feca2-2970-49cc-a54a-09f7c3d96e09",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "dd79cfc2-e98a-422e-a810-4b613f06bfd2",
+          "dab8cb28-37e0-49ba-9f3d-fbac00c43d7e",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "4783945c-e15d-47c7-877e-5f2fe2d6ca62",
+          "86e4d3e9-24a7-4a6f-a574-c674a53ead0f"
+        ]
+      },
+      {
+        "_version_": 1.8609797710238188e+18,
+        "author_sort": "Kauffmann, Angelika, 1741-1807",
+        "cito_Catalog": "Artists' Letters. Rome and Europe 1750–1850",
+        "comments": [
+          "http://localhost/comment/6360c567-834b-4c33-9a5e-7e9538ef92ee"
+        ],
+        "dcterms_description": "22 Mar 1796: Kauffmann, Angelika, 1741-1807 (Rome, Latium, Italy) to Matthisson, Friedrick von, 1761-1831 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001006432",
+        "dcterms_identifier-editi_": "editi_1006432",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/a2cdcdf1-5806-4eef-b0dc-dcbad59fba41",
+        "dcterms_identifier-uuid_": "uuid_a2cdcdf1-5806-4eef-b0dc-dcbad59fba41",
+        "dcterms_references-person": [
+          "http://localhost/person/d384509d-b8ea-4e04-9935-a1362ac21c3c",
+          "http://localhost/person/7e292928-6ec5-4a9e-a664-fb84439823ca"
+        ],
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4c0f2c68-4b0f-4c44-9bb4-f36d514150db"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312"
+        ],
+        "id": "uuid_a2cdcdf1-5806-4eef-b0dc-dcbad59fba41",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/28bd7873-a460-49ad-a33a-e86b8dad4786"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4c0f2c68-4b0f-4c44-9bb4-f36d514150db"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2021-02-24T21:42:14Z",
+        "ox_internalModified": "2021-02-27T15:17:58Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/6360c567-834b-4c33-9a5e-7e9538ef92ee"
+        ],
+        "ox_isTranslation": false,
+        "ox_keywords": "Ritratto ; lavoro",
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Serenella Rolfi Ozvald (Lettere d’Artista. Roma e l’Europa/Lettres d’Artiste. Rome et l’Europe, 1750–1850), 24 February 2021",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1796,
+        "people": [
+          "http://localhost/person/0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "http://localhost/person/28bd7873-a460-49ad-a33a-e86b8dad4786"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Matthisson, Friedrick von, 1761-1831",
+        "started_date_gregorian_sort": "1796-03-22T00:00:00Z",
+        "started_date_sort": "1796-03-22T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:24.098Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/a2cdcdf1-5806-4eef-b0dc-dcbad59fba41",
+        "uuid": "a2cdcdf1-5806-4eef-b0dc-dcbad59fba41",
+        "uuid_related": [
+          "4c0f2c68-4b0f-4c44-9bb4-f36d514150db",
+          "0009f8f6-2210-48bf-930e-d5385c2e2312",
+          "28bd7873-a460-49ad-a33a-e86b8dad4786",
+          "d384509d-b8ea-4e04-9935-a1362ac21c3c",
+          "7e292928-6ec5-4a9e-a664-fb84439823ca",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "6360c567-834b-4c33-9a5e-7e9538ef92ee"
+        ]
+      }
+    ],
+    "numFound": 16,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 1,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1700-01-01T00:00:00Z TO 1799-12-31T23:59:59Z] AND (person-author-gender:(female) OR person-recipient-gender:(female) OR person-mentioned-gender:(female)) AND person-author-gender:(female) AND person-recipient-gender:(male) AND location-origin:(Rome, Latium, Italy) AND location-destination:(Rome, Latium, Italy)",
+      "rows": "16",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}

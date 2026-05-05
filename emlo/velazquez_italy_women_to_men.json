@@ -1,0 +1,2716 @@
+{
+  "facet_counts": {
+    "facet_fields": {
+      "cito_Catalog": [
+        "Kircher, Athanasius",
+        8, "Malpighi, Marcello",
+        5, "Stuart, Elizabeth, Queen of Bohemia",
+        4, "Vossius, Gerardus Joannes",
+        4, "Vossius, Isaac",
+        4, "Huygens, Constantijn",
+        2, "Bayle, Pierre",
+        1, "Dryden, John",
+        1, "Huygens, Christiaan",
+        1, "Adams, John",
+        0],
+      "destination_sort": [
+        "Rome, Latium, Italy",
+        11, "Venice, Veneto, Italy",
+        7, "Brescia, Lombardy, Italy",
+        3, "The Hague, South Holland, Netherlands",
+        3, "Corticella, Emilia-Romagna, Italy",
+        2, "Rotterdam, South Holland, Netherlands",
+        1, "'s-Graveland, North Holland, Netherlands",
+        0, "'s-Hertogenbosch, North Brabant, Netherlands",
+        0, "Aachen, North Rhine-Westphalia, Germany",
+        0, "Abbaye de l'Île Barbe, Île Barbe, Lyon, Auvergne-Rhône-Alpes, France",
+        0],
+      "frbr_creator-person": [
+        "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+        8, "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+        8, "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52",
+        4, "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+        4, "http://localhost/person/1041d40c-7d66-49f8-9e9e-f6cff3ad06e5",
+        2, "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397",
+        2, "http://localhost/person/034439a8-373a-4243-a7c4-973b93f551e5",
+        1, "http://localhost/person/0e945fa2-f2d6-4d87-8a9e-1a7677a85412",
+        1, "http://localhost/person/20fa3a3d-2bfc-4318-aff0-0c660ef70130",
+        1, "http://localhost/person/57f62df8-f10d-4c3b-ac39-93bd50b8e0bd",
+        1],
+      "mail_recipient-person": [
+        "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+        8, "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d",
+        8, "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df",
+        5, "http://localhost/person/75711879-c89c-45df-a13e-11f9b5fd3f80",
+        4, "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121",
+        2, "http://localhost/person/0bdfd170-8297-4af2-91bf-b5bf0009c067",
+        1, "http://localhost/person/438febf3-3dd5-4451-883d-56a2f30b4d19",
+        1, "http://localhost/person/69457caf-f368-44e6-9fd0-ccb72419c489",
+        1, "http://localhost/person/ccbc2e77-01e2-4103-abfb-a8f79f8fc3d1",
+        1, "http://localhost/person/e0b46100-d5cd-44d0-b02f-4a64e277241e",
+        1],
+      "origin_sort": [
+        "Amsterdam, North Holland, (United Provinces) Netherlands",
+        8, "The Hague, South Holland, Netherlands",
+        4, "Rome, Latium, Italy",
+        3, "Warsaw, Masovian Voivodeship, (Kingdom of Poland) Poland",
+        3, "Bologna, Emilia-Romagna, Italy",
+        2, "L'Aquila, Abruzzo, Italy",
+        1, "Meldola, Emilia-Romagna, Italy",
+        1, "Milan, Lombardy, Italy",
+        1, "Mirandola, Emilia-Romagna, Italy",
+        1, "Moravský Krumlov, South Moravia, Czech Republic",
+        1],
+      "ox_started-ox_year": [
+        "1642",
+        6, "1686",
+        4, "1643",
+        3, "1625",
+        2, "1627",
+        2, "1668",
+        2, "1636",
+        1, "1645",
+        1, "1650",
+        1, "1663",
+        1]
+    },
+    "facet_heatmaps": {
+
+    },
+    "facet_intervals": {
+
+    },
+    "facet_queries": {
+
+    },
+    "facet_ranges": {
+
+    }
+  },
+  "highlighting": {
+    "uuid_07bca38d-2b1d-4ee0-a0ee-c7634c912028": {
+
+    },
+    "uuid_0e65263c-5d7d-41ab-9034-23053b694eef": {
+
+    },
+    "uuid_0f27fb6a-d0d6-49f1-b744-bb7e6e70f855": {
+
+    },
+    "uuid_16ea48e1-50a6-44d7-9d4f-9e47c944f07c": {
+
+    },
+    "uuid_1a96aacc-72f5-4908-925b-abab21377373": {
+
+    },
+    "uuid_32d65fd7-3e53-42cb-a5bf-c0fd2317e28d": {
+
+    },
+    "uuid_334a0447-7d4a-46f5-857f-cf79ab5d4d98": {
+
+    },
+    "uuid_45a11a5f-d11d-48d3-9f82-5194afd350a5": {
+
+    },
+    "uuid_56e98bad-e9ee-4e4f-ba7f-d0dd9132fdb5": {
+
+    },
+    "uuid_593e7b10-e290-4850-8fdc-02ba0979bbc6": {
+
+    },
+    "uuid_5f23c337-3c83-44a6-92c6-acaca4f750dd": {
+
+    },
+    "uuid_647bfe0d-ed01-4cc0-88b6-bb76ebda8be0": {
+
+    },
+    "uuid_7b54c7d9-0c6e-4db3-afa1-eedb048467f2": {
+
+    },
+    "uuid_85e5a846-cd30-46c8-8dd5-cd21134b9b9c": {
+
+    },
+    "uuid_9824cd2c-47a3-4132-8105-95c5c23fd6bb": {
+
+    },
+    "uuid_af892027-9353-49cf-886b-2aa05094bc08": {
+
+    },
+    "uuid_cc029c21-2d5b-4f81-ab15-1f997252c104": {
+
+    },
+    "uuid_cc40a99f-8608-4d79-addf-f5b617ec46c1": {
+
+    },
+    "uuid_d5e548c9-d9ed-429e-b26b-9cd1cad47def": {
+
+    },
+    "uuid_d641a142-ada9-47c5-8d58-12cc7998aad5": {
+
+    },
+    "uuid_d81a0289-546b-42a8-9089-81378d7efb3e": {
+
+    },
+    "uuid_dfe5743e-d43c-4c26-85fd-a4f3549f7d54": {
+
+    },
+    "uuid_eb6ec539-9e1f-4342-87e5-71e2afe11e54": {
+
+    },
+    "uuid_edaf4d30-9497-4bb1-a3dd-4ce75276369e": {
+
+    },
+    "uuid_ee24ac22-57e8-4f0f-b87b-d8ab5e637afa": {
+
+    },
+    "uuid_f294bd48-5e9c-47e6-b9e7-0df9c1d65a6a": {
+
+    },
+    "uuid_f67a6b4f-f744-4fdb-8c8a-6ec4f912f17e": {
+
+    },
+    "uuid_fadc985a-d9a0-46a8-a149-8e089c1d9516": {
+
+    },
+    "uuid_fc883e6c-8181-4167-bf57-c984a1f56092": {
+
+    },
+    "uuid_fe13284f-0a6f-47fc-88b4-8a0e42d288aa": {
+
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "_version_": 1.8609796403041403e+18,
+        "author_sort": "Stuart, Elizabeth, Queen of Bohemia, 1596-1662",
+        "cito_Catalog": "Stuart, Elizabeth, Queen of Bohemia",
+        "comments": [
+          "http://localhost/comment/e240c52c-be27-46de-995a-9c096784d219"
+        ],
+        "dcterms_description": "8 Jun 1625: Stuart, Elizabeth, Queen of Bohemia, 1596-1662 (The Hague, South Holland, Netherlands) to Thurn, Jindřich Matyáš, 1567-1640 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000961352",
+        "dcterms_identifier-editi_": "editi_961352",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/45a11a5f-d11d-48d3-9f82-5194afd350a5",
+        "dcterms_identifier-uuid_": "uuid_45a11a5f-d11d-48d3-9f82-5194afd350a5",
+        "dcterms_language": "French",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/735bee17-e893-436a-bf0b-17b46606e1a7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb"
+        ],
+        "id": "uuid_45a11a5f-d11d-48d3-9f82-5194afd350a5",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/75711879-c89c-45df-a13e-11f9b5fd3f80"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/735bee17-e893-436a-bf0b-17b46606e1a7"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/e240c52c-be27-46de-995a-9c096784d219"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2017-04-04T23:36:45Z",
+        "ox_internalModified": "2017-04-04T23:36:45Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Nadine Akkerman, 4 April 2017",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 8,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1625,
+        "people": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "http://localhost/person/75711879-c89c-45df-a13e-11f9b5fd3f80"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4f8132a8-05fd-4b70-8bd6-72e5d7bbcd6e"
+        ],
+        "recipient_sort": "Thurn, Jindřich Matyáš, 1567-1640",
+        "resources": [
+          "http://localhost/resource/4f8132a8-05fd-4b70-8bd6-72e5d7bbcd6e"
+        ],
+        "started_date_gregorian_sort": "1625-06-08T00:00:00Z",
+        "started_date_sort": "1625-06-08T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:21.101Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/45a11a5f-d11d-48d3-9f82-5194afd350a5",
+        "uuid": "45a11a5f-d11d-48d3-9f82-5194afd350a5",
+        "uuid_related": [
+          "735bee17-e893-436a-bf0b-17b46606e1a7",
+          "d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "75711879-c89c-45df-a13e-11f9b5fd3f80",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "e240c52c-be27-46de-995a-9c096784d219",
+          "4f8132a8-05fd-4b70-8bd6-72e5d7bbcd6e"
+        ]
+      },
+      {
+        "_version_": 1.860979640312529e+18,
+        "author_sort": "Stuart, Elizabeth, Queen of Bohemia, 1596-1662",
+        "cito_Catalog": "Stuart, Elizabeth, Queen of Bohemia",
+        "comments": [
+          "http://localhost/comment/39f80b8a-036f-45c9-a8cd-14979bdac263"
+        ],
+        "dcterms_description": "11 Nov 1625: Stuart, Elizabeth, Queen of Bohemia, 1596-1662 (The Hague, South Holland, Netherlands) to Thurn, Jindřich Matyáš, 1567-1640 (Brescia, Lombardy, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000961369",
+        "dcterms_identifier-editi_": "editi_961369",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/32d65fd7-3e53-42cb-a5bf-c0fd2317e28d",
+        "dcterms_identifier-uuid_": "uuid_32d65fd7-3e53-42cb-a5bf-c0fd2317e28d",
+        "dcterms_language": "French",
+        "destination_sort": "Brescia, Lombardy, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/62a512e1-e4cc-438c-98c6-1371bee487a1"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb"
+        ],
+        "id": "uuid_32d65fd7-3e53-42cb-a5bf-c0fd2317e28d",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/839cbfcf-4f04-42ca-bfec-3f1487fd04d5"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/839cbfcf-4f04-42ca-bfec-3f1487fd04d5"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/75711879-c89c-45df-a13e-11f9b5fd3f80"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/62a512e1-e4cc-438c-98c6-1371bee487a1"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/39f80b8a-036f-45c9-a8cd-14979bdac263"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2017-04-04T23:36:50Z",
+        "ox_internalModified": "2017-04-04T23:36:50Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Nadine Akkerman, 4 April 2017",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1625,
+        "people": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "http://localhost/person/75711879-c89c-45df-a13e-11f9b5fd3f80"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/556da1cd-4c2c-4f95-a286-1f65c47dcbaa"
+        ],
+        "recipient_sort": "Thurn, Jindřich Matyáš, 1567-1640",
+        "resources": [
+          "http://localhost/resource/556da1cd-4c2c-4f95-a286-1f65c47dcbaa"
+        ],
+        "started_date_gregorian_sort": "1625-11-11T00:00:00Z",
+        "started_date_sort": "1625-11-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:21.101Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/32d65fd7-3e53-42cb-a5bf-c0fd2317e28d",
+        "uuid": "32d65fd7-3e53-42cb-a5bf-c0fd2317e28d",
+        "uuid_related": [
+          "62a512e1-e4cc-438c-98c6-1371bee487a1",
+          "d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "75711879-c89c-45df-a13e-11f9b5fd3f80",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "839cbfcf-4f04-42ca-bfec-3f1487fd04d5",
+          "39f80b8a-036f-45c9-a8cd-14979bdac263",
+          "556da1cd-4c2c-4f95-a286-1f65c47dcbaa"
+        ]
+      },
+      {
+        "_version_": 1.8609796405190984e+18,
+        "author_sort": "Stuart, Elizabeth, Queen of Bohemia, 1596-1662",
+        "cito_Catalog": "Stuart, Elizabeth, Queen of Bohemia",
+        "comments": [
+          "http://localhost/comment/fd6f4a97-9520-4745-ac50-7e7dc9e40b5f"
+        ],
+        "dcterms_description": "1 Mar 1627: Stuart, Elizabeth, Queen of Bohemia, 1596-1662 (The Hague, South Holland, Netherlands) to Thurn, Jindřich Matyáš, 1567-1640 (Brescia, Lombardy, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000961415",
+        "dcterms_identifier-editi_": "editi_961415",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/ee24ac22-57e8-4f0f-b87b-d8ab5e637afa",
+        "dcterms_identifier-uuid_": "uuid_ee24ac22-57e8-4f0f-b87b-d8ab5e637afa",
+        "dcterms_language": "French",
+        "destination_sort": "Brescia, Lombardy, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/591ecb45-1167-43a6-98b2-9173dc955960"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb"
+        ],
+        "id": "uuid_ee24ac22-57e8-4f0f-b87b-d8ab5e637afa",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/839cbfcf-4f04-42ca-bfec-3f1487fd04d5"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-indef_uncertain": true,
+        "mail_destination-location": [
+          "http://localhost/location/839cbfcf-4f04-42ca-bfec-3f1487fd04d5"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/75711879-c89c-45df-a13e-11f9b5fd3f80"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/591ecb45-1167-43a6-98b2-9173dc955960"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/fd6f4a97-9520-4745-ac50-7e7dc9e40b5f"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2017-04-04T23:37:04Z",
+        "ox_internalModified": "2017-04-04T23:37:04Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Nadine Akkerman, 4 April 2017",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1627,
+        "people": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "http://localhost/person/75711879-c89c-45df-a13e-11f9b5fd3f80"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e093899f-eb16-423b-8351-7f84ac7691b4"
+        ],
+        "recipient_sort": "Thurn, Jindřich Matyáš, 1567-1640",
+        "resources": [
+          "http://localhost/resource/e093899f-eb16-423b-8351-7f84ac7691b4"
+        ],
+        "started_date_gregorian_sort": "1627-03-01T00:00:00Z",
+        "started_date_sort": "1627-03-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:21.101Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/ee24ac22-57e8-4f0f-b87b-d8ab5e637afa",
+        "uuid": "ee24ac22-57e8-4f0f-b87b-d8ab5e637afa",
+        "uuid_related": [
+          "591ecb45-1167-43a6-98b2-9173dc955960",
+          "d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "75711879-c89c-45df-a13e-11f9b5fd3f80",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "839cbfcf-4f04-42ca-bfec-3f1487fd04d5",
+          "fd6f4a97-9520-4745-ac50-7e7dc9e40b5f",
+          "e093899f-eb16-423b-8351-7f84ac7691b4"
+        ]
+      },
+      {
+        "_version_": 1.8609796405190984e+18,
+        "author_sort": "Stuart, Elizabeth, Queen of Bohemia, 1596-1662",
+        "cito_Catalog": "Stuart, Elizabeth, Queen of Bohemia",
+        "comments": [
+          "http://localhost/comment/fb7869d4-edbd-46e1-ba57-087946f61c03"
+        ],
+        "dcterms_description": "28 Mar 1627: Stuart, Elizabeth, Queen of Bohemia, 1596-1662 (The Hague, South Holland, Netherlands) to Thurn, Jindřich Matyáš, 1567-1640 (Brescia, Lombardy, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000961417",
+        "dcterms_identifier-editi_": "editi_961417",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/dfe5743e-d43c-4c26-85fd-a4f3549f7d54",
+        "dcterms_identifier-uuid_": "uuid_dfe5743e-d43c-4c26-85fd-a4f3549f7d54",
+        "dcterms_language": "French",
+        "destination_sort": "Brescia, Lombardy, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ca500c64-0548-4849-b6c0-eb422c227856"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb"
+        ],
+        "id": "uuid_dfe5743e-d43c-4c26-85fd-a4f3549f7d54",
+        "locations": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3",
+          "http://localhost/location/839cbfcf-4f04-42ca-bfec-3f1487fd04d5"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/839cbfcf-4f04-42ca-bfec-3f1487fd04d5"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/75711879-c89c-45df-a13e-11f9b5fd3f80"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ca500c64-0548-4849-b6c0-eb422c227856"
+        ],
+        "object_type": "work",
+        "origin_sort": "The Hague, South Holland, Netherlands",
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/fb7869d4-edbd-46e1-ba57-087946f61c03"
+        ],
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2017-04-04T23:37:05Z",
+        "ox_internalModified": "2017-04-04T23:37:05Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Nadine Akkerman, 4 April 2017",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 28,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1627,
+        "people": [
+          "http://localhost/person/d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "http://localhost/person/75711879-c89c-45df-a13e-11f9b5fd3f80"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/696ac0ba-b88e-42a7-9e97-ce9752a74c83"
+        ],
+        "recipient_sort": "Thurn, Jindřich Matyáš, 1567-1640",
+        "resources": [
+          "http://localhost/resource/696ac0ba-b88e-42a7-9e97-ce9752a74c83"
+        ],
+        "started_date_gregorian_sort": "1627-03-28T00:00:00Z",
+        "started_date_sort": "1627-03-28T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:21.101Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/dfe5743e-d43c-4c26-85fd-a4f3549f7d54",
+        "uuid": "dfe5743e-d43c-4c26-85fd-a4f3549f7d54",
+        "uuid_related": [
+          "ca500c64-0548-4849-b6c0-eb422c227856",
+          "d6273b2e-412f-4e3c-a5f4-1d35b4c97ccb",
+          "75711879-c89c-45df-a13e-11f9b5fd3f80",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "839cbfcf-4f04-42ca-bfec-3f1487fd04d5",
+          "fb7869d4-edbd-46e1-ba57-087946f61c03",
+          "696ac0ba-b88e-42a7-9e97-ce9752a74c83"
+        ]
+      },
+      {
+        "_version_": 1.8609795344199844e+18,
+        "author_sort": "Vico-Dimmer, Jeanne Marie, fl. 1636-1645",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "3 Jan 1636: Vico-Dimmer, Jeanne Marie, fl. 1636-1645 (Venice, Veneto, Italy) to Huygens, Constantijn, 1596-1687 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000920750",
+        "dcterms_identifier-editi_": "editi_920750",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f294bd48-5e9c-47e6-b9e7-0df9c1d65a6a",
+        "dcterms_identifier-uuid_": "uuid_f294bd48-5e9c-47e6-b9e7-0df9c1d65a6a",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e0c9e257-c05c-4427-943e-9fb8ba7c1a20",
+          "http://localhost/manifestation/24f02278-5bb7-47d9-96c6-c294daa0be16"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/1041d40c-7d66-49f8-9e9e-f6cff3ad06e5"
+        ],
+        "id": "uuid_f294bd48-5e9c-47e6-b9e7-0df9c1d65a6a",
+        "locations": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "manifestation-institution-place": [
+          "Universiteitsbibliotheek Leiden",
+          "Leiden University Library\nUniversiteitsbibliotheek, Leiden\nLeiden University Libraries\nBibliotheek der Rijksuniversiteit, Leiden",
+          "Leiden",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e0c9e257-c05c-4427-943e-9fb8ba7c1a20",
+          "http://localhost/manifestation/24f02278-5bb7-47d9-96c6-c294daa0be16"
+        ],
+        "object_type": "work",
+        "origin_sort": "Venice, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-11T11:36:44Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 11 November 2014",
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1636,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/1335"
+        ],
+        "people": [
+          "http://localhost/person/1041d40c-7d66-49f8-9e9e-f6cff3ad06e5",
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e2f8805a-8d14-47ba-9c7d-b771025f5ece",
+          "http://localhost/resource/9806a987-063c-46a1-9497-bf1309a7679c"
+        ],
+        "recipient_sort": "Huygens, Constantijn, 1596-1687",
+        "resources": [
+          "http://localhost/resource/e2f8805a-8d14-47ba-9c7d-b771025f5ece",
+          "http://localhost/resource/9806a987-063c-46a1-9497-bf1309a7679c"
+        ],
+        "started_date_gregorian_sort": "1636-01-03T00:00:00Z",
+        "started_date_sort": "1636-01-03T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:27.212Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f294bd48-5e9c-47e6-b9e7-0df9c1d65a6a",
+        "uuid": "f294bd48-5e9c-47e6-b9e7-0df9c1d65a6a",
+        "uuid_related": [
+          "1041d40c-7d66-49f8-9e9e-f6cff3ad06e5",
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "e2f8805a-8d14-47ba-9c7d-b771025f5ece",
+          "9806a987-063c-46a1-9497-bf1309a7679c",
+          "e0c9e257-c05c-4427-943e-9fb8ba7c1a20",
+          "24f02278-5bb7-47d9-96c6-c294daa0be16"
+        ]
+      },
+      {
+        "_version_": 1.8609796531554877e+18,
+        "author_sort": "Vossius, Elizabeth, 1585-1659; Vossius, Gerardus Joannes, 1577-1649",
+        "cito_Catalog": "Vossius, Gerardus Joannes",
+        "comments": [
+          "http://localhost/comment/503a597e-28d5-48ca-9ceb-8daee2e0cc0a"
+        ],
+        "dcterms_description": "10 Jun 1642: Vossius, Gerardus Joannes, 1577-1649 ~ Vossius, Elizabeth, 1585-1659 (Amsterdam, North Holland, (United Provinces) Netherlands) to Vossius, Isaac, 1618-1689 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000966049",
+        "dcterms_identifier-editi_": "editi_966049",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/9824cd2c-47a3-4132-8105-95c5c23fd6bb",
+        "dcterms_identifier-uuid_": "uuid_9824cd2c-47a3-4132-8105-95c5c23fd6bb",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b4032925-f65f-45ae-a447-b5ef21f17c54"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83"
+        ],
+        "id": "uuid_9824cd2c-47a3-4132-8105-95c5c23fd6bb",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b4032925-f65f-45ae-a447-b5ef21f17c54"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/af892027-9353-49cf-886b-2aa05094bc08"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/503a597e-28d5-48ca-9ceb-8daee2e0cc0a"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "Perjucundum mihi cognoscere, quod Eminentissimus",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2017-05-19T17:02:25Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata from G. A. C. van der Lem and C. S. M. Rademaker, ‘Inventory of the Correspondence of Gerardus Joannes Vossius’ (Assen, 1993), 19 May 2017",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1642,
+        "people": [
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Vossius, Isaac, 1618-1689",
+        "started_date_gregorian_sort": "1642-06-10T00:00:00Z",
+        "started_date_sort": "1642-06-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:27.458Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/9824cd2c-47a3-4132-8105-95c5c23fd6bb",
+        "uuid": "9824cd2c-47a3-4132-8105-95c5c23fd6bb",
+        "uuid_related": [
+          "b4032925-f65f-45ae-a447-b5ef21f17c54",
+          "52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "d59cd695-7c67-4730-832c-b8d270adbf83",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "503a597e-28d5-48ca-9ceb-8daee2e0cc0a",
+          "af892027-9353-49cf-886b-2aa05094bc08"
+        ]
+      },
+      {
+        "_version_": 1.8609795862626304e+18,
+        "author_sort": "Vossius, Elizabeth, 1585-1659; Vossius, Gerardus Joannes, 1577-1649",
+        "cito_Catalog": "Vossius, Isaac",
+        "comments": [
+          "http://localhost/comment/934b00a2-295f-469a-bf44-87b528df052f",
+          "http://localhost/comment/181d1d88-666b-45dc-b0c0-8415699094f3"
+        ],
+        "dcterms_description": "10 Jun 1642: Vossius, Elizabeth, 1585-1659 ~ Vossius, Gerardus Joannes, 1577-1649 (Amsterdam, North Holland, (United Provinces) Netherlands) to Vossius, Isaac, 1618-1689 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000940580",
+        "dcterms_identifier-editi_": "editi_940580",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/af892027-9353-49cf-886b-2aa05094bc08",
+        "dcterms_identifier-uuid_": "uuid_af892027-9353-49cf-886b-2aa05094bc08",
+        "dcterms_language": "Dutch, Latin",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/25578036-5a58-4591-8f3b-cb9145142d1c",
+          "http://localhost/manifestation/8b29807e-a0c3-4fe7-a74b-7d2bb83426e7"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7"
+        ],
+        "id": "uuid_af892027-9353-49cf-886b-2aa05094bc08",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/25578036-5a58-4591-8f3b-cb9145142d1c",
+          "http://localhost/manifestation/8b29807e-a0c3-4fe7-a74b-7d2bb83426e7"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/9824cd2c-47a3-4132-8105-95c5c23fd6bb"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "wy syn van herte verblyt\nPerjucundum mihi cognoscere, quod Eminentissimus",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-09-22T16:54:32Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/934b00a2-295f-469a-bf44-87b528df052f",
+          "http://localhost/comment/181d1d88-666b-45dc-b0c0-8415699094f3"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Robin Buning, 22 September 2015",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 6,
+        "ox_started-ox_year": 1642,
+        "people": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Vossius, Isaac, 1618-1689",
+        "started_date_gregorian_sort": "1642-06-10T00:00:00Z",
+        "started_date_sort": "1642-06-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:54.900Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/af892027-9353-49cf-886b-2aa05094bc08",
+        "uuid": "af892027-9353-49cf-886b-2aa05094bc08",
+        "uuid_related": [
+          "25578036-5a58-4591-8f3b-cb9145142d1c",
+          "8b29807e-a0c3-4fe7-a74b-7d2bb83426e7",
+          "d59cd695-7c67-4730-832c-b8d270adbf83",
+          "52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "934b00a2-295f-469a-bf44-87b528df052f",
+          "181d1d88-666b-45dc-b0c0-8415699094f3",
+          "9824cd2c-47a3-4132-8105-95c5c23fd6bb"
+        ]
+      },
+      {
+        "_version_": 1.8609796531691192e+18,
+        "author_sort": "Vossius, Elizabeth, 1585-1659; Vossius, Gerardus Joannes, 1577-1649",
+        "cito_Catalog": "Vossius, Gerardus Joannes",
+        "dcterms_description": "12 Aug 1642: Vossius, Gerardus Joannes, 1577-1649 ~ Vossius, Elizabeth, 1585-1659 (Amsterdam, North Holland, (United Provinces) Netherlands) to Vossius, Isaac, 1618-1689 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000966079",
+        "dcterms_identifier-editi_": "editi_966079",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d81a0289-546b-42a8-9089-81378d7efb3e",
+        "dcterms_identifier-uuid_": "uuid_d81a0289-546b-42a8-9089-81378d7efb3e",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/f5c3f4cd-180c-4004-ad8f-898121ee88cb"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83"
+        ],
+        "id": "uuid_d81a0289-546b-42a8-9089-81378d7efb3e",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/f5c3f4cd-180c-4004-ad8f-898121ee88cb"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/fc883e6c-8181-4167-bf57-c984a1f56092"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "Si vales, mi fili bene",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2017-05-19T17:03:13Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata from G. A. C. van der Lem and C. S. M. Rademaker, ‘Inventory of the Correspondence of Gerardus Joannes Vossius’ (Assen, 1993), 19 May 2017",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1642,
+        "people": [
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Vossius, Isaac, 1618-1689",
+        "started_date_gregorian_sort": "1642-08-12T00:00:00Z",
+        "started_date_sort": "1642-08-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:27.458Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d81a0289-546b-42a8-9089-81378d7efb3e",
+        "uuid": "d81a0289-546b-42a8-9089-81378d7efb3e",
+        "uuid_related": [
+          "f5c3f4cd-180c-4004-ad8f-898121ee88cb",
+          "52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "d59cd695-7c67-4730-832c-b8d270adbf83",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "fc883e6c-8181-4167-bf57-c984a1f56092"
+        ]
+      },
+      {
+        "_version_": 1.8609795862626304e+18,
+        "author_sort": "Vossius, Elizabeth, 1585-1659; Vossius, Gerardus Joannes, 1577-1649",
+        "cito_Catalog": "Vossius, Isaac",
+        "comments": [
+          "http://localhost/comment/393536f1-ef3f-4706-8d1a-e25f59a84189",
+          "http://localhost/comment/e57be21b-2862-46a4-ba64-449825cd0c72"
+        ],
+        "dcterms_description": "12 Aug 1642: Vossius, Elizabeth, 1585-1659 ~ Vossius, Gerardus Joannes, 1577-1649 (Amsterdam, North Holland, (United Provinces) Netherlands) to Vossius, Isaac, 1618-1689 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000940581",
+        "dcterms_identifier-editi_": "editi_940581",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/fc883e6c-8181-4167-bf57-c984a1f56092",
+        "dcterms_identifier-uuid_": "uuid_fc883e6c-8181-4167-bf57-c984a1f56092",
+        "dcterms_language": "Dutch, Latin",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0f179a7c-2b31-4a4e-815e-ffec5bc08bd9",
+          "http://localhost/manifestation/8803a57e-8b35-4c6f-8d09-d3c6a249c26a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7"
+        ],
+        "id": "uuid_fc883e6c-8181-4167-bf57-c984a1f56092",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0f179a7c-2b31-4a4e-815e-ffec5bc08bd9",
+          "http://localhost/manifestation/8803a57e-8b35-4c6f-8d09-d3c6a249c26a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/d81a0289-546b-42a8-9089-81378d7efb3e"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "wij hebben uE brieven van\nSi vales, mi fili bene",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-09-22T16:54:34Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/393536f1-ef3f-4706-8d1a-e25f59a84189",
+          "http://localhost/comment/e57be21b-2862-46a4-ba64-449825cd0c72"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Robin Buning, 22 September 2015",
+        "ox_started-ox_day": 12,
+        "ox_started-ox_month": 8,
+        "ox_started-ox_year": 1642,
+        "people": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Vossius, Isaac, 1618-1689",
+        "started_date_gregorian_sort": "1642-08-12T00:00:00Z",
+        "started_date_sort": "1642-08-12T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:54.900Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/fc883e6c-8181-4167-bf57-c984a1f56092",
+        "uuid": "fc883e6c-8181-4167-bf57-c984a1f56092",
+        "uuid_related": [
+          "0f179a7c-2b31-4a4e-815e-ffec5bc08bd9",
+          "8803a57e-8b35-4c6f-8d09-d3c6a249c26a",
+          "d59cd695-7c67-4730-832c-b8d270adbf83",
+          "52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "393536f1-ef3f-4706-8d1a-e25f59a84189",
+          "e57be21b-2862-46a4-ba64-449825cd0c72",
+          "d81a0289-546b-42a8-9089-81378d7efb3e"
+        ]
+      },
+      {
+        "_version_": 1.860979653174362e+18,
+        "author_sort": "Vossius, Elizabeth, 1585-1659; Vossius, Gerardus Joannes, 1577-1649",
+        "cito_Catalog": "Vossius, Gerardus Joannes",
+        "dcterms_description": "9 Sep 1642: Vossius, Gerardus Joannes, 1577-1649 ~ Vossius, Elizabeth, 1585-1659 (Amsterdam, North Holland, (United Provinces) Netherlands) to Vossius, Isaac, 1618-1689 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000966088",
+        "dcterms_identifier-editi_": "editi_966088",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cc029c21-2d5b-4f81-ab15-1f997252c104",
+        "dcterms_identifier-uuid_": "uuid_cc029c21-2d5b-4f81-ab15-1f997252c104",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/6f379fff-a582-43ed-a71f-779929bbf54f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83"
+        ],
+        "id": "uuid_cc029c21-2d5b-4f81-ab15-1f997252c104",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/6f379fff-a582-43ed-a71f-779929bbf54f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/593e7b10-e290-4850-8fdc-02ba0979bbc6"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "Quas ad fratrem Matthaeum scripseras",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2017-05-19T17:03:31Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata from G. A. C. van der Lem and C. S. M. Rademaker, ‘Inventory of the Correspondence of Gerardus Joannes Vossius’ (Assen, 1993), 19 May 2017",
+        "ox_started-ox_day": 9,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1642,
+        "people": [
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Vossius, Isaac, 1618-1689",
+        "started_date_gregorian_sort": "1642-09-09T00:00:00Z",
+        "started_date_sort": "1642-09-09T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:27.458Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cc029c21-2d5b-4f81-ab15-1f997252c104",
+        "uuid": "cc029c21-2d5b-4f81-ab15-1f997252c104",
+        "uuid_related": [
+          "6f379fff-a582-43ed-a71f-779929bbf54f",
+          "52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "d59cd695-7c67-4730-832c-b8d270adbf83",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "593e7b10-e290-4850-8fdc-02ba0979bbc6"
+        ]
+      },
+      {
+        "_version_": 1.860979586263679e+18,
+        "author_sort": "Vossius, Elizabeth, 1585-1659; Vossius, Gerardus Joannes, 1577-1649",
+        "cito_Catalog": "Vossius, Isaac",
+        "comments": [
+          "http://localhost/comment/0dffe25d-ed3b-4991-a37e-f0b105d6661c",
+          "http://localhost/comment/70690692-e878-4016-8a95-046a2dd9fa7d"
+        ],
+        "dcterms_description": "9 Sep 1642: Vossius, Elizabeth, 1585-1659 ~ Vossius, Gerardus Joannes, 1577-1649 (Amsterdam, North Holland, (United Provinces) Netherlands) to Vossius, Isaac, 1618-1689 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000940582",
+        "dcterms_identifier-editi_": "editi_940582",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/593e7b10-e290-4850-8fdc-02ba0979bbc6",
+        "dcterms_identifier-uuid_": "uuid_593e7b10-e290-4850-8fdc-02ba0979bbc6",
+        "dcterms_language": "Dutch, Latin",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/16a67dee-b7dd-45b9-9b71-03bcf84fe936",
+          "http://localhost/manifestation/ac5d7428-1081-410c-abf2-943ef23398c3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7"
+        ],
+        "id": "uuid_593e7b10-e290-4850-8fdc-02ba0979bbc6",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/16a67dee-b7dd-45b9-9b71-03bcf84fe936",
+          "http://localhost/manifestation/ac5d7428-1081-410c-abf2-943ef23398c3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/cc029c21-2d5b-4f81-ab15-1f997252c104"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "alhowel ick voor dese tyt\nQuas ad fratrem Matthaeum scripseras",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-09-22T16:54:36Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/0dffe25d-ed3b-4991-a37e-f0b105d6661c",
+          "http://localhost/comment/70690692-e878-4016-8a95-046a2dd9fa7d"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Robin Buning, 22 September 2015",
+        "ox_started-ox_day": 9,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1642,
+        "people": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Vossius, Isaac, 1618-1689",
+        "started_date_gregorian_sort": "1642-09-09T00:00:00Z",
+        "started_date_sort": "1642-09-09T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:54.900Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/593e7b10-e290-4850-8fdc-02ba0979bbc6",
+        "uuid": "593e7b10-e290-4850-8fdc-02ba0979bbc6",
+        "uuid_related": [
+          "16a67dee-b7dd-45b9-9b71-03bcf84fe936",
+          "ac5d7428-1081-410c-abf2-943ef23398c3",
+          "d59cd695-7c67-4730-832c-b8d270adbf83",
+          "52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "0dffe25d-ed3b-4991-a37e-f0b105d6661c",
+          "70690692-e878-4016-8a95-046a2dd9fa7d",
+          "cc029c21-2d5b-4f81-ab15-1f997252c104"
+        ]
+      },
+      {
+        "_version_": 1.8609796534186803e+18,
+        "author_sort": "Vossius, Elizabeth, 1585-1659; Vossius, Gerardus Joannes, 1577-1649",
+        "cito_Catalog": "Vossius, Gerardus Joannes",
+        "comments": [
+          "http://localhost/comment/68b234a3-3222-4634-b8a3-ecf1027efc04"
+        ],
+        "dcterms_description": "20 Feb 1643: Vossius, Gerardus Joannes, 1577-1649 ~ Vossius, Elizabeth, 1585-1659 (Amsterdam, North Holland, (United Provinces) Netherlands) to Vossius, Isaac, 1618-1689 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000966133",
+        "dcterms_identifier-editi_": "editi_966133",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/334a0447-7d4a-46f5-857f-cf79ab5d4d98",
+        "dcterms_identifier-uuid_": "uuid_334a0447-7d4a-46f5-857f-cf79ab5d4d98",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b17f27cb-6063-4d08-ba43-e43bec5a370f"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83"
+        ],
+        "id": "uuid_334a0447-7d4a-46f5-857f-cf79ab5d4d98",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b17f27cb-6063-4d08-ba43-e43bec5a370f"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/0e65263c-5d7d-41ab-9034-23053b694eef"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/68b234a3-3222-4634-b8a3-ecf1027efc04"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "Si vales, care fili, gaudeo",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2017-05-19T17:04:46Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata from G. A. C. van der Lem and C. S. M. Rademaker, ‘Inventory of the Correspondence of Gerardus Joannes Vossius’ (Assen, 1993), 19 May 2017",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1643,
+        "people": [
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Vossius, Isaac, 1618-1689",
+        "started_date_gregorian_sort": "1643-02-20T00:00:00Z",
+        "started_date_sort": "1643-02-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:27.458Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/334a0447-7d4a-46f5-857f-cf79ab5d4d98",
+        "uuid": "334a0447-7d4a-46f5-857f-cf79ab5d4d98",
+        "uuid_related": [
+          "b17f27cb-6063-4d08-ba43-e43bec5a370f",
+          "52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "d59cd695-7c67-4730-832c-b8d270adbf83",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "68b234a3-3222-4634-b8a3-ecf1027efc04",
+          "0e65263c-5d7d-41ab-9034-23053b694eef"
+        ]
+      },
+      {
+        "_version_": 1.860979586263679e+18,
+        "author_sort": "Vossius, Elizabeth, 1585-1659; Vossius, Gerardus Joannes, 1577-1649",
+        "cito_Catalog": "Vossius, Isaac",
+        "comments": [
+          "http://localhost/comment/b4620692-4127-4130-a6d4-f4a9b37a98a5",
+          "http://localhost/comment/f753af64-7d44-40f2-9195-1c92c4dd1402"
+        ],
+        "dcterms_description": "20 Feb 1643: Vossius, Elizabeth, 1585-1659 ~ Vossius, Gerardus Joannes, 1577-1649 (Amsterdam, North Holland, (United Provinces) Netherlands) to Vossius, Isaac, 1618-1689 (Venice, Veneto, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000940583",
+        "dcterms_identifier-editi_": "editi_940583",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0e65263c-5d7d-41ab-9034-23053b694eef",
+        "dcterms_identifier-uuid_": "uuid_0e65263c-5d7d-41ab-9034-23053b694eef",
+        "dcterms_language": "Dutch, Latin",
+        "destination_sort": "Venice, Veneto, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/348d4d21-a057-49c6-a204-babceea7aa25",
+          "http://localhost/manifestation/4098b060-9c5e-454c-aed0-3f045078e91d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7"
+        ],
+        "id": "uuid_0e65263c-5d7d-41ab-9034-23053b694eef",
+        "locations": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898",
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/3cd4a6dc-be16-45a6-b06f-1cb30158b4a6"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/0d828533-47c9-430a-9154-278d3b9cb898"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "manifestation-institution-place": [
+          "Universiteit van Amsterdam, Bijzondere Collecties",
+          "University of Amsterdam, Special Collections\nUniversiteitsbibliotheek\nAmsterdam University Library\nUniversiteits Bibliotheek\nUniversiteitsbibliotheek Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/348d4d21-a057-49c6-a204-babceea7aa25",
+          "http://localhost/manifestation/4098b060-9c5e-454c-aed0-3f045078e91d"
+        ],
+        "object_type": "work",
+        "origin_sort": "Amsterdam, North Holland, (United Provinces) Netherlands",
+        "owl_sameAs-work": [
+          "http://localhost/work/334a0447-7d4a-46f5-857f-cf79ab5d4d98"
+        ],
+        "ox_dateIsRange": false,
+        "ox_incipit": "wy syn verblyt te verstaen\nSi vales, care fili, gaudeo",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2015-09-22T16:54:37Z",
+        "ox_internalModified": "2021-10-11T11:10:49Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isAnnotatedBy-comment": [
+          "http://localhost/comment/b4620692-4127-4130-a6d4-f4a9b37a98a5",
+          "http://localhost/comment/f753af64-7d44-40f2-9195-1c92c4dd1402"
+        ],
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Robin Buning, 22 September 2015",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1643,
+        "people": [
+          "http://localhost/person/d59cd695-7c67-4730-832c-b8d270adbf83",
+          "http://localhost/person/52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "http://localhost/person/4b539fac-392e-4d2c-9e91-8d6a51cc3a7a"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Vossius, Isaac, 1618-1689",
+        "started_date_gregorian_sort": "1643-02-20T00:00:00Z",
+        "started_date_sort": "1643-02-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:54.900Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0e65263c-5d7d-41ab-9034-23053b694eef",
+        "uuid": "0e65263c-5d7d-41ab-9034-23053b694eef",
+        "uuid_related": [
+          "348d4d21-a057-49c6-a204-babceea7aa25",
+          "4098b060-9c5e-454c-aed0-3f045078e91d",
+          "d59cd695-7c67-4730-832c-b8d270adbf83",
+          "52318329-2c73-40ef-bd7b-776f221ec9b7",
+          "4b539fac-392e-4d2c-9e91-8d6a51cc3a7a",
+          "0d828533-47c9-430a-9154-278d3b9cb898",
+          "3cd4a6dc-be16-45a6-b06f-1cb30158b4a6",
+          "b4620692-4127-4130-a6d4-f4a9b37a98a5",
+          "f753af64-7d44-40f2-9195-1c92c4dd1402",
+          "334a0447-7d4a-46f5-857f-cf79ab5d4d98"
+        ]
+      },
+      {
+        "_version_": 1.860979494802686e+18,
+        "author_sort": "Riviera, Maria Antonia, fl. 1643",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "10 Apr 1643: Riviera, Maria Antonia, fl. 1643 (L'Aquila, Abruzzo, Italy) to Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000903134",
+        "dcterms_identifier-editi_": "editi_903134",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/07bca38d-2b1d-4ee0-a0ee-c7634c912028",
+        "dcterms_identifier-uuid_": "uuid_07bca38d-2b1d-4ee0-a0ee-c7634c912028",
+        "dcterms_language": "Italian",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/b3621f62-7a16-4760-bb10-cbf25e6a71c5"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/0e945fa2-f2d6-4d87-8a9e-1a7677a85412"
+        ],
+        "id": "uuid_07bca38d-2b1d-4ee0-a0ee-c7634c912028",
+        "locations": [
+          "http://localhost/location/e9616a40-c53f-42b3-9b08-1bbf7b91970f",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/e9616a40-c53f-42b3-9b08-1bbf7b91970f"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/b3621f62-7a16-4760-bb10-cbf25e6a71c5"
+        ],
+        "object_type": "work",
+        "origin_sort": "L'Aquila, Abruzzo, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-12-04T23:06:59Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 4,
+        "ox_started-ox_year": 1643,
+        "people": [
+          "http://localhost/person/0e945fa2-f2d6-4d87-8a9e-1a7677a85412",
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/6dc94479-8a93-4de8-aadc-955d9453ccbc"
+        ],
+        "recipient_sort": "Kircher, Athanasius, 1601-1680",
+        "resources": [
+          "http://localhost/resource/6dc94479-8a93-4de8-aadc-955d9453ccbc"
+        ],
+        "started_date_gregorian_sort": "1643-04-10T00:00:00Z",
+        "started_date_sort": "1643-04-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:04.338Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/07bca38d-2b1d-4ee0-a0ee-c7634c912028",
+        "uuid": "07bca38d-2b1d-4ee0-a0ee-c7634c912028",
+        "uuid_related": [
+          "b3621f62-7a16-4760-bb10-cbf25e6a71c5",
+          "0e945fa2-f2d6-4d87-8a9e-1a7677a85412",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "e9616a40-c53f-42b3-9b08-1bbf7b91970f",
+          "6dc94479-8a93-4de8-aadc-955d9453ccbc",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.8609795432280228e+18,
+        "author_sort": "Vico-Dimmer, Jeanne Marie, fl. 1636-1645",
+        "cito_Catalog": "Huygens, Constantijn",
+        "dcterms_description": "20 Dec 1645: Vico-Dimmer, Jeanne Marie, fl. 1636-1645 (Milan, Lombardy, Italy) to Huygens, Constantijn, 1596-1687 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000923588",
+        "dcterms_identifier-editi_": "editi_923588",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/647bfe0d-ed01-4cc0-88b6-bb76ebda8be0",
+        "dcterms_identifier-uuid_": "uuid_647bfe0d-ed01-4cc0-88b6-bb76ebda8be0",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a4617435-9a9f-4840-8f76-9341bde21571",
+          "http://localhost/manifestation/954e4b43-d97b-4a9e-b9d1-4cb80268a0e2"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/1041d40c-7d66-49f8-9e9e-f6cff3ad06e5"
+        ],
+        "id": "uuid_647bfe0d-ed01-4cc0-88b6-bb76ebda8be0",
+        "locations": [
+          "http://localhost/location/e2360578-72bf-46a0-a35c-a5b7a3d95f07",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/e2360578-72bf-46a0-a35c-a5b7a3d95f07"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "manifestation-institution-place": [
+          "Universiteitsbibliotheek Leiden",
+          "Leiden University Library\nUniversiteitsbibliotheek, Leiden\nLeiden University Libraries\nBibliotheek der Rijksuniversiteit, Leiden",
+          "Leiden",
+          "Netherlands",
+          "Nederland\nHolland"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a4617435-9a9f-4840-8f76-9341bde21571",
+          "http://localhost/manifestation/954e4b43-d97b-4a9e-b9d1-4cb80268a0e2"
+        ],
+        "object_type": "work",
+        "origin_sort": "Milan, Lombardy, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-13T14:01:10Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 12 November 2014",
+        "ox_started-ox_day": 20,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1645,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/4232"
+        ],
+        "people": [
+          "http://localhost/person/1041d40c-7d66-49f8-9e9e-f6cff3ad06e5",
+          "http://localhost/person/69f002da-1994-418d-9cc4-d8d544d64121"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/6ae76cbc-40f1-4bbf-b11a-1117b33ea163",
+          "http://localhost/resource/e3b9709e-3264-49cd-8021-45148b4173f9"
+        ],
+        "recipient_sort": "Huygens, Constantijn, 1596-1687",
+        "resources": [
+          "http://localhost/resource/6ae76cbc-40f1-4bbf-b11a-1117b33ea163",
+          "http://localhost/resource/e3b9709e-3264-49cd-8021-45148b4173f9"
+        ],
+        "started_date_gregorian_sort": "1645-12-20T00:00:00Z",
+        "started_date_sort": "1645-12-20T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:29.488Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/647bfe0d-ed01-4cc0-88b6-bb76ebda8be0",
+        "uuid": "647bfe0d-ed01-4cc0-88b6-bb76ebda8be0",
+        "uuid_related": [
+          "1041d40c-7d66-49f8-9e9e-f6cff3ad06e5",
+          "69f002da-1994-418d-9cc4-d8d544d64121",
+          "e2360578-72bf-46a0-a35c-a5b7a3d95f07",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "6ae76cbc-40f1-4bbf-b11a-1117b33ea163",
+          "e3b9709e-3264-49cd-8021-45148b4173f9",
+          "a4617435-9a9f-4840-8f76-9341bde21571",
+          "954e4b43-d97b-4a9e-b9d1-4cb80268a0e2"
+        ]
+      },
+      {
+        "_version_": 1.8609794949935268e+18,
+        "author_sort": "Gaigeard, Reneé",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "15 Jan 1650: Gaigeard, Reneé (Sablé-sur-Sarthe, Pays de la Loire, France) to Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000903174",
+        "dcterms_identifier-editi_": "editi_903174",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/1a96aacc-72f5-4908-925b-abab21377373",
+        "dcterms_identifier-uuid_": "uuid_1a96aacc-72f5-4908-925b-abab21377373",
+        "dcterms_language": "French",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/3361d510-0ffa-4143-8fbd-885a91b5e47b"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/f9a5d314-1866-4c08-9dbe-380e2ce7e434"
+        ],
+        "id": "uuid_1a96aacc-72f5-4908-925b-abab21377373",
+        "locations": [
+          "http://localhost/location/c242cf69-f247-4d4a-9e09-130585b9d78a",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/c242cf69-f247-4d4a-9e09-130585b9d78a"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/3361d510-0ffa-4143-8fbd-885a91b5e47b"
+        ],
+        "object_type": "work",
+        "origin_sort": "Sablé-sur-Sarthe, Pays de la Loire, France",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-12-04T23:07:53Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 15,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1650,
+        "people": [
+          "http://localhost/person/f9a5d314-1866-4c08-9dbe-380e2ce7e434",
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/6d828854-44d3-43b5-ae1e-93cb4a8ae5d0"
+        ],
+        "recipient_sort": "Kircher, Athanasius, 1601-1680",
+        "resources": [
+          "http://localhost/resource/6d828854-44d3-43b5-ae1e-93cb4a8ae5d0"
+        ],
+        "started_date_gregorian_sort": "1650-01-15T00:00:00Z",
+        "started_date_sort": "1650-01-15T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:04.338Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/1a96aacc-72f5-4908-925b-abab21377373",
+        "uuid": "1a96aacc-72f5-4908-925b-abab21377373",
+        "uuid_related": [
+          "3361d510-0ffa-4143-8fbd-885a91b5e47b",
+          "f9a5d314-1866-4c08-9dbe-380e2ce7e434",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "c242cf69-f247-4d4a-9e09-130585b9d78a",
+          "6d828854-44d3-43b5-ae1e-93cb4a8ae5d0",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.8609794901071626e+18,
+        "author_sort": "Liechtenstein, Dorothea Anna Maria von, 1619-1666",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "22 Mar 1663: Liechtenstein, Dorothea Anna Maria von, 1619-1666 (Moravský Krumlov, South Moravia, Czech Republic) to Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000901116",
+        "dcterms_identifier-editi_": "editi_901116",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d641a142-ada9-47c5-8d58-12cc7998aad5",
+        "dcterms_identifier-uuid_": "uuid_d641a142-ada9-47c5-8d58-12cc7998aad5",
+        "dcterms_language": "German",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/0348cea3-42f8-4ee0-a90c-68ac323152a3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/f3caf3ee-f486-4e7a-8b72-14dfacbf091f"
+        ],
+        "id": "uuid_d641a142-ada9-47c5-8d58-12cc7998aad5",
+        "locations": [
+          "http://localhost/location/8713814c-88ea-4321-9cba-2846b680d700",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8713814c-88ea-4321-9cba-2846b680d700"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/0348cea3-42f8-4ee0-a90c-68ac323152a3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Moravský Krumlov, South Moravia, Czech Republic",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-12-04T17:18:11Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 3,
+        "ox_started-ox_year": 1663,
+        "people": [
+          "http://localhost/person/f3caf3ee-f486-4e7a-8b72-14dfacbf091f",
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/d0aaf48f-a8ec-4eb3-9b19-219ffed5f61d"
+        ],
+        "recipient_sort": "Kircher, Athanasius, 1601-1680",
+        "resources": [
+          "http://localhost/resource/d0aaf48f-a8ec-4eb3-9b19-219ffed5f61d"
+        ],
+        "started_date_gregorian_sort": "1663-03-22T00:00:00Z",
+        "started_date_sort": "1663-03-22T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:03.433Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d641a142-ada9-47c5-8d58-12cc7998aad5",
+        "uuid": "d641a142-ada9-47c5-8d58-12cc7998aad5",
+        "uuid_related": [
+          "0348cea3-42f8-4ee0-a90c-68ac323152a3",
+          "f3caf3ee-f486-4e7a-8b72-14dfacbf091f",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "8713814c-88ea-4321-9cba-2846b680d700",
+          "d0aaf48f-a8ec-4eb3-9b19-219ffed5f61d",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.8609794929173463e+18,
+        "author_sort": "Bernitz, Sophie Anna von",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "22 Dec 1664: Bernitz, Sophie Anna von (Warsaw, Masovian Voivodeship, (Kingdom of Poland) Poland) to Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000902304",
+        "dcterms_identifier-editi_": "editi_902304",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/0f27fb6a-d0d6-49f1-b744-bb7e6e70f855",
+        "dcterms_identifier-uuid_": "uuid_0f27fb6a-d0d6-49f1-b744-bb7e6e70f855",
+        "dcterms_language": "Latin",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/56a39faf-3af9-43cd-b53e-11e13b83ad9a"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52"
+        ],
+        "id": "uuid_0f27fb6a-d0d6-49f1-b744-bb7e6e70f855",
+        "locations": [
+          "http://localhost/location/8cfb75fd-dbee-4277-a0c5-e6c46dfd9101",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8cfb75fd-dbee-4277-a0c5-e6c46dfd9101"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/56a39faf-3af9-43cd-b53e-11e13b83ad9a"
+        ],
+        "object_type": "work",
+        "origin_sort": "Warsaw, Masovian Voivodeship, (Kingdom of Poland) Poland",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-12-04T21:13:48Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1664,
+        "people": [
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52",
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/29003de8-a4fd-474c-a24c-f8274ca2e45e"
+        ],
+        "recipient_sort": "Kircher, Athanasius, 1601-1680",
+        "resources": [
+          "http://localhost/resource/29003de8-a4fd-474c-a24c-f8274ca2e45e"
+        ],
+        "started_date_gregorian_sort": "1664-12-22T00:00:00Z",
+        "started_date_sort": "1664-12-22T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:03.904Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/0f27fb6a-d0d6-49f1-b744-bb7e6e70f855",
+        "uuid": "0f27fb6a-d0d6-49f1-b744-bb7e6e70f855",
+        "uuid_related": [
+          "56a39faf-3af9-43cd-b53e-11e13b83ad9a",
+          "97a37859-a4ac-4c9a-b70a-899229792a52",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "8cfb75fd-dbee-4277-a0c5-e6c46dfd9101",
+          "29003de8-a4fd-474c-a24c-f8274ca2e45e",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.8609794927044854e+18,
+        "author_sort": "Bernitz, Sophie Anna von",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "9 Nov 1666: Bernitz, Sophie Anna von (Warsaw, Masovian Voivodeship, (Kingdom of Poland) Poland) to Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000902242",
+        "dcterms_identifier-editi_": "editi_902242",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/eb6ec539-9e1f-4342-87e5-71e2afe11e54",
+        "dcterms_identifier-uuid_": "uuid_eb6ec539-9e1f-4342-87e5-71e2afe11e54",
+        "dcterms_language": "Latin",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/076a7088-df0d-45f8-b556-d8cb2e6a5e13"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52"
+        ],
+        "id": "uuid_eb6ec539-9e1f-4342-87e5-71e2afe11e54",
+        "locations": [
+          "http://localhost/location/8cfb75fd-dbee-4277-a0c5-e6c46dfd9101",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8cfb75fd-dbee-4277-a0c5-e6c46dfd9101"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/076a7088-df0d-45f8-b556-d8cb2e6a5e13"
+        ],
+        "object_type": "work",
+        "origin_sort": "Warsaw, Masovian Voivodeship, (Kingdom of Poland) Poland",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-12-04T21:12:35Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 9,
+        "ox_started-ox_month": 11,
+        "ox_started-ox_year": 1666,
+        "people": [
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52",
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/f06535cf-5460-470e-805d-b8e99df976c5"
+        ],
+        "recipient_sort": "Kircher, Athanasius, 1601-1680",
+        "resources": [
+          "http://localhost/resource/f06535cf-5460-470e-805d-b8e99df976c5"
+        ],
+        "started_date_gregorian_sort": "1666-11-09T00:00:00Z",
+        "started_date_sort": "1666-11-09T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:03.904Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/eb6ec539-9e1f-4342-87e5-71e2afe11e54",
+        "uuid": "eb6ec539-9e1f-4342-87e5-71e2afe11e54",
+        "uuid_related": [
+          "076a7088-df0d-45f8-b556-d8cb2e6a5e13",
+          "97a37859-a4ac-4c9a-b70a-899229792a52",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "8cfb75fd-dbee-4277-a0c5-e6c46dfd9101",
+          "f06535cf-5460-470e-805d-b8e99df976c5",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.8609794931364987e+18,
+        "author_sort": "Bernitz, Sophie Anna von",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "11 Jan 1668: Bernitz, Sophie Anna von (Warsaw, Masovian Voivodeship, (Kingdom of Poland) Poland) to Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000902403",
+        "dcterms_identifier-editi_": "editi_902403",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/edaf4d30-9497-4bb1-a3dd-4ce75276369e",
+        "dcterms_identifier-uuid_": "uuid_edaf4d30-9497-4bb1-a3dd-4ce75276369e",
+        "dcterms_language": "Latin",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ed656fe1-39d5-4665-b4ea-01880fabf539"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52"
+        ],
+        "id": "uuid_edaf4d30-9497-4bb1-a3dd-4ce75276369e",
+        "locations": [
+          "http://localhost/location/8cfb75fd-dbee-4277-a0c5-e6c46dfd9101",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8cfb75fd-dbee-4277-a0c5-e6c46dfd9101"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ed656fe1-39d5-4665-b4ea-01880fabf539"
+        ],
+        "object_type": "work",
+        "origin_sort": "Warsaw, Masovian Voivodeship, (Kingdom of Poland) Poland",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-12-04T21:15:44Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1668,
+        "people": [
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52",
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/77225373-3cb1-4b6e-aa11-5e96edb96f87"
+        ],
+        "recipient_sort": "Kircher, Athanasius, 1601-1680",
+        "resources": [
+          "http://localhost/resource/77225373-3cb1-4b6e-aa11-5e96edb96f87"
+        ],
+        "started_date_gregorian_sort": "1668-01-11T00:00:00Z",
+        "started_date_sort": "1668-01-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:03.904Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/edaf4d30-9497-4bb1-a3dd-4ce75276369e",
+        "uuid": "edaf4d30-9497-4bb1-a3dd-4ce75276369e",
+        "uuid_related": [
+          "ed656fe1-39d5-4665-b4ea-01880fabf539",
+          "97a37859-a4ac-4c9a-b70a-899229792a52",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "8cfb75fd-dbee-4277-a0c5-e6c46dfd9101",
+          "77225373-3cb1-4b6e-aa11-5e96edb96f87",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.860979495933051e+18,
+        "author_sort": "Bernitz, Sophie Anna von",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "11 Jul 1668: Bernitz, Sophie Anna von to Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000903650",
+        "dcterms_identifier-editi_": "editi_903650",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/cc40a99f-8608-4d79-addf-f5b617ec46c1",
+        "dcterms_identifier-uuid_": "uuid_cc40a99f-8608-4d79-addf-f5b617ec46c1",
+        "dcterms_language": "Latin",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/27cd8efe-e14a-4d2d-bbc1-8c3b3ad6b45d"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52"
+        ],
+        "id": "uuid_cc40a99f-8608-4d79-addf-f5b617ec46c1",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "manifestation-institution-place": [
+          "Knihovna Národního muzea",
+          "National Museum Library",
+          "Praha",
+          "Prague",
+          "Czech Republic",
+          "Česká republika\nČesko"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/27cd8efe-e14a-4d2d-bbc1-8c3b3ad6b45d"
+        ],
+        "object_type": "work",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-12-17T11:55:18Z",
+        "ox_internalModified": "2017-03-02T13:31:16Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 16 Dec 2013 1:58",
+        "ox_started-ox_day": 11,
+        "ox_started-ox_month": 7,
+        "ox_started-ox_year": 1668,
+        "people": [
+          "http://localhost/person/97a37859-a4ac-4c9a-b70a-899229792a52",
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/beef4f09-8456-495b-9aa2-a7e7320df4e1"
+        ],
+        "recipient_sort": "Kircher, Athanasius, 1601-1680",
+        "resources": [
+          "http://localhost/resource/beef4f09-8456-495b-9aa2-a7e7320df4e1"
+        ],
+        "started_date_gregorian_sort": "1668-07-11T00:00:00Z",
+        "started_date_sort": "1668-07-11T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:08.652Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/cc40a99f-8608-4d79-addf-f5b617ec46c1",
+        "uuid": "cc40a99f-8608-4d79-addf-f5b617ec46c1",
+        "uuid_related": [
+          "27cd8efe-e14a-4d2d-bbc1-8c3b3ad6b45d",
+          "97a37859-a4ac-4c9a-b70a-899229792a52",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "beef4f09-8456-495b-9aa2-a7e7320df4e1",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.8609794920197652e+18,
+        "author_sort": "Althann, Maria Eustachia von, 1632-1687",
+        "cito_Catalog": "Kircher, Athanasius",
+        "dcterms_description": "26 Sep 1671: Althann, Maria Eustachia von, 1632-1687 (Rome, Latium, Italy) to Kircher, Athanasius, 1601-1680 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000901900",
+        "dcterms_identifier-editi_": "editi_901900",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/fadc985a-d9a0-46a8-a149-8e089c1d9516",
+        "dcterms_identifier-uuid_": "uuid_fadc985a-d9a0-46a8-a149-8e089c1d9516",
+        "dcterms_language": "Italian",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/4a55aa40-4def-45e5-955a-2beef86e6023"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/ed5e0749-0c60-4bbe-9f98-0e1ccb63f5de"
+        ],
+        "id": "uuid_fadc985a-d9a0-46a8-a149-8e089c1d9516",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "manifestation-institution-place": [
+          "Archivio della Pontificia Università Gregoriana",
+          "Pontificia Università Gregoriana Archive\nArchives of the Pontifical Gregorian University",
+          "Rome",
+          "Italy"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/4a55aa40-4def-45e5-955a-2beef86e6023"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2013-12-04T17:28:22Z",
+        "ox_internalModified": "2017-03-06T18:24:41Z",
+        "ox_internalModifiedByUser": "SysAdmin",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Iva Lelkova; compiled originally for the Athanasius Kircher correspondence project, Stanford University 04 Nov 2013 10:16",
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1671,
+        "people": [
+          "http://localhost/person/ed5e0749-0c60-4bbe-9f98-0e1ccb63f5de",
+          "http://localhost/person/69d45915-85cf-4804-9c44-59667782967d"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/ea877d40-ef34-48a5-a83f-10b64cb326dc"
+        ],
+        "recipient_sort": "Kircher, Athanasius, 1601-1680",
+        "resources": [
+          "http://localhost/resource/ea877d40-ef34-48a5-a83f-10b64cb326dc"
+        ],
+        "started_date_gregorian_sort": "1671-09-26T00:00:00Z",
+        "started_date_sort": "1671-09-26T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:03.904Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/fadc985a-d9a0-46a8-a149-8e089c1d9516",
+        "uuid": "fadc985a-d9a0-46a8-a149-8e089c1d9516",
+        "uuid_related": [
+          "4a55aa40-4def-45e5-955a-2beef86e6023",
+          "ed5e0749-0c60-4bbe-9f98-0e1ccb63f5de",
+          "69d45915-85cf-4804-9c44-59667782967d",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "ea877d40-ef34-48a5-a83f-10b64cb326dc",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ]
+      },
+      {
+        "_version_": 1.8609795127071212e+18,
+        "author_sort": "Christina, Queen of Sweden, 1626-1689",
+        "cito_Catalog": "Huygens, Christiaan",
+        "dcterms_description": "1 Oct 1685: Christina, Queen of Sweden, 1626-1689 (Rome, Latium, Italy) to Huygens, Christiaan, 1629-1695 (The Hague, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000910833",
+        "dcterms_identifier-editi_": "editi_910833",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/56e98bad-e9ee-4e4f-ba7f-d0dd9132fdb5",
+        "dcterms_identifier-uuid_": "uuid_56e98bad-e9ee-4e4f-ba7f-d0dd9132fdb5",
+        "destination_sort": "The Hague, South Holland, Netherlands",
+        "frbr_creator-person": [
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "id": "uuid_56e98bad-e9ee-4e4f-ba7f-d0dd9132fdb5",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/a9b1947a-a619-46cb-a619-59009d0952f3"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/e0b46100-d5cd-44d0-b02f-4a64e277241e"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2014-11-05T14:53:48Z",
+        "ox_internalModified": "2017-02-17T16:44:00Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "ePistolarium, CKCC project, Huygens ING, The Hague, 5 November 2014",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1685,
+        "ox_urlOfTranscription": [
+          "http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg003/2439"
+        ],
+        "people": [
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397",
+          "http://localhost/person/e0b46100-d5cd-44d0-b02f-4a64e277241e"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/4734f103-12b9-4542-b1fb-b5d339c1a44d"
+        ],
+        "recipient_sort": "Huygens, Christiaan, 1629-1695",
+        "resources": [
+          "http://localhost/resource/4734f103-12b9-4542-b1fb-b5d339c1a44d"
+        ],
+        "started_date_gregorian_sort": "1685-10-01T00:00:00Z",
+        "started_date_sort": "1685-10-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:58:15.393Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/56e98bad-e9ee-4e4f-ba7f-d0dd9132fdb5",
+        "uuid": "56e98bad-e9ee-4e4f-ba7f-d0dd9132fdb5",
+        "uuid_related": [
+          "c338c97b-db98-4c0a-b511-32aee4f59397",
+          "e0b46100-d5cd-44d0-b02f-4a64e277241e",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "a9b1947a-a619-46cb-a619-59009d0952f3",
+          "4734f103-12b9-4542-b1fb-b5d339c1a44d"
+        ]
+      },
+      {
+        "_version_": 1.8609798258958008e+18,
+        "author_sort": "Carpegna Tanari, Laura, 1625-1697",
+        "cito_Catalog": "Malpighi, Marcello",
+        "dcterms_abstract": "A consulto is requested on the case of the Marchese Patrizi. [Howard B. Adelmann]",
+        "dcterms_description": "26 Feb 1686: Carpegna Tanari, Laura, 1625-1697 (Bologna, Emilia-Romagna, Italy) to Malpighi, Marcello, 1628-1694 (Corticella, Emilia-Romagna, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001026264",
+        "dcterms_identifier-editi_": "editi_1026264",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/5f23c337-3c83-44a6-92c6-acaca4f750dd",
+        "dcterms_identifier-uuid_": "uuid_5f23c337-3c83-44a6-92c6-acaca4f750dd",
+        "dcterms_language": "Italian",
+        "destination_sort": "Corticella, Emilia-Romagna, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/e45f25d4-129b-408e-b37c-1c5d97a268ae"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/bb403f38-3316-4013-8feb-1b2cf3406ea8"
+        ],
+        "id": "uuid_5f23c337-3c83-44a6-92c6-acaca4f750dd",
+        "locations": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "http://localhost/location/9d575ff5-cccc-4c35-8132-167161090ac5"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/9d575ff5-cccc-4c35-8132-167161090ac5"
+        ],
+        "mail_destination-rdf_value": "A Corticella",
+        "mail_origin-location": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5"
+        ],
+        "mail_origin-rdf_value": "Bologna",
+        "mail_recipient-person": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/e45f25d4-129b-408e-b37c-1c5d97a268ae"
+        ],
+        "object_type": "work",
+        "origin_sort": "Bologna, Emilia-Romagna, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "li 26 Feb[raio] 1686",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-07-05T15:17:23Z",
+        "ox_internalModified": "2022-07-05T16:46:57Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata compiled from 'The Correspondence of Marcello Malpighi', ed. Howard B. Adelmann, 5 vols (Ithaca and London: Cornell University Press, 1975), 5 July 2022",
+        "ox_started-ox_day": 26,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1686,
+        "people": [
+          "http://localhost/person/bb403f38-3316-4013-8feb-1b2cf3406ea8",
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/9a9a6346-31be-438a-9cb1-f75842dc271c"
+        ],
+        "recipient_sort": "Malpighi, Marcello, 1628-1694",
+        "resources": [
+          "http://localhost/resource/9a9a6346-31be-438a-9cb1-f75842dc271c"
+        ],
+        "started_date_gregorian_sort": "1686-02-26T00:00:00Z",
+        "started_date_sort": "1686-02-26T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.287Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/5f23c337-3c83-44a6-92c6-acaca4f750dd",
+        "uuid": "5f23c337-3c83-44a6-92c6-acaca4f750dd",
+        "uuid_related": [
+          "e45f25d4-129b-408e-b37c-1c5d97a268ae",
+          "bb403f38-3316-4013-8feb-1b2cf3406ea8",
+          "4426d685-6c1c-4324-901c-9cd1354292df",
+          "754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "9d575ff5-cccc-4c35-8132-167161090ac5",
+          "9a9a6346-31be-438a-9cb1-f75842dc271c"
+        ]
+      },
+      {
+        "_version_": 1.8609798259041894e+18,
+        "author_sort": "Facchinetti Pamphilj, Violante, 1649-1716",
+        "cito_Catalog": "Malpighi, Marcello",
+        "dcterms_abstract": "Princess Pamfili seeks advice on the advisability of her remaining in Meldola for the summer and on the treatment of her case. [Howard B. Adelmann]",
+        "dcterms_description": "28 May 1686: Facchinetti Pamphilj, Violante, 1649-1716 (Meldola, Emilia-Romagna, Italy) to Malpighi, Marcello, 1628-1694",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001026279",
+        "dcterms_identifier-editi_": "editi_1026279",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/85e5a846-cd30-46c8-8dd5-cd21134b9b9c",
+        "dcterms_identifier-uuid_": "uuid_85e5a846-cd30-46c8-8dd5-cd21134b9b9c",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/7c13cd1a-1fb8-4394-a3e1-acfec5b0be44"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/5f2492c1-ac99-4099-b2f0-389f25cb14b2"
+        ],
+        "id": "uuid_85e5a846-cd30-46c8-8dd5-cd21134b9b9c",
+        "locations": [
+          "http://localhost/location/f3ec6064-d08a-4e1f-842b-90340a550fc1"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/f3ec6064-d08a-4e1f-842b-90340a550fc1"
+        ],
+        "mail_origin-rdf_value": "Meldola",
+        "mail_recipient-person": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/7c13cd1a-1fb8-4394-a3e1-acfec5b0be44"
+        ],
+        "object_type": "work",
+        "origin_sort": "Meldola, Emilia-Romagna, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "28 Maggio 1686.",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-07-05T15:17:26Z",
+        "ox_internalModified": "2022-07-05T17:04:05Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata compiled from 'The Correspondence of Marcello Malpighi', ed. Howard B. Adelmann, 5 vols (Ithaca and London: Cornell University Press, 1975), 5 July 2022",
+        "ox_started-ox_day": 28,
+        "ox_started-ox_month": 5,
+        "ox_started-ox_year": 1686,
+        "people": [
+          "http://localhost/person/5f2492c1-ac99-4099-b2f0-389f25cb14b2",
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/976205a7-3d9f-45b4-9cbf-005e497d1da3"
+        ],
+        "recipient_sort": "Malpighi, Marcello, 1628-1694",
+        "resources": [
+          "http://localhost/resource/976205a7-3d9f-45b4-9cbf-005e497d1da3"
+        ],
+        "started_date_gregorian_sort": "1686-05-28T00:00:00Z",
+        "started_date_sort": "1686-05-28T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.287Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/85e5a846-cd30-46c8-8dd5-cd21134b9b9c",
+        "uuid": "85e5a846-cd30-46c8-8dd5-cd21134b9b9c",
+        "uuid_related": [
+          "7c13cd1a-1fb8-4394-a3e1-acfec5b0be44",
+          "5f2492c1-ac99-4099-b2f0-389f25cb14b2",
+          "4426d685-6c1c-4324-901c-9cd1354292df",
+          "f3ec6064-d08a-4e1f-842b-90340a550fc1",
+          "976205a7-3d9f-45b4-9cbf-005e497d1da3"
+        ]
+      },
+      {
+        "_version_": 1.8609798261306819e+18,
+        "author_sort": "Tingoli, Maria Francesca, fl.  until 1712",
+        "cito_Catalog": "Malpighi, Marcello",
+        "dcterms_abstract": "Maria Francesca Tingoli seeks advice on treatment. [Howard B. Adelmann]",
+        "dcterms_description": "10 Oct 1686: Tingoli, Maria Francesca, fl.  until 1712 (Bologna, Emilia-Romagna, Italy) to Malpighi, Marcello, 1628-1694 (Corticella, Emilia-Romagna, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001026298",
+        "dcterms_identifier-editi_": "editi_1026298",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/16ea48e1-50a6-44d7-9d4f-9e47c944f07c",
+        "dcterms_identifier-uuid_": "uuid_16ea48e1-50a6-44d7-9d4f-9e47c944f07c",
+        "dcterms_language": "Italian",
+        "destination_sort": "Corticella, Emilia-Romagna, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/a9af3e84-08dd-4eda-ad09-bb91754f0922"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/a759aad0-285a-4c39-8ce0-c60917d2cd44"
+        ],
+        "id": "uuid_16ea48e1-50a6-44d7-9d4f-9e47c944f07c",
+        "locations": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "http://localhost/location/9d575ff5-cccc-4c35-8132-167161090ac5"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/9d575ff5-cccc-4c35-8132-167161090ac5"
+        ],
+        "mail_destination-rdf_value": "Corticella",
+        "mail_origin-location": [
+          "http://localhost/location/754e28f3-9aff-4ac0-866e-b1935edf18c5"
+        ],
+        "mail_origin-rdf_value": "Bologna",
+        "mail_recipient-person": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/a9af3e84-08dd-4eda-ad09-bb91754f0922"
+        ],
+        "object_type": "work",
+        "origin_sort": "Bologna, Emilia-Romagna, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "10. Ottobre 1686",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-07-05T15:17:30Z",
+        "ox_internalModified": "2022-07-05T15:47:39Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata compiled from 'The Correspondence of Marcello Malpighi', ed. Howard B. Adelmann, 5 vols (Ithaca and London: Cornell University Press, 1975), 5 July 2022",
+        "ox_started-ox_day": 10,
+        "ox_started-ox_month": 10,
+        "ox_started-ox_year": 1686,
+        "people": [
+          "http://localhost/person/a759aad0-285a-4c39-8ce0-c60917d2cd44",
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/47ef98f6-4f8c-4d4e-ac59-54761e5c6ed5"
+        ],
+        "recipient_sort": "Malpighi, Marcello, 1628-1694",
+        "resources": [
+          "http://localhost/resource/47ef98f6-4f8c-4d4e-ac59-54761e5c6ed5"
+        ],
+        "started_date_gregorian_sort": "1686-10-10T00:00:00Z",
+        "started_date_sort": "1686-10-10T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.287Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/16ea48e1-50a6-44d7-9d4f-9e47c944f07c",
+        "uuid": "16ea48e1-50a6-44d7-9d4f-9e47c944f07c",
+        "uuid_related": [
+          "a9af3e84-08dd-4eda-ad09-bb91754f0922",
+          "a759aad0-285a-4c39-8ce0-c60917d2cd44",
+          "4426d685-6c1c-4324-901c-9cd1354292df",
+          "754e28f3-9aff-4ac0-866e-b1935edf18c5",
+          "9d575ff5-cccc-4c35-8132-167161090ac5",
+          "47ef98f6-4f8c-4d4e-ac59-54761e5c6ed5"
+        ]
+      },
+      {
+        "_version_": 1.8609796079366963e+18,
+        "author_sort": "Christina, Queen of Sweden, 1626-1689",
+        "cito_Catalog": "Bayle, Pierre",
+        "dcterms_description": "14 Dec 1686: Christina, Queen of Sweden, 1626-1689 (Rome, Latium, Italy) to Bayle, Pierre, 1647-1706 (Rotterdam, South Holland, Netherlands)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:000948504",
+        "dcterms_identifier-editi_": "editi_948504",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/7b54c7d9-0c6e-4db3-afa1-eedb048467f2",
+        "dcterms_identifier-uuid_": "uuid_7b54c7d9-0c6e-4db3-afa1-eedb048467f2",
+        "dcterms_language": "French",
+        "destination_sort": "Rotterdam, South Holland, Netherlands",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/5df94cda-8f9c-430d-bd57-244a2a9fdf54",
+          "http://localhost/manifestation/852f10db-43e8-42dd-a4f1-3980f8fc3954",
+          "http://localhost/manifestation/26cd3a40-af6d-44cd-967b-6734ba717b3f",
+          "http://localhost/manifestation/9eb04f3d-eb99-4481-909e-b5055dda1f99",
+          "http://localhost/manifestation/2010bd33-228d-432c-9cc2-aa8126f6a380",
+          "http://localhost/manifestation/5c08d4ca-f00c-4f48-8a53-6e6146153bb6",
+          "http://localhost/manifestation/e5ae7d8a-5b10-432d-bfd0-4e38d0ad0900",
+          "http://localhost/manifestation/24b0d1f4-4f33-47ce-ac7c-d1c9bbbcbccd",
+          "http://localhost/manifestation/d9137261-834f-4ebb-82f5-069971ed8201",
+          "http://localhost/manifestation/3aa500b5-9ef9-425c-9c4d-b658cf12f67b",
+          "http://localhost/manifestation/d5879b50-3bf3-4f76-bb60-a1d5b5b0b2c9",
+          "http://localhost/manifestation/b336837a-1d76-41de-9b6e-5c46cbd08cd3"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397"
+        ],
+        "id": "uuid_7b54c7d9-0c6e-4db3-afa1-eedb048467f2",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7"
+        ],
+        "mail_destination-indef_inferred": true,
+        "mail_destination-location": [
+          "http://localhost/location/6674b831-b714-4e11-b58b-1ad4430f8ac7"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/69457caf-f368-44e6-9fd0-ccb72419c489"
+        ],
+        "manifestation-institution-place": [
+          "Bibliothèque municipale de Lyon",
+          "Bibliotheque municipale de Lyon\nBibliothèque de la Ville\nBML\nLa Bibliothèque municipale de Lyon",
+          "Lyon",
+          "France",
+          "British Library, Manuscript Collections",
+          "BL\nBritish Museum\nB.M.\nThe British Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/5df94cda-8f9c-430d-bd57-244a2a9fdf54",
+          "http://localhost/manifestation/852f10db-43e8-42dd-a4f1-3980f8fc3954",
+          "http://localhost/manifestation/26cd3a40-af6d-44cd-967b-6734ba717b3f",
+          "http://localhost/manifestation/9eb04f3d-eb99-4481-909e-b5055dda1f99",
+          "http://localhost/manifestation/2010bd33-228d-432c-9cc2-aa8126f6a380",
+          "http://localhost/manifestation/5c08d4ca-f00c-4f48-8a53-6e6146153bb6",
+          "http://localhost/manifestation/e5ae7d8a-5b10-432d-bfd0-4e38d0ad0900",
+          "http://localhost/manifestation/24b0d1f4-4f33-47ce-ac7c-d1c9bbbcbccd",
+          "http://localhost/manifestation/d9137261-834f-4ebb-82f5-069971ed8201",
+          "http://localhost/manifestation/3aa500b5-9ef9-425c-9c4d-b658cf12f67b",
+          "http://localhost/manifestation/d5879b50-3bf3-4f76-bb60-a1d5b5b0b2c9",
+          "http://localhost/manifestation/b336837a-1d76-41de-9b6e-5c46cbd08cd3"
+        ],
+        "object_type": "work",
+        "origin_sort": "Rome, Latium, Italy",
+        "ox_dateIsRange": false,
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2016-04-09T23:20:25Z",
+        "ox_internalModified": "2022-10-09T21:40:06Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Unknown",
+        "ox_sourceOfData": "'Correspondance de Pierre Bayle', ed. †E. Labrousse, Antony McKenna, et al., 15 vols (Oxford: Voltaire Foundation, 1999–2016), 9 April 2016",
+        "ox_started-ox_day": 14,
+        "ox_started-ox_month": 12,
+        "ox_started-ox_year": 1686,
+        "people": [
+          "http://localhost/person/c338c97b-db98-4c0a-b511-32aee4f59397",
+          "http://localhost/person/69457caf-f368-44e6-9fd0-ccb72419c489"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/e1783480-001b-4d5a-bd47-cfe3092fa2b7"
+        ],
+        "recipient_sort": "Bayle, Pierre, 1647-1706",
+        "resources": [
+          "http://localhost/resource/e1783480-001b-4d5a-bd47-cfe3092fa2b7"
+        ],
+        "started_date_gregorian_sort": "1686-12-14T00:00:00Z",
+        "started_date_sort": "1686-12-14T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T06:59:02.339Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/7b54c7d9-0c6e-4db3-afa1-eedb048467f2",
+        "uuid": "7b54c7d9-0c6e-4db3-afa1-eedb048467f2",
+        "uuid_related": [
+          "5df94cda-8f9c-430d-bd57-244a2a9fdf54",
+          "852f10db-43e8-42dd-a4f1-3980f8fc3954",
+          "c338c97b-db98-4c0a-b511-32aee4f59397",
+          "69457caf-f368-44e6-9fd0-ccb72419c489",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "6674b831-b714-4e11-b58b-1ad4430f8ac7",
+          "e1783480-001b-4d5a-bd47-cfe3092fa2b7",
+          "26cd3a40-af6d-44cd-967b-6734ba717b3f",
+          "9eb04f3d-eb99-4481-909e-b5055dda1f99",
+          "2010bd33-228d-432c-9cc2-aa8126f6a380",
+          "5c08d4ca-f00c-4f48-8a53-6e6146153bb6",
+          "e5ae7d8a-5b10-432d-bfd0-4e38d0ad0900",
+          "24b0d1f4-4f33-47ce-ac7c-d1c9bbbcbccd",
+          "d9137261-834f-4ebb-82f5-069971ed8201",
+          "3aa500b5-9ef9-425c-9c4d-b658cf12f67b",
+          "d5879b50-3bf3-4f76-bb60-a1d5b5b0b2c9",
+          "b336837a-1d76-41de-9b6e-5c46cbd08cd3"
+        ]
+      },
+      {
+        "_version_": 1.8609798264410604e+18,
+        "author_sort": "Bonelli, Flavia, d.1691",
+        "cito_Catalog": "Malpighi, Marcello",
+        "dcterms_abstract": "The Princess Bonelli asks Malpighi's advice on her case. [Howard B. Adelmann]",
+        "dcterms_description": "1 Feb 1689: Bonelli, Flavia, d.1691 (Padua, Veneto, Italy) to Malpighi, Marcello, 1628-1694",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001026447",
+        "dcterms_identifier-editi_": "editi_1026447",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/f67a6b4f-f744-4fdb-8c8a-6ec4f912f17e",
+        "dcterms_identifier-uuid_": "uuid_f67a6b4f-f744-4fdb-8c8a-6ec4f912f17e",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/75800144-0d29-45dd-bf03-c8a52b45a579"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/57f62df8-f10d-4c3b-ac39-93bd50b8e0bd"
+        ],
+        "id": "uuid_f67a6b4f-f744-4fdb-8c8a-6ec4f912f17e",
+        "locations": [
+          "http://localhost/location/f890d861-0f88-4b0e-a03d-62b589cd07cb"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/f890d861-0f88-4b0e-a03d-62b589cd07cb"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/75800144-0d29-45dd-bf03-c8a52b45a579"
+        ],
+        "object_type": "work",
+        "origin_sort": "Padua, Veneto, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "il primo Febraro 1689",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-08-08T11:54:13Z",
+        "ox_internalModified": "2022-08-08T11:54:13Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata compiled from 'The Correspondence of Marcello Malpighi', ed. Howard B. Adelmann, 5 vols (Ithaca and London: Cornell University Press, 1975), 8 August 2022",
+        "ox_started-ox_day": 1,
+        "ox_started-ox_month": 2,
+        "ox_started-ox_year": 1689,
+        "people": [
+          "http://localhost/person/57f62df8-f10d-4c3b-ac39-93bd50b8e0bd",
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/11e21800-cdb7-499c-904c-169eb8a8edb9"
+        ],
+        "recipient_sort": "Malpighi, Marcello, 1628-1694",
+        "resources": [
+          "http://localhost/resource/11e21800-cdb7-499c-904c-169eb8a8edb9"
+        ],
+        "started_date_gregorian_sort": "1689-02-01T00:00:00Z",
+        "started_date_sort": "1689-02-01T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.287Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/f67a6b4f-f744-4fdb-8c8a-6ec4f912f17e",
+        "uuid": "f67a6b4f-f744-4fdb-8c8a-6ec4f912f17e",
+        "uuid_related": [
+          "75800144-0d29-45dd-bf03-c8a52b45a579",
+          "57f62df8-f10d-4c3b-ac39-93bd50b8e0bd",
+          "4426d685-6c1c-4324-901c-9cd1354292df",
+          "f890d861-0f88-4b0e-a03d-62b589cd07cb",
+          "11e21800-cdb7-499c-904c-169eb8a8edb9"
+        ]
+      },
+      {
+        "_version_": 1.8609798269821256e+18,
+        "author_sort": "Pico della Mirandola, Brigida, 1633-1720",
+        "cito_Catalog": "Malpighi, Marcello",
+        "dcterms_abstract": "The princess Brigida seeks Malpighi's assistance in securing from the pope permission for her niece, who is a nun, to wear a lighter cape. See also Adelmann (1966, I, 628). [Howard B. Adelmann]",
+        "dcterms_description": "22 Jan 1692: Pico della Mirandola, Brigida, 1633-1720 (Mirandola, Emilia-Romagna, Italy) to Malpighi, Marcello, 1628-1694",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001026644",
+        "dcterms_identifier-editi_": "editi_1026644",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/fe13284f-0a6f-47fc-88b4-8a0e42d288aa",
+        "dcterms_identifier-uuid_": "uuid_fe13284f-0a6f-47fc-88b4-8a0e42d288aa",
+        "dcterms_language": "Italian",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/79def5bb-c54b-4901-a6df-457773800764"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/034439a8-373a-4243-a7c4-973b93f551e5"
+        ],
+        "id": "uuid_fe13284f-0a6f-47fc-88b4-8a0e42d288aa",
+        "locations": [
+          "http://localhost/location/8135c5b8-d40e-49da-b9b9-5eee05d83f59"
+        ],
+        "mail_origin-location": [
+          "http://localhost/location/8135c5b8-d40e-49da-b9b9-5eee05d83f59"
+        ],
+        "mail_recipient-person": [
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/79def5bb-c54b-4901-a6df-457773800764"
+        ],
+        "object_type": "work",
+        "origin_sort": "Mirandola, Emilia-Romagna, Italy",
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "22 Gennaio 1692",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2022-08-08T11:55:07Z",
+        "ox_internalModified": "2022-08-08T11:55:07Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Gregorian",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata compiled from 'The Correspondence of Marcello Malpighi', ed. Howard B. Adelmann, 5 vols (Ithaca and London: Cornell University Press, 1975), 8 August 2022",
+        "ox_started-ox_day": 22,
+        "ox_started-ox_month": 1,
+        "ox_started-ox_year": 1692,
+        "people": [
+          "http://localhost/person/034439a8-373a-4243-a7c4-973b93f551e5",
+          "http://localhost/person/4426d685-6c1c-4324-901c-9cd1354292df"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "rdfs_seeAlso-resource": [
+          "http://localhost/resource/2ac3c9f9-c6cd-4b07-a22d-9b0380c995c0"
+        ],
+        "recipient_sort": "Malpighi, Marcello, 1628-1694",
+        "resources": [
+          "http://localhost/resource/2ac3c9f9-c6cd-4b07-a22d-9b0380c995c0"
+        ],
+        "started_date_gregorian_sort": "1692-01-22T00:00:00Z",
+        "started_date_sort": "1692-01-22T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:00:49.287Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/fe13284f-0a6f-47fc-88b4-8a0e42d288aa",
+        "uuid": "fe13284f-0a6f-47fc-88b4-8a0e42d288aa",
+        "uuid_related": [
+          "79def5bb-c54b-4901-a6df-457773800764",
+          "034439a8-373a-4243-a7c4-973b93f551e5",
+          "4426d685-6c1c-4324-901c-9cd1354292df",
+          "8135c5b8-d40e-49da-b9b9-5eee05d83f59",
+          "2ac3c9f9-c6cd-4b07-a22d-9b0380c995c0"
+        ]
+      },
+      {
+        "_version_": 1.860979920138666e+18,
+        "author_sort": "Dryden, Elizabeth (Lady), 1638-1714; Dryden, John, 1631-1700",
+        "cito_Catalog": "Dryden, John",
+        "comments": [
+          "http://localhost/comment/58fd4cb9-6e79-4efc-9ff3-94bbaf43b4c6",
+          "http://localhost/comment/809989df-50bc-4aaf-8704-ef56157bf30d"
+        ],
+        "dcterms_description": "3 Sep 1697: Dryden, John, 1631-1700 ~ Dryden, Elizabeth (Lady), 1638-1714 to Dryden, Charles, 1666-1704 ~ Dryden, Erasmus-Henry (Sir), 1669-1710 ~ Dryden, John (junior), 1668-1701 (Rome, Latium, Italy)",
+        "dcterms_identifier-edit_": "edit_cofk_union_work-cofk_union_work-iwork_id:001056480",
+        "dcterms_identifier-editi_": "editi_1056480",
+        "dcterms_identifier-uri_": "uri_http://localhost/work/d5e548c9-d9ed-429e-b26b-9cd1cad47def",
+        "dcterms_identifier-uuid_": "uuid_d5e548c9-d9ed-429e-b26b-9cd1cad47def",
+        "dcterms_language": "English",
+        "destination_sort": "Rome, Latium, Italy",
+        "frbr_Manifestation-manifestation": [
+          "http://localhost/manifestation/ad9505cf-ef0c-486f-9a74-66bbb2a5b448",
+          "http://localhost/manifestation/88989180-837e-41a5-9b78-04daa68ee98c"
+        ],
+        "frbr_creator-person": [
+          "http://localhost/person/a2c88063-0ab7-480d-af8d-2047df1967c9",
+          "http://localhost/person/20fa3a3d-2bfc-4318-aff0-0c660ef70130"
+        ],
+        "id": "uuid_d5e548c9-d9ed-429e-b26b-9cd1cad47def",
+        "locations": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-location": [
+          "http://localhost/location/ae5440ad-0030-41ed-b2e3-c74d8b57d854"
+        ],
+        "mail_destination-rdf_value": "In Roma",
+        "mail_recipient-person": [
+          "http://localhost/person/0bdfd170-8297-4af2-91bf-b5bf0009c067",
+          "http://localhost/person/438febf3-3dd5-4451-883d-56a2f30b4d19",
+          "http://localhost/person/ccbc2e77-01e2-4103-abfb-a8f79f8fc3d1"
+        ],
+        "manifestation-institution-place": [
+          "Lambeth Palace Library",
+          "London",
+          "England, United Kingdom"
+        ],
+        "manifestations": [
+          "http://localhost/manifestation/ad9505cf-ef0c-486f-9a74-66bbb2a5b448",
+          "http://localhost/manifestation/88989180-837e-41a5-9b78-04daa68ee98c"
+        ],
+        "object_type": "work",
+        "ox_addresseeAnnotate-comment": [
+          "http://localhost/comment/809989df-50bc-4aaf-8704-ef56157bf30d"
+        ],
+        "ox_dateAnnotate-comment": [
+          "http://localhost/comment/58fd4cb9-6e79-4efc-9ff3-94bbaf43b4c6"
+        ],
+        "ox_dateIsRange": false,
+        "ox_dateMarked": "[Sept. the] 3d, our stile",
+        "ox_internalAdded": "2026-03-29T06:56:37Z",
+        "ox_internalCreated": "2024-10-02T21:12:52Z",
+        "ox_internalModified": "2024-10-02T21:12:52Z",
+        "ox_internalModifiedByUser": "Miranda Lewis",
+        "ox_isTranslation": false,
+        "ox_originalCalendar": "Julian (start of year: 01 Jan)",
+        "ox_sourceOfData": "Cultures of Knowledge, based on metadata collated from 'The Correspondence of John Dryden', ed. S. Bernard and J. McTague (Manchester, 2022), 2 October 2024",
+        "ox_started-indef_inferred": true,
+        "ox_started-ox_day": 3,
+        "ox_started-ox_month": 9,
+        "ox_started-ox_year": 1697,
+        "people": [
+          "http://localhost/person/a2c88063-0ab7-480d-af8d-2047df1967c9",
+          "http://localhost/person/20fa3a3d-2bfc-4318-aff0-0c660ef70130",
+          "http://localhost/person/0bdfd170-8297-4af2-91bf-b5bf0009c067",
+          "http://localhost/person/438febf3-3dd5-4451-883d-56a2f30b4d19",
+          "http://localhost/person/ccbc2e77-01e2-4103-abfb-a8f79f8fc3d1"
+        ],
+        "rdf_type": "http://purl.org/net/biblio#Letter",
+        "recipient_sort": "Dryden, Charles, 1666-1704; Dryden, Erasmus-Henry (Sir), 1669-1710; Dryden, John (junior), 1668-1701",
+        "started_date_gregorian_sort": "1697-09-13T00:00:00Z",
+        "started_date_sort": "1697-09-03T00:00:00Z",
+        "timestamp_indexed": "2026-03-29T07:01:31.792Z",
+        "uri": "//emlo.bodleian.ox.ac.uk/d5e548c9-d9ed-429e-b26b-9cd1cad47def",
+        "uuid": "d5e548c9-d9ed-429e-b26b-9cd1cad47def",
+        "uuid_related": [
+          "ad9505cf-ef0c-486f-9a74-66bbb2a5b448",
+          "88989180-837e-41a5-9b78-04daa68ee98c",
+          "a2c88063-0ab7-480d-af8d-2047df1967c9",
+          "20fa3a3d-2bfc-4318-aff0-0c660ef70130",
+          "0bdfd170-8297-4af2-91bf-b5bf0009c067",
+          "438febf3-3dd5-4451-883d-56a2f30b4d19",
+          "ccbc2e77-01e2-4103-abfb-a8f79f8fc3d1",
+          "ae5440ad-0030-41ed-b2e3-c74d8b57d854",
+          "58fd4cb9-6e79-4efc-9ff3-94bbaf43b4c6",
+          "809989df-50bc-4aaf-8704-ef56157bf30d"
+        ]
+      }
+    ],
+    "numFound": 30,
+    "start": 0
+  },
+  "responseHeader": {
+    "QTime": 1,
+    "params": {
+      "f.cito_Catalog.facet.limit": "10",
+      "f.destination_sort.facet.limit": "10",
+      "f.frbr_creator-person.facet.limit": "10",
+      "f.mail_recipient-person.facet.limit": "10",
+      "f.origin_sort.facet.limit": "10",
+      "f.ox_started-ox_year.facet.limit": "10",
+      "facet": "true",
+      "facet.field": [
+        "frbr_creator-person",
+        "mail_recipient-person",
+        "origin_sort",
+        "destination_sort",
+        "cito_Catalog",
+        "ox_started-ox_year"
+      ],
+      "hl": "on",
+      "hl.fl": [
+        "dcterms_abstract",
+        "ox_keywords",
+        "ox_incipit",
+        "ox_excipit",
+        "mail_postScript",
+        "ox_transcription"
+      ],
+      "hl.requireFieldMatch": "true",
+      "hl.simple.post": "\u003C/span\u003E",
+      "hl.simple.pre": "\u003Cspan class=\"highlight\"\u003E",
+      "indent": "on",
+      "q": "started_date_sort:[1600-01-01T00:00:00Z TO 1699-12-31T23:59:59Z] AND (person-author-gender:(female) OR person-recipient-gender:(female) OR person-mentioned-gender:(female)) AND person-author-gender:(female) AND person-recipient-gender:(male) AND (location-origin:(italy) OR location-destination:(italy) OR location-mentioned:(italy))",
+      "rows": "50",
+      "sort": "started_date_sort asc",
+      "start": "0",
+      "wt": "json"
+    },
+    "status": 0
+  }
+}
